@@ -8,7 +8,7 @@ Note that the use of Selenium was crucial because, in the case of Politico, the 
 
 I make no warranty as to the accuracy of the data, either of the source data itself or of my scraping (although I did my best and tried to validate the completeness of my results). Please contact me if you find any issues not listed here.
 
-The following are known issues with the data (some are due to Politico just not having the data; CNN, in some cases, does, but I'm too tired to build a new scraper to resolve these few problems):
+The following are known issues with the data as present on Politico (either the data just does not exist/is not reported, or it exists and for whatever reason, Politico does not have it):
 
 * In South Dakota, the Presidential and Senate primaries have a "Shannon County" while the general elections have an "Oglala Lakota County"
 * Missing Kansas Presidential Primary by county
