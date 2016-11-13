@@ -2,7 +2,7 @@
 
 These are csvs of results scraped from Politico and (for exit polls) CNN websites.
 
-For more about the ethics of scraping, see this Quora post. I used Selenium, which automated the Google Chrome browser, so I put no more load on their servers than a normal visitor. The only thing the program did faster than a human is parse the results.
+For more about the ethics of scraping, see [this Quora post](https://www.quora.com/What-is-the-legality-of-web-scraping). I used Selenium, which automated the Google Chrome browser, so I put no more load on their servers than a normal visitor. The only thing the program did faster than a human is parse the results.
 
 Note that the use of Selenium was crucial because, in the case of Politico, the Outer HTML only loaded completely when the browser reached the bottom of the page, so a scraper that could "tell" the website it was really a browser and had scrolled all the way down was necessary.
 
