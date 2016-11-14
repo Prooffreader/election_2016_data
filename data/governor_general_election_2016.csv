@@ -1,0 +1,44 @@
+geo_name,individual_party,is_incumbent,is_winner,name,rank,reporting_pct,state,vote_pct,votes
+Overall 2016 Delaware Governor Election Results,D,False,True,J. Carney,1,100.0,Delaware,58.3,248402
+Overall 2016 Delaware Governor Election Results,R,False,False,C. Bonini,2,100.0,Delaware,39.2,166849
+Overall 2016 Delaware Governor Election Results,G,False,False,A. Groff,3,100.0,Delaware,1.4,5951
+Overall 2016 Delaware Governor Election Results,L,False,False,S. Goward,4,100.0,Delaware,1.1,4577
+Overall 2016 Indiana Governor Election Results,R,False,True,E. Holcomb,1,99.9,Indiana,51.4,1396437
+Overall 2016 Indiana Governor Election Results,D,False,False,J. Gregg,2,99.9,Indiana,45.4,1234543
+Overall 2016 Indiana Governor Election Results,L,False,False,R. Bell,3,99.9,Indiana,3.2,86499
+Overall 2016 Missouri Governor Election Results,R,False,True,E. Greitens,1,99.8,Missouri,51.3,1424730
+Overall 2016 Missouri Governor Election Results,D,False,False,C. Koster,2,99.8,Missouri,45.4,1261110
+Overall 2016 Missouri Governor Election Results,L,False,False,C. Spragins,3,99.8,Missouri,1.5,40718
+Overall 2016 Missouri Governor Election Results,I,False,False,L. Turilli,4,99.8,Missouri,1.1,29774
+Overall 2016 Missouri Governor Election Results,G,False,False,D. Fitz,5,99.8,Missouri,0.7,20785
+Overall 2016 Montana Governor Election Results,D,True,True,S. Bullock,1,100.0,Montana,50.2,250846
+Overall 2016 Montana Governor Election Results,R,False,False,G. Gianforte,2,100.0,Montana,46.4,232080
+Overall 2016 Montana Governor Election Results,L,False,False,T. Dunlap,3,100.0,Montana,3.4,16792
+Overall 2016 New Hampshire Governor Election Results,R,False,True,C. Sununu,1,100.0,New Hampshire,49.0,353572
+Overall 2016 New Hampshire Governor Election Results,D,False,False,C. Van Ostern,2,100.0,New Hampshire,46.7,337335
+Overall 2016 New Hampshire Governor Election Results,L,False,False,M. Abramson,3,100.0,New Hampshire,4.3,31099
+Overall 2016 North Carolina Governor Election Results,D,False,,R. Cooper,1,100.0,North Carolina,49.0,2281155
+Overall 2016 North Carolina Governor Election Results,R,True,,P. McCrory,2,100.0,North Carolina,48.9,2276383
+Overall 2016 North Carolina Governor Election Results,L,False,,L. Cecil,3,100.0,North Carolina,2.2,101028
+Overall 2016 North Dakota Governor Election Results,R,False,True,D. Burgum,1,100.0,North Dakota,76.7,259067
+Overall 2016 North Dakota Governor Election Results,D,False,False,M. Nelson,2,100.0,North Dakota,19.4,65692
+Overall 2016 North Dakota Governor Election Results,L,False,False,M. Riske,3,100.0,North Dakota,3.9,13191
+Overall 2016 Oregon Governor Election Results,D,True,True,K. Brown,1,99.1,Oregon,50.5,922847
+Overall 2016 Oregon Governor Election Results,R,False,False,B. Pierce,2,99.1,Oregon,43.8,800898
+Overall 2016 Oregon Governor Election Results,I,False,False,C. Thomason,3,99.1,Oregon,2.4,43756
+Overall 2016 Oregon Governor Election Results,L,False,False,J. Foster,4,99.1,Oregon,2.2,40957
+Overall 2016 Oregon Governor Election Results,C,False,False,A. Auer,5,99.1,Oregon,1.0,18001
+Overall 2016 Utah Governor Election Results,R,True,True,G. Herbert,1,81.6,Utah,66.9,564553
+Overall 2016 Utah Governor Election Results,D,False,False,M. Weinholtz,2,81.6,Utah,28.7,242124
+Overall 2016 Utah Governor Election Results,L,False,False,B. Kamerath,3,81.6,Utah,2.9,24740
+Overall 2016 Utah Governor Election Results,I,False,False,D. Schanze,4,81.6,Utah,1.5,12850
+Overall 2016 Vermont Governor Election Results,R,False,True,P. Scott,1,100.0,Vermont,52.9,166219
+Overall 2016 Vermont Governor Election Results,D,False,False,S. Minter,2,100.0,Vermont,44.2,138881
+Overall 2016 Vermont Governor Election Results,L,False,False,B. Lee,3,100.0,Vermont,2.8,8873
+Overall 2016 Washington Governor Election Results,D,True,True,J. Inslee,1,82.1,Washington,55.0,1373878
+Overall 2016 Washington Governor Election Results,R,False,False,B. Bryant,2,82.1,Washington,45.0,1123795
+Overall 2016 West Virginia Governor Election Results,D,False,True,J. Justice,1,100.0,West Virginia,49.1,348071
+Overall 2016 West Virginia Governor Election Results,R,False,False,B. Cole,2,100.0,West Virginia,42.3,300141
+Overall 2016 West Virginia Governor Election Results,M,False,False,C. Pritt,3,100.0,West Virginia,5.9,41706
+Overall 2016 West Virginia Governor Election Results,L,False,False,D. Moran,4,100.0,West Virginia,2.1,15205
+Overall 2016 West Virginia Governor Election Results,C,False,False,P. Hudok,5,100.0,West Virginia,0.6,4007

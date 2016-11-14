@@ -1,0 +1,2212 @@
+fips,geo_name,individual_party,is_incumbent,name,rank,reporting_pct,state,vote_pct,votes
+10001,Kent County,D,False,J. Carney,1,100.0,Delaware,49.7,35954
+10001,Kent County,R,False,C. Bonini,2,100.0,Delaware,48.1,34777
+10001,Kent County,G,False,A. Groff,3,100.0,Delaware,1.2,835
+10001,Kent County,L,False,S. Goward,4,100.0,Delaware,1.1,805
+10003,New Castle County,D,False,J. Carney,1,100.0,Delaware,66.2,165973
+10003,New Castle County,R,False,C. Bonini,2,100.0,Delaware,31.1,77837
+10003,New Castle County,G,False,A. Groff,3,100.0,Delaware,1.5,3884
+10003,New Castle County,L,False,S. Goward,4,100.0,Delaware,1.2,2978
+10005,Sussex County,R,False,C. Bonini,1,100.0,Delaware,52.8,54235
+10005,Sussex County,D,False,J. Carney,2,100.0,Delaware,45.2,46475
+10005,Sussex County,G,False,A. Groff,3,100.0,Delaware,1.2,1232
+10005,Sussex County,L,False,S. Goward,4,100.0,Delaware,0.8,794
+18001,Adams County,R,False,E. Holcomb,1,100.0,Indiana,64.4,8403
+18001,Adams County,D,False,J. Gregg,2,100.0,Indiana,32.7,4271
+18001,Adams County,L,False,R. Bell,3,100.0,Indiana,2.8,370
+18003,Allen County,R,False,E. Holcomb,1,100.0,Indiana,54.8,80334
+18003,Allen County,D,False,J. Gregg,2,100.0,Indiana,42.2,61823
+18003,Allen County,L,False,R. Bell,3,100.0,Indiana,3.0,4465
+18005,Bartholomew County,R,False,E. Holcomb,1,100.0,Indiana,59.5,19060
+18005,Bartholomew County,D,False,J. Gregg,2,100.0,Indiana,37.0,11869
+18005,Bartholomew County,L,False,R. Bell,3,100.0,Indiana,3.5,1122
+18007,Benton County,R,False,E. Holcomb,1,100.0,Indiana,63.2,2318
+18007,Benton County,D,False,J. Gregg,2,100.0,Indiana,32.7,1201
+18007,Benton County,L,False,R. Bell,3,100.0,Indiana,4.1,150
+18009,Blackford County,R,False,E. Holcomb,1,100.0,Indiana,56.8,2719
+18009,Blackford County,D,False,J. Gregg,2,100.0,Indiana,38.8,1856
+18009,Blackford County,L,False,R. Bell,3,100.0,Indiana,4.4,213
+18011,Boone County,R,False,E. Holcomb,1,100.0,Indiana,59.9,19269
+18011,Boone County,D,False,J. Gregg,2,100.0,Indiana,36.9,11868
+18011,Boone County,L,False,R. Bell,3,100.0,Indiana,3.1,1009
+18013,Brown County,R,False,E. Holcomb,1,100.0,Indiana,56.4,4487
+18013,Brown County,D,False,J. Gregg,2,100.0,Indiana,40.2,3201
+18013,Brown County,L,False,R. Bell,3,100.0,Indiana,3.4,272
+18015,Carroll County,R,False,E. Holcomb,1,100.0,Indiana,62.2,5381
+18015,Carroll County,D,False,J. Gregg,2,100.0,Indiana,33.8,2922
+18015,Carroll County,L,False,R. Bell,3,100.0,Indiana,4.1,353
+18017,Cass County,R,False,E. Holcomb,1,100.0,Indiana,56.6,8055
+18017,Cass County,D,False,J. Gregg,2,100.0,Indiana,39.8,5661
+18017,Cass County,L,False,R. Bell,3,100.0,Indiana,3.6,511
+18019,Clark County,R,False,E. Holcomb,1,100.0,Indiana,56.5,28420
+18019,Clark County,D,False,J. Gregg,2,100.0,Indiana,40.3,20273
+18019,Clark County,L,False,R. Bell,3,100.0,Indiana,3.2,1597
+18021,Clay County,R,False,E. Holcomb,1,100.0,Indiana,58.4,6457
+18021,Clay County,D,False,J. Gregg,2,100.0,Indiana,38.5,4260
+18021,Clay County,L,False,R. Bell,3,100.0,Indiana,3.0,337
+18023,Clinton County,R,False,E. Holcomb,1,100.0,Indiana,61.1,7125
+18023,Clinton County,D,False,J. Gregg,2,100.0,Indiana,35.3,4120
+18023,Clinton County,L,False,R. Bell,3,100.0,Indiana,3.6,423
+18025,Crawford County,R,False,E. Holcomb,1,100.0,Indiana,53.4,2379
+18025,Crawford County,D,False,J. Gregg,2,100.0,Indiana,43.1,1924
+18025,Crawford County,L,False,R. Bell,3,100.0,Indiana,3.5,156
+18027,Daviess County,R,False,E. Holcomb,1,100.0,Indiana,60.2,6460
+18027,Daviess County,D,False,J. Gregg,2,100.0,Indiana,37.7,4049
+18027,Daviess County,L,False,R. Bell,3,100.0,Indiana,2.0,217
+18029,Dearborn County,R,False,E. Holcomb,1,100.0,Indiana,71.5,16604
+18029,Dearborn County,D,False,J. Gregg,2,100.0,Indiana,25.6,5936
+18029,Dearborn County,L,False,R. Bell,3,100.0,Indiana,2.9,669
+18031,Decatur County,R,False,E. Holcomb,1,100.0,Indiana,66.8,7230
+18031,Decatur County,D,False,J. Gregg,2,100.0,Indiana,30.4,3291
+18031,Decatur County,L,False,R. Bell,3,100.0,Indiana,2.9,310
+18033,DeKalb County,R,False,E. Holcomb,1,100.0,Indiana,63.4,10501
+18033,DeKalb County,D,False,J. Gregg,2,100.0,Indiana,32.2,5339
+18033,DeKalb County,L,False,R. Bell,3,100.0,Indiana,4.3,718
+18035,Delaware County,D,False,J. Gregg,1,100.0,Indiana,49.7,22136
+18035,Delaware County,R,False,E. Holcomb,2,100.0,Indiana,46.6,20736
+18035,Delaware County,L,False,R. Bell,3,100.0,Indiana,3.7,1645
+18037,Dubois County,R,False,E. Holcomb,1,100.0,Indiana,55.5,10821
+18037,Dubois County,D,False,J. Gregg,2,100.0,Indiana,41.9,8171
+18037,Dubois County,L,False,R. Bell,3,100.0,Indiana,2.6,499
+18039,Elkhart County,R,False,E. Holcomb,1,100.0,Indiana,61.0,40107
+18039,Elkhart County,D,False,J. Gregg,2,100.0,Indiana,36.1,23697
+18039,Elkhart County,L,False,R. Bell,3,100.0,Indiana,2.9,1925
+18041,Fayette County,R,False,E. Holcomb,1,100.0,Indiana,59.0,5485
+18041,Fayette County,D,False,J. Gregg,2,100.0,Indiana,36.2,3369
+18041,Fayette County,L,False,R. Bell,3,100.0,Indiana,4.7,441
+18043,Floyd County,R,False,E. Holcomb,1,100.0,Indiana,56.2,20775
+18043,Floyd County,D,False,J. Gregg,2,100.0,Indiana,41.0,15171
+18043,Floyd County,L,False,R. Bell,3,100.0,Indiana,2.8,1042
+18045,Fountain County,R,False,E. Holcomb,1,100.0,Indiana,64.1,4791
+18045,Fountain County,D,False,J. Gregg,2,100.0,Indiana,32.2,2404
+18045,Fountain County,L,False,R. Bell,3,100.0,Indiana,3.7,277
+18047,Franklin County,R,False,E. Holcomb,1,100.0,Indiana,72.5,7791
+18047,Franklin County,D,False,J. Gregg,2,100.0,Indiana,25.1,2695
+18047,Franklin County,L,False,R. Bell,3,100.0,Indiana,2.4,254
+18049,Fulton County,R,False,E. Holcomb,1,100.0,Indiana,61.1,5142
+18049,Fulton County,D,False,J. Gregg,2,100.0,Indiana,35.4,2977
+18049,Fulton County,L,False,R. Bell,3,100.0,Indiana,3.5,291
+18051,Gibson County,R,False,E. Holcomb,1,100.0,Indiana,59.3,9201
+18051,Gibson County,D,False,J. Gregg,2,100.0,Indiana,38.5,5968
+18051,Gibson County,L,False,R. Bell,3,100.0,Indiana,2.2,344
+18053,Grant County,R,False,E. Holcomb,1,100.0,Indiana,59.5,14929
+18053,Grant County,D,False,J. Gregg,2,100.0,Indiana,37.0,9277
+18053,Grant County,L,False,R. Bell,3,100.0,Indiana,3.5,878
+18055,Greene County,R,False,E. Holcomb,1,100.0,Indiana,49.7,6833
+18055,Greene County,D,False,J. Gregg,2,100.0,Indiana,48.1,6610
+18055,Greene County,L,False,R. Bell,3,100.0,Indiana,2.2,309
+18057,Hamilton County,R,False,E. Holcomb,1,100.0,Indiana,58.4,90266
+18057,Hamilton County,D,False,J. Gregg,2,100.0,Indiana,38.9,60130
+18057,Hamilton County,L,False,R. Bell,3,100.0,Indiana,2.7,4147
+18059,Hancock County,R,False,E. Holcomb,1,100.0,Indiana,62.5,22673
+18059,Hancock County,D,False,J. Gregg,2,100.0,Indiana,34.0,12346
+18059,Hancock County,L,False,R. Bell,3,100.0,Indiana,3.5,1271
+18061,Harrison County,R,False,E. Holcomb,1,100.0,Indiana,63.5,11680
+18061,Harrison County,D,False,J. Gregg,2,100.0,Indiana,34.2,6297
+18061,Harrison County,L,False,R. Bell,3,100.0,Indiana,2.3,417
+18063,Hendricks County,R,False,E. Holcomb,1,100.0,Indiana,60.6,45198
+18063,Hendricks County,D,False,J. Gregg,2,100.0,Indiana,36.4,27175
+18063,Hendricks County,L,False,R. Bell,3,100.0,Indiana,3.0,2226
+18065,Henry County,R,False,E. Holcomb,1,100.0,Indiana,53.6,10769
+18065,Henry County,D,False,J. Gregg,2,100.0,Indiana,37.6,7551
+18065,Henry County,L,False,R. Bell,3,100.0,Indiana,8.9,1786
+18067,Howard County,R,False,E. Holcomb,1,100.0,Indiana,53.8,19903
+18067,Howard County,D,False,J. Gregg,2,100.0,Indiana,42.7,15812
+18067,Howard County,L,False,R. Bell,3,100.0,Indiana,3.5,1290
+18069,Huntington County,R,False,E. Holcomb,1,100.0,Indiana,64.2,10092
+18069,Huntington County,D,False,J. Gregg,2,100.0,Indiana,31.4,4941
+18069,Huntington County,L,False,R. Bell,3,100.0,Indiana,4.3,679
+18071,Jackson County,R,False,E. Holcomb,1,100.0,Indiana,65.1,11319
+18071,Jackson County,D,False,J. Gregg,2,100.0,Indiana,32.3,5613
+18071,Jackson County,L,False,R. Bell,3,100.0,Indiana,2.7,466
+18073,Jasper County,R,False,E. Holcomb,1,100.0,Indiana,61.3,8086
+18073,Jasper County,D,False,J. Gregg,2,100.0,Indiana,35.8,4730
+18073,Jasper County,L,False,R. Bell,3,100.0,Indiana,2.9,378
+18075,Jay County,R,False,E. Holcomb,1,100.0,Indiana,58.9,4603
+18075,Jay County,D,False,J. Gregg,2,100.0,Indiana,37.6,2935
+18075,Jay County,L,False,R. Bell,3,100.0,Indiana,3.5,276
+18077,Jefferson County,R,False,E. Holcomb,1,100.0,Indiana,56.7,7498
+18077,Jefferson County,D,False,J. Gregg,2,100.0,Indiana,40.6,5371
+18077,Jefferson County,L,False,R. Bell,3,100.0,Indiana,2.6,344
+18079,Jennings County,R,False,E. Holcomb,1,100.0,Indiana,64.2,7088
+18079,Jennings County,D,False,J. Gregg,2,100.0,Indiana,32.7,3608
+18079,Jennings County,L,False,R. Bell,3,100.0,Indiana,3.1,340
+18081,Johnson County,R,False,E. Holcomb,1,100.0,Indiana,63.6,42465
+18081,Johnson County,D,False,J. Gregg,2,100.0,Indiana,33.4,22263
+18081,Johnson County,L,False,R. Bell,3,100.0,Indiana,3.0,1994
+18083,Knox County,D,False,J. Gregg,1,100.0,Indiana,55.8,8597
+18083,Knox County,R,False,E. Holcomb,2,100.0,Indiana,42.3,6511
+18083,Knox County,L,False,R. Bell,3,100.0,Indiana,1.9,292
+18085,Kosciusko County,R,False,E. Holcomb,1,100.0,Indiana,69.6,22287
+18085,Kosciusko County,D,False,J. Gregg,2,100.0,Indiana,26.4,8454
+18085,Kosciusko County,L,False,R. Bell,3,100.0,Indiana,4.0,1267
+18087,LaGrange County,R,False,E. Holcomb,1,100.0,Indiana,65.7,6315
+18087,LaGrange County,D,False,J. Gregg,2,100.0,Indiana,30.7,2951
+18087,LaGrange County,L,False,R. Bell,3,100.0,Indiana,3.6,345
+18089,Lake County,D,False,J. Gregg,1,100.0,Indiana,64.7,127460
+18089,Lake County,R,False,E. Holcomb,2,100.0,Indiana,33.0,64967
+18089,Lake County,L,False,R. Bell,3,100.0,Indiana,2.4,4638
+18091,LaPorte County,D,False,J. Gregg,1,100.0,Indiana,54.5,24135
+18091,LaPorte County,R,False,E. Holcomb,2,100.0,Indiana,41.7,18459
+18091,LaPorte County,L,False,R. Bell,3,100.0,Indiana,3.8,1666
+18093,Lawrence County,R,False,E. Holcomb,1,100.0,Indiana,62.6,11682
+18093,Lawrence County,D,False,J. Gregg,2,100.0,Indiana,34.3,6402
+18093,Lawrence County,L,False,R. Bell,3,100.0,Indiana,3.1,575
+18095,Madison County,R,False,E. Holcomb,1,100.0,Indiana,51.4,27579
+18095,Madison County,D,False,J. Gregg,2,100.0,Indiana,44.8,24041
+18095,Madison County,L,False,R. Bell,3,100.0,Indiana,3.8,2062
+18097,Marion County,D,False,J. Gregg,1,100.0,Indiana,62.1,225925
+18097,Marion County,R,False,E. Holcomb,2,100.0,Indiana,35.0,127384
+18097,Marion County,L,False,R. Bell,3,100.0,Indiana,2.9,10702
+18099,Marshall County,R,False,E. Holcomb,1,100.0,Indiana,58.8,10479
+18099,Marshall County,D,False,J. Gregg,2,100.0,Indiana,38.0,6772
+18099,Marshall County,L,False,R. Bell,3,100.0,Indiana,3.2,577
+18101,Martin County,R,False,E. Holcomb,1,100.0,Indiana,59.3,2827
+18101,Martin County,D,False,J. Gregg,2,100.0,Indiana,38.2,1823
+18101,Martin County,L,False,R. Bell,3,100.0,Indiana,2.5,120
+18103,Miami County,R,False,E. Holcomb,1,100.0,Indiana,61.1,8094
+18103,Miami County,D,False,J. Gregg,2,100.0,Indiana,34.7,4596
+18103,Miami County,L,False,R. Bell,3,100.0,Indiana,4.1,549
+18105,Monroe County,D,False,J. Gregg,1,100.0,Indiana,62.5,36303
+18105,Monroe County,R,False,E. Holcomb,2,100.0,Indiana,34.2,19866
+18105,Monroe County,L,False,R. Bell,3,100.0,Indiana,3.3,1918
+18107,Montgomery County,R,False,E. Holcomb,1,100.0,Indiana,62.1,9412
+18107,Montgomery County,D,False,J. Gregg,2,100.0,Indiana,34.3,5200
+18107,Montgomery County,L,False,R. Bell,3,100.0,Indiana,3.6,549
+18109,Morgan County,R,False,E. Holcomb,1,100.0,Indiana,66.1,20427
+18109,Morgan County,D,False,J. Gregg,2,100.0,Indiana,30.3,9354
+18109,Morgan County,L,False,R. Bell,3,100.0,Indiana,3.6,1128
+18111,Newton County,R,False,E. Holcomb,1,100.0,Indiana,60.5,3482
+18111,Newton County,D,False,J. Gregg,2,100.0,Indiana,35.9,2065
+18111,Newton County,L,False,R. Bell,3,100.0,Indiana,3.6,205
+18113,Noble County,R,False,E. Holcomb,1,100.0,Indiana,63.0,10475
+18113,Noble County,D,False,J. Gregg,2,100.0,Indiana,33.2,5512
+18113,Noble County,L,False,R. Bell,3,100.0,Indiana,3.8,637
+18115,Ohio County,R,False,E. Holcomb,1,100.0,Indiana,63.1,1805
+18115,Ohio County,D,False,J. Gregg,2,100.0,Indiana,34.8,996
+18115,Ohio County,L,False,R. Bell,3,100.0,Indiana,2.1,60
+18117,Orange County,R,False,E. Holcomb,1,100.0,Indiana,60.1,4826
+18117,Orange County,D,False,J. Gregg,2,100.0,Indiana,37.0,2971
+18117,Orange County,L,False,R. Bell,3,100.0,Indiana,2.9,229
+18119,Owen County,R,False,E. Holcomb,1,100.0,Indiana,59.9,5083
+18119,Owen County,D,False,J. Gregg,2,100.0,Indiana,36.2,3073
+18119,Owen County,L,False,R. Bell,3,100.0,Indiana,3.9,334
+18121,Parke County,R,False,E. Holcomb,1,100.0,Indiana,57.6,3824
+18121,Parke County,D,False,J. Gregg,2,100.0,Indiana,39.3,2608
+18121,Parke County,L,False,R. Bell,3,100.0,Indiana,3.1,207
+18123,Perry County,D,False,J. Gregg,1,100.0,Indiana,53.2,4222
+18123,Perry County,R,False,E. Holcomb,2,100.0,Indiana,44.4,3519
+18123,Perry County,L,False,R. Bell,3,100.0,Indiana,2.4,193
+18125,Pike County,R,False,E. Holcomb,1,100.0,Indiana,52.6,3114
+18125,Pike County,D,False,J. Gregg,2,100.0,Indiana,45.2,2671
+18125,Pike County,L,False,R. Bell,3,100.0,Indiana,2.2,130
+18127,Porter County,D,False,J. Gregg,1,100.0,Indiana,54.1,41428
+18127,Porter County,R,False,E. Holcomb,2,100.0,Indiana,42.8,32810
+18127,Porter County,L,False,R. Bell,3,100.0,Indiana,3.1,2389
+18129,Posey County,R,False,E. Holcomb,1,100.0,Indiana,57.7,7194
+18129,Posey County,D,False,J. Gregg,2,100.0,Indiana,40.3,5019
+18129,Posey County,L,False,R. Bell,3,100.0,Indiana,2.0,249
+18131,Pulaski County,R,False,E. Holcomb,1,80.0,Indiana,57.1,3001
+18131,Pulaski County,D,False,J. Gregg,2,80.0,Indiana,39.4,2069
+18131,Pulaski County,L,False,R. Bell,3,80.0,Indiana,3.5,185
+18133,Putnam County,R,False,E. Holcomb,1,100.0,Indiana,62.1,9094
+18133,Putnam County,D,False,J. Gregg,2,100.0,Indiana,34.5,5049
+18133,Putnam County,L,False,R. Bell,3,100.0,Indiana,3.3,490
+18135,Randolph County,R,False,E. Holcomb,1,100.0,Indiana,59.8,6093
+18135,Randolph County,D,False,J. Gregg,2,100.0,Indiana,35.5,3621
+18135,Randolph County,L,False,R. Bell,3,100.0,Indiana,4.7,482
+18137,Ripley County,R,False,E. Holcomb,1,100.0,Indiana,70.0,8948
+18137,Ripley County,D,False,J. Gregg,2,100.0,Indiana,27.7,3540
+18137,Ripley County,L,False,R. Bell,3,100.0,Indiana,2.3,290
+18139,Rush County,R,False,E. Holcomb,1,100.0,Indiana,61.5,4393
+18139,Rush County,D,False,J. Gregg,2,100.0,Indiana,34.2,2440
+18139,Rush County,L,False,R. Bell,3,100.0,Indiana,4.3,306
+18143,Scott County,R,False,E. Holcomb,1,100.0,Indiana,54.4,4869
+18143,Scott County,D,False,J. Gregg,2,100.0,Indiana,42.8,3830
+18143,Scott County,L,False,R. Bell,3,100.0,Indiana,2.7,245
+18145,Shelby County,R,False,E. Holcomb,1,100.0,Indiana,61.6,10998
+18145,Shelby County,D,False,J. Gregg,2,100.0,Indiana,34.5,6162
+18145,Shelby County,L,False,R. Bell,3,100.0,Indiana,3.9,691
+18147,Spencer County,R,False,E. Holcomb,1,100.0,Indiana,56.4,5511
+18147,Spencer County,D,False,J. Gregg,2,100.0,Indiana,41.2,4030
+18147,Spencer County,L,False,R. Bell,3,100.0,Indiana,2.4,231
+18141,St. Joseph County,D,False,J. Gregg,1,100.0,Indiana,52.5,57833
+18141,St. Joseph County,R,False,E. Holcomb,2,100.0,Indiana,44.4,48838
+18141,St. Joseph County,L,False,R. Bell,3,100.0,Indiana,3.1,3418
+18149,Starke County,R,False,E. Holcomb,1,100.0,Indiana,52.4,4694
+18149,Starke County,D,False,J. Gregg,2,100.0,Indiana,43.5,3903
+18149,Starke County,L,False,R. Bell,3,100.0,Indiana,4.1,368
+18151,Steuben County,R,False,E. Holcomb,1,100.0,Indiana,62.9,9174
+18151,Steuben County,D,False,J. Gregg,2,100.0,Indiana,33.7,4914
+18151,Steuben County,L,False,R. Bell,3,100.0,Indiana,3.5,507
+18153,Sullivan County,D,False,J. Gregg,1,100.0,Indiana,55.4,4720
+18153,Sullivan County,R,False,E. Holcomb,2,100.0,Indiana,42.5,3623
+18153,Sullivan County,L,False,R. Bell,3,100.0,Indiana,2.1,176
+18155,Switzerland County,R,False,E. Holcomb,1,100.0,Indiana,58.9,2116
+18155,Switzerland County,D,False,J. Gregg,2,100.0,Indiana,38.4,1379
+18155,Switzerland County,L,False,R. Bell,3,100.0,Indiana,2.8,100
+18157,Tippecanoe County,D,False,J. Gregg,1,100.0,Indiana,48.2,30161
+18157,Tippecanoe County,R,False,E. Holcomb,2,100.0,Indiana,48.1,30083
+18157,Tippecanoe County,L,False,R. Bell,3,100.0,Indiana,3.7,2292
+18159,Tipton County,R,False,E. Holcomb,1,100.0,Indiana,63.1,4712
+18159,Tipton County,D,False,J. Gregg,2,100.0,Indiana,33.4,2492
+18159,Tipton County,L,False,R. Bell,3,100.0,Indiana,3.5,259
+18161,Union County,R,False,E. Holcomb,1,100.0,Indiana,66.8,2179
+18161,Union County,D,False,J. Gregg,2,100.0,Indiana,28.7,936
+18161,Union County,L,False,R. Bell,3,100.0,Indiana,4.5,147
+18163,Vanderburgh County,R,False,E. Holcomb,1,100.0,Indiana,52.8,38097
+18163,Vanderburgh County,D,False,J. Gregg,2,100.0,Indiana,44.6,32163
+18163,Vanderburgh County,L,False,R. Bell,3,100.0,Indiana,2.6,1892
+18165,Vermillion County,D,False,J. Gregg,1,100.0,Indiana,48.6,3339
+18165,Vermillion County,R,False,E. Holcomb,2,100.0,Indiana,47.7,3277
+18165,Vermillion County,L,False,R. Bell,3,100.0,Indiana,3.7,257
+18167,Vigo County,D,False,J. Gregg,1,100.0,Indiana,55.0,21830
+18167,Vigo County,R,False,E. Holcomb,2,100.0,Indiana,42.2,16762
+18167,Vigo County,L,False,R. Bell,3,100.0,Indiana,2.8,1094
+18169,Wabash County,R,False,E. Holcomb,1,100.0,Indiana,64.9,8636
+18169,Wabash County,D,False,J. Gregg,2,100.0,Indiana,32.0,4262
+18169,Wabash County,L,False,R. Bell,3,100.0,Indiana,3.1,416
+18171,Warren County,R,False,E. Holcomb,1,100.0,Indiana,64.7,2538
+18171,Warren County,D,False,J. Gregg,2,100.0,Indiana,32.1,1260
+18171,Warren County,L,False,R. Bell,3,100.0,Indiana,3.2,126
+18173,Warrick County,R,False,E. Holcomb,1,100.0,Indiana,59.1,17418
+18173,Warrick County,D,False,J. Gregg,2,100.0,Indiana,38.8,11434
+18173,Warrick County,L,False,R. Bell,3,100.0,Indiana,2.1,627
+18175,Washington County,R,False,E. Holcomb,1,100.0,Indiana,65.0,7292
+18175,Washington County,D,False,J. Gregg,2,100.0,Indiana,32.0,3591
+18175,Washington County,L,False,R. Bell,3,100.0,Indiana,3.0,341
+18177,Wayne County,R,False,E. Holcomb,1,100.0,Indiana,52.4,13472
+18177,Wayne County,D,False,J. Gregg,2,100.0,Indiana,37.0,9518
+18177,Wayne County,L,False,R. Bell,3,100.0,Indiana,10.5,2704
+18179,Wells County,R,False,E. Holcomb,1,100.0,Indiana,66.9,8760
+18179,Wells County,D,False,J. Gregg,2,100.0,Indiana,29.8,3900
+18179,Wells County,L,False,R. Bell,3,100.0,Indiana,3.3,428
+18181,White County,R,False,E. Holcomb,1,100.0,Indiana,60.5,6014
+18181,White County,D,False,J. Gregg,2,100.0,Indiana,35.7,3545
+18181,White County,L,False,R. Bell,3,100.0,Indiana,3.8,382
+18183,Whitley County,R,False,E. Holcomb,1,100.0,Indiana,64.3,9971
+18183,Whitley County,D,False,J. Gregg,2,100.0,Indiana,31.8,4933
+18183,Whitley County,L,False,R. Bell,3,100.0,Indiana,4.0,613
+29001,Adair County,R,False,E. Greitens,1,100.0,Missouri,56.5,5752
+29001,Adair County,D,False,C. Koster,2,100.0,Missouri,40.7,4145
+29001,Adair County,L,False,C. Spragins,3,100.0,Missouri,1.3,132
+29001,Adair County,G,False,D. Fitz,4,100.0,Missouri,0.8,82
+29001,Adair County,I,False,L. Turilli,5,100.0,Missouri,0.7,76
+29003,Andrew County,R,False,E. Greitens,1,100.0,Missouri,63.2,5771
+29003,Andrew County,D,False,C. Koster,2,100.0,Missouri,34.8,3176
+29003,Andrew County,L,False,C. Spragins,3,100.0,Missouri,1.1,98
+29003,Andrew County,G,False,D. Fitz,4,100.0,Missouri,0.5,46
+29003,Andrew County,I,False,L. Turilli,5,100.0,Missouri,0.4,37
+29005,Atchison County,R,False,E. Greitens,1,100.0,Missouri,65.2,1746
+29005,Atchison County,D,False,C. Koster,2,100.0,Missouri,31.5,842
+29005,Atchison County,L,False,C. Spragins,3,100.0,Missouri,2.1,57
+29005,Atchison County,I,False,L. Turilli,4,100.0,Missouri,0.9,23
+29005,Atchison County,G,False,D. Fitz,5,100.0,Missouri,0.3,9
+29007,Audrain County,R,False,E. Greitens,1,100.0,Missouri,58.1,5831
+29007,Audrain County,D,False,C. Koster,2,100.0,Missouri,38.2,3833
+29007,Audrain County,L,False,C. Spragins,3,100.0,Missouri,1.6,159
+29007,Audrain County,I,False,L. Turilli,4,100.0,Missouri,1.5,147
+29007,Audrain County,G,False,D. Fitz,5,100.0,Missouri,0.7,70
+29009,Barry County,R,False,E. Greitens,1,100.0,Missouri,68.1,9942
+29009,Barry County,D,False,C. Koster,2,100.0,Missouri,28.5,4161
+29009,Barry County,L,False,C. Spragins,3,100.0,Missouri,1.5,219
+29009,Barry County,I,False,L. Turilli,4,100.0,Missouri,1.0,144
+29009,Barry County,G,False,D. Fitz,5,100.0,Missouri,0.9,135
+29011,Barton County,R,False,E. Greitens,1,100.0,Missouri,77.2,4553
+29011,Barton County,D,False,C. Koster,2,100.0,Missouri,20.4,1203
+29011,Barton County,L,False,C. Spragins,3,100.0,Missouri,1.2,69
+29011,Barton County,I,False,L. Turilli,4,100.0,Missouri,0.8,50
+29011,Barton County,G,False,D. Fitz,5,100.0,Missouri,0.4,24
+29013,Bates County,R,False,E. Greitens,1,100.0,Missouri,59.7,4772
+29013,Bates County,D,False,C. Koster,2,100.0,Missouri,37.3,2987
+29013,Bates County,L,False,C. Spragins,3,100.0,Missouri,1.4,115
+29013,Bates County,I,False,L. Turilli,4,100.0,Missouri,0.8,67
+29013,Bates County,G,False,D. Fitz,5,100.0,Missouri,0.7,58
+29015,Benton County,R,False,E. Greitens,1,100.0,Missouri,63.4,6043
+29015,Benton County,D,False,C. Koster,2,100.0,Missouri,33.6,3198
+29015,Benton County,L,False,C. Spragins,3,100.0,Missouri,1.5,140
+29015,Benton County,I,False,L. Turilli,4,100.0,Missouri,1.1,103
+29015,Benton County,G,False,D. Fitz,5,100.0,Missouri,0.5,47
+29017,Bollinger County,R,False,E. Greitens,1,100.0,Missouri,72.2,4051
+29017,Bollinger County,D,False,C. Koster,2,100.0,Missouri,25.2,1416
+29017,Bollinger County,I,False,L. Turilli,3,100.0,Missouri,1.1,63
+29017,Bollinger County,L,False,C. Spragins,4,100.0,Missouri,0.7,41
+29017,Bollinger County,G,False,D. Fitz,5,100.0,Missouri,0.7,38
+29019,Boone County,D,False,C. Koster,1,97.7,Missouri,55.0,45363
+29019,Boone County,R,False,E. Greitens,2,97.7,Missouri,41.3,34051
+29019,Boone County,L,False,C. Spragins,3,97.7,Missouri,1.9,1549
+29019,Boone County,G,False,D. Fitz,4,97.7,Missouri,1.0,861
+29019,Boone County,I,False,L. Turilli,5,97.7,Missouri,0.9,702
+29021,Buchanan County,R,False,E. Greitens,1,100.0,Missouri,52.6,18706
+29021,Buchanan County,D,False,C. Koster,2,100.0,Missouri,43.9,15628
+29021,Buchanan County,L,False,C. Spragins,3,100.0,Missouri,1.9,687
+29021,Buchanan County,G,False,D. Fitz,4,100.0,Missouri,0.8,284
+29021,Buchanan County,I,False,L. Turilli,5,100.0,Missouri,0.7,266
+29023,Butler County,R,False,E. Greitens,1,100.0,Missouri,73.8,12595
+29023,Butler County,D,False,C. Koster,2,100.0,Missouri,23.7,4039
+29023,Butler County,L,False,C. Spragins,3,100.0,Missouri,1.3,214
+29023,Butler County,I,False,L. Turilli,4,100.0,Missouri,0.8,133
+29023,Butler County,G,False,D. Fitz,5,100.0,Missouri,0.5,91
+29025,Caldwell County,R,False,E. Greitens,1,100.0,Missouri,63.1,2726
+29025,Caldwell County,D,False,C. Koster,2,100.0,Missouri,33.4,1442
+29025,Caldwell County,L,False,C. Spragins,3,100.0,Missouri,1.9,81
+29025,Caldwell County,I,False,L. Turilli,4,100.0,Missouri,1.1,47
+29025,Caldwell County,G,False,D. Fitz,5,100.0,Missouri,0.5,23
+29027,Callaway County,R,False,E. Greitens,1,100.0,Missouri,58.0,11146
+29027,Callaway County,D,False,C. Koster,2,100.0,Missouri,38.2,7338
+29027,Callaway County,L,False,C. Spragins,3,100.0,Missouri,1.7,319
+29027,Callaway County,I,False,L. Turilli,4,100.0,Missouri,1.4,263
+29027,Callaway County,G,False,D. Fitz,5,100.0,Missouri,0.9,167
+29029,Camden County,R,False,E. Greitens,1,100.0,Missouri,67.1,14860
+29029,Camden County,D,False,C. Koster,2,100.0,Missouri,29.8,6600
+29029,Camden County,L,False,C. Spragins,3,100.0,Missouri,1.5,328
+29029,Camden County,I,False,L. Turilli,4,100.0,Missouri,1.0,224
+29029,Camden County,G,False,D. Fitz,5,100.0,Missouri,0.6,130
+29031,Cape Girardeau County,R,False,E. Greitens,1,100.0,Missouri,65.7,24141
+29031,Cape Girardeau County,D,False,C. Koster,2,100.0,Missouri,31.3,11509
+29031,Cape Girardeau County,L,False,C. Spragins,3,100.0,Missouri,1.4,525
+29031,Cape Girardeau County,I,False,L. Turilli,4,100.0,Missouri,1.0,376
+29031,Cape Girardeau County,G,False,D. Fitz,5,100.0,Missouri,0.5,195
+29033,Carroll County,R,False,E. Greitens,1,92.9,Missouri,65.3,2837
+29033,Carroll County,D,False,C. Koster,2,92.9,Missouri,32.0,1392
+29033,Carroll County,L,False,C. Spragins,3,92.9,Missouri,1.2,53
+29033,Carroll County,G,False,D. Fitz,4,92.9,Missouri,0.7,31
+29033,Carroll County,I,False,L. Turilli,5,92.9,Missouri,0.7,31
+29035,Carter County,R,False,E. Greitens,1,100.0,Missouri,73.1,2051
+29035,Carter County,D,False,C. Koster,2,100.0,Missouri,23.2,651
+29035,Carter County,I,False,L. Turilli,3,100.0,Missouri,1.5,41
+29035,Carter County,L,False,C. Spragins,4,100.0,Missouri,1.3,37
+29035,Carter County,G,False,D. Fitz,5,100.0,Missouri,0.9,26
+29037,Cass County,R,False,E. Greitens,1,100.0,Missouri,56.0,28487
+29037,Cass County,D,False,C. Koster,2,100.0,Missouri,40.7,20670
+29037,Cass County,L,False,C. Spragins,3,100.0,Missouri,1.7,875
+29037,Cass County,I,False,L. Turilli,4,100.0,Missouri,0.8,429
+29037,Cass County,G,False,D. Fitz,5,100.0,Missouri,0.8,382
+29039,Cedar County,R,False,E. Greitens,1,100.0,Missouri,70.3,4414
+29039,Cedar County,D,False,C. Koster,2,100.0,Missouri,26.5,1664
+29039,Cedar County,L,False,C. Spragins,3,100.0,Missouri,1.5,94
+29039,Cedar County,I,False,L. Turilli,4,100.0,Missouri,1.1,71
+29039,Cedar County,G,False,D. Fitz,5,100.0,Missouri,0.6,37
+29041,Chariton County,R,False,E. Greitens,1,100.0,Missouri,59.6,2363
+29041,Chariton County,D,False,C. Koster,2,100.0,Missouri,38.4,1522
+29041,Chariton County,L,False,C. Spragins,3,100.0,Missouri,1.1,45
+29041,Chariton County,I,False,L. Turilli,4,100.0,Missouri,0.6,23
+29041,Chariton County,G,False,D. Fitz,5,100.0,Missouri,0.3,10
+29043,Christian County,R,False,E. Greitens,1,100.0,Missouri,69.0,28612
+29043,Christian County,D,False,C. Koster,2,100.0,Missouri,27.9,11589
+29043,Christian County,L,False,C. Spragins,3,100.0,Missouri,1.5,632
+29043,Christian County,I,False,L. Turilli,4,100.0,Missouri,1.1,442
+29043,Christian County,G,False,D. Fitz,5,100.0,Missouri,0.5,211
+29045,Clark County,R,False,E. Greitens,1,100.0,Missouri,62.3,2053
+29045,Clark County,D,False,C. Koster,2,100.0,Missouri,34.7,1144
+29045,Clark County,L,False,C. Spragins,3,100.0,Missouri,1.5,48
+29045,Clark County,I,False,L. Turilli,4,100.0,Missouri,0.9,29
+29045,Clark County,G,False,D. Fitz,5,100.0,Missouri,0.6,19
+29047,Clay County,R,False,E. Greitens,1,100.0,Missouri,49.0,53749
+29047,Clay County,D,False,C. Koster,2,100.0,Missouri,47.7,52299
+29047,Clay County,L,False,C. Spragins,3,100.0,Missouri,1.9,2073
+29047,Clay County,I,False,L. Turilli,4,100.0,Missouri,0.7,822
+29047,Clay County,G,False,D. Fitz,5,100.0,Missouri,0.7,801
+29049,Clinton County,R,False,E. Greitens,1,100.0,Missouri,58.9,6021
+29049,Clinton County,D,False,C. Koster,2,100.0,Missouri,37.8,3860
+29049,Clinton County,L,False,C. Spragins,3,100.0,Missouri,1.7,170
+29049,Clinton County,G,False,D. Fitz,4,100.0,Missouri,0.8,83
+29049,Clinton County,I,False,L. Turilli,5,100.0,Missouri,0.8,81
+29051,Cole County,R,False,E. Greitens,1,100.0,Missouri,55.6,20864
+29051,Cole County,D,False,C. Koster,2,100.0,Missouri,42.1,15802
+29051,Cole County,L,False,C. Spragins,3,100.0,Missouri,1.2,444
+29051,Cole County,I,False,L. Turilli,4,100.0,Missouri,0.7,272
+29051,Cole County,G,False,D. Fitz,5,100.0,Missouri,0.4,160
+29053,Cooper County,R,False,E. Greitens,1,100.0,Missouri,61.9,4957
+29053,Cooper County,D,False,C. Koster,2,100.0,Missouri,35.4,2838
+29053,Cooper County,L,False,C. Spragins,3,100.0,Missouri,1.5,119
+29053,Cooper County,I,False,L. Turilli,4,100.0,Missouri,0.7,55
+29053,Cooper County,G,False,D. Fitz,5,100.0,Missouri,0.5,41
+29055,Crawford County,R,False,E. Greitens,1,100.0,Missouri,59.7,5899
+29055,Crawford County,D,False,C. Koster,2,100.0,Missouri,29.3,2892
+29055,Crawford County,I,False,L. Turilli,3,100.0,Missouri,9.2,913
+29055,Crawford County,L,False,C. Spragins,4,100.0,Missouri,1.1,108
+29055,Crawford County,G,False,D. Fitz,5,100.0,Missouri,0.7,65
+29057,Dade County,R,False,E. Greitens,1,100.0,Missouri,68.9,2720
+29057,Dade County,D,False,C. Koster,2,100.0,Missouri,28.2,1112
+29057,Dade County,L,False,C. Spragins,3,100.0,Missouri,1.5,60
+29057,Dade County,I,False,L. Turilli,4,100.0,Missouri,1.0,39
+29057,Dade County,G,False,D. Fitz,5,100.0,Missouri,0.4,15
+29059,Dallas County,R,False,E. Greitens,1,100.0,Missouri,66.7,4943
+29059,Dallas County,D,False,C. Koster,2,100.0,Missouri,29.8,2211
+29059,Dallas County,L,False,C. Spragins,3,100.0,Missouri,1.7,127
+29059,Dallas County,I,False,L. Turilli,4,100.0,Missouri,1.2,89
+29059,Dallas County,G,False,D. Fitz,5,100.0,Missouri,0.6,44
+29061,Daviess County,R,False,E. Greitens,1,100.0,Missouri,61.7,2295
+29061,Daviess County,D,False,C. Koster,2,100.0,Missouri,34.9,1299
+29061,Daviess County,L,False,C. Spragins,3,100.0,Missouri,1.5,56
+29061,Daviess County,I,False,L. Turilli,4,100.0,Missouri,1.2,46
+29061,Daviess County,G,False,D. Fitz,5,100.0,Missouri,0.7,26
+29063,DeKalb County,R,False,E. Greitens,1,100.0,Missouri,66.6,3061
+29063,DeKalb County,D,False,C. Koster,2,100.0,Missouri,30.8,1413
+29063,DeKalb County,L,False,C. Spragins,3,100.0,Missouri,1.2,57
+29063,DeKalb County,G,False,D. Fitz,4,100.0,Missouri,0.7,32
+29063,DeKalb County,I,False,L. Turilli,5,100.0,Missouri,0.7,31
+29065,Dent County,R,False,E. Greitens,1,100.0,Missouri,73.1,4966
+29065,Dent County,D,False,C. Koster,2,100.0,Missouri,24.1,1635
+29065,Dent County,I,False,L. Turilli,3,100.0,Missouri,1.3,87
+29065,Dent County,L,False,C. Spragins,4,100.0,Missouri,1.1,73
+29065,Dent County,G,False,D. Fitz,5,100.0,Missouri,0.5,37
+29067,Douglas County,R,False,E. Greitens,1,100.0,Missouri,72.3,4818
+29067,Douglas County,D,False,C. Koster,2,100.0,Missouri,24.1,1607
+29067,Douglas County,I,False,L. Turilli,3,100.0,Missouri,1.5,103
+29067,Douglas County,L,False,C. Spragins,4,100.0,Missouri,1.4,96
+29067,Douglas County,G,False,D. Fitz,5,100.0,Missouri,0.5,36
+29069,Dunklin County,R,False,E. Greitens,1,100.0,Missouri,69.4,7253
+29069,Dunklin County,D,False,C. Koster,2,100.0,Missouri,28.9,3014
+29069,Dunklin County,L,False,C. Spragins,3,100.0,Missouri,0.8,84
+29069,Dunklin County,I,False,L. Turilli,4,100.0,Missouri,0.5,48
+29069,Dunklin County,G,False,D. Fitz,5,100.0,Missouri,0.4,46
+29071,Franklin County,R,False,E. Greitens,1,100.0,Missouri,56.0,28059
+29071,Franklin County,D,False,C. Koster,2,100.0,Missouri,37.4,18754
+29071,Franklin County,I,False,L. Turilli,3,100.0,Missouri,4.8,2389
+29071,Franklin County,L,False,C. Spragins,4,100.0,Missouri,1.2,626
+29071,Franklin County,G,False,D. Fitz,5,100.0,Missouri,0.6,291
+29073,Gasconade County,R,False,E. Greitens,1,100.0,Missouri,63.0,4681
+29073,Gasconade County,D,False,C. Koster,2,100.0,Missouri,32.4,2402
+29073,Gasconade County,I,False,L. Turilli,3,100.0,Missouri,3.1,233
+29073,Gasconade County,L,False,C. Spragins,4,100.0,Missouri,0.9,64
+29073,Gasconade County,G,False,D. Fitz,5,100.0,Missouri,0.6,45
+29075,Gentry County,R,False,E. Greitens,1,100.0,Missouri,64.1,1940
+29075,Gentry County,D,False,C. Koster,2,100.0,Missouri,33.4,1010
+29075,Gentry County,L,False,C. Spragins,3,100.0,Missouri,1.1,34
+29075,Gentry County,I,False,L. Turilli,4,100.0,Missouri,0.8,23
+29075,Gentry County,G,False,D. Fitz,5,100.0,Missouri,0.7,21
+29077,Greene County,R,False,E. Greitens,1,100.0,Missouri,56.7,72982
+29077,Greene County,D,False,C. Koster,2,100.0,Missouri,39.5,50839
+29077,Greene County,L,False,C. Spragins,3,100.0,Missouri,1.8,2371
+29077,Greene County,I,False,L. Turilli,4,100.0,Missouri,1.1,1461
+29077,Greene County,G,False,D. Fitz,5,100.0,Missouri,0.7,956
+29079,Grundy County,R,False,E. Greitens,1,100.0,Missouri,68.6,3046
+29079,Grundy County,D,False,C. Koster,2,100.0,Missouri,28.6,1269
+29079,Grundy County,I,False,L. Turilli,3,100.0,Missouri,1.3,59
+29079,Grundy County,L,False,C. Spragins,4,100.0,Missouri,1.1,50
+29079,Grundy County,G,False,D. Fitz,5,100.0,Missouri,0.4,17
+29081,Harrison County,R,False,E. Greitens,1,100.0,Missouri,67.5,2473
+29081,Harrison County,D,False,C. Koster,2,100.0,Missouri,29.5,1081
+29081,Harrison County,I,False,L. Turilli,3,100.0,Missouri,1.2,45
+29081,Harrison County,L,False,C. Spragins,4,100.0,Missouri,1.1,40
+29081,Harrison County,G,False,D. Fitz,5,100.0,Missouri,0.7,25
+29083,Henry County,R,False,E. Greitens,1,100.0,Missouri,59.4,5850
+29083,Henry County,D,False,C. Koster,2,100.0,Missouri,37.5,3695
+29083,Henry County,L,False,C. Spragins,3,100.0,Missouri,1.5,150
+29083,Henry County,I,False,L. Turilli,4,100.0,Missouri,0.8,79
+29083,Henry County,G,False,D. Fitz,5,100.0,Missouri,0.7,73
+29085,Hickory County,R,False,E. Greitens,1,100.0,Missouri,62.3,2931
+29085,Hickory County,D,False,C. Koster,2,100.0,Missouri,34.2,1608
+29085,Hickory County,L,False,C. Spragins,3,100.0,Missouri,1.5,69
+29085,Hickory County,I,False,L. Turilli,4,100.0,Missouri,1.2,55
+29085,Hickory County,G,False,D. Fitz,5,100.0,Missouri,0.9,44
+29087,Holt County,R,False,E. Greitens,1,100.0,Missouri,64.7,1515
+29087,Holt County,D,False,C. Koster,2,100.0,Missouri,32.1,752
+29087,Holt County,I,False,L. Turilli,3,100.0,Missouri,1.4,32
+29087,Holt County,L,False,C. Spragins,4,100.0,Missouri,1.2,29
+29087,Holt County,G,False,D. Fitz,5,100.0,Missouri,0.6,14
+29089,Howard County,R,False,E. Greitens,1,100.0,Missouri,56.5,2727
+29089,Howard County,D,False,C. Koster,2,100.0,Missouri,40.2,1940
+29089,Howard County,L,False,C. Spragins,3,100.0,Missouri,1.9,91
+29089,Howard County,I,False,L. Turilli,4,100.0,Missouri,0.7,35
+29089,Howard County,G,False,D. Fitz,5,100.0,Missouri,0.7,32
+29091,Howell County,R,False,E. Greitens,1,100.0,Missouri,70.7,12262
+29091,Howell County,D,False,C. Koster,2,100.0,Missouri,25.7,4457
+29091,Howell County,I,False,L. Turilli,3,100.0,Missouri,1.5,252
+29091,Howell County,L,False,C. Spragins,4,100.0,Missouri,1.4,237
+29091,Howell County,G,False,D. Fitz,5,100.0,Missouri,0.8,146
+29093,Iron County,R,False,E. Greitens,1,100.0,Missouri,60.8,2600
+29093,Iron County,D,False,C. Koster,2,100.0,Missouri,35.0,1497
+29093,Iron County,I,False,L. Turilli,3,100.0,Missouri,1.6,70
+29093,Iron County,G,False,D. Fitz,4,100.0,Missouri,1.4,61
+29093,Iron County,L,False,C. Spragins,5,100.0,Missouri,1.2,51
+29095,Jackson County,D,False,C. Koster,1,99.7,Missouri,59.7,175380
+29095,Jackson County,R,False,E. Greitens,2,99.7,Missouri,36.7,107788
+29095,Jackson County,L,False,C. Spragins,3,99.7,Missouri,1.7,4977
+29095,Jackson County,I,False,L. Turilli,4,99.7,Missouri,1.0,2925
+29095,Jackson County,G,False,D. Fitz,5,99.7,Missouri,1.0,2801
+29097,Jasper County,R,False,E. Greitens,1,100.0,Missouri,69.1,33426
+29097,Jasper County,D,False,C. Koster,2,100.0,Missouri,27.4,13231
+29097,Jasper County,L,False,C. Spragins,3,100.0,Missouri,1.6,778
+29097,Jasper County,I,False,L. Turilli,4,100.0,Missouri,1.0,490
+29097,Jasper County,G,False,D. Fitz,5,100.0,Missouri,0.9,441
+29099,Jefferson County,R,False,E. Greitens,1,100.0,Missouri,53.6,56712
+29099,Jefferson County,D,False,C. Koster,2,100.0,Missouri,42.7,45200
+29099,Jefferson County,L,False,C. Spragins,3,100.0,Missouri,1.5,1619
+29099,Jefferson County,I,False,L. Turilli,4,100.0,Missouri,1.3,1415
+29099,Jefferson County,G,False,D. Fitz,5,100.0,Missouri,0.8,813
+29101,Johnson County,R,False,E. Greitens,1,100.0,Missouri,56.9,12024
+29101,Johnson County,D,False,C. Koster,2,100.0,Missouri,39.4,8323
+29101,Johnson County,L,False,C. Spragins,3,100.0,Missouri,1.9,397
+29101,Johnson County,I,False,L. Turilli,4,100.0,Missouri,1.0,216
+29101,Johnson County,G,False,D. Fitz,5,100.0,Missouri,0.8,177
+29103,Knox County,R,False,E. Greitens,1,100.0,Missouri,61.7,1125
+29103,Knox County,D,False,C. Koster,2,100.0,Missouri,36.8,672
+29103,Knox County,I,False,L. Turilli,3,100.0,Missouri,0.6,11
+29103,Knox County,L,False,C. Spragins,4,100.0,Missouri,0.5,10
+29103,Knox County,G,False,D. Fitz,5,100.0,Missouri,0.3,6
+29105,Laclede County,R,False,E. Greitens,1,100.0,Missouri,71.0,11323
+29105,Laclede County,D,False,C. Koster,2,100.0,Missouri,25.7,4107
+29105,Laclede County,L,False,C. Spragins,3,100.0,Missouri,1.5,237
+29105,Laclede County,I,False,L. Turilli,4,100.0,Missouri,1.2,197
+29105,Laclede County,G,False,D. Fitz,5,100.0,Missouri,0.6,92
+29107,Lafayette County,R,False,E. Greitens,1,100.0,Missouri,57.9,9158
+29107,Lafayette County,D,False,C. Koster,2,100.0,Missouri,38.5,6088
+29107,Lafayette County,L,False,C. Spragins,3,100.0,Missouri,1.5,236
+29107,Lafayette County,I,False,L. Turilli,4,100.0,Missouri,1.4,224
+29107,Lafayette County,G,False,D. Fitz,5,100.0,Missouri,0.8,123
+29109,Lawrence County,R,False,E. Greitens,1,100.0,Missouri,69.3,11559
+29109,Lawrence County,D,False,C. Koster,2,100.0,Missouri,26.9,4481
+29109,Lawrence County,I,False,L. Turilli,3,100.0,Missouri,1.5,255
+29109,Lawrence County,L,False,C. Spragins,4,100.0,Missouri,1.5,247
+29109,Lawrence County,G,False,D. Fitz,5,100.0,Missouri,0.8,129
+29111,Lewis County,R,False,E. Greitens,1,100.0,Missouri,63.5,2814
+29111,Lewis County,D,False,C. Koster,2,100.0,Missouri,33.6,1490
+29111,Lewis County,L,False,C. Spragins,3,100.0,Missouri,1.3,59
+29111,Lewis County,I,False,L. Turilli,4,100.0,Missouri,0.9,40
+29111,Lewis County,G,False,D. Fitz,5,100.0,Missouri,0.6,26
+29113,Lincoln County,R,False,E. Greitens,1,100.0,Missouri,58.6,14496
+29113,Lincoln County,D,False,C. Koster,2,100.0,Missouri,37.7,9328
+29113,Lincoln County,I,False,L. Turilli,3,100.0,Missouri,1.7,411
+29113,Lincoln County,L,False,C. Spragins,4,100.0,Missouri,1.4,355
+29113,Lincoln County,G,False,D. Fitz,5,100.0,Missouri,0.7,168
+29115,Linn County,R,False,E. Greitens,1,100.0,Missouri,61.4,3412
+29115,Linn County,D,False,C. Koster,2,100.0,Missouri,35.7,1983
+29115,Linn County,L,False,C. Spragins,3,100.0,Missouri,1.4,77
+29115,Linn County,I,False,L. Turilli,4,100.0,Missouri,0.8,44
+29115,Linn County,G,False,D. Fitz,5,100.0,Missouri,0.7,41
+29117,Livingston County,R,False,E. Greitens,1,100.0,Missouri,66.1,4189
+29117,Livingston County,D,False,C. Koster,2,100.0,Missouri,31.4,1992
+29117,Livingston County,L,False,C. Spragins,3,100.0,Missouri,1.2,78
+29117,Livingston County,I,False,L. Turilli,4,100.0,Missouri,0.7,44
+29117,Livingston County,G,False,D. Fitz,5,100.0,Missouri,0.6,35
+29121,Macon County,R,False,E. Greitens,1,100.0,Missouri,67.0,5064
+29121,Macon County,D,False,C. Koster,2,100.0,Missouri,30.6,2315
+29121,Macon County,I,False,L. Turilli,3,100.0,Missouri,1.1,82
+29121,Macon County,L,False,C. Spragins,4,100.0,Missouri,0.8,60
+29121,Macon County,G,False,D. Fitz,5,100.0,Missouri,0.5,41
+29123,Madison County,R,False,E. Greitens,1,100.0,Missouri,64.2,3405
+29123,Madison County,D,False,C. Koster,2,100.0,Missouri,32.2,1707
+29123,Madison County,L,False,C. Spragins,3,100.0,Missouri,1.7,89
+29123,Madison County,G,False,D. Fitz,4,100.0,Missouri,1.1,57
+29123,Madison County,I,False,L. Turilli,5,100.0,Missouri,0.9,49
+29125,Maries County,R,False,E. Greitens,1,100.0,Missouri,62.7,2825
+29125,Maries County,D,False,C. Koster,2,100.0,Missouri,33.5,1509
+29125,Maries County,I,False,L. Turilli,3,100.0,Missouri,2.6,116
+29125,Maries County,L,False,C. Spragins,4,100.0,Missouri,0.9,41
+29125,Maries County,G,False,D. Fitz,5,100.0,Missouri,0.4,17
+29127,Marion County,R,False,E. Greitens,1,100.0,Missouri,65.8,8483
+29127,Marion County,D,False,C. Koster,2,100.0,Missouri,31.8,4103
+29127,Marion County,L,False,C. Spragins,3,100.0,Missouri,1.2,149
+29127,Marion County,I,False,L. Turilli,4,100.0,Missouri,0.6,82
+29127,Marion County,G,False,D. Fitz,5,100.0,Missouri,0.5,66
+29119,McDonald County,R,False,E. Greitens,1,100.0,Missouri,72.5,5914
+29119,McDonald County,D,False,C. Koster,2,100.0,Missouri,22.7,1853
+29119,McDonald County,L,False,C. Spragins,3,100.0,Missouri,2.0,165
+29119,McDonald County,I,False,L. Turilli,4,100.0,Missouri,1.7,140
+29119,McDonald County,G,False,D. Fitz,5,100.0,Missouri,1.0,80
+29129,Mercer County,R,False,E. Greitens,1,100.0,Missouri,71.6,1224
+29129,Mercer County,D,False,C. Koster,2,100.0,Missouri,26.6,455
+29129,Mercer County,L,False,C. Spragins,3,100.0,Missouri,0.8,13
+29129,Mercer County,G,False,D. Fitz,4,100.0,Missouri,0.6,11
+29129,Mercer County,I,False,L. Turilli,5,100.0,Missouri,0.4,7
+29131,Miller County,R,False,E. Greitens,1,100.0,Missouri,69.7,7924
+29131,Miller County,D,False,C. Koster,2,100.0,Missouri,27.4,3112
+29131,Miller County,L,False,C. Spragins,3,100.0,Missouri,1.3,147
+29131,Miller County,I,False,L. Turilli,4,100.0,Missouri,1.1,129
+29131,Miller County,G,False,D. Fitz,5,100.0,Missouri,0.6,63
+29133,Mississippi County,R,False,E. Greitens,1,100.0,Missouri,59.1,3004
+29133,Mississippi County,D,False,C. Koster,2,100.0,Missouri,38.2,1943
+29133,Mississippi County,G,False,D. Fitz,3,100.0,Missouri,1.0,51
+29133,Mississippi County,L,False,C. Spragins,4,100.0,Missouri,0.9,48
+29133,Mississippi County,I,False,L. Turilli,5,100.0,Missouri,0.7,38
+29135,Moniteau County,R,False,E. Greitens,1,100.0,Missouri,64.0,4346
+29135,Moniteau County,D,False,C. Koster,2,100.0,Missouri,33.3,2258
+29135,Moniteau County,L,False,C. Spragins,3,100.0,Missouri,1.2,80
+29135,Moniteau County,I,False,L. Turilli,4,100.0,Missouri,1.0,66
+29135,Moniteau County,G,False,D. Fitz,5,100.0,Missouri,0.6,39
+29137,Monroe County,R,False,E. Greitens,1,100.0,Missouri,64.4,2659
+29137,Monroe County,D,False,C. Koster,2,100.0,Missouri,33.1,1367
+29137,Monroe County,L,False,C. Spragins,3,100.0,Missouri,1.4,59
+29137,Monroe County,I,False,L. Turilli,4,100.0,Missouri,0.6,23
+29137,Monroe County,G,False,D. Fitz,5,100.0,Missouri,0.4,18
+29139,Montgomery County,R,False,E. Greitens,1,100.0,Missouri,60.3,3259
+29139,Montgomery County,D,False,C. Koster,2,100.0,Missouri,36.2,1955
+29139,Montgomery County,I,False,L. Turilli,3,100.0,Missouri,1.5,80
+29139,Montgomery County,L,False,C. Spragins,4,100.0,Missouri,1.3,69
+29139,Montgomery County,G,False,D. Fitz,5,100.0,Missouri,0.7,40
+29141,Morgan County,R,False,E. Greitens,1,100.0,Missouri,66.4,5819
+29141,Morgan County,D,False,C. Koster,2,100.0,Missouri,30.6,2687
+29141,Morgan County,L,False,C. Spragins,3,100.0,Missouri,1.3,111
+29141,Morgan County,I,False,L. Turilli,4,100.0,Missouri,1.0,86
+29141,Morgan County,G,False,D. Fitz,5,100.0,Missouri,0.7,65
+29143,New Madrid County,R,False,E. Greitens,1,100.0,Missouri,60.3,4392
+29143,New Madrid County,D,False,C. Koster,2,100.0,Missouri,37.8,2754
+29143,New Madrid County,L,False,C. Spragins,3,100.0,Missouri,0.9,62
+29143,New Madrid County,G,False,D. Fitz,4,100.0,Missouri,0.5,39
+29143,New Madrid County,I,False,L. Turilli,5,100.0,Missouri,0.5,38
+29145,Newton County,R,False,E. Greitens,1,100.0,Missouri,71.9,19117
+29145,Newton County,D,False,C. Koster,2,100.0,Missouri,24.9,6606
+29145,Newton County,L,False,C. Spragins,3,100.0,Missouri,1.4,365
+29145,Newton County,I,False,L. Turilli,4,100.0,Missouri,1.1,299
+29145,Newton County,G,False,D. Fitz,5,100.0,Missouri,0.7,192
+29147,Nodaway County,R,False,E. Greitens,1,100.0,Missouri,61.5,5789
+29147,Nodaway County,D,False,C. Koster,2,100.0,Missouri,35.8,3370
+29147,Nodaway County,L,False,C. Spragins,3,100.0,Missouri,1.3,120
+29147,Nodaway County,G,False,D. Fitz,4,100.0,Missouri,0.7,69
+29147,Nodaway County,I,False,L. Turilli,5,100.0,Missouri,0.7,64
+29149,Oregon County,R,False,E. Greitens,1,100.0,Missouri,66.8,3078
+29149,Oregon County,D,False,C. Koster,2,100.0,Missouri,30.1,1385
+29149,Oregon County,I,False,L. Turilli,3,100.0,Missouri,1.4,63
+29149,Oregon County,L,False,C. Spragins,4,100.0,Missouri,1.2,56
+29149,Oregon County,G,False,D. Fitz,5,100.0,Missouri,0.6,26
+29151,Osage County,R,False,E. Greitens,1,100.0,Missouri,64.6,4572
+29151,Osage County,D,False,C. Koster,2,100.0,Missouri,32.8,2319
+29151,Osage County,I,False,L. Turilli,3,100.0,Missouri,1.4,98
+29151,Osage County,L,False,C. Spragins,4,100.0,Missouri,0.8,57
+29151,Osage County,G,False,D. Fitz,5,100.0,Missouri,0.4,27
+29153,Ozark County,R,False,E. Greitens,1,100.0,Missouri,68.7,3078
+29153,Ozark County,D,False,C. Koster,2,100.0,Missouri,27.4,1228
+29153,Ozark County,L,False,C. Spragins,3,100.0,Missouri,1.8,79
+29153,Ozark County,I,False,L. Turilli,4,100.0,Missouri,1.2,54
+29153,Ozark County,G,False,D. Fitz,5,100.0,Missouri,1.0,44
+29155,Pemiscot County,R,False,E. Greitens,1,100.0,Missouri,60.1,3533
+29155,Pemiscot County,D,False,C. Koster,2,100.0,Missouri,37.6,2208
+29155,Pemiscot County,L,False,C. Spragins,3,100.0,Missouri,1.0,57
+29155,Pemiscot County,G,False,D. Fitz,4,100.0,Missouri,0.7,43
+29155,Pemiscot County,I,False,L. Turilli,5,100.0,Missouri,0.6,34
+29157,Perry County,R,False,E. Greitens,1,100.0,Missouri,66.4,5724
+29157,Perry County,D,False,C. Koster,2,100.0,Missouri,30.9,2664
+29157,Perry County,I,False,L. Turilli,3,100.0,Missouri,1.2,102
+29157,Perry County,L,False,C. Spragins,4,100.0,Missouri,1.0,83
+29157,Perry County,G,False,D. Fitz,5,100.0,Missouri,0.5,44
+29159,Pettis County,R,False,E. Greitens,1,100.0,Missouri,62.0,11138
+29159,Pettis County,D,False,C. Koster,2,100.0,Missouri,34.9,6272
+29159,Pettis County,L,False,C. Spragins,3,100.0,Missouri,1.5,273
+29159,Pettis County,I,False,L. Turilli,4,100.0,Missouri,0.8,148
+29159,Pettis County,G,False,D. Fitz,5,100.0,Missouri,0.8,143
+29161,Phelps County,R,False,E. Greitens,1,100.0,Missouri,62.5,11623
+29161,Phelps County,D,False,C. Koster,2,100.0,Missouri,33.2,6164
+29161,Phelps County,I,False,L. Turilli,3,100.0,Missouri,2.1,395
+29161,Phelps County,L,False,C. Spragins,4,100.0,Missouri,1.6,301
+29161,Phelps County,G,False,D. Fitz,5,100.0,Missouri,0.6,110
+29163,Pike County,R,False,E. Greitens,1,100.0,Missouri,59.4,4389
+29163,Pike County,D,False,C. Koster,2,100.0,Missouri,37.3,2755
+29163,Pike County,I,False,L. Turilli,3,100.0,Missouri,1.3,93
+29163,Pike County,L,False,C. Spragins,4,100.0,Missouri,1.2,87
+29163,Pike County,G,False,D. Fitz,5,100.0,Missouri,0.8,59
+29165,Platte County,R,False,E. Greitens,1,100.0,Missouri,50.6,23804
+29165,Platte County,D,False,C. Koster,2,100.0,Missouri,46.2,21716
+29165,Platte County,L,False,C. Spragins,3,100.0,Missouri,1.7,788
+29165,Platte County,I,False,L. Turilli,4,100.0,Missouri,0.8,376
+29165,Platte County,G,False,D. Fitz,5,100.0,Missouri,0.7,320
+29167,Polk County,R,False,E. Greitens,1,100.0,Missouri,66.9,9248
+29167,Polk County,D,False,C. Koster,2,100.0,Missouri,30.2,4167
+29167,Polk County,L,False,C. Spragins,3,100.0,Missouri,1.6,218
+29167,Polk County,I,False,L. Turilli,4,100.0,Missouri,0.9,127
+29167,Polk County,G,False,D. Fitz,5,100.0,Missouri,0.4,59
+29169,Pulaski County,R,False,E. Greitens,1,88.9,Missouri,67.5,9048
+29169,Pulaski County,D,False,C. Koster,2,88.9,Missouri,28.8,3859
+29169,Pulaski County,L,False,C. Spragins,3,88.9,Missouri,1.6,216
+29169,Pulaski County,I,False,L. Turilli,4,88.9,Missouri,1.5,199
+29169,Pulaski County,G,False,D. Fitz,5,88.9,Missouri,0.6,82
+29171,Putnam County,R,False,E. Greitens,1,100.0,Missouri,73.8,1691
+29171,Putnam County,D,False,C. Koster,2,100.0,Missouri,23.9,547
+29171,Putnam County,L,False,C. Spragins,3,100.0,Missouri,1.4,32
+29171,Putnam County,G,False,D. Fitz,4,100.0,Missouri,0.6,13
+29171,Putnam County,I,False,L. Turilli,5,100.0,Missouri,0.3,7
+29173,Ralls County,R,False,E. Greitens,1,100.0,Missouri,64.5,3371
+29173,Ralls County,D,False,C. Koster,2,100.0,Missouri,33.7,1763
+29173,Ralls County,L,False,C. Spragins,3,100.0,Missouri,0.9,46
+29173,Ralls County,G,False,D. Fitz,4,100.0,Missouri,0.5,25
+29173,Ralls County,I,False,L. Turilli,5,100.0,Missouri,0.5,24
+29175,Randolph County,R,False,E. Greitens,1,100.0,Missouri,62.8,6505
+29175,Randolph County,D,False,C. Koster,2,100.0,Missouri,34.4,3561
+29175,Randolph County,L,False,C. Spragins,3,100.0,Missouri,1.6,171
+29175,Randolph County,I,False,L. Turilli,4,100.0,Missouri,0.6,64
+29175,Randolph County,G,False,D. Fitz,5,100.0,Missouri,0.6,63
+29177,Ray County,R,False,E. Greitens,1,100.0,Missouri,52.5,5687
+29177,Ray County,D,False,C. Koster,2,100.0,Missouri,43.6,4715
+29177,Ray County,L,False,C. Spragins,3,100.0,Missouri,2.0,214
+29177,Ray County,I,False,L. Turilli,4,100.0,Missouri,1.2,131
+29177,Ray County,G,False,D. Fitz,5,100.0,Missouri,0.7,77
+29179,Reynolds County,R,False,E. Greitens,1,100.0,Missouri,66.3,1965
+29179,Reynolds County,D,False,C. Koster,2,100.0,Missouri,29.6,878
+29179,Reynolds County,G,False,D. Fitz,3,100.0,Missouri,1.7,51
+29179,Reynolds County,L,False,C. Spragins,4,100.0,Missouri,1.5,43
+29179,Reynolds County,I,False,L. Turilli,5,100.0,Missouri,0.9,28
+29181,Ripley County,R,False,E. Greitens,1,100.0,Missouri,73.2,3958
+29181,Ripley County,D,False,C. Koster,2,100.0,Missouri,24.2,1310
+29181,Ripley County,L,False,C. Spragins,3,100.0,Missouri,1.1,62
+29181,Ripley County,G,False,D. Fitz,4,100.0,Missouri,0.7,40
+29181,Ripley County,I,False,L. Turilli,5,100.0,Missouri,0.7,39
+29195,Saline County,R,False,E. Greitens,1,100.0,Missouri,53.0,4901
+29195,Saline County,D,False,C. Koster,2,100.0,Missouri,43.3,4002
+29195,Saline County,L,False,C. Spragins,3,100.0,Missouri,1.6,145
+29195,Saline County,I,False,L. Turilli,4,100.0,Missouri,1.2,108
+29195,Saline County,G,False,D. Fitz,5,100.0,Missouri,1.0,88
+29197,Schuyler County,R,False,E. Greitens,1,100.0,Missouri,66.3,1259
+29197,Schuyler County,D,False,C. Koster,2,100.0,Missouri,31.3,595
+29197,Schuyler County,L,False,C. Spragins,3,100.0,Missouri,1.2,23
+29197,Schuyler County,I,False,L. Turilli,4,100.0,Missouri,0.6,12
+29197,Schuyler County,G,False,D. Fitz,5,100.0,Missouri,0.6,11
+29199,Scotland County,R,False,E. Greitens,1,100.0,Missouri,65.3,1273
+29199,Scotland County,D,False,C. Koster,2,100.0,Missouri,31.3,610
+29199,Scotland County,G,False,D. Fitz,3,100.0,Missouri,1.6,31
+29199,Scotland County,L,False,C. Spragins,4,100.0,Missouri,1.1,22
+29199,Scotland County,I,False,L. Turilli,5,100.0,Missouri,0.7,13
+29201,Scott County,R,False,E. Greitens,1,100.0,Missouri,66.0,11322
+29201,Scott County,D,False,C. Koster,2,100.0,Missouri,31.5,5412
+29201,Scott County,L,False,C. Spragins,3,100.0,Missouri,1.2,209
+29201,Scott County,I,False,L. Turilli,4,100.0,Missouri,0.9,147
+29201,Scott County,G,False,D. Fitz,5,100.0,Missouri,0.4,69
+29203,Shannon County,R,False,E. Greitens,1,100.0,Missouri,61.3,2365
+29203,Shannon County,D,False,C. Koster,2,100.0,Missouri,34.3,1322
+29203,Shannon County,I,False,L. Turilli,3,100.0,Missouri,2.0,77
+29203,Shannon County,L,False,C. Spragins,4,100.0,Missouri,1.5,56
+29203,Shannon County,G,False,D. Fitz,5,100.0,Missouri,0.9,35
+29205,Shelby County,R,False,E. Greitens,1,100.0,Missouri,66.1,2143
+29205,Shelby County,D,False,C. Koster,2,100.0,Missouri,32.0,1037
+29205,Shelby County,L,False,C. Spragins,3,100.0,Missouri,1.0,31
+29205,Shelby County,G,False,D. Fitz,4,100.0,Missouri,0.5,15
+29205,Shelby County,I,False,L. Turilli,5,100.0,Missouri,0.5,15
+29183,St. Charles County,R,False,E. Greitens,1,100.0,Missouri,54.5,109084
+29183,St. Charles County,D,False,C. Koster,2,100.0,Missouri,42.6,85209
+29183,St. Charles County,L,False,C. Spragins,3,100.0,Missouri,1.4,2873
+29183,St. Charles County,I,False,L. Turilli,4,100.0,Missouri,0.9,1722
+29183,St. Charles County,G,False,D. Fitz,5,100.0,Missouri,0.6,1200
+29185,St. Clair County,R,False,E. Greitens,1,100.0,Missouri,62.9,2927
+29185,St. Clair County,D,False,C. Koster,2,100.0,Missouri,33.5,1560
+29185,St. Clair County,I,False,L. Turilli,3,100.0,Missouri,1.5,69
+29185,St. Clair County,L,False,C. Spragins,4,100.0,Missouri,1.4,66
+29185,St. Clair County,G,False,D. Fitz,5,100.0,Missouri,0.7,34
+29187,St. Francois County,R,False,E. Greitens,1,100.0,Missouri,58.5,14432
+29187,St. Francois County,D,False,C. Koster,2,100.0,Missouri,38.2,9424
+29187,St. Francois County,L,False,C. Spragins,3,100.0,Missouri,1.3,310
+29187,St. Francois County,I,False,L. Turilli,4,100.0,Missouri,1.2,285
+29187,St. Francois County,G,False,D. Fitz,5,100.0,Missouri,0.9,216
+29189,St. Louis County,D,False,C. Koster,1,99.8,Missouri,58.4,295399
+29189,St. Louis County,R,False,E. Greitens,2,99.8,Missouri,38.8,196280
+29189,St. Louis County,L,False,C. Spragins,3,99.8,Missouri,1.2,6110
+29189,St. Louis County,I,False,L. Turilli,4,99.8,Missouri,0.8,4054
+29189,St. Louis County,G,False,D. Fitz,5,99.8,Missouri,0.7,3789
+29510,St. Louis City,D,False,C. Koster,1,100.0,Missouri,80.4,102549
+29510,St. Louis City,R,False,E. Greitens,2,100.0,Missouri,16.3,20813
+29510,St. Louis City,L,False,C. Spragins,3,100.0,Missouri,1.4,1825
+29510,St. Louis City,G,False,D. Fitz,4,100.0,Missouri,1.2,1485
+29510,St. Louis City,I,False,L. Turilli,5,100.0,Missouri,0.6,823
+29186,Ste. Genevieve County,R,False,E. Greitens,1,100.0,Missouri,50.3,4241
+29186,Ste. Genevieve County,D,False,C. Koster,2,100.0,Missouri,47.1,3966
+29186,Ste. Genevieve County,L,False,C. Spragins,3,100.0,Missouri,1.1,95
+29186,Ste. Genevieve County,I,False,L. Turilli,4,100.0,Missouri,0.9,75
+29186,Ste. Genevieve County,G,False,D. Fitz,5,100.0,Missouri,0.6,50
+29207,Stoddard County,R,False,E. Greitens,1,100.0,Missouri,73.9,9790
+29207,Stoddard County,D,False,C. Koster,2,100.0,Missouri,24.0,3176
+29207,Stoddard County,L,False,C. Spragins,3,100.0,Missouri,1.0,127
+29207,Stoddard County,I,False,L. Turilli,4,100.0,Missouri,0.8,105
+29207,Stoddard County,G,False,D. Fitz,5,100.0,Missouri,0.4,57
+29209,Stone County,R,False,E. Greitens,1,100.0,Missouri,72.3,11914
+29209,Stone County,D,False,C. Koster,2,100.0,Missouri,25.1,4132
+29209,Stone County,L,False,C. Spragins,3,100.0,Missouri,1.3,212
+29209,Stone County,I,False,L. Turilli,4,100.0,Missouri,0.9,149
+29209,Stone County,G,False,D. Fitz,5,100.0,Missouri,0.4,73
+29211,Sullivan County,R,False,E. Greitens,1,100.0,Missouri,66.2,1642
+29211,Sullivan County,D,False,C. Koster,2,100.0,Missouri,31.7,787
+29211,Sullivan County,I,False,L. Turilli,3,100.0,Missouri,1.0,25
+29211,Sullivan County,L,False,C. Spragins,4,100.0,Missouri,0.6,16
+29211,Sullivan County,G,False,D. Fitz,5,100.0,Missouri,0.4,10
+29213,Taney County,R,False,E. Greitens,1,100.0,Missouri,71.1,16552
+29213,Taney County,D,False,C. Koster,2,100.0,Missouri,25.7,5978
+29213,Taney County,L,False,C. Spragins,3,100.0,Missouri,1.5,347
+29213,Taney County,I,False,L. Turilli,4,100.0,Missouri,1.1,246
+29213,Taney County,G,False,D. Fitz,5,100.0,Missouri,0.7,172
+29215,Texas County,R,False,E. Greitens,1,100.0,Missouri,69.9,7659
+29215,Texas County,D,False,C. Koster,2,100.0,Missouri,26.6,2918
+29215,Texas County,I,False,L. Turilli,3,100.0,Missouri,1.7,183
+29215,Texas County,L,False,C. Spragins,4,100.0,Missouri,1.4,150
+29215,Texas County,G,False,D. Fitz,5,100.0,Missouri,0.5,51
+29217,Vernon County,R,False,E. Greitens,1,100.0,Missouri,66.7,5696
+29217,Vernon County,D,False,C. Koster,2,100.0,Missouri,30.6,2616
+29217,Vernon County,L,False,C. Spragins,3,100.0,Missouri,1.2,106
+29217,Vernon County,I,False,L. Turilli,4,100.0,Missouri,0.8,71
+29217,Vernon County,G,False,D. Fitz,5,100.0,Missouri,0.6,51
+29219,Warren County,R,False,E. Greitens,1,100.0,Missouri,57.6,9056
+29219,Warren County,D,False,C. Koster,2,100.0,Missouri,38.5,6055
+29219,Warren County,I,False,L. Turilli,3,100.0,Missouri,1.8,286
+29219,Warren County,L,False,C. Spragins,4,100.0,Missouri,1.5,234
+29219,Warren County,G,False,D. Fitz,5,100.0,Missouri,0.6,96
+29221,Washington County,R,False,E. Greitens,1,100.0,Missouri,61.3,5680
+29221,Washington County,D,False,C. Koster,2,100.0,Missouri,33.9,3141
+29221,Washington County,I,False,L. Turilli,3,100.0,Missouri,2.7,248
+29221,Washington County,L,False,C. Spragins,4,100.0,Missouri,1.2,110
+29221,Washington County,G,False,D. Fitz,5,100.0,Missouri,0.9,82
+29223,Wayne County,R,False,E. Greitens,1,100.0,Missouri,72.0,4082
+29223,Wayne County,D,False,C. Koster,2,100.0,Missouri,25.0,1418
+29223,Wayne County,L,False,C. Spragins,3,100.0,Missouri,1.4,80
+29223,Wayne County,I,False,L. Turilli,4,100.0,Missouri,0.8,44
+29223,Wayne County,G,False,D. Fitz,5,100.0,Missouri,0.7,42
+29225,Webster County,R,False,E. Greitens,1,100.0,Missouri,66.5,11138
+29225,Webster County,D,False,C. Koster,2,100.0,Missouri,30.1,5036
+29225,Webster County,I,False,L. Turilli,3,100.0,Missouri,1.5,259
+29225,Webster County,L,False,C. Spragins,4,100.0,Missouri,1.4,236
+29225,Webster County,G,False,D. Fitz,5,100.0,Missouri,0.5,76
+29227,Worth County,R,False,E. Greitens,1,100.0,Missouri,68.8,714
+29227,Worth County,D,False,C. Koster,2,100.0,Missouri,28.2,293
+29227,Worth County,L,False,C. Spragins,3,100.0,Missouri,1.3,14
+29227,Worth County,I,False,L. Turilli,4,100.0,Missouri,1.1,11
+29227,Worth County,G,False,D. Fitz,5,100.0,Missouri,0.6,6
+29229,Wright County,R,False,E. Greitens,1,100.0,Missouri,73.9,5990
+29229,Wright County,D,False,C. Koster,2,100.0,Missouri,23.4,1897
+29229,Wright County,L,False,C. Spragins,3,100.0,Missouri,1.2,94
+29229,Wright County,I,False,L. Turilli,4,100.0,Missouri,1.1,88
+29229,Wright County,G,False,D. Fitz,5,100.0,Missouri,0.4,33
+30001,Beaverhead County,R,False,G. Gianforte,1,100.0,Montana,57.5,2790
+30001,Beaverhead County,D,True,S. Bullock,2,100.0,Montana,39.7,1926
+30001,Beaverhead County,L,False,T. Dunlap,3,100.0,Montana,2.9,139
+30003,Big Horn County,D,True,S. Bullock,1,100.0,Montana,62.3,2683
+30003,Big Horn County,R,False,G. Gianforte,2,100.0,Montana,34.5,1483
+30003,Big Horn County,L,False,T. Dunlap,3,100.0,Montana,3.2,138
+30005,Blaine County,D,True,S. Bullock,1,100.0,Montana,58.4,1610
+30005,Blaine County,R,False,G. Gianforte,2,100.0,Montana,39.0,1074
+30005,Blaine County,L,False,T. Dunlap,3,100.0,Montana,2.6,72
+30007,Broadwater County,R,False,G. Gianforte,1,100.0,Montana,57.1,1820
+30007,Broadwater County,D,True,S. Bullock,2,100.0,Montana,39.6,1262
+30007,Broadwater County,L,False,T. Dunlap,3,100.0,Montana,3.2,103
+30009,Carbon County,R,False,G. Gianforte,1,100.0,Montana,51.5,3130
+30009,Carbon County,D,True,S. Bullock,2,100.0,Montana,45.4,2763
+30009,Carbon County,L,False,T. Dunlap,3,100.0,Montana,3.1,190
+30011,Carter County,R,False,G. Gianforte,1,100.0,Montana,81.8,649
+30011,Carter County,D,True,S. Bullock,2,100.0,Montana,16.1,128
+30011,Carter County,L,False,T. Dunlap,3,100.0,Montana,2.0,16
+30013,Cascade County,D,True,S. Bullock,1,100.0,Montana,53.7,18787
+30013,Cascade County,R,False,G. Gianforte,2,100.0,Montana,43.4,15181
+30013,Cascade County,L,False,T. Dunlap,3,100.0,Montana,2.9,1014
+30015,Chouteau County,R,False,G. Gianforte,1,100.0,Montana,50.8,1364
+30015,Chouteau County,D,True,S. Bullock,2,100.0,Montana,46.6,1253
+30015,Chouteau County,L,False,T. Dunlap,3,100.0,Montana,2.6,69
+30017,Custer County,R,False,G. Gianforte,1,100.0,Montana,57.4,3026
+30017,Custer County,D,True,S. Bullock,2,100.0,Montana,38.9,2051
+30017,Custer County,L,False,T. Dunlap,3,100.0,Montana,3.8,199
+30019,Daniels County,R,False,G. Gianforte,1,100.0,Montana,70.5,648
+30019,Daniels County,D,True,S. Bullock,2,100.0,Montana,25.9,238
+30019,Daniels County,L,False,T. Dunlap,3,100.0,Montana,3.6,33
+30021,Dawson County,R,False,G. Gianforte,1,100.0,Montana,71.0,3125
+30021,Dawson County,D,True,S. Bullock,2,100.0,Montana,24.4,1072
+30021,Dawson County,L,False,T. Dunlap,3,100.0,Montana,4.6,202
+30023,Deer Lodge County,D,True,S. Bullock,1,100.0,Montana,69.6,2998
+30023,Deer Lodge County,R,False,G. Gianforte,2,100.0,Montana,26.3,1132
+30023,Deer Lodge County,L,False,T. Dunlap,3,100.0,Montana,4.1,177
+30025,Fallon County,R,False,G. Gianforte,1,100.0,Montana,72.0,1058
+30025,Fallon County,D,True,S. Bullock,2,100.0,Montana,25.0,367
+30025,Fallon County,L,False,T. Dunlap,3,100.0,Montana,3.0,44
+30027,Fergus County,R,False,G. Gianforte,1,100.0,Montana,60.7,3628
+30027,Fergus County,D,True,S. Bullock,2,100.0,Montana,36.2,2165
+30027,Fergus County,L,False,T. Dunlap,3,100.0,Montana,3.1,185
+30029,Flathead County,R,False,G. Gianforte,1,100.0,Montana,55.6,26254
+30029,Flathead County,D,True,S. Bullock,2,100.0,Montana,40.5,19117
+30029,Flathead County,L,False,T. Dunlap,3,100.0,Montana,3.9,1853
+30031,Gallatin County,D,True,S. Bullock,1,100.0,Montana,55.8,30201
+30031,Gallatin County,R,False,G. Gianforte,2,100.0,Montana,40.9,22139
+30031,Gallatin County,L,False,T. Dunlap,3,100.0,Montana,3.3,1779
+30033,Garfield County,R,False,G. Gianforte,1,100.0,Montana,82.4,603
+30033,Garfield County,D,True,S. Bullock,2,100.0,Montana,15.6,114
+30033,Garfield County,L,False,T. Dunlap,3,100.0,Montana,2.0,15
+30035,Glacier County,D,True,S. Bullock,1,100.0,Montana,72.9,3741
+30035,Glacier County,R,False,G. Gianforte,2,100.0,Montana,24.6,1262
+30035,Glacier County,L,False,T. Dunlap,3,100.0,Montana,2.5,128
+30037,Golden Valley County,R,False,G. Gianforte,1,100.0,Montana,63.0,308
+30037,Golden Valley County,D,True,S. Bullock,2,100.0,Montana,33.9,166
+30037,Golden Valley County,L,False,T. Dunlap,3,100.0,Montana,3.1,15
+30039,Granite County,R,False,G. Gianforte,1,100.0,Montana,53.6,973
+30039,Granite County,D,True,S. Bullock,2,100.0,Montana,43.3,786
+30039,Granite County,L,False,T. Dunlap,3,100.0,Montana,3.0,55
+30041,Hill County,D,True,S. Bullock,1,100.0,Montana,57.3,3779
+30041,Hill County,R,False,G. Gianforte,2,100.0,Montana,39.7,2620
+30041,Hill County,L,False,T. Dunlap,3,100.0,Montana,3.0,197
+30043,Jefferson County,R,False,G. Gianforte,1,100.0,Montana,52.2,3536
+30043,Jefferson County,D,True,S. Bullock,2,100.0,Montana,44.9,3043
+30043,Jefferson County,L,False,T. Dunlap,3,100.0,Montana,2.9,198
+30045,Judith Basin County,R,False,G. Gianforte,1,100.0,Montana,58.4,717
+30045,Judith Basin County,D,True,S. Bullock,2,100.0,Montana,39.2,481
+30045,Judith Basin County,L,False,T. Dunlap,3,100.0,Montana,2.4,29
+30047,Lake County,D,True,S. Bullock,1,100.0,Montana,48.6,6457
+30047,Lake County,R,False,G. Gianforte,2,100.0,Montana,47.5,6304
+30047,Lake County,L,False,T. Dunlap,3,100.0,Montana,3.9,513
+30049,Lewis And Clark County,D,True,S. Bullock,1,100.0,Montana,60.1,21098
+30049,Lewis And Clark County,R,False,G. Gianforte,2,100.0,Montana,37.4,13125
+30049,Lewis And Clark County,L,False,T. Dunlap,3,100.0,Montana,2.5,888
+30051,Liberty County,R,False,G. Gianforte,1,100.0,Montana,58.5,570
+30051,Liberty County,D,True,S. Bullock,2,100.0,Montana,38.7,377
+30051,Liberty County,L,False,T. Dunlap,3,100.0,Montana,2.8,27
+30053,Lincoln County,R,False,G. Gianforte,1,100.0,Montana,60.7,5722
+30053,Lincoln County,D,True,S. Bullock,2,100.0,Montana,35.0,3303
+30053,Lincoln County,L,False,T. Dunlap,3,100.0,Montana,4.3,406
+30057,Madison County,R,False,G. Gianforte,1,100.0,Montana,56.3,2731
+30057,Madison County,D,True,S. Bullock,2,100.0,Montana,40.6,1973
+30057,Madison County,L,False,T. Dunlap,3,100.0,Montana,3.1,150
+30055,Mccone County,R,False,G. Gianforte,1,100.0,Montana,74.5,794
+30055,Mccone County,D,True,S. Bullock,2,100.0,Montana,23.3,248
+30055,Mccone County,L,False,T. Dunlap,3,100.0,Montana,2.3,24
+30059,Meagher County,R,False,G. Gianforte,1,100.0,Montana,60.3,599
+30059,Meagher County,D,True,S. Bullock,2,100.0,Montana,36.6,364
+30059,Meagher County,L,False,T. Dunlap,3,100.0,Montana,3.1,31
+30061,Mineral County,R,False,G. Gianforte,1,100.0,Montana,49.4,1063
+30061,Mineral County,D,True,S. Bullock,2,100.0,Montana,40.4,869
+30061,Mineral County,L,False,T. Dunlap,3,100.0,Montana,10.1,218
+30063,Missoula County,D,True,S. Bullock,1,100.0,Montana,65.2,38636
+30063,Missoula County,R,False,G. Gianforte,2,100.0,Montana,31.5,18634
+30063,Missoula County,L,False,T. Dunlap,3,100.0,Montana,3.3,1962
+30065,Musselshell County,R,False,G. Gianforte,1,100.0,Montana,64.9,1596
+30065,Musselshell County,D,True,S. Bullock,2,100.0,Montana,30.0,738
+30065,Musselshell County,L,False,T. Dunlap,3,100.0,Montana,5.0,124
+30067,Park County,D,True,S. Bullock,1,100.0,Montana,53.0,4947
+30067,Park County,R,False,G. Gianforte,2,100.0,Montana,43.4,4050
+30067,Park County,L,False,T. Dunlap,3,100.0,Montana,3.6,334
+30069,Petroleum County,R,False,G. Gianforte,1,100.0,Montana,74.5,245
+30069,Petroleum County,D,True,S. Bullock,2,100.0,Montana,22.5,74
+30069,Petroleum County,L,False,T. Dunlap,3,100.0,Montana,3.0,10
+30071,Phillips County,R,False,G. Gianforte,1,100.0,Montana,75.9,1684
+30071,Phillips County,D,True,S. Bullock,2,100.0,Montana,22.1,491
+30071,Phillips County,L,False,T. Dunlap,3,100.0,Montana,2.0,44
+30073,Pondera County,R,False,G. Gianforte,1,100.0,Montana,50.7,1413
+30073,Pondera County,D,True,S. Bullock,2,100.0,Montana,46.8,1305
+30073,Pondera County,L,False,T. Dunlap,3,100.0,Montana,2.4,68
+30075,Powder River County,R,False,G. Gianforte,1,100.0,Montana,73.2,777
+30075,Powder River County,D,True,S. Bullock,2,100.0,Montana,24.1,256
+30075,Powder River County,L,False,T. Dunlap,3,100.0,Montana,2.7,29
+30077,Powell County,R,False,G. Gianforte,1,100.0,Montana,57.6,1630
+30077,Powell County,D,True,S. Bullock,2,100.0,Montana,38.8,1098
+30077,Powell County,L,False,T. Dunlap,3,100.0,Montana,3.7,104
+30079,Prairie County,R,False,G. Gianforte,1,100.0,Montana,71.4,500
+30079,Prairie County,D,True,S. Bullock,2,100.0,Montana,24.7,173
+30079,Prairie County,L,False,T. Dunlap,3,100.0,Montana,3.9,27
+30081,Ravalli County,R,False,G. Gianforte,1,100.0,Montana,55.3,12595
+30081,Ravalli County,D,True,S. Bullock,2,100.0,Montana,41.1,9363
+30081,Ravalli County,L,False,T. Dunlap,3,100.0,Montana,3.6,821
+30083,Richland County,R,False,G. Gianforte,1,100.0,Montana,73.7,3562
+30083,Richland County,D,True,S. Bullock,2,100.0,Montana,22.2,1076
+30083,Richland County,L,False,T. Dunlap,3,100.0,Montana,4.1,198
+30085,Roosevelt County,D,True,S. Bullock,1,100.0,Montana,54.7,1957
+30085,Roosevelt County,R,False,G. Gianforte,2,100.0,Montana,41.0,1468
+30085,Roosevelt County,L,False,T. Dunlap,3,100.0,Montana,4.2,152
+30087,Rosebud County,R,False,G. Gianforte,1,100.0,Montana,57.0,1981
+30087,Rosebud County,D,True,S. Bullock,2,100.0,Montana,40.3,1398
+30087,Rosebud County,L,False,T. Dunlap,3,100.0,Montana,2.7,94
+30089,Sanders County,R,False,G. Gianforte,1,100.0,Montana,57.5,3458
+30089,Sanders County,D,True,S. Bullock,2,100.0,Montana,37.5,2255
+30089,Sanders County,L,False,T. Dunlap,3,100.0,Montana,5.0,300
+30091,Sheridan County,R,False,G. Gianforte,1,100.0,Montana,54.8,1030
+30091,Sheridan County,D,True,S. Bullock,2,100.0,Montana,41.1,772
+30091,Sheridan County,L,False,T. Dunlap,3,100.0,Montana,4.1,77
+30093,Silver Bow County,D,True,S. Bullock,1,100.0,Montana,70.6,11871
+30093,Silver Bow County,R,False,G. Gianforte,2,100.0,Montana,26.4,4437
+30093,Silver Bow County,L,False,T. Dunlap,3,100.0,Montana,3.0,507
+30095,Stillwater County,R,False,G. Gianforte,1,100.0,Montana,61.4,3013
+30095,Stillwater County,D,True,S. Bullock,2,100.0,Montana,35.4,1735
+30095,Stillwater County,L,False,T. Dunlap,3,100.0,Montana,3.2,158
+30097,Sweet Grass County,R,False,G. Gianforte,1,100.0,Montana,64.4,1372
+30097,Sweet Grass County,D,True,S. Bullock,2,100.0,Montana,32.9,701
+30097,Sweet Grass County,L,False,T. Dunlap,3,100.0,Montana,2.7,57
+30099,Teton County,R,False,G. Gianforte,1,100.0,Montana,54.0,1766
+30099,Teton County,D,True,S. Bullock,2,100.0,Montana,43.7,1429
+30099,Teton County,L,False,T. Dunlap,3,100.0,Montana,2.2,73
+30101,Toole County,R,False,G. Gianforte,1,100.0,Montana,58.7,1209
+30101,Toole County,D,True,S. Bullock,2,100.0,Montana,38.5,793
+30101,Toole County,L,False,T. Dunlap,3,100.0,Montana,2.7,56
+30103,Treasure County,R,False,G. Gianforte,1,100.0,Montana,61.7,276
+30103,Treasure County,D,True,S. Bullock,2,100.0,Montana,35.6,159
+30103,Treasure County,L,False,T. Dunlap,3,100.0,Montana,2.7,12
+30105,Valley County,R,False,G. Gianforte,1,100.0,Montana,59.3,2341
+30105,Valley County,D,True,S. Bullock,2,100.0,Montana,37.1,1464
+30105,Valley County,L,False,T. Dunlap,3,100.0,Montana,3.6,144
+30107,Wheatland County,R,False,G. Gianforte,1,100.0,Montana,56.6,545
+30107,Wheatland County,D,True,S. Bullock,2,100.0,Montana,41.3,398
+30107,Wheatland County,L,False,T. Dunlap,3,100.0,Montana,2.1,20
+30109,Wibaux County,R,False,G. Gianforte,1,100.0,Montana,69.7,378
+30109,Wibaux County,D,True,S. Bullock,2,100.0,Montana,26.4,143
+30109,Wibaux County,L,False,T. Dunlap,3,100.0,Montana,3.9,21
+30111,Yellowstone County,R,False,G. Gianforte,1,100.0,Montana,48.7,32692
+30111,Yellowstone County,D,True,S. Bullock,2,100.0,Montana,47.9,32194
+30111,Yellowstone County,L,False,T. Dunlap,3,100.0,Montana,3.4,2293
+33001,Belknap County,R,False,C. Sununu,1,100.0,New Hampshire,54.9,18773
+33001,Belknap County,D,False,C. Van Ostern,2,100.0,New Hampshire,41.1,14069
+33001,Belknap County,L,False,M. Abramson,3,100.0,New Hampshire,4.0,1354
+33003,Carroll County,R,False,C. Sununu,1,100.0,New Hampshire,52.7,15192
+33003,Carroll County,D,False,C. Van Ostern,2,100.0,New Hampshire,43.4,12503
+33003,Carroll County,L,False,M. Abramson,3,100.0,New Hampshire,3.9,1126
+33005,Cheshire County,D,False,C. Van Ostern,1,100.0,New Hampshire,53.2,21471
+33005,Cheshire County,R,False,C. Sununu,2,100.0,New Hampshire,42.4,17107
+33005,Cheshire County,L,False,M. Abramson,3,100.0,New Hampshire,4.5,1802
+33007,Coos County,R,False,C. Sununu,1,100.0,New Hampshire,48.9,7374
+33007,Coos County,D,False,C. Van Ostern,2,100.0,New Hampshire,46.4,6993
+33007,Coos County,L,False,M. Abramson,3,100.0,New Hampshire,4.7,702
+33009,Grafton County,D,False,C. Van Ostern,1,100.0,New Hampshire,55.8,27621
+33009,Grafton County,R,False,C. Sununu,2,100.0,New Hampshire,39.7,19684
+33009,Grafton County,L,False,M. Abramson,3,100.0,New Hampshire,4.5,2215
+33011,Hillsborough County,R,False,C. Sununu,1,100.0,New Hampshire,49.9,103688
+33011,Hillsborough County,D,False,C. Van Ostern,2,100.0,New Hampshire,45.7,95071
+33011,Hillsborough County,L,False,M. Abramson,3,100.0,New Hampshire,4.4,9120
+33013,Merrimack County,D,False,C. Van Ostern,1,100.0,New Hampshire,50.4,41122
+33013,Merrimack County,R,False,C. Sununu,2,100.0,New Hampshire,45.7,37249
+33013,Merrimack County,L,False,M. Abramson,3,100.0,New Hampshire,3.9,3159
+33015,Rockingham County,R,False,C. Sununu,1,100.0,New Hampshire,53.8,94865
+33015,Rockingham County,D,False,C. Van Ostern,2,100.0,New Hampshire,42.0,74076
+33015,Rockingham County,L,False,M. Abramson,3,100.0,New Hampshire,4.3,7499
+33017,Strafford County,D,False,C. Van Ostern,1,100.0,New Hampshire,51.6,34165
+33017,Strafford County,R,False,C. Sununu,2,100.0,New Hampshire,43.6,28875
+33017,Strafford County,L,False,M. Abramson,3,100.0,New Hampshire,4.7,3127
+33019,Sullivan County,R,False,C. Sununu,1,100.0,New Hampshire,48.9,10765
+33019,Sullivan County,D,False,C. Van Ostern,2,100.0,New Hampshire,46.6,10244
+33019,Sullivan County,L,False,M. Abramson,3,100.0,New Hampshire,4.5,995
+37001,Alamance County,R,True,P. McCrory,1,100.0,North Carolina,53.0,36945
+37001,Alamance County,D,False,R. Cooper,2,100.0,North Carolina,45.1,31436
+37001,Alamance County,L,False,L. Cecil,3,100.0,North Carolina,1.8,1266
+37003,Alexander County,R,True,P. McCrory,1,100.0,North Carolina,72.5,13191
+37003,Alexander County,D,False,R. Cooper,2,100.0,North Carolina,25.4,4624
+37003,Alexander County,L,False,L. Cecil,3,100.0,North Carolina,2.1,383
+37005,Alleghany County,R,True,P. McCrory,1,100.0,North Carolina,67.3,3558
+37005,Alleghany County,D,False,R. Cooper,2,100.0,North Carolina,30.9,1633
+37005,Alleghany County,L,False,L. Cecil,3,100.0,North Carolina,1.8,96
+37007,Anson County,D,False,R. Cooper,1,100.0,North Carolina,55.7,5777
+37007,Anson County,R,True,P. McCrory,2,100.0,North Carolina,43.2,4484
+37007,Anson County,L,False,L. Cecil,3,100.0,North Carolina,1.1,112
+37009,Ashe County,R,True,P. McCrory,1,100.0,North Carolina,65.8,8783
+37009,Ashe County,D,False,R. Cooper,2,100.0,North Carolina,32.0,4274
+37009,Ashe County,L,False,L. Cecil,3,100.0,North Carolina,2.1,285
+37011,Avery County,R,True,P. McCrory,1,100.0,North Carolina,73.6,5954
+37011,Avery County,D,False,R. Cooper,2,100.0,North Carolina,24.1,1953
+37011,Avery County,L,False,L. Cecil,3,100.0,North Carolina,2.3,187
+37013,Beaufort County,R,True,P. McCrory,1,100.0,North Carolina,61.5,14542
+37013,Beaufort County,D,False,R. Cooper,2,100.0,North Carolina,37.2,8790
+37013,Beaufort County,L,False,L. Cecil,3,100.0,North Carolina,1.4,320
+37015,Bertie County,D,False,R. Cooper,1,100.0,North Carolina,59.6,5562
+37015,Bertie County,R,True,P. McCrory,2,100.0,North Carolina,39.8,3719
+37015,Bertie County,L,False,L. Cecil,3,100.0,North Carolina,0.6,57
+37017,Bladen County,R,True,P. McCrory,1,100.0,North Carolina,52.7,8272
+37017,Bladen County,D,False,R. Cooper,2,100.0,North Carolina,46.1,7227
+37017,Bladen County,L,False,L. Cecil,3,100.0,North Carolina,1.2,189
+37019,Brunswick County,R,True,P. McCrory,1,100.0,North Carolina,60.3,40477
+37019,Brunswick County,D,False,R. Cooper,2,100.0,North Carolina,37.4,25112
+37019,Brunswick County,L,False,L. Cecil,3,100.0,North Carolina,2.3,1552
+37021,Buncombe County,D,False,R. Cooper,1,100.0,North Carolina,59.3,81347
+37021,Buncombe County,R,True,P. McCrory,2,100.0,North Carolina,37.6,51513
+37021,Buncombe County,L,False,L. Cecil,3,100.0,North Carolina,3.1,4241
+37023,Burke County,R,True,P. McCrory,1,100.0,North Carolina,63.4,23996
+37023,Burke County,D,False,R. Cooper,2,100.0,North Carolina,34.4,13020
+37023,Burke County,L,False,L. Cecil,3,100.0,North Carolina,2.3,855
+37025,Cabarrus County,R,True,P. McCrory,1,100.0,North Carolina,56.6,51960
+37025,Cabarrus County,D,False,R. Cooper,2,100.0,North Carolina,40.8,37422
+37025,Cabarrus County,L,False,L. Cecil,3,100.0,North Carolina,2.6,2382
+37027,Caldwell County,R,True,P. McCrory,1,100.0,North Carolina,69.6,25070
+37027,Caldwell County,D,False,R. Cooper,2,100.0,North Carolina,27.8,10019
+37027,Caldwell County,L,False,L. Cecil,3,100.0,North Carolina,2.5,918
+37029,Camden County,R,True,P. McCrory,1,100.0,North Carolina,69.6,3392
+37029,Camden County,D,False,R. Cooper,2,100.0,North Carolina,27.7,1351
+37029,Camden County,L,False,L. Cecil,3,100.0,North Carolina,2.6,129
+37031,Carteret County,R,True,P. McCrory,1,100.0,North Carolina,69.5,25760
+37031,Carteret County,D,False,R. Cooper,2,100.0,North Carolina,28.4,10547
+37031,Carteret County,L,False,L. Cecil,3,100.0,North Carolina,2.1,773
+37033,Caswell County,R,True,P. McCrory,1,100.0,North Carolina,52.7,5506
+37033,Caswell County,D,False,R. Cooper,2,100.0,North Carolina,45.9,4792
+37033,Caswell County,L,False,L. Cecil,3,100.0,North Carolina,1.4,148
+37035,Catawba County,R,True,P. McCrory,1,100.0,North Carolina,64.5,46031
+37035,Catawba County,D,False,R. Cooper,2,100.0,North Carolina,33.0,23582
+37035,Catawba County,L,False,L. Cecil,3,100.0,North Carolina,2.5,1799
+37037,Chatham County,D,False,R. Cooper,1,100.0,North Carolina,55.4,21971
+37037,Chatham County,R,True,P. McCrory,2,100.0,North Carolina,42.8,16961
+37037,Chatham County,L,False,L. Cecil,3,100.0,North Carolina,1.8,715
+37039,Cherokee County,R,True,P. McCrory,1,100.0,North Carolina,70.2,9603
+37039,Cherokee County,D,False,R. Cooper,2,100.0,North Carolina,26.6,3646
+37039,Cherokee County,L,False,L. Cecil,3,100.0,North Carolina,3.2,436
+37041,Chowan County,R,True,P. McCrory,1,100.0,North Carolina,57.1,4047
+37041,Chowan County,D,False,R. Cooper,2,100.0,North Carolina,41.9,2966
+37041,Chowan County,L,False,L. Cecil,3,100.0,North Carolina,1.0,72
+37043,Clay County,R,True,P. McCrory,1,100.0,North Carolina,68.6,3993
+37043,Clay County,D,False,R. Cooper,2,100.0,North Carolina,28.8,1674
+37043,Clay County,L,False,L. Cecil,3,100.0,North Carolina,2.6,150
+37045,Cleveland County,R,True,P. McCrory,1,100.0,North Carolina,62.1,27463
+37045,Cleveland County,D,False,R. Cooper,2,100.0,North Carolina,36.3,16046
+37045,Cleveland County,L,False,L. Cecil,3,100.0,North Carolina,1.7,735
+37047,Columbus County,R,True,P. McCrory,1,100.0,North Carolina,58.8,13655
+37047,Columbus County,D,False,R. Cooper,2,100.0,North Carolina,39.8,9247
+37047,Columbus County,L,False,L. Cecil,3,100.0,North Carolina,1.3,310
+37049,Craven County,R,True,P. McCrory,1,100.0,North Carolina,59.9,27759
+37049,Craven County,D,False,R. Cooper,2,100.0,North Carolina,38.2,17669
+37049,Craven County,L,False,L. Cecil,3,100.0,North Carolina,1.9,883
+37051,Cumberland County,D,False,R. Cooper,1,100.0,North Carolina,55.8,69413
+37051,Cumberland County,R,True,P. McCrory,2,100.0,North Carolina,41.9,52082
+37051,Cumberland County,L,False,L. Cecil,3,100.0,North Carolina,2.3,2843
+37053,Currituck County,R,True,P. McCrory,1,100.0,North Carolina,71.6,8764
+37053,Currituck County,D,False,R. Cooper,2,100.0,North Carolina,25.5,3122
+37053,Currituck County,L,False,L. Cecil,3,100.0,North Carolina,2.9,358
+37055,Dare County,R,True,P. McCrory,1,100.0,North Carolina,55.5,10544
+37055,Dare County,D,False,R. Cooper,2,100.0,North Carolina,41.8,7943
+37055,Dare County,L,False,L. Cecil,3,100.0,North Carolina,2.6,496
+37057,Davidson County,R,True,P. McCrory,1,100.0,North Carolina,68.5,49481
+37057,Davidson County,D,False,R. Cooper,2,100.0,North Carolina,29.2,21101
+37057,Davidson County,L,False,L. Cecil,3,100.0,North Carolina,2.3,1627
+37059,Davie County,R,True,P. McCrory,1,100.0,North Carolina,68.0,14619
+37059,Davie County,D,False,R. Cooper,2,100.0,North Carolina,29.7,6393
+37059,Davie County,L,False,L. Cecil,3,100.0,North Carolina,2.3,500
+37061,Duplin County,R,True,P. McCrory,1,100.0,North Carolina,59.5,12198
+37061,Duplin County,D,False,R. Cooper,2,100.0,North Carolina,39.5,8101
+37061,Duplin County,L,False,L. Cecil,3,100.0,North Carolina,1.1,218
+37063,Durham County,D,False,R. Cooper,1,100.0,North Carolina,78.5,119786
+37063,Durham County,R,True,P. McCrory,2,100.0,North Carolina,19.8,30180
+37063,Durham County,L,False,L. Cecil,3,100.0,North Carolina,1.7,2548
+37065,Edgecombe County,D,False,R. Cooper,1,100.0,North Carolina,65.3,16096
+37065,Edgecombe County,R,True,P. McCrory,2,100.0,North Carolina,33.9,8348
+37065,Edgecombe County,L,False,L. Cecil,3,100.0,North Carolina,0.9,212
+37067,Forsyth County,D,False,R. Cooper,1,100.0,North Carolina,56.2,97625
+37067,Forsyth County,R,True,P. McCrory,2,100.0,North Carolina,41.5,72144
+37067,Forsyth County,L,False,L. Cecil,3,100.0,North Carolina,2.2,3874
+37069,Franklin County,R,True,P. McCrory,1,100.0,North Carolina,52.5,15858
+37069,Franklin County,D,False,R. Cooper,2,100.0,North Carolina,45.6,13782
+37069,Franklin County,L,False,L. Cecil,3,100.0,North Carolina,1.9,582
+37071,Gaston County,R,True,P. McCrory,1,100.0,North Carolina,62.6,59703
+37071,Gaston County,D,False,R. Cooper,2,100.0,North Carolina,35.1,33495
+37071,Gaston County,L,False,L. Cecil,3,100.0,North Carolina,2.2,2128
+37073,Gates County,R,True,P. McCrory,1,100.0,North Carolina,54.3,2854
+37073,Gates County,D,False,R. Cooper,2,100.0,North Carolina,44.2,2325
+37073,Gates County,L,False,L. Cecil,3,100.0,North Carolina,1.4,76
+37075,Graham County,R,True,P. McCrory,1,100.0,North Carolina,68.5,2744
+37075,Graham County,D,False,R. Cooper,2,100.0,North Carolina,28.3,1135
+37075,Graham County,L,False,L. Cecil,3,100.0,North Carolina,3.2,127
+37077,Granville County,D,False,R. Cooper,1,100.0,North Carolina,49.6,13439
+37077,Granville County,R,True,P. McCrory,2,100.0,North Carolina,48.8,13230
+37077,Granville County,L,False,L. Cecil,3,100.0,North Carolina,1.6,445
+37079,Greene County,R,True,P. McCrory,1,100.0,North Carolina,54.5,4364
+37079,Greene County,D,False,R. Cooper,2,100.0,North Carolina,44.6,3572
+37079,Greene County,L,False,L. Cecil,3,100.0,North Carolina,0.8,67
+37081,Guilford County,D,False,R. Cooper,1,100.0,North Carolina,60.9,154386
+37081,Guilford County,R,True,P. McCrory,2,100.0,North Carolina,37.0,93893
+37081,Guilford County,L,False,L. Cecil,3,100.0,North Carolina,2.1,5340
+37083,Halifax County,D,False,R. Cooper,1,100.0,North Carolina,64.0,15891
+37083,Halifax County,R,True,P. McCrory,2,100.0,North Carolina,35.3,8763
+37083,Halifax County,L,False,L. Cecil,3,100.0,North Carolina,0.7,184
+37085,Harnett County,R,True,P. McCrory,1,100.0,North Carolina,59.3,26802
+37085,Harnett County,D,False,R. Cooper,2,100.0,North Carolina,38.4,17376
+37085,Harnett County,L,False,L. Cecil,3,100.0,North Carolina,2.2,1014
+37087,Haywood County,R,True,P. McCrory,1,100.0,North Carolina,54.7,16565
+37087,Haywood County,D,False,R. Cooper,2,100.0,North Carolina,42.2,12795
+37087,Haywood County,L,False,L. Cecil,3,100.0,North Carolina,3.1,948
+37089,Henderson County,R,True,P. McCrory,1,100.0,North Carolina,58.3,33352
+37089,Henderson County,D,False,R. Cooper,2,100.0,North Carolina,38.9,22286
+37089,Henderson County,L,False,L. Cecil,3,100.0,North Carolina,2.8,1580
+37091,Hertford County,D,False,R. Cooper,1,100.0,North Carolina,66.9,6658
+37091,Hertford County,R,True,P. McCrory,2,100.0,North Carolina,32.4,3225
+37091,Hertford County,L,False,L. Cecil,3,100.0,North Carolina,0.8,75
+37093,Hoke County,D,False,R. Cooper,1,100.0,North Carolina,53.8,9569
+37093,Hoke County,R,True,P. McCrory,2,100.0,North Carolina,43.4,7717
+37093,Hoke County,L,False,L. Cecil,3,100.0,North Carolina,2.7,484
+37095,Hyde County,R,True,P. McCrory,1,100.0,North Carolina,54.9,1246
+37095,Hyde County,D,False,R. Cooper,2,100.0,North Carolina,44.0,999
+37095,Hyde County,L,False,L. Cecil,3,100.0,North Carolina,1.1,24
+37097,Iredell County,R,True,P. McCrory,1,100.0,North Carolina,62.2,50358
+37097,Iredell County,D,False,R. Cooper,2,100.0,North Carolina,34.9,28244
+37097,Iredell County,L,False,L. Cecil,3,100.0,North Carolina,2.9,2368
+37099,Jackson County,D,False,R. Cooper,1,100.0,North Carolina,49.5,9038
+37099,Jackson County,R,True,P. McCrory,2,100.0,North Carolina,47.3,8642
+37099,Jackson County,L,False,L. Cecil,3,100.0,North Carolina,3.2,585
+37101,Johnston County,R,True,P. McCrory,1,100.0,North Carolina,61.8,52615
+37101,Johnston County,D,False,R. Cooper,2,100.0,North Carolina,36.4,30960
+37101,Johnston County,L,False,L. Cecil,3,100.0,North Carolina,1.8,1555
+37103,Jones County,R,True,P. McCrory,1,100.0,North Carolina,58.8,2968
+37103,Jones County,D,False,R. Cooper,2,100.0,North Carolina,40.1,2024
+37103,Jones County,L,False,L. Cecil,3,100.0,North Carolina,1.1,58
+37105,Lee County,R,True,P. McCrory,1,100.0,North Carolina,52.3,12930
+37105,Lee County,D,False,R. Cooper,2,100.0,North Carolina,45.6,11279
+37105,Lee County,L,False,L. Cecil,3,100.0,North Carolina,2.2,536
+37107,Lenoir County,R,True,P. McCrory,1,100.0,North Carolina,53.4,13606
+37107,Lenoir County,D,False,R. Cooper,2,100.0,North Carolina,45.6,11620
+37107,Lenoir County,L,False,L. Cecil,3,100.0,North Carolina,1.0,266
+37109,Lincoln County,R,True,P. McCrory,1,100.0,North Carolina,69.2,27410
+37109,Lincoln County,D,False,R. Cooper,2,100.0,North Carolina,28.4,11269
+37109,Lincoln County,L,False,L. Cecil,3,100.0,North Carolina,2.4,946
+37113,Macon County,R,True,P. McCrory,1,100.0,North Carolina,61.2,10635
+37113,Macon County,D,False,R. Cooper,2,100.0,North Carolina,35.9,6238
+37113,Macon County,L,False,L. Cecil,3,100.0,North Carolina,3.0,516
+37115,Madison County,R,True,P. McCrory,1,100.0,North Carolina,54.2,6010
+37115,Madison County,D,False,R. Cooper,2,100.0,North Carolina,43.0,4763
+37115,Madison County,L,False,L. Cecil,3,100.0,North Carolina,2.8,311
+37117,Martin County,R,True,P. McCrory,1,100.0,North Carolina,50.7,5993
+37117,Martin County,D,False,R. Cooper,2,100.0,North Carolina,48.6,5749
+37117,Martin County,L,False,L. Cecil,3,100.0,North Carolina,0.7,88
+37111,McDowell County,R,True,P. McCrory,1,100.0,North Carolina,66.5,13009
+37111,McDowell County,D,False,R. Cooper,2,100.0,North Carolina,30.6,5993
+37111,McDowell County,L,False,L. Cecil,3,100.0,North Carolina,2.9,567
+37119,Mecklenburg County,D,False,R. Cooper,1,100.0,North Carolina,63.3,294880
+37119,Mecklenburg County,R,True,P. McCrory,2,100.0,North Carolina,34.2,159217
+37119,Mecklenburg County,L,False,L. Cecil,3,100.0,North Carolina,2.5,11799
+37121,Mitchell County,R,True,P. McCrory,1,100.0,North Carolina,72.6,5770
+37121,Mitchell County,D,False,R. Cooper,2,100.0,North Carolina,25.0,1985
+37121,Mitchell County,L,False,L. Cecil,3,100.0,North Carolina,2.5,198
+37123,Montgomery County,R,True,P. McCrory,1,100.0,North Carolina,58.0,6605
+37123,Montgomery County,D,False,R. Cooper,2,100.0,North Carolina,40.5,4610
+37123,Montgomery County,L,False,L. Cecil,3,100.0,North Carolina,1.5,171
+37125,Moore County,R,True,P. McCrory,1,100.0,North Carolina,61.3,29470
+37125,Moore County,D,False,R. Cooper,2,100.0,North Carolina,36.6,17602
+37125,Moore County,L,False,L. Cecil,3,100.0,North Carolina,2.0,978
+37127,Nash County,D,False,R. Cooper,1,100.0,North Carolina,51.7,24422
+37127,Nash County,R,True,P. McCrory,2,100.0,North Carolina,47.2,22316
+37127,Nash County,L,False,L. Cecil,3,100.0,North Carolina,1.0,494
+37129,New Hanover County,D,False,R. Cooper,1,100.0,North Carolina,50.9,55546
+37129,New Hanover County,R,True,P. McCrory,2,100.0,North Carolina,46.3,50525
+37129,New Hanover County,L,False,L. Cecil,3,100.0,North Carolina,2.9,3159
+37131,Northampton County,D,False,R. Cooper,1,100.0,North Carolina,62.4,6069
+37131,Northampton County,R,True,P. McCrory,2,100.0,North Carolina,36.9,3590
+37131,Northampton County,L,False,L. Cecil,3,100.0,North Carolina,0.7,68
+37133,Onslow County,R,True,P. McCrory,1,100.0,North Carolina,65.2,35971
+37133,Onslow County,D,False,R. Cooper,2,100.0,North Carolina,31.9,17601
+37133,Onslow County,L,False,L. Cecil,3,100.0,North Carolina,2.9,1609
+37135,Orange County,D,False,R. Cooper,1,100.0,North Carolina,74.8,60536
+37135,Orange County,R,True,P. McCrory,2,100.0,North Carolina,23.4,18953
+37135,Orange County,L,False,L. Cecil,3,100.0,North Carolina,1.8,1449
+37137,Pamlico County,R,True,P. McCrory,1,100.0,North Carolina,62.4,4229
+37137,Pamlico County,D,False,R. Cooper,2,100.0,North Carolina,36.1,2444
+37137,Pamlico County,L,False,L. Cecil,3,100.0,North Carolina,1.5,100
+37139,Pasquotank County,D,False,R. Cooper,1,100.0,North Carolina,51.0,8623
+37139,Pasquotank County,R,True,P. McCrory,2,100.0,North Carolina,47.1,7970
+37139,Pasquotank County,L,False,L. Cecil,3,100.0,North Carolina,1.9,321
+37141,Pender County,R,True,P. McCrory,1,100.0,North Carolina,60.7,16323
+37141,Pender County,D,False,R. Cooper,2,100.0,North Carolina,36.9,9920
+37141,Pender County,L,False,L. Cecil,3,100.0,North Carolina,2.5,663
+37143,Perquimans County,R,True,P. McCrory,1,100.0,North Carolina,63.2,4128
+37143,Perquimans County,D,False,R. Cooper,2,100.0,North Carolina,35.6,2327
+37143,Perquimans County,L,False,L. Cecil,3,100.0,North Carolina,1.2,76
+37145,Person County,R,True,P. McCrory,1,100.0,North Carolina,55.3,10707
+37145,Person County,D,False,R. Cooper,2,100.0,North Carolina,43.1,8342
+37145,Person County,L,False,L. Cecil,3,100.0,North Carolina,1.5,299
+37147,Pitt County,D,False,R. Cooper,1,100.0,North Carolina,52.3,41080
+37147,Pitt County,R,True,P. McCrory,2,100.0,North Carolina,46.1,36179
+37147,Pitt County,L,False,L. Cecil,3,100.0,North Carolina,1.6,1283
+37149,Polk County,R,True,P. McCrory,1,100.0,North Carolina,57.8,6200
+37149,Polk County,D,False,R. Cooper,2,100.0,North Carolina,39.9,4279
+37149,Polk County,L,False,L. Cecil,3,100.0,North Carolina,2.3,249
+37151,Randolph County,R,True,P. McCrory,1,100.0,North Carolina,72.3,46131
+37151,Randolph County,D,False,R. Cooper,2,100.0,North Carolina,25.4,16230
+37151,Randolph County,L,False,L. Cecil,3,100.0,North Carolina,2.3,1447
+37153,Richmond County,R,True,P. McCrory,1,100.0,North Carolina,51.8,9689
+37153,Richmond County,D,False,R. Cooper,2,100.0,North Carolina,46.6,8722
+37153,Richmond County,L,False,L. Cecil,3,100.0,North Carolina,1.6,300
+37155,Robeson County,R,True,P. McCrory,1,100.0,North Carolina,53.2,20840
+37155,Robeson County,D,False,R. Cooper,2,100.0,North Carolina,45.8,17939
+37155,Robeson County,L,False,L. Cecil,3,100.0,North Carolina,0.9,363
+37157,Rockingham County,R,True,P. McCrory,1,100.0,North Carolina,59.1,24486
+37157,Rockingham County,D,False,R. Cooper,2,100.0,North Carolina,38.9,16142
+37157,Rockingham County,L,False,L. Cecil,3,100.0,North Carolina,2.0,832
+37159,Rowan County,R,True,P. McCrory,1,100.0,North Carolina,63.7,40422
+37159,Rowan County,D,False,R. Cooper,2,100.0,North Carolina,33.7,21397
+37159,Rowan County,L,False,L. Cecil,3,100.0,North Carolina,2.5,1598
+37161,Rutherford County,R,True,P. McCrory,1,100.0,North Carolina,65.8,19519
+37161,Rutherford County,D,False,R. Cooper,2,100.0,North Carolina,31.8,9436
+37161,Rutherford County,L,False,L. Cecil,3,100.0,North Carolina,2.4,720
+37163,Sampson County,R,True,P. McCrory,1,100.0,North Carolina,58.0,14860
+37163,Sampson County,D,False,R. Cooper,2,100.0,North Carolina,41.0,10508
+37163,Sampson County,L,False,L. Cecil,3,100.0,North Carolina,1.0,258
+37165,Scotland County,D,False,R. Cooper,1,100.0,North Carolina,54.0,7314
+37165,Scotland County,R,True,P. McCrory,2,100.0,North Carolina,44.6,6048
+37165,Scotland County,L,False,L. Cecil,3,100.0,North Carolina,1.4,187
+37167,Stanly County,R,True,P. McCrory,1,100.0,North Carolina,70.7,20893
+37167,Stanly County,D,False,R. Cooper,2,100.0,North Carolina,27.3,8062
+37167,Stanly County,L,False,L. Cecil,3,100.0,North Carolina,2.0,592
+37169,Stokes County,R,True,P. McCrory,1,100.0,North Carolina,70.0,15602
+37169,Stokes County,D,False,R. Cooper,2,100.0,North Carolina,27.5,6138
+37169,Stokes County,L,False,L. Cecil,3,100.0,North Carolina,2.5,558
+37171,Surry County,R,True,P. McCrory,1,100.0,North Carolina,68.0,21560
+37171,Surry County,D,False,R. Cooper,2,100.0,North Carolina,30.1,9555
+37171,Surry County,L,False,L. Cecil,3,100.0,North Carolina,1.9,605
+37173,Swain County,R,True,P. McCrory,1,100.0,North Carolina,51.3,3082
+37173,Swain County,D,False,R. Cooper,2,100.0,North Carolina,44.2,2654
+37173,Swain County,L,False,L. Cecil,3,100.0,North Carolina,4.4,267
+37175,Transylvania County,R,True,P. McCrory,1,100.0,North Carolina,54.0,9480
+37175,Transylvania County,D,False,R. Cooper,2,100.0,North Carolina,43.0,7553
+37175,Transylvania County,L,False,L. Cecil,3,100.0,North Carolina,3.0,521
+37177,Tyrrell County,R,True,P. McCrory,1,100.0,North Carolina,57.7,980
+37177,Tyrrell County,D,False,R. Cooper,2,100.0,North Carolina,40.7,691
+37177,Tyrrell County,L,False,L. Cecil,3,100.0,North Carolina,1.6,28
+37179,Union County,R,True,P. McCrory,1,100.0,North Carolina,63.6,66292
+37179,Union County,D,False,R. Cooper,2,100.0,North Carolina,34.2,35615
+37179,Union County,L,False,L. Cecil,3,100.0,North Carolina,2.3,2361
+37181,Vance County,D,False,R. Cooper,1,100.0,North Carolina,61.8,12201
+37181,Vance County,R,True,P. McCrory,2,100.0,North Carolina,37.2,7354
+37181,Vance County,L,False,L. Cecil,3,100.0,North Carolina,1.0,198
+37183,Wake County,D,False,R. Cooper,1,100.0,North Carolina,59.9,310956
+37183,Wake County,R,True,P. McCrory,2,100.0,North Carolina,37.9,196866
+37183,Wake County,L,False,L. Cecil,3,100.0,North Carolina,2.2,11341
+37185,Warren County,D,False,R. Cooper,1,100.0,North Carolina,66.3,6726
+37185,Warren County,R,True,P. McCrory,2,100.0,North Carolina,32.6,3311
+37185,Warren County,L,False,L. Cecil,3,100.0,North Carolina,1.1,107
+37187,Washington County,D,False,R. Cooper,1,100.0,North Carolina,55.4,3366
+37187,Washington County,R,True,P. McCrory,2,100.0,North Carolina,43.8,2661
+37187,Washington County,L,False,L. Cecil,3,100.0,North Carolina,0.9,53
+37189,Watauga County,D,False,R. Cooper,1,100.0,North Carolina,52.6,15436
+37189,Watauga County,R,True,P. McCrory,2,100.0,North Carolina,44.0,12905
+37189,Watauga County,L,False,L. Cecil,3,100.0,North Carolina,3.4,991
+37191,Wayne County,R,True,P. McCrory,1,100.0,North Carolina,55.3,27632
+37191,Wayne County,D,False,R. Cooper,2,100.0,North Carolina,43.3,21624
+37191,Wayne County,L,False,L. Cecil,3,100.0,North Carolina,1.3,672
+37193,Wilkes County,R,True,P. McCrory,1,100.0,North Carolina,71.4,22118
+37193,Wilkes County,D,False,R. Cooper,2,100.0,North Carolina,26.6,8231
+37193,Wilkes County,L,False,L. Cecil,3,100.0,North Carolina,2.0,609
+37195,Wilson County,D,False,R. Cooper,1,100.0,North Carolina,53.8,20323
+37195,Wilson County,R,True,P. McCrory,2,100.0,North Carolina,45.2,17047
+37195,Wilson County,L,False,L. Cecil,3,100.0,North Carolina,1.0,384
+37197,Yadkin County,R,True,P. McCrory,1,100.0,North Carolina,75.1,13137
+37197,Yadkin County,D,False,R. Cooper,2,100.0,North Carolina,22.9,4002
+37197,Yadkin County,L,False,L. Cecil,3,100.0,North Carolina,2.0,353
+37199,Yancey County,R,True,P. McCrory,1,100.0,North Carolina,58.4,5829
+37199,Yancey County,D,False,R. Cooper,2,100.0,North Carolina,39.3,3916
+37199,Yancey County,L,False,L. Cecil,3,100.0,North Carolina,2.3,228
+38001,Adams County,R,False,D. Burgum,1,100.0,North Dakota,86.2,1045
+38001,Adams County,D,False,M. Nelson,2,100.0,North Dakota,11.1,135
+38001,Adams County,L,False,M. Riske,3,100.0,North Dakota,2.7,33
+38003,Barnes County,R,False,D. Burgum,1,100.0,North Dakota,79.2,4210
+38003,Barnes County,D,False,M. Nelson,2,100.0,North Dakota,17.3,917
+38003,Barnes County,L,False,M. Riske,3,100.0,North Dakota,3.5,188
+38005,Benson County,R,False,D. Burgum,1,100.0,North Dakota,55.3,1106
+38005,Benson County,D,False,M. Nelson,2,100.0,North Dakota,40.8,817
+38005,Benson County,L,False,M. Riske,3,100.0,North Dakota,3.9,78
+38007,Billings County,R,False,D. Burgum,1,100.0,North Dakota,88.9,534
+38007,Billings County,D,False,M. Nelson,2,100.0,North Dakota,7.7,46
+38007,Billings County,L,False,M. Riske,3,100.0,North Dakota,3.5,21
+38009,Bottineau County,R,False,D. Burgum,1,100.0,North Dakota,79.9,2756
+38009,Bottineau County,D,False,M. Nelson,2,100.0,North Dakota,17.2,593
+38009,Bottineau County,L,False,M. Riske,3,100.0,North Dakota,2.9,101
+38011,Bowman County,R,False,D. Burgum,1,100.0,North Dakota,88.0,1575
+38011,Bowman County,D,False,M. Nelson,2,100.0,North Dakota,9.9,178
+38011,Bowman County,L,False,M. Riske,3,100.0,North Dakota,2.0,36
+38013,Burke County,R,False,D. Burgum,1,100.0,North Dakota,86.8,890
+38013,Burke County,D,False,M. Nelson,2,100.0,North Dakota,11.7,120
+38013,Burke County,L,False,M. Riske,3,100.0,North Dakota,1.5,15
+38015,Burleigh County,R,False,D. Burgum,1,100.0,North Dakota,80.0,37752
+38015,Burleigh County,D,False,M. Nelson,2,100.0,North Dakota,16.6,7812
+38015,Burleigh County,L,False,M. Riske,3,100.0,North Dakota,3.5,1630
+38017,Cass County,R,False,D. Burgum,1,100.0,North Dakota,71.9,56911
+38017,Cass County,D,False,M. Nelson,2,100.0,North Dakota,23.4,18518
+38017,Cass County,L,False,M. Riske,3,100.0,North Dakota,4.7,3714
+38019,Cavalier County,R,False,D. Burgum,1,100.0,North Dakota,79.5,1596
+38019,Cavalier County,D,False,M. Nelson,2,100.0,North Dakota,18.6,374
+38019,Cavalier County,L,False,M. Riske,3,100.0,North Dakota,1.8,37
+38021,Dickey County,R,False,D. Burgum,1,100.0,North Dakota,80.8,1930
+38021,Dickey County,D,False,M. Nelson,2,100.0,North Dakota,16.9,403
+38021,Dickey County,L,False,M. Riske,3,100.0,North Dakota,2.3,55
+38023,Divide County,R,False,D. Burgum,1,100.0,North Dakota,77.8,932
+38023,Divide County,D,False,M. Nelson,2,100.0,North Dakota,19.1,229
+38023,Divide County,L,False,M. Riske,3,100.0,North Dakota,3.1,37
+38025,Dunn County,R,False,D. Burgum,1,100.0,North Dakota,84.0,1843
+38025,Dunn County,D,False,M. Nelson,2,100.0,North Dakota,13.6,299
+38025,Dunn County,L,False,M. Riske,3,100.0,North Dakota,2.3,51
+38027,Eddy County,R,False,D. Burgum,1,100.0,North Dakota,58.2,716
+38027,Eddy County,D,False,M. Nelson,2,100.0,North Dakota,39.6,487
+38027,Eddy County,L,False,M. Riske,3,100.0,North Dakota,2.3,28
+38029,Emmons County,R,False,D. Burgum,1,100.0,North Dakota,88.1,1732
+38029,Emmons County,D,False,M. Nelson,2,100.0,North Dakota,9.4,185
+38029,Emmons County,L,False,M. Riske,3,100.0,North Dakota,2.5,49
+38031,Foster County,R,False,D. Burgum,1,100.0,North Dakota,80.4,1392
+38031,Foster County,D,False,M. Nelson,2,100.0,North Dakota,16.5,286
+38031,Foster County,L,False,M. Riske,3,100.0,North Dakota,3.1,53
+38033,Golden Valley County,R,False,D. Burgum,1,100.0,North Dakota,83.9,792
+38033,Golden Valley County,D,False,M. Nelson,2,100.0,North Dakota,13.3,126
+38033,Golden Valley County,L,False,M. Riske,3,100.0,North Dakota,2.8,26
+38035,Grand Forks County,R,False,D. Burgum,1,100.0,North Dakota,70.1,20432
+38035,Grand Forks County,D,False,M. Nelson,2,100.0,North Dakota,25.3,7378
+38035,Grand Forks County,L,False,M. Riske,3,100.0,North Dakota,4.6,1336
+38037,Grant County,R,False,D. Burgum,1,100.0,North Dakota,86.7,1200
+38037,Grant County,D,False,M. Nelson,2,100.0,North Dakota,11.1,153
+38037,Grant County,L,False,M. Riske,3,100.0,North Dakota,2.2,31
+38039,Griggs County,R,False,D. Burgum,1,100.0,North Dakota,75.6,961
+38039,Griggs County,D,False,M. Nelson,2,100.0,North Dakota,21.9,278
+38039,Griggs County,L,False,M. Riske,3,100.0,North Dakota,2.6,33
+38041,Hettinger County,R,False,D. Burgum,1,100.0,North Dakota,85.6,1086
+38041,Hettinger County,D,False,M. Nelson,2,100.0,North Dakota,11.3,143
+38041,Hettinger County,L,False,M. Riske,3,100.0,North Dakota,3.1,39
+38043,Kidder County,R,False,D. Burgum,1,100.0,North Dakota,84.2,1161
+38043,Kidder County,D,False,M. Nelson,2,100.0,North Dakota,12.9,178
+38043,Kidder County,L,False,M. Riske,3,100.0,North Dakota,2.9,40
+38045,LaMoure County,R,False,D. Burgum,1,100.0,North Dakota,80.7,1738
+38045,LaMoure County,D,False,M. Nelson,2,100.0,North Dakota,17.0,367
+38045,LaMoure County,L,False,M. Riske,3,100.0,North Dakota,2.3,49
+38047,Logan County,R,False,D. Burgum,1,100.0,North Dakota,88.4,941
+38047,Logan County,D,False,M. Nelson,2,100.0,North Dakota,8.9,95
+38047,Logan County,L,False,M. Riske,3,100.0,North Dakota,2.6,28
+38049,McHenry County,R,False,D. Burgum,1,100.0,North Dakota,82.1,2263
+38049,McHenry County,D,False,M. Nelson,2,100.0,North Dakota,15.1,415
+38049,McHenry County,L,False,M. Riske,3,100.0,North Dakota,2.8,78
+38051,McIntosh County,R,False,D. Burgum,1,100.0,North Dakota,86.0,1246
+38051,McIntosh County,D,False,M. Nelson,2,100.0,North Dakota,12.0,174
+38051,McIntosh County,L,False,M. Riske,3,100.0,North Dakota,1.9,28
+38053,McKenzie County,R,False,D. Burgum,1,100.0,North Dakota,84.8,3880
+38053,McKenzie County,D,False,M. Nelson,2,100.0,North Dakota,12.3,561
+38053,McKenzie County,L,False,M. Riske,3,100.0,North Dakota,2.9,134
+38055,McLean County,R,False,D. Burgum,1,100.0,North Dakota,80.1,4199
+38055,McLean County,D,False,M. Nelson,2,100.0,North Dakota,17.3,909
+38055,McLean County,L,False,M. Riske,3,100.0,North Dakota,2.6,136
+38057,Mercer County,R,False,D. Burgum,1,100.0,North Dakota,85.6,3907
+38057,Mercer County,D,False,M. Nelson,2,100.0,North Dakota,12.0,549
+38057,Mercer County,L,False,M. Riske,3,100.0,North Dakota,2.4,110
+38059,Morton County,R,False,D. Burgum,1,100.0,North Dakota,80.8,12574
+38059,Morton County,D,False,M. Nelson,2,100.0,North Dakota,15.5,2407
+38059,Morton County,L,False,M. Riske,3,100.0,North Dakota,3.8,585
+38061,Mountrail County,R,False,D. Burgum,1,100.0,North Dakota,67.9,2728
+38061,Mountrail County,D,False,M. Nelson,2,100.0,North Dakota,27.8,1118
+38061,Mountrail County,L,False,M. Riske,3,100.0,North Dakota,4.2,169
+38063,Nelson County,R,False,D. Burgum,1,100.0,North Dakota,68.2,1185
+38063,Nelson County,D,False,M. Nelson,2,100.0,North Dakota,28.7,499
+38063,Nelson County,L,False,M. Riske,3,100.0,North Dakota,3.1,54
+38065,Oliver County,R,False,D. Burgum,1,100.0,North Dakota,87.2,886
+38065,Oliver County,D,False,M. Nelson,2,100.0,North Dakota,10.3,105
+38065,Oliver County,L,False,M. Riske,3,100.0,North Dakota,2.5,25
+38067,Pembina County,R,False,D. Burgum,1,100.0,North Dakota,80.6,2551
+38067,Pembina County,D,False,M. Nelson,2,100.0,North Dakota,16.2,513
+38067,Pembina County,L,False,M. Riske,3,100.0,North Dakota,3.2,102
+38069,Pierce County,R,False,D. Burgum,1,100.0,North Dakota,79.0,1637
+38069,Pierce County,D,False,M. Nelson,2,100.0,North Dakota,19.0,393
+38069,Pierce County,L,False,M. Riske,3,100.0,North Dakota,2.0,42
+38071,Ramsey County,R,False,D. Burgum,1,100.0,North Dakota,75.2,4003
+38071,Ramsey County,D,False,M. Nelson,2,100.0,North Dakota,20.9,1111
+38071,Ramsey County,L,False,M. Riske,3,100.0,North Dakota,3.9,206
+38073,Ransom County,R,False,D. Burgum,1,100.0,North Dakota,73.1,1718
+38073,Ransom County,D,False,M. Nelson,2,100.0,North Dakota,23.2,545
+38073,Ransom County,L,False,M. Riske,3,100.0,North Dakota,3.7,86
+38075,Renville County,R,False,D. Burgum,1,100.0,North Dakota,84.4,1058
+38075,Renville County,D,False,M. Nelson,2,100.0,North Dakota,12.8,160
+38075,Renville County,L,False,M. Riske,3,100.0,North Dakota,2.9,36
+38077,Richland County,R,False,D. Burgum,1,100.0,North Dakota,78.3,5858
+38077,Richland County,D,False,M. Nelson,2,100.0,North Dakota,17.8,1332
+38077,Richland County,L,False,M. Riske,3,100.0,North Dakota,3.9,292
+38079,Rolette County,D,False,M. Nelson,1,100.0,North Dakota,63.8,2380
+38079,Rolette County,R,False,D. Burgum,2,100.0,North Dakota,33.0,1233
+38079,Rolette County,L,False,M. Riske,3,100.0,North Dakota,3.2,120
+38081,Sargent County,R,False,D. Burgum,1,100.0,North Dakota,72.8,1462
+38081,Sargent County,D,False,M. Nelson,2,100.0,North Dakota,24.6,493
+38081,Sargent County,L,False,M. Riske,3,100.0,North Dakota,2.6,53
+38083,Sheridan County,R,False,D. Burgum,1,100.0,North Dakota,86.3,670
+38083,Sheridan County,D,False,M. Nelson,2,100.0,North Dakota,11.1,86
+38083,Sheridan County,L,False,M. Riske,3,100.0,North Dakota,2.6,20
+38085,Sioux County,D,False,M. Nelson,1,100.0,North Dakota,57.4,684
+38085,Sioux County,R,False,D. Burgum,2,100.0,North Dakota,36.4,434
+38085,Sioux County,L,False,M. Riske,3,100.0,North Dakota,6.1,73
+38087,Slope County,R,False,D. Burgum,1,100.0,North Dakota,88.0,374
+38087,Slope County,D,False,M. Nelson,2,100.0,North Dakota,9.6,41
+38087,Slope County,L,False,M. Riske,3,100.0,North Dakota,2.4,10
+38089,Stark County,R,False,D. Burgum,1,100.0,North Dakota,86.0,10309
+38089,Stark County,D,False,M. Nelson,2,100.0,North Dakota,10.9,1302
+38089,Stark County,L,False,M. Riske,3,100.0,North Dakota,3.1,370
+38091,Steele County,R,False,D. Burgum,1,100.0,North Dakota,74.7,763
+38091,Steele County,D,False,M. Nelson,2,100.0,North Dakota,22.6,231
+38091,Steele County,L,False,M. Riske,3,100.0,North Dakota,2.6,27
+38093,Stutsman County,R,False,D. Burgum,1,100.0,North Dakota,80.7,7935
+38093,Stutsman County,D,False,M. Nelson,2,100.0,North Dakota,15.9,1564
+38093,Stutsman County,L,False,M. Riske,3,100.0,North Dakota,3.4,335
+38095,Towner County,R,False,D. Burgum,1,100.0,North Dakota,72.0,841
+38095,Towner County,D,False,M. Nelson,2,100.0,North Dakota,25.9,302
+38095,Towner County,L,False,M. Riske,3,100.0,North Dakota,2.1,25
+38097,Traill County,R,False,D. Burgum,1,100.0,North Dakota,76.2,2989
+38097,Traill County,D,False,M. Nelson,2,100.0,North Dakota,20.2,793
+38097,Traill County,L,False,M. Riske,3,100.0,North Dakota,3.6,143
+38099,Walsh County,R,False,D. Burgum,1,100.0,North Dakota,77.3,3609
+38099,Walsh County,D,False,M. Nelson,2,100.0,North Dakota,16.9,787
+38099,Walsh County,L,False,M. Riske,3,100.0,North Dakota,5.8,273
+38101,Ward County,R,False,D. Burgum,1,100.0,North Dakota,78.9,21181
+38101,Ward County,D,False,M. Nelson,2,100.0,North Dakota,16.1,4324
+38101,Ward County,L,False,M. Riske,3,100.0,North Dakota,4.9,1328
+38103,Wells County,R,False,D. Burgum,1,100.0,North Dakota,82.9,1969
+38103,Wells County,D,False,M. Nelson,2,100.0,North Dakota,14.9,354
+38103,Wells County,L,False,M. Riske,3,100.0,North Dakota,2.1,51
+38105,Williams County,R,False,D. Burgum,1,100.0,North Dakota,83.7,10374
+38105,Williams County,D,False,M. Nelson,2,100.0,North Dakota,11.6,1443
+38105,Williams County,L,False,M. Riske,3,100.0,North Dakota,4.6,572
+41001,Baker County,R,False,B. Pierce,1,100.0,Oregon,69.9,6012
+41001,Baker County,D,True,K. Brown,2,100.0,Oregon,23.6,2030
+41001,Baker County,I,False,C. Thomason,3,100.0,Oregon,2.7,235
+41001,Baker County,L,False,J. Foster,4,100.0,Oregon,2.1,180
+41001,Baker County,C,False,A. Auer,5,100.0,Oregon,1.7,143
+41003,Benton County,D,True,K. Brown,1,100.0,Oregon,59.5,27319
+41003,Benton County,R,False,B. Pierce,2,100.0,Oregon,35.0,16084
+41003,Benton County,L,False,J. Foster,3,100.0,Oregon,2.5,1149
+41003,Benton County,I,False,C. Thomason,4,100.0,Oregon,2.3,1070
+41003,Benton County,C,False,A. Auer,5,100.0,Oregon,0.7,321
+41005,Clackamas County,R,False,B. Pierce,1,100.0,Oregon,48.8,90515
+41005,Clackamas County,D,True,K. Brown,2,100.0,Oregon,46.3,85882
+41005,Clackamas County,I,False,C. Thomason,3,100.0,Oregon,2.1,3918
+41005,Clackamas County,L,False,J. Foster,4,100.0,Oregon,1.9,3531
+41005,Clackamas County,C,False,A. Auer,5,100.0,Oregon,0.8,1512
+41007,Clatsop County,D,True,K. Brown,1,100.0,Oregon,50.6,9308
+41007,Clatsop County,R,False,B. Pierce,2,100.0,Oregon,44.0,8107
+41007,Clatsop County,I,False,C. Thomason,3,100.0,Oregon,2.4,446
+41007,Clatsop County,L,False,J. Foster,4,100.0,Oregon,2.0,377
+41007,Clatsop County,C,False,A. Auer,5,100.0,Oregon,0.9,170
+41009,Columbia County,R,False,B. Pierce,1,100.0,Oregon,50.0,12696
+41009,Columbia County,D,True,K. Brown,2,100.0,Oregon,42.4,10786
+41009,Columbia County,L,False,J. Foster,3,100.0,Oregon,3.0,758
+41009,Columbia County,I,False,C. Thomason,4,100.0,Oregon,3.0,755
+41009,Columbia County,C,False,A. Auer,5,100.0,Oregon,1.7,422
+41011,Coos County,R,False,B. Pierce,1,100.0,Oregon,55.1,16747
+41011,Coos County,D,True,K. Brown,2,100.0,Oregon,37.5,11391
+41011,Coos County,I,False,C. Thomason,3,100.0,Oregon,3.2,970
+41011,Coos County,L,False,J. Foster,4,100.0,Oregon,2.5,758
+41011,Coos County,C,False,A. Auer,5,100.0,Oregon,1.8,532
+41013,Crook County,R,False,B. Pierce,1,100.0,Oregon,68.6,8129
+41013,Crook County,D,True,K. Brown,2,100.0,Oregon,24.8,2940
+41013,Crook County,I,False,C. Thomason,3,100.0,Oregon,2.9,338
+41013,Crook County,L,False,J. Foster,4,100.0,Oregon,1.9,223
+41013,Crook County,C,False,A. Auer,5,100.0,Oregon,1.8,217
+41015,Curry County,R,False,B. Pierce,1,100.0,Oregon,52.4,6358
+41015,Curry County,D,True,K. Brown,2,100.0,Oregon,40.3,4893
+41015,Curry County,I,False,C. Thomason,3,100.0,Oregon,2.8,344
+41015,Curry County,L,False,J. Foster,4,100.0,Oregon,2.7,326
+41015,Curry County,C,False,A. Auer,5,100.0,Oregon,1.7,207
+41017,Deschutes County,R,False,B. Pierce,1,100.0,Oregon,50.2,45855
+41017,Deschutes County,D,True,K. Brown,2,100.0,Oregon,44.0,40216
+41017,Deschutes County,I,False,C. Thomason,3,100.0,Oregon,2.5,2291
+41017,Deschutes County,L,False,J. Foster,4,100.0,Oregon,2.4,2153
+41017,Deschutes County,C,False,A. Auer,5,100.0,Oregon,1.0,872
+41019,Douglas County,R,False,B. Pierce,1,100.0,Oregon,62.2,32233
+41019,Douglas County,D,True,K. Brown,2,100.0,Oregon,30.2,15628
+41019,Douglas County,I,False,C. Thomason,3,100.0,Oregon,2.9,1491
+41019,Douglas County,C,False,A. Auer,4,100.0,Oregon,2.5,1280
+41019,Douglas County,L,False,J. Foster,5,100.0,Oregon,2.3,1191
+41021,Gilliam County,R,False,B. Pierce,1,100.0,Oregon,68.3,659
+41021,Gilliam County,D,True,K. Brown,2,100.0,Oregon,26.7,258
+41021,Gilliam County,L,False,J. Foster,3,100.0,Oregon,2.1,20
+41021,Gilliam County,I,False,C. Thomason,4,100.0,Oregon,1.8,17
+41021,Gilliam County,C,False,A. Auer,5,100.0,Oregon,1.1,11
+41023,Grant County,R,False,B. Pierce,1,100.0,Oregon,72.5,3070
+41023,Grant County,D,True,K. Brown,2,100.0,Oregon,21.2,898
+41023,Grant County,I,False,C. Thomason,3,100.0,Oregon,2.5,107
+41023,Grant County,C,False,A. Auer,4,100.0,Oregon,2.1,87
+41023,Grant County,L,False,J. Foster,5,100.0,Oregon,1.7,72
+41025,Harney County,R,False,B. Pierce,1,100.0,Oregon,70.4,2763
+41025,Harney County,D,True,K. Brown,2,100.0,Oregon,22.5,885
+41025,Harney County,I,False,C. Thomason,3,100.0,Oregon,3.4,134
+41025,Harney County,L,False,J. Foster,4,100.0,Oregon,2.0,78
+41025,Harney County,C,False,A. Auer,5,100.0,Oregon,1.7,66
+41027,Hood River County,D,True,K. Brown,1,100.0,Oregon,60.2,6300
+41027,Hood River County,R,False,B. Pierce,2,100.0,Oregon,34.6,3622
+41027,Hood River County,I,False,C. Thomason,3,100.0,Oregon,2.6,269
+41027,Hood River County,L,False,J. Foster,4,100.0,Oregon,2.0,211
+41027,Hood River County,C,False,A. Auer,5,100.0,Oregon,0.6,64
+41029,Jackson County,R,False,B. Pierce,1,100.0,Oregon,49.5,51536
+41029,Jackson County,D,True,K. Brown,2,100.0,Oregon,44.2,45980
+41029,Jackson County,I,False,C. Thomason,3,100.0,Oregon,2.7,2778
+41029,Jackson County,L,False,J. Foster,4,100.0,Oregon,2.4,2506
+41029,Jackson County,C,False,A. Auer,5,100.0,Oregon,1.2,1296
+41031,Jefferson County,R,False,B. Pierce,1,100.0,Oregon,59.2,5339
+41031,Jefferson County,D,True,K. Brown,2,100.0,Oregon,34.2,3085
+41031,Jefferson County,I,False,C. Thomason,3,100.0,Oregon,3.0,271
+41031,Jefferson County,L,False,J. Foster,4,100.0,Oregon,2.3,207
+41031,Jefferson County,C,False,A. Auer,5,100.0,Oregon,1.3,119
+41033,Josephine County,R,False,B. Pierce,1,100.0,Oregon,55.7,23796
+41033,Josephine County,D,True,K. Brown,2,100.0,Oregon,34.9,14885
+41033,Josephine County,I,False,C. Thomason,3,100.0,Oregon,4.6,1970
+41033,Josephine County,L,False,J. Foster,4,100.0,Oregon,2.6,1099
+41033,Josephine County,C,False,A. Auer,5,100.0,Oregon,2.2,960
+41035,Klamath County,R,False,B. Pierce,1,100.0,Oregon,64.3,18980
+41035,Klamath County,D,True,K. Brown,2,100.0,Oregon,28.1,8291
+41035,Klamath County,I,False,C. Thomason,3,100.0,Oregon,3.1,919
+41035,Klamath County,L,False,J. Foster,4,100.0,Oregon,2.7,785
+41035,Klamath County,C,False,A. Auer,5,100.0,Oregon,1.8,538
+41037,Lake County,R,False,B. Pierce,1,100.0,Oregon,72.8,2777
+41037,Lake County,D,True,K. Brown,2,100.0,Oregon,19.8,756
+41037,Lake County,I,False,C. Thomason,3,100.0,Oregon,2.6,100
+41037,Lake County,L,False,J. Foster,4,100.0,Oregon,2.6,98
+41037,Lake County,C,False,A. Auer,5,100.0,Oregon,2.2,85
+41039,Lane County,D,True,K. Brown,1,100.0,Oregon,55.3,101523
+41039,Lane County,R,False,B. Pierce,2,100.0,Oregon,38.9,71319
+41039,Lane County,L,False,J. Foster,3,100.0,Oregon,2.5,4538
+41039,Lane County,I,False,C. Thomason,4,100.0,Oregon,2.4,4412
+41039,Lane County,C,False,A. Auer,5,100.0,Oregon,0.9,1651
+41041,Lincoln County,D,True,K. Brown,1,100.0,Oregon,53.1,13000
+41041,Lincoln County,R,False,B. Pierce,2,100.0,Oregon,40.7,9962
+41041,Lincoln County,I,False,C. Thomason,3,100.0,Oregon,2.7,666
+41041,Lincoln County,L,False,J. Foster,4,100.0,Oregon,2.2,547
+41041,Lincoln County,C,False,A. Auer,5,100.0,Oregon,1.2,290
+41043,Linn County,R,False,B. Pierce,1,100.0,Oregon,60.3,33740
+41043,Linn County,D,True,K. Brown,2,100.0,Oregon,33.2,18603
+41043,Linn County,I,False,C. Thomason,3,100.0,Oregon,2.6,1475
+41043,Linn County,L,False,J. Foster,4,100.0,Oregon,2.4,1332
+41043,Linn County,C,False,A. Auer,5,100.0,Oregon,1.5,824
+41045,Malheur County,R,False,B. Pierce,1,100.0,Oregon,68.4,6920
+41045,Malheur County,D,True,K. Brown,2,100.0,Oregon,23.8,2403
+41045,Malheur County,I,False,C. Thomason,3,100.0,Oregon,3.4,342
+41045,Malheur County,C,False,A. Auer,4,100.0,Oregon,2.3,230
+41045,Malheur County,L,False,J. Foster,5,100.0,Oregon,2.2,220
+41047,Marion County,R,False,B. Pierce,1,100.0,Oregon,54.6,62438
+41047,Marion County,D,True,K. Brown,2,100.0,Oregon,41.3,47160
+41047,Marion County,I,False,C. Thomason,3,100.0,Oregon,1.9,2165
+41047,Marion County,L,False,J. Foster,4,100.0,Oregon,1.5,1702
+41047,Marion County,C,False,A. Auer,5,100.0,Oregon,0.7,835
+41049,Morrow County,R,False,B. Pierce,1,100.0,Oregon,65.1,2660
+41049,Morrow County,D,True,K. Brown,2,100.0,Oregon,27.9,1140
+41049,Morrow County,C,False,A. Auer,3,100.0,Oregon,2.6,105
+41049,Morrow County,I,False,C. Thomason,4,100.0,Oregon,2.3,95
+41049,Morrow County,L,False,J. Foster,5,100.0,Oregon,2.1,84
+41051,Multnomah County,D,True,K. Brown,1,89.4,Oregon,73.3,260000
+41051,Multnomah County,R,False,B. Pierce,2,89.4,Oregon,22.1,78290
+41051,Multnomah County,I,False,C. Thomason,3,89.4,Oregon,2.1,7437
+41051,Multnomah County,L,False,J. Foster,4,89.4,Oregon,2.1,7371
+41051,Multnomah County,C,False,A. Auer,5,89.4,Oregon,0.5,1799
+41053,Polk County,R,False,B. Pierce,1,100.0,Oregon,55.3,21119
+41053,Polk County,D,True,K. Brown,2,100.0,Oregon,40.0,15298
+41053,Polk County,I,False,C. Thomason,3,100.0,Oregon,2.2,822
+41053,Polk County,L,False,J. Foster,4,100.0,Oregon,1.7,651
+41053,Polk County,C,False,A. Auer,5,100.0,Oregon,0.8,320
+41055,Sherman County,R,False,B. Pierce,1,100.0,Oregon,72.5,714
+41055,Sherman County,D,True,K. Brown,2,100.0,Oregon,23.8,234
+41055,Sherman County,I,False,C. Thomason,3,100.0,Oregon,1.4,14
+41055,Sherman County,L,False,J. Foster,4,100.0,Oregon,1.3,13
+41055,Sherman County,C,False,A. Auer,5,100.0,Oregon,1.0,10
+41057,Tillamook County,R,False,B. Pierce,1,100.0,Oregon,48.9,6552
+41057,Tillamook County,D,True,K. Brown,2,100.0,Oregon,45.5,6088
+41057,Tillamook County,I,False,C. Thomason,3,100.0,Oregon,2.4,317
+41057,Tillamook County,L,False,J. Foster,4,100.0,Oregon,2.2,292
+41057,Tillamook County,C,False,A. Auer,5,100.0,Oregon,1.0,140
+41059,Umatilla County,R,False,B. Pierce,1,100.0,Oregon,61.0,16002
+41059,Umatilla County,D,True,K. Brown,2,100.0,Oregon,31.6,8309
+41059,Umatilla County,I,False,C. Thomason,3,100.0,Oregon,3.2,828
+41059,Umatilla County,L,False,J. Foster,4,100.0,Oregon,2.6,671
+41059,Umatilla County,C,False,A. Auer,5,100.0,Oregon,1.7,444
+41061,Union County,R,False,B. Pierce,1,100.0,Oregon,67.3,8508
+41061,Union County,D,True,K. Brown,2,100.0,Oregon,26.8,3385
+41061,Union County,I,False,C. Thomason,3,100.0,Oregon,2.4,299
+41061,Union County,L,False,J. Foster,4,100.0,Oregon,2.2,283
+41061,Union County,C,False,A. Auer,5,100.0,Oregon,1.4,175
+41063,Wallowa County,R,False,B. Pierce,1,100.0,Oregon,66.0,2814
+41063,Wallowa County,D,True,K. Brown,2,100.0,Oregon,29.0,1235
+41063,Wallowa County,I,False,C. Thomason,3,100.0,Oregon,2.3,97
+41063,Wallowa County,L,False,J. Foster,4,100.0,Oregon,1.8,78
+41063,Wallowa County,C,False,A. Auer,5,100.0,Oregon,0.9,37
+41065,Wasco County,R,False,B. Pierce,1,100.0,Oregon,50.6,5761
+41065,Wasco County,D,True,K. Brown,2,100.0,Oregon,43.2,4920
+41065,Wasco County,L,False,J. Foster,3,100.0,Oregon,2.6,296
+41065,Wasco County,I,False,C. Thomason,4,100.0,Oregon,2.4,271
+41065,Wasco County,C,False,A. Auer,5,100.0,Oregon,1.3,146
+41067,Washington County,D,True,K. Brown,1,100.0,Oregon,55.0,129386
+41067,Washington County,R,False,B. Pierce,2,100.0,Oregon,39.6,93228
+41067,Washington County,L,False,J. Foster,3,100.0,Oregon,2.5,5980
+41067,Washington County,I,False,C. Thomason,4,100.0,Oregon,2.1,5024
+41067,Washington County,C,False,A. Auer,5,100.0,Oregon,0.7,1557
+41069,Wheeler County,R,False,B. Pierce,1,100.0,Oregon,70.5,571
+41069,Wheeler County,D,True,K. Brown,2,100.0,Oregon,23.5,190
+41069,Wheeler County,I,False,C. Thomason,3,100.0,Oregon,2.5,20
+41069,Wheeler County,L,False,J. Foster,4,100.0,Oregon,2.1,17
+41069,Wheeler County,C,False,A. Auer,5,100.0,Oregon,1.5,12
+41071,Yamhill County,R,False,B. Pierce,1,100.0,Oregon,54.4,25022
+41071,Yamhill County,D,True,K. Brown,2,100.0,Oregon,39.7,18242
+41071,Yamhill County,L,False,J. Foster,3,100.0,Oregon,2.5,1160
+41071,Yamhill County,I,False,C. Thomason,4,100.0,Oregon,2.3,1049
+41071,Yamhill County,C,False,A. Auer,5,100.0,Oregon,1.1,524
+49001,Beaver County,R,True,G. Herbert,1,100.0,Utah,82.4,2032
+49001,Beaver County,I,False,D. Schanze,2,100.0,Utah,13.1,324
+49001,Beaver County,D,False,M. Weinholtz,3,100.0,Utah,2.6,63
+49001,Beaver County,L,False,B. Kamerath,4,100.0,Utah,1.9,46
+49003,Box Elder County,R,True,G. Herbert,1,81.1,Utah,82.5,13597
+49003,Box Elder County,D,False,M. Weinholtz,2,81.1,Utah,12.3,2019
+49003,Box Elder County,L,False,B. Kamerath,3,81.1,Utah,3.3,549
+49003,Box Elder County,I,False,D. Schanze,4,81.1,Utah,1.9,309
+49005,Cache County,R,True,G. Herbert,1,60.0,Utah,74.7,19604
+49005,Cache County,D,False,M. Weinholtz,2,60.0,Utah,21.0,5501
+49005,Cache County,L,False,B. Kamerath,3,60.0,Utah,3.0,781
+49005,Cache County,I,False,D. Schanze,4,60.0,Utah,1.3,350
+49007,Carbon County,R,True,G. Herbert,1,95.0,Utah,70.3,5369
+49007,Carbon County,D,False,M. Weinholtz,2,95.0,Utah,25.8,1969
+49007,Carbon County,L,False,B. Kamerath,3,95.0,Utah,2.2,167
+49007,Carbon County,I,False,D. Schanze,4,95.0,Utah,1.8,135
+49009,Daggett County,R,True,G. Herbert,1,83.3,Utah,74.2,343
+49009,Daggett County,D,False,M. Weinholtz,2,83.3,Utah,22.1,102
+49009,Daggett County,L,False,B. Kamerath,3,83.3,Utah,2.6,12
+49009,Daggett County,I,False,D. Schanze,4,83.3,Utah,1.1,5
+49011,Davis County,R,True,G. Herbert,1,73.6,Utah,72.6,66935
+49011,Davis County,D,False,M. Weinholtz,2,73.6,Utah,22.9,21113
+49011,Davis County,L,False,B. Kamerath,3,73.6,Utah,3.2,2913
+49011,Davis County,I,False,D. Schanze,4,73.6,Utah,1.3,1225
+49013,Duchesne County,R,True,G. Herbert,1,100.0,Utah,84.3,5834
+49013,Duchesne County,I,False,D. Schanze,2,100.0,Utah,10.3,715
+49013,Duchesne County,D,False,M. Weinholtz,3,100.0,Utah,3.2,219
+49013,Duchesne County,L,False,B. Kamerath,4,100.0,Utah,2.2,151
+49015,Emery County,R,True,G. Herbert,1,92.3,Utah,85.3,3617
+49015,Emery County,D,False,M. Weinholtz,2,92.3,Utah,11.4,482
+49015,Emery County,I,False,D. Schanze,3,92.3,Utah,1.9,80
+49015,Emery County,L,False,B. Kamerath,4,92.3,Utah,1.4,61
+49017,Garfield County,R,True,G. Herbert,1,100.0,Utah,80.8,1851
+49017,Garfield County,D,False,M. Weinholtz,2,100.0,Utah,16.1,369
+49017,Garfield County,L,False,B. Kamerath,3,100.0,Utah,1.9,44
+49017,Garfield County,I,False,D. Schanze,4,100.0,Utah,1.1,26
+49019,Grand County,R,True,G. Herbert,1,100.0,Utah,49.7,2206
+49019,Grand County,D,False,M. Weinholtz,2,100.0,Utah,45.7,2026
+49019,Grand County,L,False,B. Kamerath,3,100.0,Utah,3.5,154
+49019,Grand County,I,False,D. Schanze,4,100.0,Utah,1.1,49
+49021,Iron County,R,True,G. Herbert,1,35.0,Utah,76.9,4720
+49021,Iron County,D,False,M. Weinholtz,2,35.0,Utah,16.8,1031
+49021,Iron County,L,False,B. Kamerath,3,35.0,Utah,4.2,259
+49021,Iron County,I,False,D. Schanze,4,35.0,Utah,2.1,130
+49023,Juab County,R,True,G. Herbert,1,16.7,Utah,76.7,542
+49023,Juab County,D,False,M. Weinholtz,2,16.7,Utah,16.5,117
+49023,Juab County,L,False,B. Kamerath,3,16.7,Utah,4.5,32
+49023,Juab County,I,False,D. Schanze,4,16.7,Utah,2.3,16
+49025,Kane County,R,True,G. Herbert,1,90.9,Utah,74.6,2570
+49025,Kane County,D,False,M. Weinholtz,2,90.9,Utah,21.1,727
+49025,Kane County,L,False,B. Kamerath,3,90.9,Utah,2.7,92
+49025,Kane County,I,False,D. Schanze,4,90.9,Utah,1.7,58
+49027,Millard County,R,True,G. Herbert,1,100.0,Utah,85.6,4436
+49027,Millard County,I,False,D. Schanze,2,100.0,Utah,10.3,532
+49027,Millard County,D,False,M. Weinholtz,3,100.0,Utah,2.8,143
+49027,Millard County,L,False,B. Kamerath,4,100.0,Utah,1.4,74
+49029,Morgan County,R,True,G. Herbert,1,100.0,Utah,83.1,4250
+49029,Morgan County,D,False,M. Weinholtz,2,100.0,Utah,12.2,626
+49029,Morgan County,L,False,B. Kamerath,3,100.0,Utah,3.1,156
+49029,Morgan County,I,False,D. Schanze,4,100.0,Utah,1.6,81
+49031,Piute County,R,True,G. Herbert,1,66.7,Utah,88.9,539
+49031,Piute County,D,False,M. Weinholtz,2,66.7,Utah,6.3,38
+49031,Piute County,L,False,B. Kamerath,3,66.7,Utah,2.6,16
+49031,Piute County,I,False,D. Schanze,4,66.7,Utah,2.1,13
+49033,Rich County,R,True,G. Herbert,1,100.0,Utah,85.1,938
+49033,Rich County,D,False,M. Weinholtz,2,100.0,Utah,11.1,122
+49033,Rich County,I,False,D. Schanze,3,100.0,Utah,2.0,22
+49033,Rich County,L,False,B. Kamerath,4,100.0,Utah,1.8,20
+49035,Salt Lake County,R,True,G. Herbert,1,71.3,Utah,50.9,142849
+49035,Salt Lake County,D,False,M. Weinholtz,2,71.3,Utah,45.5,127734
+49035,Salt Lake County,L,False,B. Kamerath,3,71.3,Utah,2.5,7121
+49035,Salt Lake County,I,False,D. Schanze,4,71.3,Utah,1.1,3108
+49037,San Juan County,R,True,G. Herbert,1,65.0,Utah,65.9,2490
+49037,San Juan County,D,False,M. Weinholtz,2,65.0,Utah,29.6,1119
+49037,San Juan County,L,False,B. Kamerath,3,65.0,Utah,2.4,92
+49037,San Juan County,I,False,D. Schanze,4,65.0,Utah,2.0,75
+49039,Sanpete County,R,True,G. Herbert,1,100.0,Utah,85.6,8390
+49039,Sanpete County,D,False,M. Weinholtz,2,100.0,Utah,10.2,995
+49039,Sanpete County,L,False,B. Kamerath,3,100.0,Utah,2.3,230
+49039,Sanpete County,I,False,D. Schanze,4,100.0,Utah,1.9,186
+49041,Sevier County,R,True,G. Herbert,1,91.3,Utah,85.1,6683
+49041,Sevier County,D,False,M. Weinholtz,2,91.3,Utah,10.6,836
+49041,Sevier County,L,False,B. Kamerath,3,91.3,Utah,2.3,177
+49041,Sevier County,I,False,D. Schanze,4,91.3,Utah,2.0,157
+49043,Summit County,D,False,M. Weinholtz,1,100.0,Utah,49.6,9920
+49043,Summit County,R,True,G. Herbert,2,100.0,Utah,46.9,9383
+49043,Summit County,L,False,B. Kamerath,3,100.0,Utah,2.6,526
+49043,Summit County,I,False,D. Schanze,4,100.0,Utah,0.8,163
+49045,Tooele County,R,True,G. Herbert,1,93.9,Utah,69.1,13013
+49045,Tooele County,D,False,M. Weinholtz,2,93.9,Utah,25.2,4745
+49045,Tooele County,L,False,B. Kamerath,3,93.9,Utah,3.5,657
+49045,Tooele County,I,False,D. Schanze,4,93.9,Utah,2.2,407
+49047,Uintah County,R,True,G. Herbert,1,100.0,Utah,84.2,10636
+49047,Uintah County,D,False,M. Weinholtz,2,100.0,Utah,11.0,1383
+49047,Uintah County,L,False,B. Kamerath,3,100.0,Utah,3.2,400
+49047,Uintah County,I,False,D. Schanze,4,100.0,Utah,1.7,211
+49049,Utah County,R,True,G. Herbert,1,100.0,Utah,81.4,132877
+49049,Utah County,D,False,M. Weinholtz,2,100.0,Utah,14.1,22996
+49049,Utah County,L,False,B. Kamerath,3,100.0,Utah,3.2,5152
+49049,Utah County,I,False,D. Schanze,4,100.0,Utah,1.4,2233
+49051,Wasatch County,R,True,G. Herbert,1,100.0,Utah,70.7,7879
+49051,Wasatch County,D,False,M. Weinholtz,2,100.0,Utah,25.7,2865
+49051,Wasatch County,L,False,B. Kamerath,3,100.0,Utah,2.4,267
+49051,Wasatch County,I,False,D. Schanze,4,100.0,Utah,1.2,131
+49053,Washington County,R,True,G. Herbert,1,87.5,Utah,76.8,37006
+49053,Washington County,D,False,M. Weinholtz,2,87.5,Utah,17.9,8635
+49053,Washington County,L,False,B. Kamerath,3,87.5,Utah,3.5,1676
+49053,Washington County,I,False,D. Schanze,4,87.5,Utah,1.8,882
+49055,Wayne County,R,True,G. Herbert,1,100.0,Utah,78.3,1100
+49055,Wayne County,D,False,M. Weinholtz,2,100.0,Utah,19.4,273
+49055,Wayne County,L,False,B. Kamerath,3,100.0,Utah,1.3,18
+49055,Wayne County,I,False,D. Schanze,4,100.0,Utah,1.0,14
+49057,Weber County,R,True,G. Herbert,1,100.0,Utah,65.3,52864
+49057,Weber County,D,False,M. Weinholtz,2,100.0,Utah,29.6,23956
+49057,Weber County,L,False,B. Kamerath,3,100.0,Utah,3.6,2897
+49057,Weber County,I,False,D. Schanze,4,100.0,Utah,1.5,1213
+50001,Addison County,R,False,P. Scott,1,100.0,Vermont,52.8,10097
+50001,Addison County,D,False,S. Minter,2,100.0,Vermont,44.9,8575
+50001,Addison County,L,False,B. Lee,3,100.0,Vermont,2.3,443
+50003,Bennington County,R,False,P. Scott,1,100.0,Vermont,49.4,8551
+50003,Bennington County,D,False,S. Minter,2,100.0,Vermont,47.0,8140
+50003,Bennington County,L,False,B. Lee,3,100.0,Vermont,3.6,617
+50005,Caledonia County,R,False,P. Scott,1,100.0,Vermont,65.0,9221
+50005,Caledonia County,D,False,S. Minter,2,100.0,Vermont,31.7,4494
+50005,Caledonia County,L,False,B. Lee,3,100.0,Vermont,3.3,470
+50007,Chittenden County,D,False,S. Minter,1,100.0,Vermont,52.0,42783
+50007,Chittenden County,R,False,P. Scott,2,100.0,Vermont,45.9,37749
+50007,Chittenden County,L,False,B. Lee,3,100.0,Vermont,2.1,1761
+50009,Essex County,R,False,P. Scott,1,100.0,Vermont,70.8,2056
+50009,Essex County,D,False,S. Minter,2,100.0,Vermont,25.4,736
+50009,Essex County,L,False,B. Lee,3,100.0,Vermont,3.8,111
+50011,Franklin County,R,False,P. Scott,1,100.0,Vermont,67.5,14512
+50011,Franklin County,D,False,S. Minter,2,100.0,Vermont,29.9,6425
+50011,Franklin County,L,False,B. Lee,3,100.0,Vermont,2.7,570
+50013,Grand Isle County,R,False,P. Scott,1,100.0,Vermont,63.2,2610
+50013,Grand Isle County,D,False,S. Minter,2,100.0,Vermont,34.4,1421
+50013,Grand Isle County,L,False,B. Lee,3,100.0,Vermont,2.4,99
+50015,Lamoille County,R,False,P. Scott,1,100.0,Vermont,56.4,7195
+50015,Lamoille County,D,False,S. Minter,2,100.0,Vermont,40.7,5192
+50015,Lamoille County,L,False,B. Lee,3,100.0,Vermont,2.9,364
+50017,Orange County,R,False,P. Scott,1,100.0,Vermont,57.4,8438
+50017,Orange County,D,False,S. Minter,2,100.0,Vermont,40.1,5891
+50017,Orange County,L,False,B. Lee,3,100.0,Vermont,2.5,368
+50019,Orleans County,R,False,P. Scott,1,100.0,Vermont,68.8,8287
+50019,Orleans County,D,False,S. Minter,2,100.0,Vermont,27.3,3294
+50019,Orleans County,L,False,B. Lee,3,100.0,Vermont,3.9,467
+50021,Rutland County,R,False,P. Scott,1,100.0,Vermont,62.4,18434
+50021,Rutland County,D,False,S. Minter,2,100.0,Vermont,34.4,10153
+50021,Rutland County,L,False,B. Lee,3,100.0,Vermont,3.2,950
+50023,Washington County,R,False,P. Scott,1,100.0,Vermont,54.1,16981
+50023,Washington County,D,False,S. Minter,2,100.0,Vermont,43.8,13753
+50023,Washington County,L,False,B. Lee,3,100.0,Vermont,2.1,658
+50025,Windham County,D,False,S. Minter,1,100.0,Vermont,59.6,13292
+50025,Windham County,R,False,P. Scott,2,100.0,Vermont,36.3,8084
+50025,Windham County,L,False,B. Lee,3,100.0,Vermont,4.1,918
+50027,Windsor County,D,False,S. Minter,1,100.0,Vermont,49.4,14732
+50027,Windsor County,R,False,P. Scott,2,100.0,Vermont,47.0,14004
+50027,Windsor County,L,False,B. Lee,3,100.0,Vermont,3.6,1077
+53001,Adams County,R,False,B. Bryant,1,66.7,Washington,67.8,2775
+53001,Adams County,D,True,J. Inslee,2,66.7,Washington,32.2,1318
+53003,Asotin County,R,False,B. Bryant,1,71.4,Washington,57.5,5580
+53003,Asotin County,D,True,J. Inslee,2,71.4,Washington,42.5,4127
+53005,Benton County,R,False,B. Bryant,1,84.0,Washington,61.9,39561
+53005,Benton County,D,True,J. Inslee,2,84.0,Washington,38.1,24313
+53007,Chelan County,R,False,B. Bryant,1,66.7,Washington,58.3,12431
+53007,Chelan County,D,True,J. Inslee,2,66.7,Washington,41.7,8900
+53009,Clallam County,D,True,J. Inslee,1,79.2,Washington,50.4,14733
+53009,Clallam County,R,False,B. Bryant,2,79.2,Washington,49.6,14476
+53011,Clark County,R,False,B. Bryant,1,93.6,Washington,51.4,91177
+53011,Clark County,D,True,J. Inslee,2,93.6,Washington,48.6,86320
+53013,Columbia County,R,False,B. Bryant,1,50.0,Washington,68.5,1349
+53013,Columbia County,D,True,J. Inslee,2,50.0,Washington,31.5,620
+53015,Cowlitz County,R,False,B. Bryant,1,86.7,Washington,56.9,21768
+53015,Cowlitz County,D,True,J. Inslee,2,86.7,Washington,43.1,16508
+53017,Douglas County,R,False,B. Bryant,1,50.0,Washington,64.9,5535
+53017,Douglas County,D,True,J. Inslee,2,50.0,Washington,35.1,2990
+53019,Ferry County,R,False,B. Bryant,1,50.0,Washington,62.1,1946
+53019,Ferry County,D,True,J. Inslee,2,50.0,Washington,37.9,1187
+53021,Franklin County,R,False,B. Bryant,1,60.0,Washington,58.9,8757
+53021,Franklin County,D,True,J. Inslee,2,60.0,Washington,41.1,6111
+53023,Garfield County,R,False,B. Bryant,1,50.0,Washington,70.2,865
+53023,Garfield County,D,True,J. Inslee,2,50.0,Washington,29.8,367
+53025,Grant County,R,False,B. Bryant,1,94.7,Washington,68.0,18639
+53025,Grant County,D,True,J. Inslee,2,94.7,Washington,32.0,8780
+53027,Grays Harbor County,R,False,B. Bryant,1,85.0,Washington,51.1,12354
+53027,Grays Harbor County,D,True,J. Inslee,2,85.0,Washington,48.9,11837
+53029,Island County,D,True,J. Inslee,1,100.0,Washington,50.5,20963
+53029,Island County,R,False,B. Bryant,2,100.0,Washington,49.5,20570
+53031,Jefferson County,D,True,J. Inslee,1,83.3,Washington,65.6,12667
+53031,Jefferson County,R,False,B. Bryant,2,83.3,Washington,34.4,6656
+53033,King County,D,True,J. Inslee,1,83.2,Washington,68.9,513630
+53033,King County,R,False,B. Bryant,2,83.2,Washington,31.1,231665
+53035,Kitsap County,D,True,J. Inslee,1,91.1,Washington,53.6,56405
+53035,Kitsap County,R,False,B. Bryant,2,91.1,Washington,46.4,48883
+53037,Kittitas County,R,False,B. Bryant,1,72.7,Washington,58.5,8130
+53037,Kittitas County,D,True,J. Inslee,2,72.7,Washington,41.5,5767
+53039,Klickitat County,R,False,B. Bryant,1,71.4,Washington,58.2,4737
+53039,Klickitat County,D,True,J. Inslee,2,71.4,Washington,41.8,3402
+53041,Lewis County,R,False,B. Bryant,1,60.9,Washington,66.7,13052
+53041,Lewis County,D,True,J. Inslee,2,60.9,Washington,33.3,6502
+53043,Lincoln County,R,False,B. Bryant,1,75.0,Washington,72.0,4098
+53043,Lincoln County,D,True,J. Inslee,2,75.0,Washington,28.0,1592
+53045,Mason County,R,False,B. Bryant,1,77.8,Washington,54.0,14877
+53045,Mason County,D,True,J. Inslee,2,77.8,Washington,46.0,12685
+53047,Okanogan County,R,False,B. Bryant,1,36.4,Washington,57.1,4055
+53047,Okanogan County,D,True,J. Inslee,2,36.4,Washington,42.9,3041
+53049,Pacific County,R,False,B. Bryant,1,85.7,Washington,50.2,4472
+53049,Pacific County,D,True,J. Inslee,2,85.7,Washington,49.8,4444
+53051,Pend Oreille County,R,False,B. Bryant,1,100.0,Washington,63.5,4213
+53051,Pend Oreille County,D,True,J. Inslee,2,100.0,Washington,36.5,2426
+53053,Pierce County,D,True,J. Inslee,1,74.9,Washington,50.4,128303
+53053,Pierce County,R,False,B. Bryant,2,74.9,Washington,49.6,126098
+53055,San Juan County,D,True,J. Inslee,1,83.3,Washington,69.3,7048
+53055,San Juan County,R,False,B. Bryant,2,83.3,Washington,30.7,3118
+53057,Skagit County,D,True,J. Inslee,1,68.6,Washington,51.8,18805
+53057,Skagit County,R,False,B. Bryant,2,68.6,Washington,48.2,17509
+53059,Skamania County,R,False,B. Bryant,1,100.0,Washington,55.7,2928
+53059,Skamania County,D,True,J. Inslee,2,100.0,Washington,44.3,2329
+53061,Snohomish County,D,True,J. Inslee,1,80.3,Washington,53.4,136295
+53061,Snohomish County,R,False,B. Bryant,2,80.3,Washington,46.6,119147
+53063,Spokane County,R,False,B. Bryant,1,88.3,Washington,53.3,100723
+53063,Spokane County,D,True,J. Inslee,2,88.3,Washington,46.7,88135
+53065,Stevens County,R,False,B. Bryant,1,60.0,Washington,67.9,8690
+53065,Stevens County,D,True,J. Inslee,2,60.0,Washington,32.1,4111
+53067,Thurston County,D,True,J. Inslee,1,93.9,Washington,54.7,62986
+53067,Thurston County,R,False,B. Bryant,2,93.9,Washington,45.3,52237
+53069,Wahkiakum County,R,False,B. Bryant,1,100.0,Washington,59.9,1397
+53069,Wahkiakum County,D,True,J. Inslee,2,100.0,Washington,40.1,935
+53071,Walla Walla County,R,False,B. Bryant,1,68.8,Washington,57.6,9290
+53071,Walla Walla County,D,True,J. Inslee,2,68.8,Washington,42.4,6827
+53073,Whatcom County,D,True,J. Inslee,1,100.0,Washington,56.5,59344
+53073,Whatcom County,R,False,B. Bryant,2,100.0,Washington,43.5,45766
+53075,Whitman County,D,True,J. Inslee,1,45.5,Washington,50.5,4243
+53075,Whitman County,R,False,B. Bryant,2,45.5,Washington,49.5,4156
+53077,Yakima County,R,False,B. Bryant,1,65.5,Washington,56.8,30115
+53077,Yakima County,D,True,J. Inslee,2,65.5,Washington,43.2,22882
+54001,Barbour County,R,False,B. Cole,1,100.0,West Virginia,48.1,2915
+54001,Barbour County,D,False,J. Justice,2,100.0,West Virginia,44.3,2687
+54001,Barbour County,M,False,C. Pritt,3,100.0,West Virginia,4.3,262
+54001,Barbour County,L,False,D. Moran,4,100.0,West Virginia,1.8,110
+54001,Barbour County,C,False,P. Hudok,5,100.0,West Virginia,1.5,92
+54003,Berkeley County,R,False,B. Cole,1,100.0,West Virginia,55.2,23069
+54003,Berkeley County,D,False,J. Justice,2,100.0,West Virginia,35.6,14856
+54003,Berkeley County,M,False,C. Pritt,3,100.0,West Virginia,5.5,2308
+54003,Berkeley County,L,False,D. Moran,4,100.0,West Virginia,3.1,1280
+54003,Berkeley County,C,False,P. Hudok,5,100.0,West Virginia,0.6,267
+54005,Boone County,D,False,J. Justice,1,100.0,West Virginia,64.3,5636
+54005,Boone County,R,False,B. Cole,2,100.0,West Virginia,29.8,2609
+54005,Boone County,M,False,C. Pritt,3,100.0,West Virginia,4.5,397
+54005,Boone County,L,False,D. Moran,4,100.0,West Virginia,1.0,88
+54005,Boone County,C,False,P. Hudok,5,100.0,West Virginia,0.4,38
+54007,Braxton County,D,False,J. Justice,1,100.0,West Virginia,58.8,2948
+54007,Braxton County,R,False,B. Cole,2,100.0,West Virginia,35.0,1755
+54007,Braxton County,M,False,C. Pritt,3,100.0,West Virginia,4.9,244
+54007,Braxton County,L,False,D. Moran,4,100.0,West Virginia,1.1,56
+54007,Braxton County,C,False,P. Hudok,5,100.0,West Virginia,0.3,14
+54009,Brooke County,D,False,J. Justice,1,100.0,West Virginia,48.3,4537
+54009,Brooke County,R,False,B. Cole,2,100.0,West Virginia,43.2,4059
+54009,Brooke County,M,False,C. Pritt,3,100.0,West Virginia,5.3,494
+54009,Brooke County,L,False,D. Moran,4,100.0,West Virginia,2.4,221
+54009,Brooke County,C,False,P. Hudok,5,100.0,West Virginia,0.8,75
+54011,Cabell County,D,False,J. Justice,1,100.0,West Virginia,54.5,17945
+54011,Cabell County,R,False,B. Cole,2,100.0,West Virginia,36.2,11933
+54011,Cabell County,M,False,C. Pritt,3,100.0,West Virginia,7.0,2298
+54011,Cabell County,L,False,D. Moran,4,100.0,West Virginia,1.9,628
+54011,Cabell County,C,False,P. Hudok,5,100.0,West Virginia,0.4,143
+54013,Calhoun County,D,False,J. Justice,1,100.0,West Virginia,45.6,1187
+54013,Calhoun County,R,False,B. Cole,2,100.0,West Virginia,44.3,1153
+54013,Calhoun County,M,False,C. Pritt,3,100.0,West Virginia,7.8,202
+54013,Calhoun County,L,False,D. Moran,4,100.0,West Virginia,1.7,45
+54013,Calhoun County,C,False,P. Hudok,5,100.0,West Virginia,0.5,14
+54015,Clay County,D,False,J. Justice,1,100.0,West Virginia,55.6,1674
+54015,Clay County,R,False,B. Cole,2,100.0,West Virginia,37.6,1134
+54015,Clay County,M,False,C. Pritt,3,100.0,West Virginia,5.0,151
+54015,Clay County,L,False,D. Moran,4,100.0,West Virginia,1.2,37
+54015,Clay County,C,False,P. Hudok,5,100.0,West Virginia,0.5,16
+54017,Doddridge County,R,False,B. Cole,1,100.0,West Virginia,60.9,1731
+54017,Doddridge County,D,False,J. Justice,2,100.0,West Virginia,31.7,900
+54017,Doddridge County,M,False,C. Pritt,3,100.0,West Virginia,5.0,142
+54017,Doddridge County,L,False,D. Moran,4,100.0,West Virginia,1.9,55
+54017,Doddridge County,C,False,P. Hudok,5,100.0,West Virginia,0.5,14
+54019,Fayette County,D,False,J. Justice,1,100.0,West Virginia,62.1,9545
+54019,Fayette County,R,False,B. Cole,2,100.0,West Virginia,29.4,4512
+54019,Fayette County,M,False,C. Pritt,3,100.0,West Virginia,6.5,997
+54019,Fayette County,L,False,D. Moran,4,100.0,West Virginia,1.5,236
+54019,Fayette County,C,False,P. Hudok,5,100.0,West Virginia,0.5,80
+54021,Gilmer County,D,False,J. Justice,1,100.0,West Virginia,46.6,1188
+54021,Gilmer County,R,False,B. Cole,2,100.0,West Virginia,43.6,1111
+54021,Gilmer County,M,False,C. Pritt,3,100.0,West Virginia,6.6,169
+54021,Gilmer County,L,False,D. Moran,4,100.0,West Virginia,2.2,56
+54021,Gilmer County,C,False,P. Hudok,5,100.0,West Virginia,1.0,26
+54023,Grant County,R,False,B. Cole,1,100.0,West Virginia,67.4,3196
+54023,Grant County,D,False,J. Justice,2,100.0,West Virginia,27.6,1309
+54023,Grant County,L,False,D. Moran,3,100.0,West Virginia,2.4,112
+54023,Grant County,M,False,C. Pritt,4,100.0,West Virginia,2.1,100
+54023,Grant County,C,False,P. Hudok,5,100.0,West Virginia,0.5,24
+54025,Greenbrier County,D,False,J. Justice,1,100.0,West Virginia,60.6,8555
+54025,Greenbrier County,R,False,B. Cole,2,100.0,West Virginia,30.7,4325
+54025,Greenbrier County,M,False,C. Pritt,3,100.0,West Virginia,7.0,994
+54025,Greenbrier County,L,False,D. Moran,4,100.0,West Virginia,1.3,179
+54025,Greenbrier County,C,False,P. Hudok,5,100.0,West Virginia,0.4,54
+54027,Hampshire County,R,False,B. Cole,1,100.0,West Virginia,62.1,5201
+54027,Hampshire County,D,False,J. Justice,2,100.0,West Virginia,30.2,2529
+54027,Hampshire County,M,False,C. Pritt,3,100.0,West Virginia,4.5,377
+54027,Hampshire County,L,False,D. Moran,4,100.0,West Virginia,2.7,230
+54027,Hampshire County,C,False,P. Hudok,5,100.0,West Virginia,0.5,42
+54029,Hancock County,R,False,B. Cole,1,100.0,West Virginia,48.2,5968
+54029,Hancock County,D,False,J. Justice,2,100.0,West Virginia,42.8,5295
+54029,Hancock County,M,False,C. Pritt,3,100.0,West Virginia,5.5,683
+54029,Hancock County,L,False,D. Moran,4,100.0,West Virginia,2.5,308
+54029,Hancock County,C,False,P. Hudok,5,100.0,West Virginia,1.0,121
+54031,Hardy County,R,False,B. Cole,1,100.0,West Virginia,54.3,3215
+54031,Hardy County,D,False,J. Justice,2,100.0,West Virginia,40.2,2380
+54031,Hardy County,M,False,C. Pritt,3,100.0,West Virginia,3.2,187
+54031,Hardy County,L,False,D. Moran,4,100.0,West Virginia,2.0,118
+54031,Hardy County,C,False,P. Hudok,5,100.0,West Virginia,0.4,25
+54033,Harrison County,D,False,J. Justice,1,100.0,West Virginia,50.7,14280
+54033,Harrison County,R,False,B. Cole,2,100.0,West Virginia,42.1,11873
+54033,Harrison County,M,False,C. Pritt,3,100.0,West Virginia,4.5,1270
+54033,Harrison County,L,False,D. Moran,4,100.0,West Virginia,2.1,590
+54033,Harrison County,C,False,P. Hudok,5,100.0,West Virginia,0.6,176
+54035,Jackson County,D,False,J. Justice,1,100.0,West Virginia,50.5,6166
+54035,Jackson County,R,False,B. Cole,2,100.0,West Virginia,41.7,5088
+54035,Jackson County,M,False,C. Pritt,3,100.0,West Virginia,6.5,794
+54035,Jackson County,L,False,D. Moran,4,100.0,West Virginia,1.1,130
+54035,Jackson County,C,False,P. Hudok,5,100.0,West Virginia,0.3,37
+54037,Jefferson County,R,False,B. Cole,1,100.0,West Virginia,48.7,11547
+54037,Jefferson County,D,False,J. Justice,2,100.0,West Virginia,40.2,9535
+54037,Jefferson County,M,False,C. Pritt,3,100.0,West Virginia,6.8,1617
+54037,Jefferson County,L,False,D. Moran,4,100.0,West Virginia,3.7,887
+54037,Jefferson County,C,False,P. Hudok,5,100.0,West Virginia,0.5,109
+54039,Kanawha County,D,False,J. Justice,1,100.0,West Virginia,58.6,44393
+54039,Kanawha County,R,False,B. Cole,2,100.0,West Virginia,31.2,23612
+54039,Kanawha County,M,False,C. Pritt,3,100.0,West Virginia,8.7,6595
+54039,Kanawha County,L,False,D. Moran,4,100.0,West Virginia,1.2,911
+54039,Kanawha County,C,False,P. Hudok,5,100.0,West Virginia,0.3,209
+54041,Lewis County,R,False,B. Cole,1,100.0,West Virginia,47.4,3279
+54041,Lewis County,D,False,J. Justice,2,100.0,West Virginia,46.2,3201
+54041,Lewis County,M,False,C. Pritt,3,100.0,West Virginia,4.3,300
+54041,Lewis County,L,False,D. Moran,4,100.0,West Virginia,1.6,110
+54041,Lewis County,C,False,P. Hudok,5,100.0,West Virginia,0.5,34
+54043,Lincoln County,D,False,J. Justice,1,100.0,West Virginia,57.7,4102
+54043,Lincoln County,R,False,B. Cole,2,100.0,West Virginia,35.2,2503
+54043,Lincoln County,M,False,C. Pritt,3,100.0,West Virginia,5.6,400
+54043,Lincoln County,L,False,D. Moran,4,100.0,West Virginia,1.0,68
+54043,Lincoln County,C,False,P. Hudok,5,100.0,West Virginia,0.5,32
+54045,Logan County,D,False,J. Justice,1,100.0,West Virginia,55.5,6761
+54045,Logan County,R,False,B. Cole,2,100.0,West Virginia,36.8,4482
+54045,Logan County,M,False,C. Pritt,3,100.0,West Virginia,6.4,784
+54045,Logan County,L,False,D. Moran,4,100.0,West Virginia,1.0,117
+54045,Logan County,C,False,P. Hudok,5,100.0,West Virginia,0.2,29
+54049,Marion County,D,False,J. Justice,1,100.0,West Virginia,52.5,12098
+54049,Marion County,R,False,B. Cole,2,100.0,West Virginia,38.6,8908
+54049,Marion County,M,False,C. Pritt,3,100.0,West Virginia,5.5,1269
+54049,Marion County,L,False,D. Moran,4,100.0,West Virginia,2.8,640
+54049,Marion County,C,False,P. Hudok,5,100.0,West Virginia,0.6,135
+54051,Marshall County,D,False,J. Justice,1,100.0,West Virginia,49.5,6441
+54051,Marshall County,R,False,B. Cole,2,100.0,West Virginia,43.4,5640
+54051,Marshall County,M,False,C. Pritt,3,100.0,West Virginia,4.8,627
+54051,Marshall County,L,False,D. Moran,4,100.0,West Virginia,1.7,225
+54051,Marshall County,C,False,P. Hudok,5,100.0,West Virginia,0.5,67
+54053,Mason County,D,False,J. Justice,1,100.0,West Virginia,54.3,5534
+54053,Mason County,R,False,B. Cole,2,100.0,West Virginia,39.6,4033
+54053,Mason County,M,False,C. Pritt,3,100.0,West Virginia,4.5,454
+54053,Mason County,L,False,D. Moran,4,100.0,West Virginia,1.2,123
+54053,Mason County,C,False,P. Hudok,5,100.0,West Virginia,0.4,43
+54047,Mcdowell County,D,False,J. Justice,1,100.0,West Virginia,56.1,3448
+54047,Mcdowell County,R,False,B. Cole,2,100.0,West Virginia,40.4,2483
+54047,Mcdowell County,M,False,C. Pritt,3,100.0,West Virginia,2.3,144
+54047,Mcdowell County,L,False,D. Moran,4,100.0,West Virginia,0.8,48
+54047,Mcdowell County,C,False,P. Hudok,5,100.0,West Virginia,0.4,22
+54055,Mercer County,R,False,B. Cole,1,100.0,West Virginia,54.7,12631
+54055,Mercer County,D,False,J. Justice,2,100.0,West Virginia,40.3,9296
+54055,Mercer County,M,False,C. Pritt,3,100.0,West Virginia,3.4,794
+54055,Mercer County,L,False,D. Moran,4,100.0,West Virginia,1.2,277
+54055,Mercer County,C,False,P. Hudok,5,100.0,West Virginia,0.4,86
+54057,Mineral County,R,False,B. Cole,1,100.0,West Virginia,61.6,6965
+54057,Mineral County,D,False,J. Justice,2,100.0,West Virginia,30.4,3436
+54057,Mineral County,M,False,C. Pritt,3,100.0,West Virginia,3.8,430
+54057,Mineral County,L,False,D. Moran,4,100.0,West Virginia,3.4,387
+54057,Mineral County,C,False,P. Hudok,5,100.0,West Virginia,0.7,80
+54059,Mingo County,D,False,J. Justice,1,100.0,West Virginia,54.9,5143
+54059,Mingo County,R,False,B. Cole,2,100.0,West Virginia,39.3,3684
+54059,Mingo County,M,False,C. Pritt,3,100.0,West Virginia,4.6,427
+54059,Mingo County,L,False,D. Moran,4,100.0,West Virginia,1.0,95
+54059,Mingo County,C,False,P. Hudok,5,100.0,West Virginia,0.3,27
+54061,Monongalia County,D,False,J. Justice,1,100.0,West Virginia,44.3,15877
+54061,Monongalia County,R,False,B. Cole,2,100.0,West Virginia,39.7,14233
+54061,Monongalia County,M,False,C. Pritt,3,100.0,West Virginia,11.0,3942
+54061,Monongalia County,L,False,D. Moran,4,100.0,West Virginia,4.6,1644
+54061,Monongalia County,C,False,P. Hudok,5,100.0,West Virginia,0.5,164
+54063,Monroe County,D,False,J. Justice,1,100.0,West Virginia,47.7,2732
+54063,Monroe County,R,False,B. Cole,2,100.0,West Virginia,43.7,2504
+54063,Monroe County,M,False,C. Pritt,3,100.0,West Virginia,7.2,415
+54063,Monroe County,L,False,D. Moran,4,100.0,West Virginia,1.2,71
+54063,Monroe County,C,False,P. Hudok,5,100.0,West Virginia,0.2,11
+54065,Morgan County,R,False,B. Cole,1,100.0,West Virginia,64.1,4750
+54065,Morgan County,D,False,J. Justice,2,100.0,West Virginia,26.0,1925
+54065,Morgan County,M,False,C. Pritt,3,100.0,West Virginia,6.9,509
+54065,Morgan County,L,False,D. Moran,4,100.0,West Virginia,2.6,195
+54065,Morgan County,C,False,P. Hudok,5,100.0,West Virginia,0.4,33
+54067,Nicholas County,D,False,J. Justice,1,100.0,West Virginia,60.0,5713
+54067,Nicholas County,R,False,B. Cole,2,100.0,West Virginia,34.9,3326
+54067,Nicholas County,M,False,C. Pritt,3,100.0,West Virginia,3.7,350
+54067,Nicholas County,L,False,D. Moran,4,100.0,West Virginia,1.0,93
+54067,Nicholas County,C,False,P. Hudok,5,100.0,West Virginia,0.4,42
+54069,Ohio County,D,False,J. Justice,1,100.0,West Virginia,46.6,8334
+54069,Ohio County,R,False,B. Cole,2,100.0,West Virginia,44.6,7991
+54069,Ohio County,M,False,C. Pritt,3,100.0,West Virginia,6.0,1071
+54069,Ohio County,L,False,D. Moran,4,100.0,West Virginia,2.4,434
+54069,Ohio County,C,False,P. Hudok,5,100.0,West Virginia,0.4,73
+54071,Pendleton County,R,False,B. Cole,1,100.0,West Virginia,49.5,1560
+54071,Pendleton County,D,False,J. Justice,2,100.0,West Virginia,42.3,1333
+54071,Pendleton County,M,False,C. Pritt,3,100.0,West Virginia,5.2,164
+54071,Pendleton County,L,False,D. Moran,4,100.0,West Virginia,1.7,54
+54071,Pendleton County,C,False,P. Hudok,5,100.0,West Virginia,1.2,38
+54073,Pleasants County,D,False,J. Justice,1,100.0,West Virginia,54.0,1703
+54073,Pleasants County,R,False,B. Cole,2,100.0,West Virginia,40.6,1280
+54073,Pleasants County,M,False,C. Pritt,3,100.0,West Virginia,3.5,109
+54073,Pleasants County,L,False,D. Moran,4,100.0,West Virginia,1.6,51
+54073,Pleasants County,C,False,P. Hudok,5,100.0,West Virginia,0.4,12
+54075,Pocahontas County,D,False,J. Justice,1,100.0,West Virginia,53.5,1956
+54075,Pocahontas County,R,False,B. Cole,2,100.0,West Virginia,33.4,1220
+54075,Pocahontas County,M,False,C. Pritt,3,100.0,West Virginia,10.4,379
+54075,Pocahontas County,L,False,D. Moran,4,100.0,West Virginia,1.4,50
+54075,Pocahontas County,C,False,P. Hudok,5,100.0,West Virginia,1.3,48
+54077,Preston County,R,False,B. Cole,1,100.0,West Virginia,52.5,6552
+54077,Preston County,D,False,J. Justice,2,100.0,West Virginia,31.7,3952
+54077,Preston County,L,False,D. Moran,3,100.0,West Virginia,10.8,1342
+54077,Preston County,M,False,C. Pritt,4,100.0,West Virginia,4.6,568
+54077,Preston County,C,False,P. Hudok,5,100.0,West Virginia,0.5,61
+54079,Putnam County,D,False,J. Justice,1,100.0,West Virginia,53.3,13176
+54079,Putnam County,R,False,B. Cole,2,100.0,West Virginia,39.5,9771
+54079,Putnam County,M,False,C. Pritt,3,100.0,West Virginia,5.6,1375
+54079,Putnam County,L,False,D. Moran,4,100.0,West Virginia,1.3,318
+54079,Putnam County,C,False,P. Hudok,5,100.0,West Virginia,0.3,70
+54081,Raleigh County,D,False,J. Justice,1,100.0,West Virginia,56.4,16657
+54081,Raleigh County,R,False,B. Cole,2,100.0,West Virginia,37.4,11038
+54081,Raleigh County,M,False,C. Pritt,3,100.0,West Virginia,4.4,1296
+54081,Raleigh County,L,False,D. Moran,4,100.0,West Virginia,1.3,381
+54081,Raleigh County,C,False,P. Hudok,5,100.0,West Virginia,0.5,159
+54083,Randolph County,D,False,J. Justice,1,100.0,West Virginia,46.8,5093
+54083,Randolph County,R,False,B. Cole,2,100.0,West Virginia,41.2,4481
+54083,Randolph County,M,False,C. Pritt,3,100.0,West Virginia,5.2,568
+54083,Randolph County,C,False,P. Hudok,4,100.0,West Virginia,5.1,550
+54083,Randolph County,L,False,D. Moran,5,100.0,West Virginia,1.8,195
+54085,Ritchie County,R,False,B. Cole,1,100.0,West Virginia,62.4,2506
+54085,Ritchie County,D,False,J. Justice,2,100.0,West Virginia,31.6,1269
+54085,Ritchie County,M,False,C. Pritt,3,100.0,West Virginia,4.0,161
+54085,Ritchie County,L,False,D. Moran,4,100.0,West Virginia,1.6,64
+54085,Ritchie County,C,False,P. Hudok,5,100.0,West Virginia,0.5,19
+54087,Roane County,D,False,J. Justice,1,100.0,West Virginia,52.6,2785
+54087,Roane County,R,False,B. Cole,2,100.0,West Virginia,39.4,2087
+54087,Roane County,M,False,C. Pritt,3,100.0,West Virginia,6.3,332
+54087,Roane County,L,False,D. Moran,4,100.0,West Virginia,1.3,67
+54087,Roane County,C,False,P. Hudok,5,100.0,West Virginia,0.5,24
+54089,Summers County,D,False,J. Justice,1,100.0,West Virginia,55.2,2721
+54089,Summers County,R,False,B. Cole,2,100.0,West Virginia,36.3,1787
+54089,Summers County,M,False,C. Pritt,3,100.0,West Virginia,6.8,335
+54089,Summers County,L,False,D. Moran,4,100.0,West Virginia,1.4,70
+54089,Summers County,C,False,P. Hudok,5,100.0,West Virginia,0.3,14
+54091,Taylor County,R,False,B. Cole,1,100.0,West Virginia,46.8,3077
+54091,Taylor County,D,False,J. Justice,2,100.0,West Virginia,45.6,2994
+54091,Taylor County,M,False,C. Pritt,3,100.0,West Virginia,4.1,269
+54091,Taylor County,L,False,D. Moran,4,100.0,West Virginia,3.0,198
+54091,Taylor County,C,False,P. Hudok,5,100.0,West Virginia,0.5,33
+54093,Tucker County,R,False,B. Cole,1,100.0,West Virginia,46.2,1604
+54093,Tucker County,D,False,J. Justice,2,100.0,West Virginia,42.6,1478
+54093,Tucker County,M,False,C. Pritt,3,100.0,West Virginia,5.3,184
+54093,Tucker County,L,False,D. Moran,4,100.0,West Virginia,4.5,156
+54093,Tucker County,C,False,P. Hudok,5,100.0,West Virginia,1.4,47
+54095,Tyler County,R,False,B. Cole,1,100.0,West Virginia,53.8,1952
+54095,Tyler County,D,False,J. Justice,2,100.0,West Virginia,39.7,1441
+54095,Tyler County,M,False,C. Pritt,3,100.0,West Virginia,4.0,146
+54095,Tyler County,L,False,D. Moran,4,100.0,West Virginia,1.7,62
+54095,Tyler County,C,False,P. Hudok,5,100.0,West Virginia,0.8,30
+54097,Upshur County,R,False,B. Cole,1,100.0,West Virginia,51.3,4698
+54097,Upshur County,D,False,J. Justice,2,100.0,West Virginia,40.5,3712
+54097,Upshur County,M,False,C. Pritt,3,100.0,West Virginia,5.2,477
+54097,Upshur County,L,False,D. Moran,4,100.0,West Virginia,1.9,174
+54097,Upshur County,C,False,P. Hudok,5,100.0,West Virginia,1.1,97
+54099,Wayne County,D,False,J. Justice,1,100.0,West Virginia,55.8,8494
+54099,Wayne County,R,False,B. Cole,2,100.0,West Virginia,38.0,5790
+54099,Wayne County,M,False,C. Pritt,3,100.0,West Virginia,4.3,659
+54099,Wayne County,L,False,D. Moran,4,100.0,West Virginia,1.4,215
+54099,Wayne County,C,False,P. Hudok,5,100.0,West Virginia,0.5,77
+54101,Webster County,D,False,J. Justice,1,100.0,West Virginia,49.1,1461
+54101,Webster County,R,False,B. Cole,2,100.0,West Virginia,42.4,1260
+54101,Webster County,M,False,C. Pritt,3,100.0,West Virginia,5.7,169
+54101,Webster County,L,False,D. Moran,4,100.0,West Virginia,1.7,52
+54101,Webster County,C,False,P. Hudok,5,100.0,West Virginia,1.1,32
+54103,Wetzel County,D,False,J. Justice,1,100.0,West Virginia,51.6,3204
+54103,Wetzel County,R,False,B. Cole,2,100.0,West Virginia,40.4,2513
+54103,Wetzel County,M,False,C. Pritt,3,100.0,West Virginia,5.1,314
+54103,Wetzel County,L,False,D. Moran,4,100.0,West Virginia,1.8,112
+54103,Wetzel County,C,False,P. Hudok,5,100.0,West Virginia,1.1,70
+54105,Wirt County,D,False,J. Justice,1,100.0,West Virginia,48.0,1161
+54105,Wirt County,R,False,B. Cole,2,100.0,West Virginia,45.7,1104
+54105,Wirt County,M,False,C. Pritt,3,100.0,West Virginia,4.2,102
+54105,Wirt County,L,False,D. Moran,4,100.0,West Virginia,1.7,42
+54105,Wirt County,C,False,P. Hudok,5,100.0,West Virginia,0.4,9
+54107,Wood County,D,False,J. Justice,1,100.0,West Virginia,48.3,17068
+54107,Wood County,R,False,B. Cole,2,100.0,West Virginia,44.7,15809
+54107,Wood County,M,False,C. Pritt,3,100.0,West Virginia,4.6,1635
+54107,Wood County,L,False,D. Moran,4,100.0,West Virginia,2.0,722
+54107,Wood County,C,False,P. Hudok,5,100.0,West Virginia,0.4,139
+54109,Wyoming County,D,False,J. Justice,1,100.0,West Virginia,61.7,4827
+54109,Wyoming County,R,False,B. Cole,2,100.0,West Virginia,33.6,2634
+54109,Wyoming County,M,False,C. Pritt,3,100.0,West Virginia,3.4,267
+54109,Wyoming County,L,False,D. Moran,4,100.0,West Virginia,1.0,76
+54109,Wyoming County,C,False,P. Hudok,5,100.0,West Virginia,0.3,24
