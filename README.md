@@ -1,4 +1,4 @@
-# United States 2016 Election, Primaries and Exit Polls results
+# United States 2016 Election results (President, Senate, House, Governor), plus Primaries, Ballot Measures and Exit Polls
 
 These are csvs of results scraped from Politico and (for exit polls) CNN websites. If anyone uses this, I'd love to hear about it! [I wrote a brief blog post describing my motivation](http://prooffreaderplus.blogspot.ca/2016/11/i-scraped-all-2016-us-election-data.html)
 
