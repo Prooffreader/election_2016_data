@@ -17,7 +17,7 @@ The following are known issues with the data as present on Politico (either the 
 * No page exists for Louisiana Senate or House Primary
 * Missing Illinois 5th district Republican House Primary
 * Politico has a "missing something" box in Illinois 12th district House Primary, but both Democratic and Republican primary results are present.
-* Politico's page for Virginia House Primary lists individual district results for only the 2nd, 45h and 6th districts.
+* Politico's page for Virginia House Primary lists individual district results for only the 2nd, 4th, 5th and 6th districts.
 * Minnesota's Presidential Primary is reported by congressional district, while its Presidential General Election is reported by county
 * Washington's open primaries for senate and house means that by county or district, the primaries are not divided between political parties
 
