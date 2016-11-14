@@ -8,6 +8,16 @@ Note that the use of Selenium was crucial because, in the case of Politico, the 
 
 I make no warranty as to the accuracy of the data, either of the source data itself or of my scraping (although I did my best and tried to validate the completeness of my results). Please contact me if you find any issues not listed here.
 
+I scraped most of the info from Politico, although the exit polls were from CNN. They include:
+
+* Both General Election and Primaries
+* Presidential, Senate, House and Governor races
+* Ballot Measures
+* Exit Polls
+* By State and by County, where possible.
+
+Further downballot races like state legislatures were not listed.
+
 The following are known issues with the data as present on Politico (either the data just does not exist/is not reported, or it exists and for whatever reason, Politico does not have it):
 
 * In South Dakota, the Presidential and Senate primaries have a "Shannon County" while the general elections have an "Oglala Lakota County"
