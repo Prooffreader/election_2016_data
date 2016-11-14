@@ -33,6 +33,8 @@ The following are known issues with the data as present on Politico (either the 
 
 Note that if there is only one candidate with is_winner == True and votes == NaN, they ran uncontested.
 
+A word about the ``individual_party`` and ``party`` fields. ``party`` is filled out when the entire subtable is for one party, e.g. a primary. ``individual_party`` is filled out when an individual line showing a candidate lists a political party. I kept politico's coding, D=Democrate, R=Republican, L=Libertarian, G=Green, I=Independent... and then there are some others for minor parties (P, V, etc.) that I did not investigate. If anyone wants to supply names for these parties, send me a message or a pull request.
+
 Note that the number of votes is reported as a float instead of an integer due to a particularity of the pandas/pydata ecosystem: since they contain NaNs (the uncontested winners mentioned in the previous note), and NaNs are dtype float, the column cannot be integer.
 
 For the curious, the Jupyter notebooks I used to scrape the data are in the ``notebooks`` folder. They're not beautiful, but they work.
