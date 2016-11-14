@@ -1,6 +1,6 @@
 # United States 2016 Election, Primaries and Exit Polls results
 
-These are csvs of results scraped from Politico and (for exit polls) CNN websites.
+These are csvs of results scraped from Politico and (for exit polls) CNN websites. If anyone uses this, I'd love to hear about it! [I wrote a brief blog post describing my motivation](http://prooffreaderplus.blogspot.ca/2016/11/i-scraped-all-2016-us-election-data.html)
 
 For more about the ethics of scraping, see [this Quora post](https://www.quora.com/What-is-the-legality-of-web-scraping). I used Selenium, which automated the Google Chrome browser, so I put no more load on their servers than a normal visitor. The only thing the program did faster than a human is parse the results.
 
