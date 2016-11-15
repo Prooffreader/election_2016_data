@@ -22,8 +22,8 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 1,1st District Primaries,,False,False,S. Wright,Republican,2,98.4,Alaska,18.5,8946.0
 1,1st District Primaries,,False,False,G. Heikes,Republican,3,98.4,Alaska,5.2,2511.0
 1,1st District Primaries,,False,False,J. Tingley,Republican,4,98.4,Alaska,4.6,2234.0
-1,1st District Primaries,L,False,True,J. McDermott,Independent,1,98.4,Alaska,72.0,3533.0
-1,1st District Primaries,L,False,False,J. Watts,Independent,2,98.4,Alaska,28.0,1371.0
+1,1st District Primaries,Libertarian,False,True,J. McDermott,Independent,1,98.4,Alaska,72.0,3533.0
+1,1st District Primaries,Libertarian,False,False,J. Watts,Independent,2,98.4,Alaska,28.0,1371.0
 1,1st District Primaries,,False,True,T. O'Halleran,Democratic,1,100.0,Arizona,59.2,26289.0
 1,1st District Primaries,,False,False,M. Olivas,Democratic,2,100.0,Arizona,40.8,18119.0
 1,1st District Primaries,,False,True,P. Babeu,Republican,1,100.0,Arizona,31.5,16244.0
@@ -62,206 +62,206 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 2,2nd District Primaries,,False,False,B. Olree,Republican,2,100.0,Arkansas,15.5,15788.0
 3,3rd District Primary,,True,True,S. Womack,,1,0.0,Arkansas,,
 4,4th District Primary,,True,True,B. Westerman,,1,0.0,Arkansas,,
-1,1st District Primary,R,True,True,D. La Malfa,,1,100.0,California,40.3,59037.0
-1,1st District Primary,D,False,True,J. Reed,,2,100.0,California,29.1,42543.0
-1,1st District Primary,R,False,False,J. Montes,,3,100.0,California,17.2,25203.0
-1,1st District Primary,D,False,False,D. Peterson,,4,100.0,California,6.3,9167.0
-1,1st District Primary,R,False,False,G. Oxley,,5,100.0,California,3.2,4667.0
-1,1st District Primary,O,False,False,J. Gerlach,,6,100.0,California,2.1,3079.0
-1,1st District Primary,R,False,False,G. Cheadle,,7,100.0,California,1.8,2627.0
-2,2nd District Primary,D,True,True,J. Huffman,,1,100.0,California,68.8,104520.0
-2,2nd District Primary,R,False,True,D. Mensing,,2,100.0,California,16.3,24690.0
-2,2nd District Primary,D,False,False,E. Schrode,,3,100.0,California,8.1,12333.0
-2,2nd District Primary,O,False,False,M. Wookey,,4,100.0,California,6.8,10307.0
-3,3rd District Primary,D,True,True,J. Garamendi,,1,100.0,California,63.4,73000.0
-3,3rd District Primary,R,False,True,E. Cleek,,2,100.0,California,24.0,27634.0
-3,3rd District Primary,R,False,False,R. Detert,,3,100.0,California,12.6,14447.0
-4,4th District Primary,R,True,True,T. McClintock,,1,100.0,California,61.2,97204.0
-4,4th District Primary,D,False,True,R. Derlet,,2,100.0,California,28.1,44582.0
-4,4th District Primary,D,False,False,S. White,,3,100.0,California,10.8,17109.0
-5,5th District Primary,D,True,True,M. Thompson,,1,100.0,California,66.6,88322.0
-5,5th District Primary,R,False,True,C. Santamaria,,2,100.0,California,19.2,25453.0
-5,5th District Primary,D,False,False,N. Palsson,,3,100.0,California,11.6,15399.0
-5,5th District Primary,D,False,False,A. Poling,,4,100.0,California,2.5,3377.0
-6,6th District Primary,D,True,True,D. Matsui,,1,100.0,California,71.0,61518.0
-6,6th District Primary,R,False,True,R. Evans,,2,100.0,California,18.7,16166.0
-6,6th District Primary,D,False,False,J. Jefferson,,3,100.0,California,5.1,4393.0
-6,6th District Primary,O,False,False,M. Galvan,,4,100.0,California,4.0,3479.0
-6,6th District Primary,O,False,False,Y. Seretskiy,,5,100.0,California,1.3,1093.0
-7,7th District Primary,D,True,True,A. Bera,,1,0.0,California,0.0,0.0
-7,7th District Primary,R,False,True,S. Jones,,2,0.0,California,0.0,0.0
-8,8th District Primary,R,True,True,P. Cook,,1,100.0,California,43.4,38740.0
-8,8th District Primary,D,False,False,R. Ramirez,,2,100.0,California,21.4,19124.0
-8,8th District Primary,R,False,False,T. Donnelly,,3,100.0,California,20.2,18039.0
-8,8th District Primary,D,False,False,J. Pinkerton,,4,100.0,California,9.5,8522.0
-8,8th District Primary,D,False,False,R. La Plante,,5,100.0,California,5.5,4925.0
-9,9th District Primary,D,True,True,J. McNerney,,1,100.0,California,55.4,45571.0
-9,9th District Primary,R,False,True,T. Amador,,2,100.0,California,21.9,18017.0
-9,9th District Primary,R,False,False,K. Nance,,3,100.0,California,19.2,15785.0
-9,9th District Primary,L,False,False,A. Appleby,,4,100.0,California,3.6,2935.0
-10,10th District Primary,R,True,True,J. Denham,,1,100.0,California,46.9,35008.0
-10,10th District Primary,D,False,True,M. Eggman,,2,100.0,California,28.4,21179.0
-10,10th District Primary,D,False,False,M. Barkley,,3,100.0,California,14.6,10917.0
-10,10th District Primary,R,False,False,R. Hodges,,4,100.0,California,10.0,7464.0
-11,11th District Primary,D,True,True,M. DeSaulnier,,1,0.0,California,0.0,0.0
-11,11th District Primary,R,False,True,R. Petersen,,2,0.0,California,0.0,0.0
-12,12th District Primary,D,True,True,N. Pelosi,,1,100.0,California,78.2,119941.0
-12,12th District Primary,R,False,True,B. Miller,,2,100.0,California,8.0,12287.0
-12,12th District Primary,O,False,False,P. Picus,,3,100.0,California,7.1,10936.0
-12,12th District Primary,G,False,False,B. Hermanson,,4,100.0,California,6.6,10171.0
-13,13th District Primary,R,False,True,S. Caro,,1,0.0,California,0.0,0.0
-13,13th District Primary,D,True,True,B. Lee,,2,0.0,California,0.0,0.0
-14,14th District Primary,D,True,True,J. Speier,,1,100.0,California,,
-15,15th District Primary,D,True,True,E. Swalwell,,1,0.0,California,0.0,0.0
-15,15th District Primary,R,False,True,D. Turner,,2,0.0,California,0.0,0.0
-16,16th District Primary,D,True,True,J. Costa,,1,100.0,California,54.1,33956.0
-16,16th District Primary,R,False,True,J. Tacherra,,2,100.0,California,33.8,21200.0
-16,16th District Primary,R,False,False,D. Rogers,,3,100.0,California,12.1,7574.0
-17,17th District Primary,D,False,True,R. Khanna,,1,100.0,California,38.3,33785.0
-17,17th District Primary,D,True,True,M. Honda,,2,100.0,California,38.1,33608.0
-17,17th District Primary,R,False,False,P. Kuo,,3,100.0,California,8.8,7793.0
-17,17th District Primary,R,False,False,R. Cohen,,4,100.0,California,8.5,7461.0
-17,17th District Primary,D,False,False,P. Oliverio,,5,100.0,California,4.0,3552.0
-17,17th District Primary,L,False,False,K. Watson,,6,100.0,California,2.3,1991.0
-18,18th District Primary,D,True,True,A. Eshoo,,1,100.0,California,67.9,85242.0
-18,18th District Primary,R,False,True,R. Fox,,2,100.0,California,25.0,31385.0
-18,18th District Primary,D,False,False,B. Harlow,,3,100.0,California,7.1,8920.0
-19,19th District Primary,R,False,True,B. Lancaster,,1,0.0,California,0.0,0.0
-19,19th District Primary,D,True,True,Z. Lofgren,,2,0.0,California,0.0,0.0
-20,20th District Primary,D,False,True,J. Panetta,,1,100.0,California,71.5,67104.0
-20,20th District Primary,R,False,True,C. Lucius,,2,100.0,California,19.8,18552.0
-20,20th District Primary,O,False,False,B. Honegger,,3,100.0,California,3.6,3407.0
-20,20th District Primary,P,False,False,J. Williams,,4,100.0,California,3.4,3210.0
-20,20th District Primary,O,False,False,J. Digby,,5,100.0,California,1.7,1599.0
-21,21st District Primary,R,True,True,D. Valadao,,1,100.0,California,58.2,28772.0
-21,21st District Primary,D,False,False,D. Parra,,2,100.0,California,21.4,10583.0
-21,21st District Primary,D,False,False,E. Huerta,,3,100.0,California,20.4,10116.0
-22,22nd District Primary,R,True,True,D. Nunes,,1,100.0,California,64.9,59410.0
-22,22nd District Primary,D,False,True,L. Campos,,2,100.0,California,28.7,26297.0
-22,22nd District Primary,R,False,False,T. Andres,,3,100.0,California,6.3,5785.0
-23,23rd District Primary,R,True,True,K. McCarthy,,1,100.0,California,56.5,51298.0
-23,23rd District Primary,D,False,True,W. Reed,,2,100.0,California,26.6,24158.0
-23,23rd District Primary,R,False,False,K. Mettler,,3,100.0,California,12.7,11493.0
-23,23rd District Primary,R,False,False,G. Morris,,4,100.0,California,4.2,3853.0
-24,24th District Primary,D,False,True,S. Carbajal,,1,100.0,California,32.7,47618.0
-24,24th District Primary,R,False,False,J. Fareed,,2,100.0,California,20.5,29902.0
-24,24th District Primary,R,False,False,K. Achadjian,,3,100.0,California,18.9,27545.0
-24,24th District Primary,D,False,False,H. Schneider,,4,100.0,California,14.4,20992.0
-24,24th District Primary,D,False,False,B. Ostrander,,5,100.0,California,5.5,8048.0
-24,24th District Primary,R,False,False,M. Kokkonen,,6,100.0,California,5.3,7779.0
-24,24th District Primary,O,False,False,S. Isakson,,7,100.0,California,1.0,1444.0
-24,24th District Primary,O,False,False,J. Uebersax,,8,100.0,California,0.9,1330.0
-24,24th District Primary,D,False,False,B. Lucas,,9,100.0,California,0.7,1013.0
-25,25th District Primary,R,True,True,S. Knight,,1,100.0,California,49.0,46568.0
-25,25th District Primary,D,False,True,B. Caforio,,2,100.0,California,28.7,27332.0
-25,25th District Primary,D,False,False,L. Vince,,3,100.0,California,14.9,14197.0
-25,25th District Primary,R,False,False,J. Moffatt,,4,100.0,California,7.3,6978.0
-26,26th District Primary,D,True,True,J. Brownley,,1,0.0,California,0.0,0.0
-26,26th District Primary,R,False,True,R. Dagnesses,,2,0.0,California,0.0,0.0
-27,27th District Primary,D,True,True,J. Chu,,1,100.0,California,65.9,67318.0
-27,27th District Primary,R,False,True,J. Orswell,,2,100.0,California,28.4,29057.0
-27,27th District Primary,O,False,False,T. Sweeney,,3,100.0,California,5.7,5850.0
-28,28th District Primary,D,True,True,A. Schiff,,1,100.0,California,70.5,81806.0
-28,28th District Primary,R,False,True,L. Solis,,2,100.0,California,18.7,21741.0
-28,28th District Primary,D,False,False,S. Genovese,,3,100.0,California,10.8,12492.0
-29,29th District Primary,D,True,True,T. Cardenas,,1,100.0,California,62.2,42892.0
-29,29th District Primary,D,False,False,R. Alarcon,,2,100.0,California,13.1,9021.0
-29,29th District Primary,D,False,False,J. Shammas,,3,100.0,California,11.1,7671.0
-29,29th District Primary,D,False,False,B. Bernal,,4,100.0,California,9.8,6787.0
-29,29th District Primary,D,False,False,D. Guzman,,5,100.0,California,3.8,2588.0
-30,30th District Primary,D,True,True,B. Sherman,,1,100.0,California,61.1,68719.0
-30,30th District Primary,R,False,True,M. Reed,,2,100.0,California,14.0,15793.0
-30,30th District Primary,D,False,False,P. Patrick,,3,100.0,California,8.9,9962.0
-30,30th District Primary,D,False,False,R. Rab,,4,100.0,California,5.4,6025.0
-30,30th District Primary,R,False,False,N. Singh,,5,100.0,California,4.4,4926.0
-30,30th District Primary,D,False,False,L. Davis,,6,100.0,California,3.2,3594.0
-30,30th District Primary,R,False,False,C. Townsend,,7,100.0,California,3.1,3492.0
-31,31st District Primary,D,True,True,P. Aguilar,,1,100.0,California,43.3,34721.0
-31,31st District Primary,R,False,True,P. Chabot,,2,100.0,California,23.8,19088.0
-31,31st District Primary,R,False,False,J. Baca,,3,100.0,California,11.8,9452.0
-31,31st District Primary,R,True,False,S. Flynn,,4,100.0,California,11.2,8956.0
-31,31st District Primary,D,False,False,K. Ahmed,,5,100.0,California,10.0,8007.0
-32,32nd District Primary,D,True,True,G. Napolitano,,1,100.0,California,51.7,41423.0
-32,32nd District Primary,R,False,False,G. Fisher,,2,100.0,California,24.3,19439.0
-32,32nd District Primary,D,False,False,R. Hernandez,,3,100.0,California,24.0,19217.0
-33,33rd District Primary,D,True,True,T. Lieu,,1,0.0,California,0.0,0.0
-33,33rd District Primary,R,False,True,K. Wright,,2,0.0,California,0.0,0.0
-34,34th District Primary,D,True,True,X. Becerra,,1,0.0,California,0.0,0.0
-34,34th District Primary,D,False,True,A. Edwards,,2,0.0,California,0.0,0.0
-35,35th District Primary,R,False,True,T. Fischella,,1,0.0,California,0.0,0.0
-35,35th District Primary,D,True,True,N. Torres,,2,0.0,California,0.0,0.0
-36,36th District Primary,D,True,True,R. Ruiz,,1,100.0,California,56.6,48924.0
-36,36th District Primary,R,False,True,J. Stone,,2,100.0,California,33.3,28809.0
-36,36th District Primary,R,False,False,S. Wolkowicz,,3,100.0,California,10.0,8654.0
-37,37th District Primary,D,True,True,K. Bass,,1,100.0,California,81.0,84031.0
-37,37th District Primary,D,False,False,C. Wiggins,,2,100.0,California,9.9,10288.0
-37,37th District Primary,R,False,False,S. Hasan,,3,100.0,California,9.0,9371.0
-38,38th District Primary,D,True,True,L. Sanchez,,1,100.0,California,70.0,64258.0
-38,38th District Primary,R,False,True,R. Downing,,2,100.0,California,21.2,19452.0
-38,38th District Primary,O,False,False,S. Adams,,3,100.0,California,8.9,8129.0
-39,39th District Primary,D,False,True,B. Murdock,,1,0.0,California,0.0,0.0
-39,39th District Primary,R,True,True,E. Royce,,2,0.0,California,0.0,0.0
-40,40th District Primary,O,False,True,R. Gonzalez,,1,0.0,California,0.0,0.0
-40,40th District Primary,D,True,True,L. Roybal-Allard,,2,0.0,California,0.0,0.0
-41,41st District Primary,D,True,True,M. Takano,,1,100.0,California,62.8,36700.0
-41,41st District Primary,R,False,False,D. Shepherd,,2,100.0,California,18.6,10864.0
-41,41st District Primary,R,False,False,R. Fox,,3,100.0,California,15.7,9157.0
-41,41st District Primary,R,False,False,C. Ryan,,4,100.0,California,2.9,1701.0
-42,42nd District Primary,R,True,True,K. Calvert,,1,100.0,California,56.0,41366.0
-42,42nd District Primary,D,False,True,T. Sheridan,,2,100.0,California,37.0,27336.0
-42,42nd District Primary,O,False,False,K. Condley,,3,100.0,California,7.0,5210.0
-43,43rd District Primary,R,False,True,O. Navarro,,1,0.0,California,0.0,0.0
-43,43rd District Primary,D,True,True,M. Waters,,2,0.0,California,0.0,0.0
-44,44th District Primary,D,False,True,I. Hall,,1,100.0,California,41.5,30219.0
-44,44th District Primary,D,False,True,N. Barragan,,2,100.0,California,21.6,15737.0
-44,44th District Primary,D,False,False,A. Sotomayor,,3,100.0,California,9.7,7040.0
-44,44th District Primary,D,False,False,S. Ortiz,,4,100.0,California,5.9,4313.0
-44,44th District Primary,D,False,False,M. Delgadillo,,5,100.0,California,5.8,4201.0
-44,44th District Primary,R,False,False,R. Siegel,,6,100.0,California,5.5,4030.0
-44,44th District Primary,R,False,False,C. Castillo,,7,100.0,California,3.5,2574.0
-44,44th District Primary,D,False,False,M. Griffin,,8,100.0,California,3.4,2495.0
-44,44th District Primary,D,False,False,M. Musante,,9,100.0,California,2.2,1635.0
-44,44th District Primary,O,False,False,M. De Mauricio,,10,100.0,California,0.9,641.0
-45,45th District Primary,R,True,True,M. Walters,,1,100.0,California,41.3,47136.0
-45,45th District Primary,D,False,True,R. Varasteh,,2,100.0,California,27.2,31042.0
-45,45th District Primary,R,False,False,G. Raths,,3,100.0,California,19.0,21721.0
-45,45th District Primary,D,False,False,M. Gouron,,4,100.0,California,12.5,14279.0
-46,46th District Primary,D,False,True,L. Correa,,1,100.0,California,41.6,24184.0
-46,46th District Primary,R,False,True,B. Peterson,,2,100.0,California,14.5,8446.0
-46,46th District Primary,D,False,False,B. Nguyen,,3,100.0,California,13.7,7954.0
-46,46th District Primary,D,False,False,J. Dunn,,4,100.0,California,12.8,7414.0
-46,46th District Primary,R,False,False,L. Schott,,5,100.0,California,8.6,5014.0
-46,46th District Primary,R,False,False,L. Contreras,,6,100.0,California,3.8,2215.0
-46,46th District Primary,O,False,False,N. Marin,,7,100.0,California,3.2,1846.0
-46,46th District Primary,R,False,False,R. Gaona,,8,100.0,California,1.7,998.0
-47,47th District Primary,D,True,True,A. Lowenthal,,1,100.0,California,65.9,62967.0
-47,47th District Primary,R,False,True,A. Whallon,,2,100.0,California,22.0,21064.0
-47,47th District Primary,R,False,False,S. Kahn,,3,100.0,California,12.0,11506.0
-48,48th District Primary,R,True,True,D. Rohrabacher,,1,100.0,California,56.6,67218.0
-48,48th District Primary,D,False,True,S. Savary,,2,100.0,California,28.9,34379.0
-48,48th District Primary,D,False,False,R. Banuelos,,3,100.0,California,14.5,17213.0
-49,49th District Primary,R,True,True,D. Issa,,1,100.0,California,51.1,56013.0
-49,49th District Primary,D,False,True,D. Applegate,,2,100.0,California,45.4,49792.0
-49,49th District Primary,O,False,False,R. Wingo,,3,100.0,California,3.4,3764.0
-50,50th District Primary,R,True,True,D. Hunter,,1,100.0,California,57.2,55311.0
-50,50th District Primary,D,False,True,P. Malloy,,2,100.0,California,21.7,20987.0
-50,50th District Primary,D,False,False,D. Secor,,3,100.0,California,11.2,10866.0
-50,50th District Primary,R,False,False,S. Meisterlin,,4,100.0,California,6.9,6630.0
-50,50th District Primary,O,False,False,F. Shioura,,5,100.0,California,3.1,2988.0
-51,51st District Primary,D,True,True,J. Vargas,,1,100.0,California,66.6,39460.0
-51,51st District Primary,R,False,True,J. Hidalgo,,2,100.0,California,16.4,9697.0
-51,51st District Primary,D,False,False,J. Mercado-Flores,,3,100.0,California,8.7,5133.0
-51,51st District Primary,R,False,False,C. Sanchez,,4,100.0,California,8.4,4953.0
-52,52nd District Primary,D,True,True,S. Peters,,1,100.0,California,58.6,64811.0
-52,52nd District Primary,R,False,True,D. Gitsham,,2,100.0,California,16.1,17761.0
-52,52nd District Primary,R,False,False,J. Atkinson,,3,100.0,California,13.4,14785.0
-52,52nd District Primary,R,False,False,K. Canada,,4,100.0,California,4.5,4965.0
-52,52nd District Primary,R,False,False,T. Allvord,,5,100.0,California,4.5,4953.0
-52,52nd District Primary,R,False,False,J. Horst,,6,100.0,California,3.0,3264.0
-53,53rd District Primary,D,True,True,S. Davis,,1,100.0,California,64.9,67166.0
-53,53rd District Primary,R,False,False,J. Ash,,2,100.0,California,15.5,16085.0
-53,53rd District Primary,R,False,False,J. Veltmeyer,,3,100.0,California,15.4,15958.0
-53,53rd District Primary,D,False,False,N. Walpert,,4,100.0,California,4.1,4275.0
+1,1st District Primary,Republican,True,True,D. La Malfa,,1,100.0,California,40.3,59037.0
+1,1st District Primary,Democratic,False,True,J. Reed,,2,100.0,California,29.1,42543.0
+1,1st District Primary,Republican,False,False,J. Montes,,3,100.0,California,17.2,25203.0
+1,1st District Primary,Democratic,False,False,D. Peterson,,4,100.0,California,6.3,9167.0
+1,1st District Primary,Republican,False,False,G. Oxley,,5,100.0,California,3.2,4667.0
+1,1st District Primary,Independent_Other,False,False,J. Gerlach,,6,100.0,California,2.1,3079.0
+1,1st District Primary,Republican,False,False,G. Cheadle,,7,100.0,California,1.8,2627.0
+2,2nd District Primary,Democratic,True,True,J. Huffman,,1,100.0,California,68.8,104520.0
+2,2nd District Primary,Republican,False,True,D. Mensing,,2,100.0,California,16.3,24690.0
+2,2nd District Primary,Democratic,False,False,E. Schrode,,3,100.0,California,8.1,12333.0
+2,2nd District Primary,Independent_Other,False,False,M. Wookey,,4,100.0,California,6.8,10307.0
+3,3rd District Primary,Democratic,True,True,J. Garamendi,,1,100.0,California,63.4,73000.0
+3,3rd District Primary,Republican,False,True,E. Cleek,,2,100.0,California,24.0,27634.0
+3,3rd District Primary,Republican,False,False,R. Detert,,3,100.0,California,12.6,14447.0
+4,4th District Primary,Republican,True,True,T. McClintock,,1,100.0,California,61.2,97204.0
+4,4th District Primary,Democratic,False,True,R. Derlet,,2,100.0,California,28.1,44582.0
+4,4th District Primary,Democratic,False,False,S. White,,3,100.0,California,10.8,17109.0
+5,5th District Primary,Democratic,True,True,M. Thompson,,1,100.0,California,66.6,88322.0
+5,5th District Primary,Republican,False,True,C. Santamaria,,2,100.0,California,19.2,25453.0
+5,5th District Primary,Democratic,False,False,N. Palsson,,3,100.0,California,11.6,15399.0
+5,5th District Primary,Democratic,False,False,A. Poling,,4,100.0,California,2.5,3377.0
+6,6th District Primary,Democratic,True,True,D. Matsui,,1,100.0,California,71.0,61518.0
+6,6th District Primary,Republican,False,True,R. Evans,,2,100.0,California,18.7,16166.0
+6,6th District Primary,Democratic,False,False,J. Jefferson,,3,100.0,California,5.1,4393.0
+6,6th District Primary,Independent_Other,False,False,M. Galvan,,4,100.0,California,4.0,3479.0
+6,6th District Primary,Independent_Other,False,False,Y. Seretskiy,,5,100.0,California,1.3,1093.0
+7,7th District Primary,Democratic,True,True,A. Bera,,1,0.0,California,0.0,0.0
+7,7th District Primary,Republican,False,True,S. Jones,,2,0.0,California,0.0,0.0
+8,8th District Primary,Republican,True,True,P. Cook,,1,100.0,California,43.4,38740.0
+8,8th District Primary,Democratic,False,False,R. Ramirez,,2,100.0,California,21.4,19124.0
+8,8th District Primary,Republican,False,False,T. Donnelly,,3,100.0,California,20.2,18039.0
+8,8th District Primary,Democratic,False,False,J. Pinkerton,,4,100.0,California,9.5,8522.0
+8,8th District Primary,Democratic,False,False,R. La Plante,,5,100.0,California,5.5,4925.0
+9,9th District Primary,Democratic,True,True,J. McNerney,,1,100.0,California,55.4,45571.0
+9,9th District Primary,Republican,False,True,T. Amador,,2,100.0,California,21.9,18017.0
+9,9th District Primary,Republican,False,False,K. Nance,,3,100.0,California,19.2,15785.0
+9,9th District Primary,Libertarian,False,False,A. Appleby,,4,100.0,California,3.6,2935.0
+10,10th District Primary,Republican,True,True,J. Denham,,1,100.0,California,46.9,35008.0
+10,10th District Primary,Democratic,False,True,M. Eggman,,2,100.0,California,28.4,21179.0
+10,10th District Primary,Democratic,False,False,M. Barkley,,3,100.0,California,14.6,10917.0
+10,10th District Primary,Republican,False,False,R. Hodges,,4,100.0,California,10.0,7464.0
+11,11th District Primary,Democratic,True,True,M. DeSaulnier,,1,0.0,California,0.0,0.0
+11,11th District Primary,Republican,False,True,R. Petersen,,2,0.0,California,0.0,0.0
+12,12th District Primary,Democratic,True,True,N. Pelosi,,1,100.0,California,78.2,119941.0
+12,12th District Primary,Republican,False,True,B. Miller,,2,100.0,California,8.0,12287.0
+12,12th District Primary,Independent_Other,False,False,P. Picus,,3,100.0,California,7.1,10936.0
+12,12th District Primary,Green,False,False,B. Hermanson,,4,100.0,California,6.6,10171.0
+13,13th District Primary,Republican,False,True,S. Caro,,1,0.0,California,0.0,0.0
+13,13th District Primary,Democratic,True,True,B. Lee,,2,0.0,California,0.0,0.0
+14,14th District Primary,Democratic,True,True,J. Speier,,1,100.0,California,,
+15,15th District Primary,Democratic,True,True,E. Swalwell,,1,0.0,California,0.0,0.0
+15,15th District Primary,Republican,False,True,D. Turner,,2,0.0,California,0.0,0.0
+16,16th District Primary,Democratic,True,True,J. Costa,,1,100.0,California,54.1,33956.0
+16,16th District Primary,Republican,False,True,J. Tacherra,,2,100.0,California,33.8,21200.0
+16,16th District Primary,Republican,False,False,D. Rogers,,3,100.0,California,12.1,7574.0
+17,17th District Primary,Democratic,False,True,R. Khanna,,1,100.0,California,38.3,33785.0
+17,17th District Primary,Democratic,True,True,M. Honda,,2,100.0,California,38.1,33608.0
+17,17th District Primary,Republican,False,False,P. Kuo,,3,100.0,California,8.8,7793.0
+17,17th District Primary,Republican,False,False,R. Cohen,,4,100.0,California,8.5,7461.0
+17,17th District Primary,Democratic,False,False,P. Oliverio,,5,100.0,California,4.0,3552.0
+17,17th District Primary,Libertarian,False,False,K. Watson,,6,100.0,California,2.3,1991.0
+18,18th District Primary,Democratic,True,True,A. Eshoo,,1,100.0,California,67.9,85242.0
+18,18th District Primary,Republican,False,True,R. Fox,,2,100.0,California,25.0,31385.0
+18,18th District Primary,Democratic,False,False,B. Harlow,,3,100.0,California,7.1,8920.0
+19,19th District Primary,Republican,False,True,B. Lancaster,,1,0.0,California,0.0,0.0
+19,19th District Primary,Democratic,True,True,Z. Lofgren,,2,0.0,California,0.0,0.0
+20,20th District Primary,Democratic,False,True,J. Panetta,,1,100.0,California,71.5,67104.0
+20,20th District Primary,Republican,False,True,C. Lucius,,2,100.0,California,19.8,18552.0
+20,20th District Primary,Independent_Other,False,False,B. Honegger,,3,100.0,California,3.6,3407.0
+20,20th District Primary,Progressive,False,False,J. Williams,,4,100.0,California,3.4,3210.0
+20,20th District Primary,Independent_Other,False,False,J. Digby,,5,100.0,California,1.7,1599.0
+21,21st District Primary,Republican,True,True,D. Valadao,,1,100.0,California,58.2,28772.0
+21,21st District Primary,Democratic,False,False,D. Parra,,2,100.0,California,21.4,10583.0
+21,21st District Primary,Democratic,False,False,E. Huerta,,3,100.0,California,20.4,10116.0
+22,22nd District Primary,Republican,True,True,D. Nunes,,1,100.0,California,64.9,59410.0
+22,22nd District Primary,Democratic,False,True,L. Campos,,2,100.0,California,28.7,26297.0
+22,22nd District Primary,Republican,False,False,T. Andres,,3,100.0,California,6.3,5785.0
+23,23rd District Primary,Republican,True,True,K. McCarthy,,1,100.0,California,56.5,51298.0
+23,23rd District Primary,Democratic,False,True,W. Reed,,2,100.0,California,26.6,24158.0
+23,23rd District Primary,Republican,False,False,K. Mettler,,3,100.0,California,12.7,11493.0
+23,23rd District Primary,Republican,False,False,G. Morris,,4,100.0,California,4.2,3853.0
+24,24th District Primary,Democratic,False,True,S. Carbajal,,1,100.0,California,32.7,47618.0
+24,24th District Primary,Republican,False,False,J. Fareed,,2,100.0,California,20.5,29902.0
+24,24th District Primary,Republican,False,False,K. Achadjian,,3,100.0,California,18.9,27545.0
+24,24th District Primary,Democratic,False,False,H. Schneider,,4,100.0,California,14.4,20992.0
+24,24th District Primary,Democratic,False,False,B. Ostrander,,5,100.0,California,5.5,8048.0
+24,24th District Primary,Republican,False,False,M. Kokkonen,,6,100.0,California,5.3,7779.0
+24,24th District Primary,Independent_Other,False,False,S. Isakson,,7,100.0,California,1.0,1444.0
+24,24th District Primary,Independent_Other,False,False,J. Uebersax,,8,100.0,California,0.9,1330.0
+24,24th District Primary,Democratic,False,False,B. Lucas,,9,100.0,California,0.7,1013.0
+25,25th District Primary,Republican,True,True,S. Knight,,1,100.0,California,49.0,46568.0
+25,25th District Primary,Democratic,False,True,B. Caforio,,2,100.0,California,28.7,27332.0
+25,25th District Primary,Democratic,False,False,L. Vince,,3,100.0,California,14.9,14197.0
+25,25th District Primary,Republican,False,False,J. Moffatt,,4,100.0,California,7.3,6978.0
+26,26th District Primary,Democratic,True,True,J. Brownley,,1,0.0,California,0.0,0.0
+26,26th District Primary,Republican,False,True,R. Dagnesses,,2,0.0,California,0.0,0.0
+27,27th District Primary,Democratic,True,True,J. Chu,,1,100.0,California,65.9,67318.0
+27,27th District Primary,Republican,False,True,J. Orswell,,2,100.0,California,28.4,29057.0
+27,27th District Primary,Independent_Other,False,False,T. Sweeney,,3,100.0,California,5.7,5850.0
+28,28th District Primary,Democratic,True,True,A. Schiff,,1,100.0,California,70.5,81806.0
+28,28th District Primary,Republican,False,True,L. Solis,,2,100.0,California,18.7,21741.0
+28,28th District Primary,Democratic,False,False,S. Genovese,,3,100.0,California,10.8,12492.0
+29,29th District Primary,Democratic,True,True,T. Cardenas,,1,100.0,California,62.2,42892.0
+29,29th District Primary,Democratic,False,False,R. Alarcon,,2,100.0,California,13.1,9021.0
+29,29th District Primary,Democratic,False,False,J. Shammas,,3,100.0,California,11.1,7671.0
+29,29th District Primary,Democratic,False,False,B. Bernal,,4,100.0,California,9.8,6787.0
+29,29th District Primary,Democratic,False,False,D. Guzman,,5,100.0,California,3.8,2588.0
+30,30th District Primary,Democratic,True,True,B. Sherman,,1,100.0,California,61.1,68719.0
+30,30th District Primary,Republican,False,True,M. Reed,,2,100.0,California,14.0,15793.0
+30,30th District Primary,Democratic,False,False,P. Patrick,,3,100.0,California,8.9,9962.0
+30,30th District Primary,Democratic,False,False,R. Rab,,4,100.0,California,5.4,6025.0
+30,30th District Primary,Republican,False,False,N. Singh,,5,100.0,California,4.4,4926.0
+30,30th District Primary,Democratic,False,False,L. Davis,,6,100.0,California,3.2,3594.0
+30,30th District Primary,Republican,False,False,C. Townsend,,7,100.0,California,3.1,3492.0
+31,31st District Primary,Democratic,True,True,P. Aguilar,,1,100.0,California,43.3,34721.0
+31,31st District Primary,Republican,False,True,P. Chabot,,2,100.0,California,23.8,19088.0
+31,31st District Primary,Republican,False,False,J. Baca,,3,100.0,California,11.8,9452.0
+31,31st District Primary,Republican,True,False,S. Flynn,,4,100.0,California,11.2,8956.0
+31,31st District Primary,Democratic,False,False,K. Ahmed,,5,100.0,California,10.0,8007.0
+32,32nd District Primary,Democratic,True,True,G. Napolitano,,1,100.0,California,51.7,41423.0
+32,32nd District Primary,Republican,False,False,G. Fisher,,2,100.0,California,24.3,19439.0
+32,32nd District Primary,Democratic,False,False,R. Hernandez,,3,100.0,California,24.0,19217.0
+33,33rd District Primary,Democratic,True,True,T. Lieu,,1,0.0,California,0.0,0.0
+33,33rd District Primary,Republican,False,True,K. Wright,,2,0.0,California,0.0,0.0
+34,34th District Primary,Democratic,True,True,X. Becerra,,1,0.0,California,0.0,0.0
+34,34th District Primary,Democratic,False,True,A. Edwards,,2,0.0,California,0.0,0.0
+35,35th District Primary,Republican,False,True,T. Fischella,,1,0.0,California,0.0,0.0
+35,35th District Primary,Democratic,True,True,N. Torres,,2,0.0,California,0.0,0.0
+36,36th District Primary,Democratic,True,True,R. Ruiz,,1,100.0,California,56.6,48924.0
+36,36th District Primary,Republican,False,True,J. Stone,,2,100.0,California,33.3,28809.0
+36,36th District Primary,Republican,False,False,S. Wolkowicz,,3,100.0,California,10.0,8654.0
+37,37th District Primary,Democratic,True,True,K. Bass,,1,100.0,California,81.0,84031.0
+37,37th District Primary,Democratic,False,False,C. Wiggins,,2,100.0,California,9.9,10288.0
+37,37th District Primary,Republican,False,False,S. Hasan,,3,100.0,California,9.0,9371.0
+38,38th District Primary,Democratic,True,True,L. Sanchez,,1,100.0,California,70.0,64258.0
+38,38th District Primary,Republican,False,True,R. Downing,,2,100.0,California,21.2,19452.0
+38,38th District Primary,Independent_Other,False,False,S. Adams,,3,100.0,California,8.9,8129.0
+39,39th District Primary,Democratic,False,True,B. Murdock,,1,0.0,California,0.0,0.0
+39,39th District Primary,Republican,True,True,E. Royce,,2,0.0,California,0.0,0.0
+40,40th District Primary,Independent_Other,False,True,R. Gonzalez,,1,0.0,California,0.0,0.0
+40,40th District Primary,Democratic,True,True,L. Roybal-Allard,,2,0.0,California,0.0,0.0
+41,41st District Primary,Democratic,True,True,M. Takano,,1,100.0,California,62.8,36700.0
+41,41st District Primary,Republican,False,False,D. Shepherd,,2,100.0,California,18.6,10864.0
+41,41st District Primary,Republican,False,False,R. Fox,,3,100.0,California,15.7,9157.0
+41,41st District Primary,Republican,False,False,C. Ryan,,4,100.0,California,2.9,1701.0
+42,42nd District Primary,Republican,True,True,K. Calvert,,1,100.0,California,56.0,41366.0
+42,42nd District Primary,Democratic,False,True,T. Sheridan,,2,100.0,California,37.0,27336.0
+42,42nd District Primary,Independent_Other,False,False,K. Condley,,3,100.0,California,7.0,5210.0
+43,43rd District Primary,Republican,False,True,O. Navarro,,1,0.0,California,0.0,0.0
+43,43rd District Primary,Democratic,True,True,M. Waters,,2,0.0,California,0.0,0.0
+44,44th District Primary,Democratic,False,True,I. Hall,,1,100.0,California,41.5,30219.0
+44,44th District Primary,Democratic,False,True,N. Barragan,,2,100.0,California,21.6,15737.0
+44,44th District Primary,Democratic,False,False,A. Sotomayor,,3,100.0,California,9.7,7040.0
+44,44th District Primary,Democratic,False,False,S. Ortiz,,4,100.0,California,5.9,4313.0
+44,44th District Primary,Democratic,False,False,M. Delgadillo,,5,100.0,California,5.8,4201.0
+44,44th District Primary,Republican,False,False,R. Siegel,,6,100.0,California,5.5,4030.0
+44,44th District Primary,Republican,False,False,C. Castillo,,7,100.0,California,3.5,2574.0
+44,44th District Primary,Democratic,False,False,M. Griffin,,8,100.0,California,3.4,2495.0
+44,44th District Primary,Democratic,False,False,M. Musante,,9,100.0,California,2.2,1635.0
+44,44th District Primary,Independent_Other,False,False,M. De Mauricio,,10,100.0,California,0.9,641.0
+45,45th District Primary,Republican,True,True,M. Walters,,1,100.0,California,41.3,47136.0
+45,45th District Primary,Democratic,False,True,R. Varasteh,,2,100.0,California,27.2,31042.0
+45,45th District Primary,Republican,False,False,G. Raths,,3,100.0,California,19.0,21721.0
+45,45th District Primary,Democratic,False,False,M. Gouron,,4,100.0,California,12.5,14279.0
+46,46th District Primary,Democratic,False,True,L. Correa,,1,100.0,California,41.6,24184.0
+46,46th District Primary,Republican,False,True,B. Peterson,,2,100.0,California,14.5,8446.0
+46,46th District Primary,Democratic,False,False,B. Nguyen,,3,100.0,California,13.7,7954.0
+46,46th District Primary,Democratic,False,False,J. Dunn,,4,100.0,California,12.8,7414.0
+46,46th District Primary,Republican,False,False,L. Schott,,5,100.0,California,8.6,5014.0
+46,46th District Primary,Republican,False,False,L. Contreras,,6,100.0,California,3.8,2215.0
+46,46th District Primary,Independent_Other,False,False,N. Marin,,7,100.0,California,3.2,1846.0
+46,46th District Primary,Republican,False,False,R. Gaona,,8,100.0,California,1.7,998.0
+47,47th District Primary,Democratic,True,True,A. Lowenthal,,1,100.0,California,65.9,62967.0
+47,47th District Primary,Republican,False,True,A. Whallon,,2,100.0,California,22.0,21064.0
+47,47th District Primary,Republican,False,False,S. Kahn,,3,100.0,California,12.0,11506.0
+48,48th District Primary,Republican,True,True,D. Rohrabacher,,1,100.0,California,56.6,67218.0
+48,48th District Primary,Democratic,False,True,S. Savary,,2,100.0,California,28.9,34379.0
+48,48th District Primary,Democratic,False,False,R. Banuelos,,3,100.0,California,14.5,17213.0
+49,49th District Primary,Republican,True,True,D. Issa,,1,100.0,California,51.1,56013.0
+49,49th District Primary,Democratic,False,True,D. Applegate,,2,100.0,California,45.4,49792.0
+49,49th District Primary,Independent_Other,False,False,R. Wingo,,3,100.0,California,3.4,3764.0
+50,50th District Primary,Republican,True,True,D. Hunter,,1,100.0,California,57.2,55311.0
+50,50th District Primary,Democratic,False,True,P. Malloy,,2,100.0,California,21.7,20987.0
+50,50th District Primary,Democratic,False,False,D. Secor,,3,100.0,California,11.2,10866.0
+50,50th District Primary,Republican,False,False,S. Meisterlin,,4,100.0,California,6.9,6630.0
+50,50th District Primary,Independent_Other,False,False,F. Shioura,,5,100.0,California,3.1,2988.0
+51,51st District Primary,Democratic,True,True,J. Vargas,,1,100.0,California,66.6,39460.0
+51,51st District Primary,Republican,False,True,J. Hidalgo,,2,100.0,California,16.4,9697.0
+51,51st District Primary,Democratic,False,False,J. Mercado-Flores,,3,100.0,California,8.7,5133.0
+51,51st District Primary,Republican,False,False,C. Sanchez,,4,100.0,California,8.4,4953.0
+52,52nd District Primary,Democratic,True,True,S. Peters,,1,100.0,California,58.6,64811.0
+52,52nd District Primary,Republican,False,True,D. Gitsham,,2,100.0,California,16.1,17761.0
+52,52nd District Primary,Republican,False,False,J. Atkinson,,3,100.0,California,13.4,14785.0
+52,52nd District Primary,Republican,False,False,K. Canada,,4,100.0,California,4.5,4965.0
+52,52nd District Primary,Republican,False,False,T. Allvord,,5,100.0,California,4.5,4953.0
+52,52nd District Primary,Republican,False,False,J. Horst,,6,100.0,California,3.0,3264.0
+53,53rd District Primary,Democratic,True,True,S. Davis,,1,100.0,California,64.9,67166.0
+53,53rd District Primary,Republican,False,False,J. Ash,,2,100.0,California,15.5,16085.0
+53,53rd District Primary,Republican,False,False,J. Veltmeyer,,3,100.0,California,15.4,15958.0
+53,53rd District Primary,Democratic,False,False,N. Walpert,,4,100.0,California,4.1,4275.0
 1,1st District Primaries,,True,True,D. DeGette,Democratic,1,100.0,Colorado,86.5,55438.0
 1,1st District Primaries,,False,False,C. Norris,Democratic,2,100.0,Colorado,13.5,8676.0
 1,1st District Primaries,,False,True,C. Stockham,Republican,1,100.0,Colorado,,
@@ -304,7 +304,7 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 2,2nd District Primaries,,False,True,N. Dunn,Republican,1,100.0,Florida,41.4,33873.0
 2,2nd District Primaries,,False,False,M. Thomas,Republican,2,100.0,Florida,39.3,32162.0
 2,2nd District Primaries,,False,False,K. Sukhia,Republican,3,100.0,Florida,19.3,15821.0
-2,2nd District Primaries,L,False,True,R. Lapham,Independent,1,100.0,Florida,,
+2,2nd District Primaries,Libertarian,False,True,R. Lapham,Independent,1,100.0,Florida,,
 3,3rd District Primaries,,False,True,K. McGurn,Democratic,1,100.0,Florida,,
 3,3rd District Primaries,,True,True,T. Yoho,Republican,1,100.0,Florida,,
 4,4th District Primaries,,False,True,D. Bruderly,Democratic,1,100.0,Florida,,
@@ -448,13 +448,13 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 1,1st District Primaries,,False,False,L. Sharsh-Davis,Democratic,6,100.0,Hawaii,1.0,915.0
 1,1st District Primaries,,False,False,S. Tataii,Democratic,7,100.0,Hawaii,0.8,737.0
 1,1st District Primaries,,False,True,S. Ostrov,Republican,1,100.0,Hawaii,,
-1,1st District Primaries,L,False,True,A. Yim,Independent,1,100.0,Hawaii,,
-1,1st District Primaries,O,False,True,C. Griffin,Independent,1,100.0,Hawaii,,
+1,1st District Primaries,Libertarian,False,True,A. Yim,Independent,1,100.0,Hawaii,,
+1,1st District Primaries,Independent_Other,False,True,C. Griffin,Independent,1,100.0,Hawaii,,
 2,2nd District Primaries,,True,True,T. Gabbard,Democratic,1,100.0,Hawaii,84.5,80020.0
 2,2nd District Primaries,,False,False,S. Chan Hodges,Democratic,2,100.0,Hawaii,15.5,14643.0
 2,2nd District Primaries,,False,True,A. Kaaihue,Republican,1,100.0,Hawaii,55.9,7449.0
 2,2nd District Primaries,,False,False,E. Hafner,Republican,2,100.0,Hawaii,44.1,5874.0
-2,2nd District Primaries,O,False,True,R. Turner,Independent,1,100.0,Hawaii,,
+2,2nd District Primaries,Independent_Other,False,True,R. Turner,Independent,1,100.0,Hawaii,,
 1,1st District Primaries,,False,True,J. Piotrowski,Democratic,1,100.0,Idaho,56.2,6952.0
 1,1st District Primaries,,False,False,S. Fox,Democratic,2,100.0,Idaho,27.7,3427.0
 1,1st District Primaries,,False,False,S. Nikolova,Democratic,3,100.0,Idaho,16.2,2000.0
@@ -734,28 +734,28 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 1,1st District Primaries,,False,False,B. Haas,Democratic,3,100.0,Missouri,10.5,9395.0
 1,1st District Primaries,,False,True,S. Bailey,Republican,1,100.0,Missouri,67.2,12395.0
 1,1st District Primaries,,False,False,P. Berry,Republican,2,100.0,Missouri,32.8,6037.0
-1,1st District Primaries,L,False,True,R. Cunningham,Independent,1,100.0,Missouri,,
+1,1st District Primaries,Libertarian,False,True,R. Cunningham,Independent,1,100.0,Missouri,,
 2,2nd District Primaries,,False,True,B. Otto,Democratic,1,100.0,Missouri,,
 2,2nd District Primaries,,True,True,A. Wagner,Republican,1,100.0,Missouri,82.6,76731.0
 2,2nd District Primaries,,False,False,G. Sears,Republican,2,100.0,Missouri,17.4,16204.0
-2,2nd District Primaries,L,False,True,J. Higgins,Independent,1,100.0,Missouri,,
+2,2nd District Primaries,Libertarian,False,True,J. Higgins,Independent,1,100.0,Missouri,,
 3,3rd District Primaries,,False,True,K. Miller,Democratic,1,100.0,Missouri,,
 3,3rd District Primaries,,True,True,B. Luetkemeyer,Republican,1,100.0,Missouri,73.5,84265.0
 3,3rd District Primaries,,False,False,C. Davis,Republican,2,100.0,Missouri,26.5,30436.0
-3,3rd District Primaries,L,False,True,D. Hogan,Independent,1,100.0,Missouri,,
-3,3rd District Primaries,C,False,True,D. Simmons,Independent,1,100.0,Missouri,,
+3,3rd District Primaries,Libertarian,False,True,D. Hogan,Independent,1,100.0,Missouri,,
+3,3rd District Primaries,Constitution,False,True,D. Simmons,Independent,1,100.0,Missouri,,
 4,4th District Primaries,,False,True,G. Christensen,Democratic,1,100.0,Missouri,62.7,17146.0
 4,4th District Primaries,,False,False,J. Truman,Democratic,2,100.0,Missouri,37.3,10186.0
 4,4th District Primaries,,True,True,V. Hartzler,Republican,1,100.0,Missouri,72.5,73807.0
 4,4th District Primaries,,False,False,J. Webb,Republican,2,100.0,Missouri,27.5,28012.0
-4,4th District Primaries,L,False,True,M. Bliss,Independent,1,100.0,Missouri,,
+4,4th District Primaries,Libertarian,False,True,M. Bliss,Independent,1,100.0,Missouri,,
 5,5th District Primaries,,True,True,E. Cleaver,Democratic,1,100.0,Missouri,88.2,48352.0
 5,5th District Primaries,,False,False,R. Gough,Democratic,2,100.0,Missouri,11.8,6491.0
 5,5th District Primaries,,False,True,J. Turk,Republican,1,100.0,Missouri,68.0,28033.0
 5,5th District Primaries,,False,False,M. Burris,Republican,2,100.0,Missouri,16.7,6874.0
 5,5th District Primaries,,False,False,A. Rucker,Republican,3,100.0,Missouri,10.0,4130.0
 5,5th District Primaries,,False,False,B. Knox,Republican,4,100.0,Missouri,5.2,2159.0
-5,5th District Primaries,L,False,True,R. Welborn,Independent,1,100.0,Missouri,,
+5,5th District Primaries,Libertarian,False,True,R. Welborn,Independent,1,100.0,Missouri,,
 6,6th District Primaries,,False,True,D. Blackwell,Democratic,1,100.0,Missouri,28.0,7981.0
 6,6th District Primaries,,False,False,K. Yarber,Democratic,2,100.0,Missouri,24.9,7114.0
 6,6th District Primaries,,False,False,T. Gonzalez,Democratic,3,100.0,Missouri,23.2,6619.0
@@ -764,7 +764,7 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 6,6th District Primaries,,True,True,S. Graves,Republican,1,100.0,Missouri,76.2,62758.0
 6,6th District Primaries,,False,False,C. Ryan,Republican,2,100.0,Missouri,14.2,11685.0
 6,6th District Primaries,,False,False,K. Reid,Republican,3,100.0,Missouri,9.6,7909.0
-6,6th District Primaries,L,False,True,R. Monchil,Independent,1,100.0,Missouri,,
+6,6th District Primaries,Libertarian,False,True,R. Monchil,Independent,1,100.0,Missouri,,
 7,7th District Primaries,,False,True,G. Williams,Democratic,1,100.0,Missouri,52.1,9401.0
 7,7th District Primaries,,False,False,S. Reed,Democratic,2,100.0,Missouri,27.3,4915.0
 7,7th District Primaries,,False,False,C. Lombardi-Olive,Democratic,3,100.0,Missouri,20.6,3713.0
@@ -776,16 +776,16 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 7,7th District Primaries,,False,False,L. Spencer,Republican,6,100.0,Missouri,3.3,3537.0
 7,7th District Primaries,,False,False,J. Nelson,Republican,7,100.0,Missouri,1.9,2037.0
 7,7th District Primaries,,False,False,N. Bradham,Republican,8,100.0,Missouri,1.0,1042.0
-7,7th District Primaries,L,False,True,B. Brixey,Independent,1,100.0,Missouri,,
+7,7th District Primaries,Libertarian,False,True,B. Brixey,Independent,1,100.0,Missouri,,
 8,8th District Primaries,,False,True,D. Cowell,Democratic,1,100.0,Missouri,,
 8,8th District Primaries,,True,True,J. Smith,Republican,1,100.0,Missouri,67.5,65441.0
 8,8th District Primaries,,False,False,H. Brown,Republican,2,100.0,Missouri,15.8,15337.0
 8,8th District Primaries,,False,False,T. Mahn,Republican,3,100.0,Missouri,11.9,11561.0
 8,8th District Primaries,,False,False,P. Smith,Republican,4,100.0,Missouri,4.7,4601.0
-8,8th District Primaries,L,False,True,J. Shell,Independent,1,100.0,Missouri,,
+8,8th District Primaries,Libertarian,False,True,J. Shell,Independent,1,100.0,Missouri,,
 1,1st District Primaries,,False,True,D. Juneau,Democratic,1,100.0,Montana,,
 1,1st District Primaries,,True,True,R. Zinke,Republican,1,100.0,Montana,,
-1,1st District Primaries,L,False,True,M. Fellows,Independent,1,100.0,Montana,,
+1,1st District Primaries,Libertarian,False,True,M. Fellows,Independent,1,100.0,Montana,,
 1,1st District Primaries,,False,True,D. Wik,Democratic,1,100.0,Nebraska,,
 1,1st District Primaries,,True,True,J. Fortenberry,Republican,1,100.0,Nebraska,,
 2,2nd District Primaries,,True,True,B. Ashford,Democratic,1,100.0,Nebraska,,
@@ -889,7 +889,7 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 1,1st District Primaries,,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span> A. Throne-Holst</span>",Democratic,1,100.0,New York,50.1,5446.0
 1,1st District Primaries,,False,False,D. Calone,Democratic,2,100.0,New York,49.9,5417.0
 1,1st District Primaries,,True,True,L. Zeldin,Republican,1,100.0,New York,,
-1,1st District Primaries,W,False,True,K. Schaeffer,Independent,1,100.0,New York,,
+1,1st District Primaries,Working Class,False,True,K. Schaeffer,Independent,1,100.0,New York,,
 2,2nd District Primaries,,False,True,D. Gregory,Democratic,1,100.0,New York,,
 2,2nd District Primaries,,True,True,P. King,Republican,1,100.0,New York,,
 3,3rd District Primaries,,False,True,T. Suozzi,Democratic,1,99.8,New York,35.5,6532.0
@@ -903,7 +903,7 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 5,5th District Primaries,,True,True,G. Meeks,Democratic,1,99.1,New York,81.8,5981.0
 5,5th District Primaries,,False,False,A. Mirza,Democratic,2,99.1,New York,18.2,1327.0
 5,5th District Primaries,,False,True,M. O'Reilly,Republican,1,100.0,New York,,
-5,5th District Primaries,G,False,True,F. Francois,Independent,1,100.0,New York,,
+5,5th District Primaries,Green,False,True,F. Francois,Independent,1,100.0,New York,,
 6,6th District Primaries,,True,True,G. Meng,Democratic,1,100.0,New York,,
 6,6th District Primaries,,False,True,D. Maio,Republican,1,100.0,New York,,
 7,7th District Primaries,,True,True,N. Velazquez,Democratic,1,100.0,New York,61.9,9565.0
@@ -913,13 +913,13 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 8,8th District Primaries,,True,True,H. Jeffries,Democratic,1,100.0,New York,,
 8,8th District Primaries,,False,True,D. Cavanagh,Republican,1,100.0,New York,,
 9,9th District Primaries,,True,True,Y. Clarke,Democratic,1,100.0,New York,,
-9,9th District Primaries,C,False,True,A. Bellone,Independent,1,100.0,New York,,
+9,9th District Primaries,Constitution,False,True,A. Bellone,Independent,1,100.0,New York,,
 10,10th District Primaries,,True,True,J. Nadler,Democratic,1,100.0,New York,89.6,25527.0
 10,10th District Primaries,,False,False,M. Rosenberg,Democratic,2,100.0,New York,10.4,2949.0
 10,10th District Primaries,,False,True,P. Rosenthal,Republican,1,100.0,New York,,
 11,11th District Primaries,,False,True,R. Reichard,Democratic,1,100.0,New York,,
 11,11th District Primaries,,True,True,D. Donovan,Republican,1,100.0,New York,,
-11,11th District Primaries,G,False,True,H. Bardel,Independent,1,100.0,New York,,
+11,11th District Primaries,Green,False,True,H. Bardel,Independent,1,100.0,New York,,
 12,12th District Primaries,,True,True,C. Maloney,Democratic,1,100.0,New York,90.3,13389.0
 12,12th District Primaries,,False,False,P. Lindner,Democratic,2,100.0,New York,9.7,1435.0
 12,12th District Primaries,,False,True,R. Ardini,Republican,1,100.0,New York,,
@@ -933,13 +933,13 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 13,13th District Primaries,,False,False,S. Sloan,Democratic,8,99.0,New York,0.5,197.0
 13,13th District Primaries,,False,False,Y. Caceres,Democratic,9,99.0,New York,0.2,105.0
 13,13th District Primaries,,False,True,R. Evans,Republican,1,100.0,New York,,
-13,13th District Primaries,G,False,True,D. Rivera,Independent,1,100.0,New York,,
+13,13th District Primaries,Green,False,True,D. Rivera,Independent,1,100.0,New York,,
 14,14th District Primaries,,True,True,J. Crowley,Democratic,1,100.0,New York,,
 14,14th District Primaries,,False,True,F. Spotorno,Republican,1,100.0,New York,,
 15,15th District Primaries,,True,True,J. Serrano,Democratic,1,97.6,New York,89.4,8343.0
 15,15th District Primaries,,False,False,L. Baez,Democratic,2,97.6,New York,10.6,990.0
 15,15th District Primaries,,False,True,A. Vega,Republican,1,100.0,New York,,
-15,15th District Primaries,C,False,True,E. Ramirez,Independent,1,100.0,New York,,
+15,15th District Primaries,Constitution,False,True,E. Ramirez,Independent,1,100.0,New York,,
 16,16th District Primary,,True,True,E. Engel,,1,100.0,New York,,
 17,17th District Primary,,True,True,N. Lowey,,1,100.0,New York,,
 18,18th District Primaries,,True,True,S. Maloney,Democratic,1,100.0,New York,,
@@ -953,7 +953,7 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 20,20th District Primaries,,False,True,F. Vitollo,Republican,1,100.0,New York,,
 21,21st District Primaries,,False,True,M. Derrick,Democratic,1,100.0,New York,,
 21,21st District Primaries,,True,True,E. Stefanik,Republican,1,100.0,New York,,
-21,21st District Primaries,G,False,True,M. Funiciello,Independent,1,100.0,New York,,
+21,21st District Primaries,Green,False,True,M. Funiciello,Independent,1,100.0,New York,,
 22,22nd District Primaries,,False,True,K. Myers,Democratic,1,100.0,New York,,
 22,22nd District Primaries,,False,True,C. Tenney,Republican,1,100.0,New York,41.5,8876.0
 22,22nd District Primaries,,False,False,S. Wells,Republican,2,100.0,New York,33.7,7214.0
@@ -964,7 +964,7 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 24,24th District Primaries,,False,False,E. Kingson,Democratic,2,100.0,New York,32.0,3786.0
 24,24th District Primaries,,False,False,S. Williams,Democratic,3,100.0,New York,19.4,2297.0
 24,24th District Primaries,,True,True,J. Katko,Republican,1,100.0,New York,,
-24,24th District Primaries,W,False,True,M. Satter,Independent,1,100.0,New York,,
+24,24th District Primaries,Working Class,False,True,M. Satter,Independent,1,100.0,New York,,
 25,25th District Primaries,,True,True,L. Slaughter,Democratic,1,100.0,New York,,
 25,25th District Primaries,,False,True,M. Assini,Republican,1,100.0,New York,,
 26,26th District Primaries,,True,True,B. Higgins,Democratic,1,100.0,New York,,
@@ -1123,13 +1123,13 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 4,4th District Primaries,,True,True,T. Cole,Republican,1,100.0,Oklahoma,71.4,28805.0
 4,4th District Primaries,,False,False,J. Taylor,Republican,2,100.0,Oklahoma,18.3,7394.0
 4,4th District Primaries,,False,False,S. Roberts,Republican,3,100.0,Oklahoma,10.3,4151.0
-4,4th District Primaries,L,False,True,S. White,Independent,1,100.0,Oklahoma,,
+4,4th District Primaries,Libertarian,False,True,S. White,Independent,1,100.0,Oklahoma,,
 5,5th District Primaries,,False,,A. McAffrey,Democratic,1,100.0,Oklahoma,36.8,10009.0
 5,5th District Primaries,,False,,T. Guild,Democratic,2,100.0,Oklahoma,36.8,9996.0
 5,5th District Primaries,,False,,L. Leonard,Democratic,3,100.0,Oklahoma,26.4,7187.0
 5,5th District Primaries,,True,True,S. Russell,Republican,1,100.0,Oklahoma,80.3,27426.0
 5,5th District Primaries,,False,False,F. Volpe,Republican,2,100.0,Oklahoma,19.7,6720.0
-5,5th District Primaries,L,False,True,Z. Knight,Independent,1,100.0,Oklahoma,,
+5,5th District Primaries,Libertarian,False,True,Z. Knight,Independent,1,100.0,Oklahoma,,
 1,1st District Primaries,,True,True,S. Bonamici,Democratic,1,96.9,Oregon,90.2,93884.0
 1,1st District Primaries,,False,False,S. Woodley,Democratic,2,96.9,Oregon,9.8,10152.0
 1,1st District Primaries,,False,True,B. Heinrich,Republican,1,94.4,Oregon,49.4,18672.0
@@ -1394,17 +1394,17 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 36,36th District Primary,,True,True,B. Babin,,1,100.0,Texas,,
 1,1st District Primaries,,False,True,P. Clemens,Democratic,1,100.0,Utah,,
 1,1st District Primaries,,True,True,R. Bishop,Republican,1,100.0,Utah,,
-1,1st District Primaries,L,False,True,C. Bowden,Independent,1,100.0,Utah,,
-1,1st District Primaries,U,False,True,C. Fairbanks,Independent,1,100.0,Utah,,
+1,1st District Primaries,Libertarian,False,True,C. Bowden,Independent,1,100.0,Utah,,
+1,1st District Primaries,U.S. Taxpayers,False,True,C. Fairbanks,Independent,1,100.0,Utah,,
 2,2nd District Primaries,,False,True,C. Albarran,Democratic,1,100.0,Utah,,
 2,2nd District Primaries,,True,True,C. Stewart,Republican,1,100.0,Utah,,
-2,2nd District Primaries,C,False,True,P. McCollaum,Independent,1,100.0,Utah,,
+2,2nd District Primaries,Constitution,False,True,P. McCollaum,Independent,1,100.0,Utah,,
 3,3rd District Primaries,,False,True,S. Tryon,Democratic,1,100.0,Utah,,
 3,3rd District Primaries,,True,True,J. Chaffetz,Republican,1,100.0,Utah,78.8,44655.0
 3,3rd District Primaries,,False,False,C. Teng,Republican,2,100.0,Utah,21.2,12043.0
 4,4th District Primaries,,False,True,D. Owens,Democratic,1,100.0,Utah,,
 4,4th District Primaries,,True,True,M. Love,Republican,1,100.0,Utah,,
-4,4th District Primaries,C,False,True,C. Simonsen,Independent,1,100.0,Utah,,
+4,4th District Primaries,Constitution,False,True,C. Simonsen,Independent,1,100.0,Utah,,
 2,2nd District Primary,,False,True,S. Taylor,,1,100.0,Virginia,52.5,21403.0
 2,2nd District Primary,,False,False,R. Forbes,,2,100.0,Virginia,40.6,16553.0
 2,2nd District Primary,,False,False,P. Cardwell,,3,100.0,Virginia,6.8,2773.0
@@ -1429,17 +1429,17 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 1,1st District Primaries,,False,False,T. Breu,Democratic,2,100.0,Wisconsin,40.9,10111.0
 1,1st District Primaries,,True,True,P. Ryan,Republican,1,100.0,Wisconsin,84.1,57391.0
 1,1st District Primaries,,False,False,P. Nehlen,Republican,2,100.0,Wisconsin,15.9,10852.0
-1,1st District Primaries,L,False,True,J. Lebeck,Independent,1,100.0,Wisconsin,,
+1,1st District Primaries,Libertarian,False,True,J. Lebeck,Independent,1,100.0,Wisconsin,,
 2,2nd District Primaries,,True,True,M. Pocan,Democratic,1,100.0,Wisconsin,,
 2,2nd District Primaries,,False,True,P. Theron,Republican,1,100.0,Wisconsin,,
 3,3rd District Primary,,True,True,R. Kind,,1,100.0,Wisconsin,81.3,33283.0
 3,3rd District Primary,,False,False,M. Buchholz,,2,100.0,Wisconsin,18.7,7680.0
 4,4th District Primaries,,True,True,G. Moore,Democratic,1,100.0,Wisconsin,84.6,55093.0
 4,4th District Primaries,,False,False,G. George,Democratic,2,100.0,Wisconsin,15.4,10000.0
-4,4th District Primaries,L,False,True,A. Craig,Independent,1,100.0,Wisconsin,,
+4,4th District Primaries,Libertarian,False,True,A. Craig,Independent,1,100.0,Wisconsin,,
 5,5th District Primaries,,False,True,K. Penebaker,Democratic,1,100.0,Wisconsin,,
 5,5th District Primaries,,True,True,J. Sensenbrenner,Republican,1,100.0,Wisconsin,,
-5,5th District Primaries,L,False,True,J. Arndt,Independent,1,100.0,Wisconsin,,
+5,5th District Primaries,Libertarian,False,True,J. Arndt,Independent,1,100.0,Wisconsin,,
 6,6th District Primaries,,False,True,S. Lloyd,Democratic,1,100.0,Wisconsin,75.3,19611.0
 6,6th District Primaries,,False,False,M. Slattery,Democratic,2,100.0,Wisconsin,24.7,6445.0
 6,6th District Primaries,,True,True,G. Grothman,Republican,1,100.0,Wisconsin,,
@@ -1462,8 +1462,8 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 1,1st District Primaries,,False,False,P. Paad,Republican,7,100.0,Wyoming,1.0,912.0
 1,1st District Primaries,,False,False,R. Rammell,Republican,8,100.0,Wyoming,1.0,904.0
 1,1st District Primaries,,False,False,H. Beaudry,Republican,9,100.0,Wyoming,0.7,582.0
-1,1st District Primaries,L,False,True,L. Struempf,Independent,1,100.0,Wyoming,,
-1,1st District Primaries,C,False,True,D. Cummings,Independent,1,100.0,Wyoming,,
+1,1st District Primaries,Libertarian,False,True,L. Struempf,Independent,1,100.0,Wyoming,,
+1,1st District Primaries,Constitution,False,True,D. Cummings,Independent,1,100.0,Wyoming,,
 1,1st District Primary,,True,True,P. Welch,,1,100.0,Vermont,,
 1,1st District Primary,,False,True,L. Rochester,,1,100.0,Delaware,43.8,27919.0
 1,1st District Primary,,False,False,B. Townsend,,2,100.0,Delaware,24.8,15847.0
@@ -1506,59 +1506,59 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 17,17th District Primaries,,False,True,P. Harlan,Republican,1,100.0,Illinois,75.7,52172.0
 17,17th District Primaries,,False,False,J. Boccarossa,Republican,2,100.0,Illinois,24.3,16703.0
 18,18th District Primary,,True,True,D. LaHood,,1,100.0,Illinois,,
-1,1st District Primary,D,True,True,S. DelBene,,1,73.4,Washington,53.9,47058.0
-1,1st District Primary,R,False,True,R. Sutherland,,2,73.4,Washington,31.1,27200.0
-1,1st District Primary,D,False,False,J. Orlinski,,3,73.4,Washington,9.6,8357.0
-1,1st District Primary,L,False,False,S. Stafne,,4,73.4,Washington,2.8,2461.0
-1,1st District Primary,O,False,False,A. Storms,,5,73.4,Washington,2.6,2296.0
-2,2nd District Primary,D,True,True,R. Larsen,,1,70.1,Washington,53.0,46642.0
-2,2nd District Primary,R,False,False,M. Hennemann,,2,70.1,Washington,31.7,27931.0
-2,2nd District Primary,D,False,False,M. Lapointe,,3,70.1,Washington,10.2,8963.0
-2,2nd District Primary,L,False,False,B. Luke,,4,70.1,Washington,3.2,2808.0
-2,2nd District Primary,O,False,False,K. Ilonummi,,5,70.1,Washington,1.9,1653.0
-3,3rd District Primary,R,True,True,J. Herrera Beutler,,1,80.2,Washington,54.7,54114.0
-3,3rd District Primary,D,False,False,J. Moeller,,2,80.2,Washington,25.3,25042.0
-3,3rd District Primary,D,False,False,D. McDevitt,,3,80.2,Washington,10.1,9984.0
-3,3rd District Primary,D,False,False,A. Marx,,4,80.2,Washington,3.9,3867.0
-3,3rd District Primary,D,False,False,K. Arthur,,5,80.2,Washington,3.4,3339.0
-3,3rd District Primary,O,False,False,L. Worthington,,6,80.2,Washington,2.7,2667.0
-4,4th District Primary,R,True,True,D. Newhouse,,1,73.3,Washington,46.2,32875.0
-4,4th District Primary,R,False,False,C. Didier,,2,73.3,Washington,27.2,19383.0
-4,4th District Primary,D,False,False,D. McKinley,,3,73.3,Washington,21.8,15547.0
-4,4th District Primary,D,False,False,J. Malan,,4,73.3,Washington,2.5,1802.0
-4,4th District Primary,R,False,False,G. Jakeman,,5,73.3,Washington,2.2,1553.0
-5,5th District Primary,R,True,True,C. McMorris Rodgers,,1,72.8,Washington,41.4,43089.0
-5,5th District Primary,D,False,False,J. Pakootas,,2,72.8,Washington,32.2,33432.0
-5,5th District Primary,O,False,False,D. Wilson,,3,72.8,Washington,13.7,14241.0
-5,5th District Primary,R,False,False,T. Horne,,4,72.8,Washington,10.8,11280.0
-5,5th District Primary,L,False,False,K. McGee,,5,72.8,Washington,1.9,1934.0
-6,6th District Primary,D,True,True,D. Kilmer,,1,80.1,Washington,59.0,65954.0
-6,6th District Primary,R,False,True,T. Bloom,,2,80.1,Washington,24.3,27211.0
-6,6th District Primary,R,False,False,S. Brodhead,,3,80.1,Washington,8.2,9143.0
-6,6th District Primary,O,False,False,M. Coverdale,,4,80.1,Washington,4.4,4909.0
-6,6th District Primary,D,False,False,P. Nuchims,,5,80.1,Washington,2.3,2583.0
-6,6th District Primary,G,False,False,T. Vega,,6,80.1,Washington,1.8,1968.0
-7,7th District Primary,D,False,True,P. Jayapal,,1,94.0,Washington,39.1,44540.0
-7,7th District Primary,D,False,False,B. Walkinshaw,,2,94.0,Washington,21.3,24285.0
-7,7th District Primary,D,False,False,J. McDermott,,3,94.0,Washington,20.9,23798.0
-7,7th District Primary,R,False,False,C. Keller,,4,94.0,Washington,8.8,10083.0
-7,7th District Primary,R,False,False,S. Sutherland,,5,94.0,Washington,5.1,5781.0
-7,7th District Primary,D,False,False,A. Jhaveri,,6,94.0,Washington,1.6,1836.0
-7,7th District Primary,D,False,False,D. Rivers,,7,94.0,Washington,1.4,1546.0
-7,7th District Primary,O,False,False,L. Regier,,8,94.0,Washington,1.3,1539.0
-7,7th District Primary,O,False,False,C. Cooper,,9,94.0,Washington,0.6,634.0
-8,8th District Primary,R,True,True,D. Reichert,,1,74.6,Washington,57.4,49291.0
-8,8th District Primary,D,False,False,T. Ventrella,,2,74.6,Washington,17.5,15032.0
-8,8th District Primary,D,False,False,S. Ramos,,3,74.6,Washington,12.8,10954.0
-8,8th District Primary,D,False,False,A. Skold,,4,74.6,Washington,8.3,7138.0
-8,8th District Primary,O,False,False,K. Arnold,,5,74.6,Washington,2.4,2070.0
-8,8th District Primary,O,False,False,M. Walsh,,6,74.6,Washington,1.7,1420.0
-9,9th District Primary,D,True,True,A. Smith,,1,75.5,Washington,57.0,41744.0
-9,9th District Primary,R,False,False,D. Basler,,2,75.5,Washington,24.7,18090.0
-9,9th District Primary,D,False,False,J. Wineberry,,3,75.5,Washington,13.0,9561.0
-9,9th District Primary,D,False,False,D. Smith,,4,75.5,Washington,3.1,2249.0
-9,9th District Primary,O,False,False,J. Flener,,5,75.5,Washington,2.3,1653.0
-10,10th District Primary,D,True,True,D. Heck,,1,86.9,Washington,46.9,47612.0
-10,10th District Primary,R,False,True,J. Postma,,2,86.9,Washington,36.9,37406.0
-10,10th District Primary,O,False,False,J. Ferguson,,3,86.9,Washington,12.8,12959.0
-10,10th District Primary,O,False,False,R. Boyce,,4,86.9,Washington,3.4,3490.0
+1,1st District Primary,Democratic,True,True,S. DelBene,,1,73.4,Washington,53.9,47058.0
+1,1st District Primary,Republican,False,True,R. Sutherland,,2,73.4,Washington,31.1,27200.0
+1,1st District Primary,Democratic,False,False,J. Orlinski,,3,73.4,Washington,9.6,8357.0
+1,1st District Primary,Libertarian,False,False,S. Stafne,,4,73.4,Washington,2.8,2461.0
+1,1st District Primary,Independent_Other,False,False,A. Storms,,5,73.4,Washington,2.6,2296.0
+2,2nd District Primary,Democratic,True,True,R. Larsen,,1,70.1,Washington,53.0,46642.0
+2,2nd District Primary,Republican,False,False,M. Hennemann,,2,70.1,Washington,31.7,27931.0
+2,2nd District Primary,Democratic,False,False,M. Lapointe,,3,70.1,Washington,10.2,8963.0
+2,2nd District Primary,Libertarian,False,False,B. Luke,,4,70.1,Washington,3.2,2808.0
+2,2nd District Primary,Independent_Other,False,False,K. Ilonummi,,5,70.1,Washington,1.9,1653.0
+3,3rd District Primary,Republican,True,True,J. Herrera Beutler,,1,80.2,Washington,54.7,54114.0
+3,3rd District Primary,Democratic,False,False,J. Moeller,,2,80.2,Washington,25.3,25042.0
+3,3rd District Primary,Democratic,False,False,D. McDevitt,,3,80.2,Washington,10.1,9984.0
+3,3rd District Primary,Democratic,False,False,A. Marx,,4,80.2,Washington,3.9,3867.0
+3,3rd District Primary,Democratic,False,False,K. Arthur,,5,80.2,Washington,3.4,3339.0
+3,3rd District Primary,Independent_Other,False,False,L. Worthington,,6,80.2,Washington,2.7,2667.0
+4,4th District Primary,Republican,True,True,D. Newhouse,,1,73.3,Washington,46.2,32875.0
+4,4th District Primary,Republican,False,False,C. Didier,,2,73.3,Washington,27.2,19383.0
+4,4th District Primary,Democratic,False,False,D. McKinley,,3,73.3,Washington,21.8,15547.0
+4,4th District Primary,Democratic,False,False,J. Malan,,4,73.3,Washington,2.5,1802.0
+4,4th District Primary,Republican,False,False,G. Jakeman,,5,73.3,Washington,2.2,1553.0
+5,5th District Primary,Republican,True,True,C. McMorris Rodgers,,1,72.8,Washington,41.4,43089.0
+5,5th District Primary,Democratic,False,False,J. Pakootas,,2,72.8,Washington,32.2,33432.0
+5,5th District Primary,Independent_Other,False,False,D. Wilson,,3,72.8,Washington,13.7,14241.0
+5,5th District Primary,Republican,False,False,T. Horne,,4,72.8,Washington,10.8,11280.0
+5,5th District Primary,Libertarian,False,False,K. McGee,,5,72.8,Washington,1.9,1934.0
+6,6th District Primary,Democratic,True,True,D. Kilmer,,1,80.1,Washington,59.0,65954.0
+6,6th District Primary,Republican,False,True,T. Bloom,,2,80.1,Washington,24.3,27211.0
+6,6th District Primary,Republican,False,False,S. Brodhead,,3,80.1,Washington,8.2,9143.0
+6,6th District Primary,Independent_Other,False,False,M. Coverdale,,4,80.1,Washington,4.4,4909.0
+6,6th District Primary,Democratic,False,False,P. Nuchims,,5,80.1,Washington,2.3,2583.0
+6,6th District Primary,Green,False,False,T. Vega,,6,80.1,Washington,1.8,1968.0
+7,7th District Primary,Democratic,False,True,P. Jayapal,,1,94.0,Washington,39.1,44540.0
+7,7th District Primary,Democratic,False,False,B. Walkinshaw,,2,94.0,Washington,21.3,24285.0
+7,7th District Primary,Democratic,False,False,J. McDermott,,3,94.0,Washington,20.9,23798.0
+7,7th District Primary,Republican,False,False,C. Keller,,4,94.0,Washington,8.8,10083.0
+7,7th District Primary,Republican,False,False,S. Sutherland,,5,94.0,Washington,5.1,5781.0
+7,7th District Primary,Democratic,False,False,A. Jhaveri,,6,94.0,Washington,1.6,1836.0
+7,7th District Primary,Democratic,False,False,D. Rivers,,7,94.0,Washington,1.4,1546.0
+7,7th District Primary,Independent_Other,False,False,L. Regier,,8,94.0,Washington,1.3,1539.0
+7,7th District Primary,Independent_Other,False,False,C. Cooper,,9,94.0,Washington,0.6,634.0
+8,8th District Primary,Republican,True,True,D. Reichert,,1,74.6,Washington,57.4,49291.0
+8,8th District Primary,Democratic,False,False,T. Ventrella,,2,74.6,Washington,17.5,15032.0
+8,8th District Primary,Democratic,False,False,S. Ramos,,3,74.6,Washington,12.8,10954.0
+8,8th District Primary,Democratic,False,False,A. Skold,,4,74.6,Washington,8.3,7138.0
+8,8th District Primary,Independent_Other,False,False,K. Arnold,,5,74.6,Washington,2.4,2070.0
+8,8th District Primary,Independent_Other,False,False,M. Walsh,,6,74.6,Washington,1.7,1420.0
+9,9th District Primary,Democratic,True,True,A. Smith,,1,75.5,Washington,57.0,41744.0
+9,9th District Primary,Republican,False,False,D. Basler,,2,75.5,Washington,24.7,18090.0
+9,9th District Primary,Democratic,False,False,J. Wineberry,,3,75.5,Washington,13.0,9561.0
+9,9th District Primary,Democratic,False,False,D. Smith,,4,75.5,Washington,3.1,2249.0
+9,9th District Primary,Independent_Other,False,False,J. Flener,,5,75.5,Washington,2.3,1653.0
+10,10th District Primary,Democratic,True,True,D. Heck,,1,86.9,Washington,46.9,47612.0
+10,10th District Primary,Republican,False,True,J. Postma,,2,86.9,Washington,36.9,37406.0
+10,10th District Primary,Independent_Other,False,False,J. Ferguson,,3,86.9,Washington,12.8,12959.0
+10,10th District Primary,Independent_Other,False,False,R. Boyce,,4,86.9,Washington,3.4,3490.0

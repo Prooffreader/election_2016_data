@@ -12,7 +12,7 @@ Overall Alaska Senate Races Results,,True,True,L. Murkowski,Republican,1,98.4,Al
 Overall Alaska Senate Races Results,,False,False,B. Lochner,Republican,2,98.4,Alaska,15.1,7387.0
 Overall Alaska Senate Races Results,,False,False,P. Kendall,Republican,3,98.4,Alaska,7.8,3803.0
 Overall Alaska Senate Races Results,,False,False,T. Lamb,Republican,4,98.4,Alaska,5.4,2649.0
-Overall Alaska Senate Races Results,L,False,True,C. Stevens,Independent,1,100.0,Alaska,,
+Overall Alaska Senate Races Results,Libertarian,False,True,C. Stevens,Independent,1,100.0,Alaska,,
 Overall Arizona Senate Primaries Results,,False,True,A. Kirkpatrick,Democratic,1,100.0,Arizona,,
 Overall Arizona Senate Primaries Results,,True,True,J. McCain,Republican,1,99.9,Arizona,51.7,251731.0
 Overall Arizona Senate Primaries Results,,False,False,K. Ward,Republican,2,99.9,Arizona,39.2,191065.0
@@ -38,8 +38,8 @@ Overall Florida Senate Races Results,,True,True,M. Rubio,Republican,1,100.0,Flor
 Overall Florida Senate Races Results,,False,False,C. Beruff,Republican,2,100.0,Florida,18.5,264122.0
 Overall Florida Senate Races Results,,False,False,D. Young,Republican,3,100.0,Florida,6.4,90921.0
 Overall Florida Senate Races Results,,False,False,E. Rivera,Republican,4,100.0,Florida,3.2,45069.0
-Overall Florida Senate Races Results,L,False,True,P. Stanton,Independent,1,100.0,Florida,73.5,2943.0
-Overall Florida Senate Races Results,L,False,False,A. Invictus,Independent,2,100.0,Florida,26.5,1059.0
+Overall Florida Senate Races Results,Libertarian,False,True,P. Stanton,Independent,1,100.0,Florida,73.5,2943.0
+Overall Florida Senate Races Results,Libertarian,False,False,A. Invictus,Independent,2,100.0,Florida,26.5,1059.0
 Overall Georgia Senate Primaries Results,,False,True,J. Barksdale,Democratic,1,100.0,Georgia,53.8,165985.0
 Overall Georgia Senate Primaries Results,,False,False,C. Copeland,Democratic,2,100.0,Georgia,42.2,130140.0
 Overall Georgia Senate Primaries Results,,False,False,J. Coyne,Democratic,3,100.0,Georgia,4.1,12569.0
@@ -55,9 +55,9 @@ Overall Hawaii Senate Races Results,,False,True,J. Carroll,Republican,1,100.0,Ha
 Overall Hawaii Senate Races Results,,False,False,J. Roco,Republican,2,100.0,Hawaii,11.0,3956.0
 Overall Hawaii Senate Races Results,,False,False,K. Gottschalk,Republican,3,100.0,Hawaii,8.5,3045.0
 Overall Hawaii Senate Races Results,,False,False,E. Pirkowski,Republican,4,100.0,Hawaii,5.9,2114.0
-Overall Hawaii Senate Races Results,L,False,True,M. Kokoski,Independent,1,100.0,Hawaii,,
-Overall Hawaii Senate Races Results,C,False,True,J. Allison,Independent,1,100.0,Hawaii,,
-Overall Hawaii Senate Races Results,O,False,True,J. Giuffre,Independent,1,100.0,Hawaii,,
+Overall Hawaii Senate Races Results,Libertarian,False,True,M. Kokoski,Independent,1,100.0,Hawaii,,
+Overall Hawaii Senate Races Results,Constitution,False,True,J. Allison,Independent,1,100.0,Hawaii,,
+Overall Hawaii Senate Races Results,Independent_Other,False,True,J. Giuffre,Independent,1,100.0,Hawaii,,
 Overall Idaho Senate Primaries Results,,False,True,J. Sturgill,Democratic,1,0.0,Idaho,,
 Overall Idaho Senate Primaries Results,,True,True,M. Crapo,Republican,1,0.0,Idaho,,
 Overall Illinois Senate Primaries Results,,False,True,T. Duckworth,Democratic,1,100.0,Illinois,64.4,1196576.0
@@ -119,9 +119,9 @@ Overall Missouri Senate Races Results,,True,True,R. Blunt,Republican,1,100.0,Mis
 Overall Missouri Senate Races Results,,False,False,K. Nichols,Republican,2,100.0,Missouri,20.2,133894.0
 Overall Missouri Senate Races Results,,False,False,R. Luethy,Republican,3,100.0,Missouri,4.4,29269.0
 Overall Missouri Senate Races Results,,False,False,B. Mowinski,Republican,4,100.0,Missouri,2.8,18801.0
-Overall Missouri Senate Races Results,L,False,True,J. Dine,Independent,1,100.0,Missouri,54.9,1993.0
-Overall Missouri Senate Races Results,L,False,False,H. Young,Independent,2,100.0,Missouri,45.1,1637.0
-Overall Missouri Senate Races Results,C,False,True,F. Ryman,Independent,1,100.0,Missouri,,
+Overall Missouri Senate Races Results,Libertarian,False,True,J. Dine,Independent,1,100.0,Missouri,54.9,1993.0
+Overall Missouri Senate Races Results,Libertarian,False,False,H. Young,Independent,2,100.0,Missouri,45.1,1637.0
+Overall Missouri Senate Races Results,Constitution,False,True,F. Ryman,Independent,1,100.0,Missouri,,
 Overall Nevada Senate Primaries Results,,False,True,C. Cortez-Masto,Democratic,1,100.0,Nevada,80.6,81944.0
 Overall Nevada Senate Primaries Results,,False,False,A. Rheinhart,Democratic,2,100.0,Nevada,5.6,5645.0
 Overall Nevada Senate Primaries Results,,False,False,None of these candidates,Democratic,3,100.0,Nevada,5.4,5498.0
@@ -145,7 +145,7 @@ Overall New Hampshire Senate Primaries Results,,False,False,G. Beloin,Republican
 Overall New Hampshire Senate Primaries Results,,False,False,S. Emanuel,Republican,5,99.7,New Hampshire,1.1,1185.0
 Overall New York Senate Races Results,,True,True,C. Schumer,Democratic,1,100.0,New York,,
 Overall New York Senate Races Results,,False,True,W. Long,Republican,1,100.0,New York,,
-Overall New York Senate Races Results,G,False,True,R. Wilson,Independent,1,100.0,New York,,
+Overall New York Senate Races Results,Green,False,True,R. Wilson,Independent,1,100.0,New York,,
 Overall North Carolina Senate Primaries Results,,False,True,D. Ross,Democratic,1,100.0,North Carolina,62.4,607802.0
 Overall North Carolina Senate Primaries Results,,False,False,C. Rey,Democratic,2,100.0,North Carolina,16.5,160663.0
 Overall North Carolina Senate Primaries Results,,False,False,K. Griffin,Democratic,3,100.0,North Carolina,11.7,114180.0
@@ -156,7 +156,7 @@ Overall North Carolina Senate Primaries Results,,False,False,P. Wright,Republica
 Overall North Carolina Senate Primaries Results,,False,False,L. Holmquist,Republican,4,100.0,North Carolina,4.9,49969.0
 Overall North Dakota Senate Races Results,,False,True,E. Glassheim,Democratic,1,100.0,North Dakota,,
 Overall North Dakota Senate Races Results,,True,True,J. Hoeven,Republican,1,100.0,North Dakota,,
-Overall North Dakota Senate Races Results,L,False,True,R. Marquette,Independent,1,100.0,North Dakota,,
+Overall North Dakota Senate Races Results,Libertarian,False,True,R. Marquette,Independent,1,100.0,North Dakota,,
 Overall Ohio Senate Primaries Results,,False,True,T. Strickland,Democratic,1,100.0,Ohio,65.0,720336.0
 Overall Ohio Senate Primaries Results,,False,False,P. Sittenfeld,Democratic,2,100.0,Ohio,22.4,248776.0
 Overall Ohio Senate Primaries Results,,False,False,K. Prather,Democratic,3,100.0,Ohio,12.6,139122.0
@@ -164,8 +164,8 @@ Overall Ohio Senate Primaries Results,,True,True,R. Portman,Republican,1,100.0,O
 Overall Ohio Senate Primaries Results,,False,False,D. Eckhart,Republican,2,100.0,Ohio,17.8,284544.0
 Overall Oklahoma Senate Races Results,,False,True,M. Workman,Democratic,1,100.0,Oklahoma,,
 Overall Oklahoma Senate Races Results,,True,True,J. Lankford,Republican,1,100.0,Oklahoma,,
-Overall Oklahoma Senate Races Results,L,False,True,R. Murphy,Independent,1,100.0,Oklahoma,58.9,1537.0
-Overall Oklahoma Senate Races Results,L,False,False,D. Ewbank,Independent,2,100.0,Oklahoma,41.1,1073.0
+Overall Oklahoma Senate Races Results,Libertarian,False,True,R. Murphy,Independent,1,100.0,Oklahoma,58.9,1537.0
+Overall Oklahoma Senate Races Results,Libertarian,False,False,D. Ewbank,Independent,2,100.0,Oklahoma,41.1,1073.0
 Overall Oregon Senate Primaries Results,,True,True,R. Wyden,Democratic,1,93.0,Oregon,83.8,459658.0
 Overall Oregon Senate Primaries Results,,False,False,K. Stine,Democratic,2,93.0,Oregon,12.8,70081.0
 Overall Oregon Senate Primaries Results,,False,False,P. Weaver,Democratic,3,93.0,Oregon,3.4,18730.0
@@ -185,63 +185,63 @@ Overall South Dakota Senate Primaries Results,,True,True,J. Thune,Republican,1,1
 Overall Utah Senate Races Results,,False,True,M. Snow,Democratic,1,100.0,Utah,59.4,27138.0
 Overall Utah Senate Races Results,,False,False,J. Swinton,Democratic,2,100.0,Utah,40.6,18530.0
 Overall Utah Senate Races Results,,True,True,M. Lee,Republican,1,100.0,Utah,,
-Overall Utah Senate Races Results,I,False,True,S. Fonua,Independent,1,100.0,Utah,,
-Overall Utah Senate Races Results,U,False,True,B. Barron,Independent,1,100.0,Utah,,
+Overall Utah Senate Races Results,Independent,False,True,S. Fonua,Independent,1,100.0,Utah,,
+Overall Utah Senate Races Results,U.S. Taxpayers,False,True,B. Barron,Independent,1,100.0,Utah,,
 Overall Vermont Senate Primaries Results,,True,True,P. Leahy,Democratic,1,100.0,Vermont,89.2,62412.0
 Overall Vermont Senate Primaries Results,,False,False,C. Ericson,Democratic,2,100.0,Vermont,10.8,7595.0
 Overall Vermont Senate Primaries Results,,False,True,S. Milne,Republican,1,100.0,Vermont,,
 Overall Wisconsin Senate Races Results,,False,True,R. Feingold,Democratic,1,100.0,Wisconsin,90.2,303282.0
 Overall Wisconsin Senate Races Results,,False,False,S. Harbach,Democratic,2,100.0,Wisconsin,9.8,33105.0
 Overall Wisconsin Senate Races Results,,True,True,R. Johnson,Republican,1,100.0,Wisconsin,,
-Overall Wisconsin Senate Races Results,L,False,True,P. Anderson,Independent,1,100.0,Wisconsin,,
-Overall California Senate Primary Results,D,False,True,K. Harris,,1,100.0,California,40.4,2051048.0
-Overall California Senate Primary Results,D,False,True,L. Sanchez,,2,100.0,California,18.6,943002.0
-Overall California Senate Primary Results,R,False,False,D. Sundheim,,3,100.0,California,8.0,406964.0
-Overall California Senate Primary Results,R,False,False,P. Wyman,,4,100.0,California,4.9,246623.0
-Overall California Senate Primary Results,R,False,False,T. Del Beccaro,,5,100.0,California,4.2,213946.0
-Overall California Senate Primary Results,R,False,False,G. Conlon,,6,100.0,California,3.2,160164.0
-Overall California Senate Primary Results,D,False,False,S. Stokes,,7,100.0,California,2.1,105568.0
-Overall California Senate Primary Results,R,False,False,G. Yang,,8,100.0,California,1.5,77826.0
-Overall California Senate Primary Results,R,False,False,K. Roseberry,,9,100.0,California,1.5,74845.0
-Overall California Senate Primary Results,R,False,False,T. Palzer,,10,100.0,California,1.3,65522.0
-Overall California Senate Primary Results,L,False,False,G. Lightfoot,,11,100.0,California,1.3,65203.0
-Overall California Senate Primary Results,R,False,False,R. Unz,,12,100.0,California,1.3,64698.0
-Overall California Senate Primary Results,D,False,False,M. Munroe,,13,100.0,California,1.2,61271.0
-Overall California Senate Primary Results,G,False,False,P. Elizondo,,14,100.0,California,1.2,59097.0
-Overall California Senate Primary Results,R,False,False,D. Krampe,,15,100.0,California,1.0,49572.0
-Overall California Senate Primary Results,R,False,False,J. Williamson,,16,100.0,California,0.9,44234.0
-Overall California Senate Primary Results,O,False,False,E. Garcia,,17,100.0,California,0.8,42305.0
-Overall California Senate Primary Results,R,False,False,V. Hougo,,18,100.0,California,0.8,41832.0
-Overall California Senate Primary Results,D,False,False,C. Grappo,,19,100.0,California,0.8,41610.0
-Overall California Senate Primary Results,R,False,False,J. Laws,,20,100.0,California,0.8,38281.0
-Overall California Senate Primary Results,L,False,False,M. Herd,,21,100.0,California,0.5,26080.0
-Overall California Senate Primary Results,O,False,False,L. Shi,,22,100.0,California,0.5,22969.0
-Overall California Senate Primary Results,P,False,False,J. Parker,,23,100.0,California,0.4,22374.0
-Overall California Senate Primary Results,D,False,False,H. Peters,,24,100.0,California,0.4,21735.0
-Overall California Senate Primary Results,D,False,False,E. Rodgers,,25,100.0,California,0.4,19982.0
-Overall California Senate Primary Results,O,False,False,M. Beitiks,,26,100.0,California,0.4,19837.0
-Overall California Senate Primary Results,O,False,False,C. Grey,,27,100.0,California,0.4,18937.0
-Overall California Senate Primary Results,O,False,False,J. Hanania,,28,100.0,California,0.4,18050.0
-Overall California Senate Primary Results,O,False,False,P. Merritt,,29,100.0,California,0.3,16258.0
-Overall California Senate Primary Results,O,False,False,J. Kraus,,30,100.0,California,0.3,12954.0
-Overall California Senate Primary Results,O,False,False,D. Grundmann,,31,100.0,California,0.2,9969.0
-Overall California Senate Primary Results,O,False,False,S. Vineberg,,32,100.0,California,0.2,8001.0
-Overall California Senate Primary Results,O,False,False,T. Gildersleeve,,33,100.0,California,0.1,6369.0
-Overall California Senate Primary Results,O,False,False,G. Myers,,34,100.0,California,0.1,5802.0
-Overall Washington Senate Race Results,D,True,True,P. Murray,,1,79.6,Washington,53.3,503286.0
-Overall Washington Senate Race Results,R,False,True,C. Vance,,2,79.6,Washington,27.9,263684.0
-Overall Washington Senate Race Results,R,False,False,E. Makus,,3,79.6,Washington,4.4,41128.0
-Overall Washington Senate Race Results,D,False,False,P. Cornell,,4,79.6,Washington,3.3,31003.0
-Overall Washington Senate Race Results,R,False,False,S. Nazarino,,5,79.6,Washington,3.1,28902.0
-Overall Washington Senate Race Results,L,False,False,M. Luke,,6,79.6,Washington,1.4,13555.0
-Overall Washington Senate Race Results,D,False,False,M. Said,,7,79.6,Washington,0.9,8427.0
-Overall Washington Senate Race Results,C,False,False,D. Lands,,8,79.6,Washington,0.9,8360.0
-Overall Washington Senate Race Results,O,False,False,S. Wright,,9,79.6,Washington,0.8,7589.0
-Overall Washington Senate Race Results,O,False,False,T. Cummings,,10,79.6,Washington,0.8,7454.0
-Overall Washington Senate Race Results,R,False,False,U. Mover,,11,79.6,Washington,0.7,6298.0
-Overall Washington Senate Race Results,D,False,False,T. Amundson,,12,79.6,Washington,0.6,5505.0
-Overall Washington Senate Race Results,O,False,False,J. Teuton,,13,79.6,Washington,0.5,4840.0
-Overall Washington Senate Race Results,O,False,False,C. Jackson,,14,79.6,Washington,0.5,4450.0
-Overall Washington Senate Race Results,O,False,False,Z. Haller,,15,79.6,Washington,0.4,3709.0
-Overall Washington Senate Race Results,O,False,False,P. Churchill,,16,79.6,Washington,0.3,3163.0
-Overall Washington Senate Race Results,O,False,False,A. Tsimerman,,17,79.6,Washington,0.3,2872.0
+Overall Wisconsin Senate Races Results,Libertarian,False,True,P. Anderson,Independent,1,100.0,Wisconsin,,
+Overall California Senate Primary Results,Democratic,False,True,K. Harris,,1,100.0,California,40.4,2051048.0
+Overall California Senate Primary Results,Democratic,False,True,L. Sanchez,,2,100.0,California,18.6,943002.0
+Overall California Senate Primary Results,Republican,False,False,D. Sundheim,,3,100.0,California,8.0,406964.0
+Overall California Senate Primary Results,Republican,False,False,P. Wyman,,4,100.0,California,4.9,246623.0
+Overall California Senate Primary Results,Republican,False,False,T. Del Beccaro,,5,100.0,California,4.2,213946.0
+Overall California Senate Primary Results,Republican,False,False,G. Conlon,,6,100.0,California,3.2,160164.0
+Overall California Senate Primary Results,Democratic,False,False,S. Stokes,,7,100.0,California,2.1,105568.0
+Overall California Senate Primary Results,Republican,False,False,G. Yang,,8,100.0,California,1.5,77826.0
+Overall California Senate Primary Results,Republican,False,False,K. Roseberry,,9,100.0,California,1.5,74845.0
+Overall California Senate Primary Results,Republican,False,False,T. Palzer,,10,100.0,California,1.3,65522.0
+Overall California Senate Primary Results,Libertarian,False,False,G. Lightfoot,,11,100.0,California,1.3,65203.0
+Overall California Senate Primary Results,Republican,False,False,R. Unz,,12,100.0,California,1.3,64698.0
+Overall California Senate Primary Results,Democratic,False,False,M. Munroe,,13,100.0,California,1.2,61271.0
+Overall California Senate Primary Results,Green,False,False,P. Elizondo,,14,100.0,California,1.2,59097.0
+Overall California Senate Primary Results,Republican,False,False,D. Krampe,,15,100.0,California,1.0,49572.0
+Overall California Senate Primary Results,Republican,False,False,J. Williamson,,16,100.0,California,0.9,44234.0
+Overall California Senate Primary Results,Independent_Other,False,False,E. Garcia,,17,100.0,California,0.8,42305.0
+Overall California Senate Primary Results,Republican,False,False,V. Hougo,,18,100.0,California,0.8,41832.0
+Overall California Senate Primary Results,Democratic,False,False,C. Grappo,,19,100.0,California,0.8,41610.0
+Overall California Senate Primary Results,Republican,False,False,J. Laws,,20,100.0,California,0.8,38281.0
+Overall California Senate Primary Results,Libertarian,False,False,M. Herd,,21,100.0,California,0.5,26080.0
+Overall California Senate Primary Results,Independent_Other,False,False,L. Shi,,22,100.0,California,0.5,22969.0
+Overall California Senate Primary Results,Progressive,False,False,J. Parker,,23,100.0,California,0.4,22374.0
+Overall California Senate Primary Results,Democratic,False,False,H. Peters,,24,100.0,California,0.4,21735.0
+Overall California Senate Primary Results,Democratic,False,False,E. Rodgers,,25,100.0,California,0.4,19982.0
+Overall California Senate Primary Results,Independent_Other,False,False,M. Beitiks,,26,100.0,California,0.4,19837.0
+Overall California Senate Primary Results,Independent_Other,False,False,C. Grey,,27,100.0,California,0.4,18937.0
+Overall California Senate Primary Results,Independent_Other,False,False,J. Hanania,,28,100.0,California,0.4,18050.0
+Overall California Senate Primary Results,Independent_Other,False,False,P. Merritt,,29,100.0,California,0.3,16258.0
+Overall California Senate Primary Results,Independent_Other,False,False,J. Kraus,,30,100.0,California,0.3,12954.0
+Overall California Senate Primary Results,Independent_Other,False,False,D. Grundmann,,31,100.0,California,0.2,9969.0
+Overall California Senate Primary Results,Independent_Other,False,False,S. Vineberg,,32,100.0,California,0.2,8001.0
+Overall California Senate Primary Results,Independent_Other,False,False,T. Gildersleeve,,33,100.0,California,0.1,6369.0
+Overall California Senate Primary Results,Independent_Other,False,False,G. Myers,,34,100.0,California,0.1,5802.0
+Overall Washington Senate Race Results,Democratic,True,True,P. Murray,,1,79.6,Washington,53.3,503286.0
+Overall Washington Senate Race Results,Republican,False,True,C. Vance,,2,79.6,Washington,27.9,263684.0
+Overall Washington Senate Race Results,Republican,False,False,E. Makus,,3,79.6,Washington,4.4,41128.0
+Overall Washington Senate Race Results,Democratic,False,False,P. Cornell,,4,79.6,Washington,3.3,31003.0
+Overall Washington Senate Race Results,Republican,False,False,S. Nazarino,,5,79.6,Washington,3.1,28902.0
+Overall Washington Senate Race Results,Libertarian,False,False,M. Luke,,6,79.6,Washington,1.4,13555.0
+Overall Washington Senate Race Results,Democratic,False,False,M. Said,,7,79.6,Washington,0.9,8427.0
+Overall Washington Senate Race Results,Constitution,False,False,D. Lands,,8,79.6,Washington,0.9,8360.0
+Overall Washington Senate Race Results,Independent_Other,False,False,S. Wright,,9,79.6,Washington,0.8,7589.0
+Overall Washington Senate Race Results,Independent_Other,False,False,T. Cummings,,10,79.6,Washington,0.8,7454.0
+Overall Washington Senate Race Results,Republican,False,False,U. Mover,,11,79.6,Washington,0.7,6298.0
+Overall Washington Senate Race Results,Democratic,False,False,T. Amundson,,12,79.6,Washington,0.6,5505.0
+Overall Washington Senate Race Results,Independent_Other,False,False,J. Teuton,,13,79.6,Washington,0.5,4840.0
+Overall Washington Senate Race Results,Independent_Other,False,False,C. Jackson,,14,79.6,Washington,0.5,4450.0
+Overall Washington Senate Race Results,Independent_Other,False,False,Z. Haller,,15,79.6,Washington,0.4,3709.0
+Overall Washington Senate Race Results,Independent_Other,False,False,P. Churchill,,16,79.6,Washington,0.3,3163.0
+Overall Washington Senate Race Results,Independent_Other,False,False,A. Tsimerman,,17,79.6,Washington,0.3,2872.0

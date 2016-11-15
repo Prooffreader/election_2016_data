@@ -1,5 +1,6 @@
 *.ipynb_checkpoints/
-scripts/*.json
+gitignored/
+scripts/*.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
