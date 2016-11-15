@@ -36,6 +36,7 @@ If merging this data with county demographic data, be aware of the following:
 * The aforementioned Shannon County change to Oglala Lakota County in South Dakota; fips has changed from 46113 to 46102
 * In 2015, the county of Bedford City, VA, fips 51515, was amalgamated into Bedford County, VA, fips 51019. There is no more fips 51515, while fips 51019 now has greater area and population (and different demographics)
 * Kalawao County, Hawaii, fips 15005, has a population of 90 so they count in a neighboring county's totals (I could not determine which one)
+* As mentioned above, for some reason Alaska's Presidential General Election was not listed per county, and the Presidential Primaries was listed per Congressional electoral district instead of per county. So Alaska has no county data in this dataset. Blame Politico.
 
 I have merged this data, given the caveats above, with [Deleetdk's USA.county.data repo](https://github.com/Deleetdk/USA.county.data); the results are in ``/merged_with_demog``. Note that the demog info also has some political history info, in columns (wide), while my election data is tall/normalized; if you want to compare between elections, that will take some wrangling.
 
