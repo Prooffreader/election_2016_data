@@ -20,7 +20,8 @@ Further downballot races like state legislatures were not listed.
 
 The following are known issues with the data as present on Politico (either the data just does not exist/is not reported, or it exists and for whatever reason, Politico does not have it):
 
-* In South Dakota, the Presidential and Senate primaries have a "Shannon County" while the general elections have an "Oglala Lakota County"
+* Alaska has no Presidential General Election listed by County; perhaps Politico was confused by the fact that they call their counties "Boroughs", although they had no problem with Louisiana's "Parishes"
+* Between the primaries and the election, Shannon County changed its name to Oglala Lakota County
 * Missing Kansas Presidential Primary by county
 * Missing North Dakota Presidential Primary by county
 * Colorado, Wyoming and Maine Republican primary results are not reported
@@ -31,10 +32,17 @@ The following are known issues with the data as present on Politico (either the 
 * Minnesota's Presidential Primary is reported by congressional district, while its Presidential General Election is reported by county
 * Washington's open primaries for senate and house means that by county or district, the primaries are not divided between political parties
 
+If merging this data with county demographic data, be aware of the following:
+* The aforementioned Shannon County change to Oglala Lakota County in South Dakota; fips has changed from 46113 to 46102
+* In 2015, the county of Bedford City, VA, fips 51515, was amalgamated into Bedford County, VA, fips 51019. There is no more fips 51515, while fips 51019 now has greater area and population (and different demographics)
+* Kalawao County, Hawaii, fips 15005, has a population of 90 so they count in a neighboring county's totals (I could not determine which one)
+
+I have merged this data, given the caveats above, with [Deleetdk's USA.county.data repo](https://github.com/Deleetdk/USA.county.data); the results are in ``/merged_with_demog``. Note that the demog info also has some political history info, in columns (wide), while my election data is tall/normalized; if you want to compare between elections, that will take some wrangling.
+
 Note that if there is only one candidate with is_winner == True and votes == NaN, they ran uncontested.
 
-A word about the ``individual_party`` and ``party`` fields. ``party`` is filled out when the entire subtable is for one party, e.g. a primary. ``individual_party`` is filled out when an individual line showing a candidate lists a political party. I kept politico's coding, D=Democrate, R=Republican, L=Libertarian, G=Green, I=Independent... and then there are some others for minor parties (P, V, etc.) that I did not investigate. If anyone wants to supply names for these parties, send me a message or a pull request.
+A word about the ``individual_party`` and ``party`` fields. ``party`` is filled out when the entire subtable is for one party, e.g. a primary. ``individual_party`` is filled out when an individual line showing a candidate lists a political party. I replaced Politico's one-letter abbreviations with their full names; the only weird mapping is that "I", "N" and "O" were all independent candidates that I could see, so I called them "Independent", "Independent_N" and "Independent_Other", respectively.
 
 Note that the number of votes is reported as a float instead of an integer due to a particularity of the pandas/pydata ecosystem: since they contain NaNs (the uncontested winners mentioned in the previous note), and NaNs are dtype float, the column cannot be integer.
 
-For the curious, the Jupyter notebooks I used to scrape the data are in the ``notebooks`` folder. They're not beautiful, but they work.
+For the curious, the Jupyter notebooks I used to scrape the data are in the ``notebooks`` folder. They're not beautiful, but they work. The politico one, in particular, has lots of checks for consistency, both internally and with the demographic data mentioned above.
