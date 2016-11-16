@@ -44,7 +44,7 @@ I have merged this data, given the caveats above, with [Deleetdk's USA.county.da
 
 Note that if there is only one candidate with is_winner == True and votes == NaN, they ran uncontested.
 
-A word about the ``individual_party`` and ``party`` fields. ``party`` is filled out when the entire subtable is for one party, e.g. a primary. ``individual_party`` is filled out when an individual line showing a candidate lists a political party. I replaced Politico's one-letter abbreviations with their full names; the only weird mapping is that "I", "N" and "O" were all independent candidates that I could see, so I called them "Independent", "Independent_N" and "Independent_Other", respectively.
+A word about the ``individual_party`` and ``party`` fields. ``party`` is filled out when the entire subtable is for one party, e.g. a primary. ``individual_party`` is filled out when an individual line showing a candidate lists a political party. ~~I replaced Politico's one-letter abbreviations with their full names; the only weird mapping is that "I", "N" and "O" were all independent candidates that I could see, so I called them "Independent", "Independent_N" and "Independent_Other", respectively.~~ Edit: Politico's one-letter abbreviations turned out to be quite error-prone, so I had to scrap them and replace them with their color-coding for "republican", "democratic" or "independent_or_other". This is disappointing; I will try to find a list of candidate's parties and merge from elsewhere.
 
 Note that the number of votes is reported as a float instead of an integer due to a particularity of the pandas/pydata ecosystem: since they contain NaNs (the uncontested winners mentioned in the previous note), and NaNs are dtype float, the column cannot be integer.
 
