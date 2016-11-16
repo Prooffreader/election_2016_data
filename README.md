@@ -2,6 +2,8 @@
 
 These are csvs of results scraped from Politico and (for exit polls) CNN websites. If anyone uses this, I'd love to hear about it! [I wrote a brief blog post describing my motivation](http://prooffreaderplus.blogspot.ca/2016/11/i-scraped-all-2016-us-election-data.html)
 
+### Temporary note 2016-11-16, 05:30:00EST: thanks to [dequis](https://github.com/dequis) for pointing out that Politico's tags for individual political parties are full of errors. Their color-coding into "Republican", "Democrat" and "Independent/Other" seems correct, however, so I am rerunning the scraper from scratch to use these instead. This will take a few hours. In the meantime, all the other fields seem correct; as a rule of thumb you can trust an individual_party of Democrat or Republican in first or second place right now. I will update when the scraping and internal validation is done.
+
 For more about the ethics of scraping, see [this Quora post](https://www.quora.com/What-is-the-legality-of-web-scraping). I used Selenium, which automated the Google Chrome browser, so I put no more load on their servers than a normal visitor. The only thing the program did faster than a human is parse the results.
 
 Note that the use of Selenium was crucial because, in the case of Politico, the Outer HTML only loaded completely when the browser reached the bottom of the page, so a scraper that could "tell" the website it was really a browser and had scrolled all the way down was necessary.
@@ -36,12 +38,13 @@ If merging this data with county demographic data, be aware of the following:
 * The aforementioned Shannon County change to Oglala Lakota County in South Dakota; fips has changed from 46113 to 46102
 * In 2015, the county of Bedford City, VA, fips 51515, was amalgamated into Bedford County, VA, fips 51019. There is no more fips 51515, while fips 51019 now has greater area and population (and different demographics)
 * Kalawao County, Hawaii, fips 15005, has a population of 90 so they count in a neighboring county's totals (I could not determine which one)
+* As mentioned above, for some reason Alaska's Presidential General Election was not listed per county, and the Presidential Primaries was listed per Congressional electoral district instead of per county. So Alaska has no county data in this dataset. Blame Politico.
 
 I have merged this data, given the caveats above, with [Deleetdk's USA.county.data repo](https://github.com/Deleetdk/USA.county.data); the results are in ``/merged_with_demog``. Note that the demog info also has some political history info, in columns (wide), while my election data is tall/normalized; if you want to compare between elections, that will take some wrangling.
 
 Note that if there is only one candidate with is_winner == True and votes == NaN, they ran uncontested.
 
-A word about the ``individual_party`` and ``party`` fields. ``party`` is filled out when the entire subtable is for one party, e.g. a primary. ``individual_party`` is filled out when an individual line showing a candidate lists a political party. I replaced Politico's one-letter abbreviations with their full names; the only weird mapping is that "I", "N" and "O" were all independent candidates that I could see, so I called them "Independent", "Independent_N" and "Independent_Other", respectively.
+A word about the ``individual_party`` and ``party`` fields. ``party`` is filled out when the entire subtable is for one party, e.g. a primary. ``individual_party`` is filled out when an individual line showing a candidate lists a political party. ~~I replaced Politico's one-letter abbreviations with their full names; the only weird mapping is that "I", "N" and "O" were all independent candidates that I could see, so I called them "Independent", "Independent_N" and "Independent_Other", respectively.~~ Edit: Politico's one-letter abbreviations turned out to be quite error-prone, so I had to scrap them and replace them with their color-coding for "republican", "democratic" or "independent_or_other". This is disappointing; I will try to find a list of candidate's parties and merge from elsewhere.
 
 Note that the number of votes is reported as a float instead of an integer due to a particularity of the pandas/pydata ecosystem: since they contain NaNs (the uncontested winners mentioned in the previous note), and NaNs are dtype float, the column cannot be integer.
 
