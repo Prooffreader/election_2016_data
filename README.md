@@ -2,6 +2,8 @@
 
 These are csvs of results scraped from Politico and (for exit polls) CNN websites. If anyone uses this, I'd love to hear about it! [I wrote a brief blog post describing my motivation](http://prooffreaderplus.blogspot.ca/2016/11/i-scraped-all-2016-us-election-data.html)
 
+### Temporary note 2016-11-16, 05:30:00EST: thanks to [dequis](https://github.com/dequis) for pointing out that Politico's tags for individual political parties are full of errors. Their color-coding into "Republican", "Democrat" and "Independent/Other" seems correct, however, so I am rerunning the scraper from scratch to use these instead. This will take a few hours. In the meantime, all the other fields seem correct; as a rule of thumb you can trust an individual_party of Democrat or Republican in first or second place right now. I will update when the scraping and internal validation is done.
+
 For more about the ethics of scraping, see [this Quora post](https://www.quora.com/What-is-the-legality-of-web-scraping). I used Selenium, which automated the Google Chrome browser, so I put no more load on their servers than a normal visitor. The only thing the program did faster than a human is parse the results.
 
 Note that the use of Selenium was crucial because, in the case of Politico, the Outer HTML only loaded completely when the browser reached the bottom of the page, so a scraper that could "tell" the website it was really a browser and had scrolled all the way down was necessary.
