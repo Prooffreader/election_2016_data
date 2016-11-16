@@ -1,735 +1,735 @@
-delegates,geo_name,is_winner,name,party,rank,reporting_pct,state,vote_pct,votes
-51.0,Overall Alabama Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,Alabama,77.8,309928.0
-9.0,Overall Alabama Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,Alabama,19.2,76399.0
-,Overall Alabama Presidential Primaries Results,False,Uncommitted,Democratic,3,100.0,Alabama,2.4,9534.0
-,Overall Alabama Presidential Primaries Results,False,M. O'Malley,Democratic,4,100.0,Alabama,0.4,1489.0
-,Overall Alabama Presidential Primaries Results,False,R. De La Fuente,Democratic,5,100.0,Alabama,0.2,814.0
-36.0,Overall Alabama Presidential Primaries Results,True,D. Trump,Republican,1,100.0,Alabama,43.4,371735.0
-13.0,Overall Alabama Presidential Primaries Results,False,T. Cruz,Republican,2,100.0,Alabama,21.1,180608.0
-1.0,Overall Alabama Presidential Primaries Results,False,M. Rubio,Republican,3,100.0,Alabama,18.7,159802.0
-,Overall Alabama Presidential Primaries Results,False,B. Carson,Republican,4,100.0,Alabama,10.2,87517.0
-,Overall Alabama Presidential Primaries Results,False,J. Kasich,Republican,5,100.0,Alabama,4.4,37970.0
-,Overall Alabama Presidential Primaries Results,False,Uncommitted,Republican,6,100.0,Alabama,0.9,7911.0
-,Overall Alabama Presidential Primaries Results,False,J. Bush,Republican,7,100.0,Alabama,0.5,3946.0
-,Overall Alabama Presidential Primaries Results,False,M. Huckabee,Republican,8,100.0,Alabama,0.3,2535.0
-,Overall Alabama Presidential Primaries Results,False,R. Paul,Republican,9,100.0,Alabama,0.2,1879.0
-,Overall Alabama Presidential Primaries Results,False,C. Christie,Republican,10,100.0,Alabama,0.1,850.0
-,Overall Alabama Presidential Primaries Results,False,R. Santorum,Republican,11,100.0,Alabama,0.1,616.0
-,Overall Alabama Presidential Primaries Results,False,C. Fiorina,Republican,12,100.0,Alabama,0.1,543.0
-,Overall Alabama Presidential Primaries Results,False,L. Graham,Republican,13,100.0,Alabama,0.0,254.0
-,Overall Arizona Presidential Primaries Results,True,H. Clinton,Democratic,1,99.5,Arizona,57.6,235697.0
-,Overall Arizona Presidential Primaries Results,False,B. Sanders,Democratic,2,99.5,Arizona,39.9,163400.0
-,Overall Arizona Presidential Primaries Results,False,M. O'Malley,Democratic,3,99.5,Arizona,0.9,3599.0
-,Overall Arizona Presidential Primaries Results,False,R. De La Fuente,Democratic,4,99.5,Arizona,0.6,2540.0
-,Overall Arizona Presidential Primaries Results,False,M. Steinberg,Democratic,5,99.5,Arizona,0.5,2118.0
-,Overall Arizona Presidential Primaries Results,False,H. Hewes,Democratic,6,99.5,Arizona,0.4,1659.0
-,Overall Arizona Presidential Primaries Results,True,D. Trump,Republican,1,99.5,Arizona,47.1,249916.0
-,Overall Arizona Presidential Primaries Results,False,T. Cruz,Republican,2,99.5,Arizona,24.9,132147.0
-,Overall Arizona Presidential Primaries Results,False,M. Rubio,Republican,3,99.5,Arizona,13.3,70556.0
-,Overall Arizona Presidential Primaries Results,False,J. Kasich,Republican,4,99.5,Arizona,10.0,53040.0
-,Overall Arizona Presidential Primaries Results,False,B. Carson,Republican,5,99.5,Arizona,2.7,14321.0
-,Overall Arizona Presidential Primaries Results,False,J. Bush,Republican,6,99.5,Arizona,0.8,4076.0
-,Overall Arizona Presidential Primaries Results,False,R. Paul,Republican,7,99.5,Arizona,0.4,2035.0
-,Overall Arizona Presidential Primaries Results,False,C. Fiorina,Republican,8,99.5,Arizona,0.2,1177.0
-,Overall Arizona Presidential Primaries Results,False,M. Huckabee,Republican,9,99.5,Arizona,0.2,1168.0
-,Overall Arizona Presidential Primaries Results,False,C. Christie,Republican,10,99.5,Arizona,0.2,919.0
-,Overall Arizona Presidential Primaries Results,False,R. Santorum,Republican,11,99.5,Arizona,0.1,463.0
-,Overall Arizona Presidential Primaries Results,False,L. Graham,Republican,12,99.5,Arizona,0.1,449.0
-,Overall Arizona Presidential Primaries Results,False,G. Pataki,Republican,13,99.5,Arizona,0.0,265.0
-,Overall Arizona Presidential Primaries Results,False,T. Cook,Republican,14,99.5,Arizona,0.0,217.0
-27.0,Overall Arkansas Presidential Primaries Results,True,H. Clinton,Democratic,1,99.2,Arkansas,66.3,144580.0
-10.0,Overall Arkansas Presidential Primaries Results,False,B. Sanders,Democratic,2,99.2,Arkansas,29.7,64868.0
-,Overall Arkansas Presidential Primaries Results,False,M. O'Malley,Democratic,3,99.2,Arkansas,1.3,2764.0
-,Overall Arkansas Presidential Primaries Results,False,J. Wolfe,Democratic,4,99.2,Arkansas,1.2,2541.0
-,Overall Arkansas Presidential Primaries Results,False,J. Valentine,Democratic,5,99.2,Arkansas,0.8,1687.0
-,Overall Arkansas Presidential Primaries Results,False,R. De La Fuente,Democratic,6,99.2,Arkansas,0.8,1680.0
-16.0,Overall Arkansas Presidential Primaries Results,True,D. Trump,Republican,1,99.2,Arkansas,32.8,133144.0
-15.0,Overall Arkansas Presidential Primaries Results,False,T. Cruz,Republican,2,99.2,Arkansas,30.5,123873.0
-9.0,Overall Arkansas Presidential Primaries Results,False,M. Rubio,Republican,3,99.2,Arkansas,24.9,101235.0
-,Overall Arkansas Presidential Primaries Results,False,B. Carson,Republican,4,99.2,Arkansas,5.7,23173.0
-,Overall Arkansas Presidential Primaries Results,False,J. Kasich,Republican,5,99.2,Arkansas,3.7,15098.0
-,Overall Arkansas Presidential Primaries Results,False,M. Huckabee,Republican,6,99.2,Arkansas,1.2,4703.0
-,Overall Arkansas Presidential Primaries Results,False,J. Bush,Republican,7,99.2,Arkansas,0.6,2406.0
-,Overall Arkansas Presidential Primaries Results,False,R. Paul,Republican,8,99.2,Arkansas,0.3,1127.0
-,Overall Arkansas Presidential Primaries Results,False,C. Christie,Republican,9,99.2,Arkansas,0.2,651.0
-,Overall Arkansas Presidential Primaries Results,False,C. Fiorina,Republican,10,99.2,Arkansas,0.1,409.0
-,Overall Arkansas Presidential Primaries Results,False,R. Santorum,Republican,11,99.2,Arkansas,0.1,286.0
-,Overall Arkansas Presidential Primaries Results,False,L. Graham,Republican,12,99.2,Arkansas,0.1,250.0
-,Overall Arkansas Presidential Primaries Results,False,B. Jindal,Republican,13,99.2,Arkansas,0.0,167.0
-325.0,Overall California Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,California,55.8,1940580.0
-222.0,Overall California Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,California,43.2,1502043.0
-,Overall California Presidential Primaries Results,False,W. Wilson,Democratic,3,100.0,California,0.3,8709.0
-,Overall California Presidential Primaries Results,False,M. Steinberg,Democratic,4,100.0,California,0.2,7905.0
-,Overall California Presidential Primaries Results,False,R. De La Fuente,Democratic,5,100.0,California,0.2,5780.0
-,Overall California Presidential Primaries Results,False,K. Judd,Democratic,6,100.0,California,0.2,5433.0
-,Overall California Presidential Primaries Results,False,H. Hewes,Democratic,7,100.0,California,0.2,5270.0
-172.0,Overall California Presidential Primaries Results,True,D. Trump,Republican,1,100.0,California,75.3,1174829.0
-,Overall California Presidential Primaries Results,False,J. Kasich,Republican,2,100.0,California,11.3,176620.0
-,Overall California Presidential Primaries Results,False,T. Cruz,Republican,3,100.0,California,9.2,144125.0
-,Overall California Presidential Primaries Results,False,B. Carson,Republican,4,100.0,California,3.5,54145.0
-,Overall California Presidential Primaries Results,False,J. Gilmore,Republican,5,100.0,California,0.7,11101.0
-44.0,Overall Connecticut Presidential Primaries Results,True,H. Clinton,Democratic,1,99.9,Connecticut,51.8,170075.0
-27.0,Overall Connecticut Presidential Primaries Results,False,B. Sanders,Democratic,2,99.9,Connecticut,46.4,152410.0
-,Overall Connecticut Presidential Primaries Results,False,Uncommitted,Democratic,3,99.9,Connecticut,1.5,4877.0
-,Overall Connecticut Presidential Primaries Results,False,R. De La Fuente,Democratic,4,99.9,Connecticut,0.3,960.0
-28.0,Overall Connecticut Presidential Primaries Results,True,D. Trump,Republican,1,99.9,Connecticut,57.9,123367.0
-,Overall Connecticut Presidential Primaries Results,False,J. Kasich,Republican,2,99.9,Connecticut,28.4,60481.0
-,Overall Connecticut Presidential Primaries Results,False,T. Cruz,Republican,3,99.9,Connecticut,11.7,24969.0
-,Overall Connecticut Presidential Primaries Results,False,Uncommitted,Republican,4,99.9,Connecticut,1.2,2654.0
-,Overall Connecticut Presidential Primaries Results,False,B. Carson,Republican,5,99.9,Connecticut,0.8,1741.0
-,Overall Delaware Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,Delaware,59.8,55950.0
-,Overall Delaware Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,Delaware,39.2,36659.0
-,Overall Delaware Presidential Primaries Results,False,R. De La Fuente,Democratic,3,100.0,Delaware,1.1,1024.0
-,Overall Delaware Presidential Primaries Results,True,D. Trump,Republican,1,100.0,Delaware,60.8,42472.0
-,Overall Delaware Presidential Primaries Results,False,J. Kasich,Republican,2,100.0,Delaware,20.4,14225.0
-,Overall Delaware Presidential Primaries Results,False,T. Cruz,Republican,3,100.0,Delaware,15.9,11110.0
-,Overall Delaware Presidential Primaries Results,False,B. Carson,Republican,4,100.0,Delaware,1.3,885.0
-,Overall Delaware Presidential Primaries Results,False,M. Rubio,Republican,5,100.0,Delaware,0.9,622.0
-,Overall Delaware Presidential Primaries Results,False,J. Bush,Republican,6,100.0,Delaware,0.8,578.0
-,Overall Florida Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,Florida,64.4,1097400.0
-,Overall Florida Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,Florida,33.3,566603.0
-,Overall Florida Presidential Primaries Results,False,M. O'Malley,Democratic,3,100.0,Florida,2.3,38875.0
-,Overall Florida Presidential Primaries Results,True,D. Trump,Republican,1,100.0,Florida,45.7,1077221.0
-,Overall Florida Presidential Primaries Results,False,M. Rubio,Republican,2,100.0,Florida,27.0,636653.0
-,Overall Florida Presidential Primaries Results,False,T. Cruz,Republican,3,100.0,Florida,17.1,403640.0
-,Overall Florida Presidential Primaries Results,False,J. Kasich,Republican,4,100.0,Florida,6.8,159412.0
-,Overall Florida Presidential Primaries Results,False,J. Bush,Republican,5,100.0,Florida,1.8,43452.0
-,Overall Florida Presidential Primaries Results,False,B. Carson,Republican,6,100.0,Florida,0.9,21163.0
-,Overall Florida Presidential Primaries Results,False,R. Paul,Republican,7,100.0,Florida,0.2,4431.0
-,Overall Florida Presidential Primaries Results,False,M. Huckabee,Republican,8,100.0,Florida,0.1,2617.0
-,Overall Florida Presidential Primaries Results,False,C. Christie,Republican,9,100.0,Florida,0.1,2486.0
-,Overall Florida Presidential Primaries Results,False,C. Fiorina,Republican,10,100.0,Florida,0.1,1894.0
-,Overall Florida Presidential Primaries Results,False,R. Santorum,Republican,11,100.0,Florida,0.1,1204.0
-,Overall Florida Presidential Primaries Results,False,L. Graham,Republican,12,100.0,Florida,0.0,693.0
-,Overall Florida Presidential Primaries Results,False,J. Gilmore,Republican,13,100.0,Florida,0.0,317.0
-83.0,Overall Georgia Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,Georgia,71.3,543008.0
-28.0,Overall Georgia Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,Georgia,28.2,214332.0
-,Overall Georgia Presidential Primaries Results,False,M. O'Malley,Democratic,3,100.0,Georgia,0.3,2119.0
-,Overall Georgia Presidential Primaries Results,False,M. Steinberg,Democratic,4,100.0,Georgia,0.2,1759.0
-40.0,Overall Georgia Presidential Primaries Results,True,D. Trump,Republican,1,100.0,Georgia,38.8,501707.0
-14.0,Overall Georgia Presidential Primaries Results,False,M. Rubio,Republican,2,100.0,Georgia,24.4,315979.0
-18.0,Overall Georgia Presidential Primaries Results,False,T. Cruz,Republican,3,100.0,Georgia,23.6,305109.0
-,Overall Georgia Presidential Primaries Results,False,B. Carson,Republican,4,100.0,Georgia,6.2,80503.0
-,Overall Georgia Presidential Primaries Results,False,J. Kasich,Republican,5,100.0,Georgia,5.6,72303.0
-,Overall Georgia Presidential Primaries Results,False,J. Bush,Republican,6,100.0,Georgia,0.6,7664.0
-,Overall Georgia Presidential Primaries Results,False,R. Paul,Republican,7,100.0,Georgia,0.2,2901.0
-,Overall Georgia Presidential Primaries Results,False,M. Huckabee,Republican,8,100.0,Georgia,0.2,2615.0
-,Overall Georgia Presidential Primaries Results,False,C. Christie,Republican,9,100.0,Georgia,0.1,1485.0
-,Overall Georgia Presidential Primaries Results,False,C. Fiorina,Republican,10,100.0,Georgia,0.1,1143.0
-,Overall Georgia Presidential Primaries Results,False,R. Santorum,Republican,11,100.0,Georgia,0.0,534.0
-,Overall Georgia Presidential Primaries Results,False,L. Graham,Republican,12,100.0,Georgia,0.0,423.0
-,Overall Georgia Presidential Primaries Results,False,G. Pataki,Republican,13,100.0,Georgia,0.0,235.0
-105.0,Overall Illinois Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,Illinois,50.5,1017006.0
-78.0,Overall Illinois Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,Illinois,48.7,982017.0
-,Overall Illinois Presidential Primaries Results,False,W. Wilson,Democratic,3,100.0,Illinois,0.3,6432.0
-,Overall Illinois Presidential Primaries Results,False,M. O'Malley,Democratic,4,100.0,Illinois,0.3,6064.0
-,Overall Illinois Presidential Primaries Results,False,L. Cohen,Democratic,5,100.0,Illinois,0.1,2362.0
-,Overall Illinois Presidential Primaries Results,False,R. De La Fuente,Democratic,6,100.0,Illinois,0.1,1766.0
-54.0,Overall Illinois Presidential Primaries Results,True,D. Trump,Republican,1,100.0,Illinois,38.8,556916.0
-9.0,Overall Illinois Presidential Primaries Results,False,T. Cruz,Republican,2,100.0,Illinois,30.3,434038.0
-6.0,Overall Illinois Presidential Primaries Results,False,J. Kasich,Republican,3,100.0,Illinois,19.7,282874.0
-,Overall Illinois Presidential Primaries Results,False,M. Rubio,Republican,4,100.0,Illinois,8.7,124568.0
-,Overall Illinois Presidential Primaries Results,False,B. Carson,Republican,5,100.0,Illinois,0.8,11289.0
-,Overall Illinois Presidential Primaries Results,False,J. Bush,Republican,6,100.0,Illinois,0.8,10974.0
-,Overall Illinois Presidential Primaries Results,False,R. Paul,Republican,7,100.0,Illinois,0.3,4667.0
-,Overall Illinois Presidential Primaries Results,False,C. Christie,Republican,8,100.0,Illinois,0.2,3326.0
-,Overall Illinois Presidential Primaries Results,False,M. Huckabee,Republican,9,100.0,Illinois,0.2,2700.0
-,Overall Illinois Presidential Primaries Results,False,C. Fiorina,Republican,10,100.0,Illinois,0.1,1512.0
-,Overall Illinois Presidential Primaries Results,False,R. Santorum,Republican,11,100.0,Illinois,0.1,1142.0
-44.0,Overall Indiana Presidential Primaries Results,True,B. Sanders,Democratic,1,100.0,Indiana,52.5,335256.0
-47.0,Overall Indiana Presidential Primaries Results,False,H. Clinton,Democratic,2,100.0,Indiana,47.5,303382.0
-57.0,Overall Indiana Presidential Primaries Results,True,D. Trump,Republican,1,100.0,Indiana,53.3,590460.0
-,Overall Indiana Presidential Primaries Results,False,T. Cruz,Republican,2,100.0,Indiana,36.6,406280.0
-,Overall Indiana Presidential Primaries Results,False,J. Kasich,Republican,3,100.0,Indiana,7.6,83913.0
-,Overall Indiana Presidential Primaries Results,False,B. Carson,Republican,4,100.0,Indiana,0.8,8900.0
-,Overall Indiana Presidential Primaries Results,False,J. Bush,Republican,5,100.0,Indiana,0.6,6492.0
-,Overall Indiana Presidential Primaries Results,False,M. Rubio,Republican,6,100.0,Indiana,0.5,5167.0
-,Overall Indiana Presidential Primaries Results,False,R. Paul,Republican,7,100.0,Indiana,0.4,4294.0
-,Overall Indiana Presidential Primaries Results,False,C. Christie,Republican,8,100.0,Indiana,0.2,1733.0
-,Overall Indiana Presidential Primaries Results,False,C. Fiorina,Republican,9,100.0,Indiana,0.1,1491.0
-45.0,Overall Louisiana Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,Louisiana,71.1,221615.0
-14.0,Overall Louisiana Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,Louisiana,23.2,72240.0
-,Overall Louisiana Presidential Primaries Results,False,S. Burke,Democratic,3,100.0,Louisiana,1.5,4783.0
-,Overall Louisiana Presidential Primaries Results,False,J. Wolfe,Democratic,4,100.0,Louisiana,1.4,4509.0
-,Overall Louisiana Presidential Primaries Results,False,M. O'Malley,Democratic,5,100.0,Louisiana,0.8,2550.0
-,Overall Louisiana Presidential Primaries Results,False,W. Wilson,Democratic,6,100.0,Louisiana,0.5,1423.0
-,Overall Louisiana Presidential Primaries Results,False,K. Judd,Democratic,7,100.0,Louisiana,0.4,1355.0
-,Overall Louisiana Presidential Primaries Results,False,R. De La Fuente,Democratic,8,100.0,Louisiana,0.4,1341.0
-,Overall Louisiana Presidential Primaries Results,False,M. Steinberg,Democratic,9,100.0,Louisiana,0.3,993.0
-,Overall Louisiana Presidential Primaries Results,False,H. Hewes,Democratic,10,100.0,Louisiana,0.3,804.0
-25.0,Overall Louisiana Presidential Primaries Results,True,D. Trump,Republican,1,100.0,Louisiana,41.4,124818.0
-18.0,Overall Louisiana Presidential Primaries Results,False,T. Cruz,Republican,2,100.0,Louisiana,37.8,113949.0
-,Overall Louisiana Presidential Primaries Results,False,M. Rubio,Republican,3,100.0,Louisiana,11.2,33804.0
-,Overall Louisiana Presidential Primaries Results,False,J. Kasich,Republican,4,100.0,Louisiana,6.4,19355.0
-,Overall Louisiana Presidential Primaries Results,False,B. Carson,Republican,5,100.0,Louisiana,1.5,4544.0
-,Overall Louisiana Presidential Primaries Results,False,J. Bush,Republican,6,100.0,Louisiana,0.7,2144.0
-,Overall Louisiana Presidential Primaries Results,False,R. Paul,Republican,7,100.0,Louisiana,0.2,668.0
-,Overall Louisiana Presidential Primaries Results,False,M. Huckabee,Republican,8,100.0,Louisiana,0.2,645.0
-,Overall Louisiana Presidential Primaries Results,False,C. Christie,Republican,9,100.0,Louisiana,0.1,401.0
-,Overall Louisiana Presidential Primaries Results,False,C. Fiorina,Republican,10,100.0,Louisiana,0.1,243.0
-,Overall Louisiana Presidential Primaries Results,False,T. Cook,Republican,11,100.0,Louisiana,0.1,219.0
-,Overall Louisiana Presidential Primaries Results,False,R. Santorum,Republican,12,100.0,Louisiana,0.1,180.0
-,Overall Louisiana Presidential Primaries Results,False,L. Graham,Republican,13,100.0,Louisiana,0.1,151.0
-,Overall Louisiana Presidential Primaries Results,False,P. Messina,Republican,14,100.0,Louisiana,0.0,48.0
-80.0,Overall Maryland Presidential Primaries Results,True,H. Clinton,Democratic,1,99.2,Maryland,63.0,533247.0
-36.0,Overall Maryland Presidential Primaries Results,False,B. Sanders,Democratic,2,99.2,Maryland,33.2,281275.0
-4.0,Overall Maryland Presidential Primaries Results,False,Uncommitted,Democratic,3,99.2,Maryland,3.3,28131.0
-,Overall Maryland Presidential Primaries Results,False,R. De La Fuente,Democratic,4,99.2,Maryland,0.4,3386.0
-38.0,Overall Maryland Presidential Primaries Results,True,D. Trump,Republican,1,99.2,Maryland,54.4,236623.0
-,Overall Maryland Presidential Primaries Results,False,J. Kasich,Republican,2,99.2,Maryland,23.0,100089.0
-,Overall Maryland Presidential Primaries Results,False,T. Cruz,Republican,3,99.2,Maryland,18.9,82038.0
-,Overall Maryland Presidential Primaries Results,False,B. Carson,Republican,4,99.2,Maryland,1.3,5626.0
-,Overall Maryland Presidential Primaries Results,False,M. Rubio,Republican,5,99.2,Maryland,0.7,2945.0
-,Overall Maryland Presidential Primaries Results,False,J. Bush,Republican,6,99.2,Maryland,0.6,2437.0
-,Overall Maryland Presidential Primaries Results,False,R. Paul,Republican,7,99.2,Maryland,0.3,1451.0
-,Overall Maryland Presidential Primaries Results,False,C. Christie,Republican,8,99.2,Maryland,0.3,1184.0
-,Overall Maryland Presidential Primaries Results,False,C. Fiorina,Republican,9,99.2,Maryland,0.2,946.0
-,Overall Maryland Presidential Primaries Results,False,M. Huckabee,Republican,10,99.2,Maryland,0.2,787.0
-,Overall Maryland Presidential Primaries Results,False,R. Santorum,Republican,11,99.2,Maryland,0.1,446.0
-,Overall Massachusetts Presidential Primaries Results,True,H. Clinton,Democratic,1,99.9,Massachusetts,50.1,603784.0
-,Overall Massachusetts Presidential Primaries Results,False,B. Sanders,Democratic,2,99.9,Massachusetts,48.7,586716.0
-,Overall Massachusetts Presidential Primaries Results,False,No Preference,Democratic,3,99.9,Massachusetts,0.7,8152.0
-,Overall Massachusetts Presidential Primaries Results,False,M. O'Malley,Democratic,4,99.9,Massachusetts,0.4,4744.0
-,Overall Massachusetts Presidential Primaries Results,False,R. De La Fuente,Democratic,5,99.9,Massachusetts,0.1,1531.0
-,Overall Massachusetts Presidential Primaries Results,True,D. Trump,Republican,1,99.9,Massachusetts,49.3,311313.0
-,Overall Massachusetts Presidential Primaries Results,False,J. Kasich,Republican,2,99.9,Massachusetts,18.0,113783.0
-,Overall Massachusetts Presidential Primaries Results,False,M. Rubio,Republican,3,99.9,Massachusetts,17.9,112822.0
-,Overall Massachusetts Presidential Primaries Results,False,T. Cruz,Republican,4,99.9,Massachusetts,9.6,60473.0
-,Overall Massachusetts Presidential Primaries Results,False,B. Carson,Republican,5,99.9,Massachusetts,2.6,16277.0
-,Overall Massachusetts Presidential Primaries Results,False,J. Bush,Republican,6,99.9,Massachusetts,1.0,6454.0
-,Overall Massachusetts Presidential Primaries Results,False,No Preference,Republican,7,99.9,Massachusetts,0.5,3236.0
-,Overall Massachusetts Presidential Primaries Results,False,R. Paul,Republican,8,99.9,Massachusetts,0.3,1862.0
-,Overall Massachusetts Presidential Primaries Results,False,C. Christie,Republican,9,99.9,Massachusetts,0.3,1832.0
-,Overall Massachusetts Presidential Primaries Results,False,C. Fiorina,Republican,10,99.9,Massachusetts,0.2,1153.0
-,Overall Massachusetts Presidential Primaries Results,False,J. Gilmore,Republican,11,99.9,Massachusetts,0.1,744.0
-,Overall Massachusetts Presidential Primaries Results,False,M. Huckabee,Republican,12,99.9,Massachusetts,0.1,689.0
-,Overall Massachusetts Presidential Primaries Results,False,G. Pataki,Republican,13,99.9,Massachusetts,0.1,467.0
-,Overall Massachusetts Presidential Primaries Results,False,R. Santorum,Republican,14,99.9,Massachusetts,0.0,290.0
-65.0,Overall Michigan Presidential Primaries Results,True,B. Sanders,Democratic,1,100.0,Michigan,49.8,595222.0
-73.0,Overall Michigan Presidential Primaries Results,False,H. Clinton,Democratic,2,100.0,Michigan,48.3,576795.0
-2.0,Overall Michigan Presidential Primaries Results,False,Uncommitted,Democratic,3,100.0,Michigan,1.6,19425.0
-,Overall Michigan Presidential Primaries Results,False,M. O'Malley,Democratic,4,100.0,Michigan,0.2,2338.0
-,Overall Michigan Presidential Primaries Results,False,R. De La Fuente,Democratic,5,100.0,Michigan,0.1,863.0
-25.0,Overall Michigan Presidential Primaries Results,True,D. Trump,Republican,1,100.0,Michigan,36.5,483751.0
-17.0,Overall Michigan Presidential Primaries Results,False,T. Cruz,Republican,2,100.0,Michigan,24.9,330015.0
-17.0,Overall Michigan Presidential Primaries Results,False,J. Kasich,Republican,3,100.0,Michigan,24.3,321655.0
-,Overall Michigan Presidential Primaries Results,False,M. Rubio,Republican,4,100.0,Michigan,9.3,123673.0
-,Overall Michigan Presidential Primaries Results,False,B. Carson,Republican,5,100.0,Michigan,1.6,21342.0
-,Overall Michigan Presidential Primaries Results,False,Uncommitted,Republican,6,100.0,Michigan,1.5,19842.0
-,Overall Michigan Presidential Primaries Results,False,J. Bush,Republican,7,100.0,Michigan,0.8,10670.0
-,Overall Michigan Presidential Primaries Results,False,R. Paul,Republican,8,100.0,Michigan,0.3,3776.0
-,Overall Michigan Presidential Primaries Results,False,C. Christie,Republican,9,100.0,Michigan,0.2,3121.0
-,Overall Michigan Presidential Primaries Results,False,M. Huckabee,Republican,10,100.0,Michigan,0.2,2606.0
-,Overall Michigan Presidential Primaries Results,False,R. Santorum,Republican,11,100.0,Michigan,0.1,1725.0
-,Overall Michigan Presidential Primaries Results,False,C. Fiorina,Republican,12,100.0,Michigan,0.1,1413.0
-,Overall Michigan Presidential Primaries Results,False,G. Pataki,Republican,13,100.0,Michigan,0.0,592.0
-,Overall Michigan Presidential Primaries Results,False,L. Graham,Republican,14,100.0,Michigan,0.0,440.0
-34.0,Overall Mississippi Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,Mississippi,82.6,182447.0
-7.0,Overall Mississippi Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,Mississippi,16.5,36348.0
-,Overall Mississippi Presidential Primaries Results,False,W. Wilson,Democratic,3,100.0,Mississippi,0.4,874.0
-,Overall Mississippi Presidential Primaries Results,False,M. O'Malley,Democratic,4,100.0,Mississippi,0.3,651.0
-,Overall Mississippi Presidential Primaries Results,False,R. De La Fuente,Democratic,5,100.0,Mississippi,0.2,470.0
-25.0,Overall Mississippi Presidential Primaries Results,True,D. Trump,Republican,1,100.0,Mississippi,47.3,191755.0
-15.0,Overall Mississippi Presidential Primaries Results,False,T. Cruz,Republican,2,100.0,Mississippi,36.3,147065.0
-,Overall Mississippi Presidential Primaries Results,False,J. Kasich,Republican,3,100.0,Mississippi,8.8,35817.0
-,Overall Mississippi Presidential Primaries Results,False,M. Rubio,Republican,4,100.0,Mississippi,5.1,20768.0
-,Overall Mississippi Presidential Primaries Results,False,B. Carson,Republican,5,100.0,Mississippi,1.3,5309.0
-,Overall Mississippi Presidential Primaries Results,False,J. Bush,Republican,6,100.0,Mississippi,0.4,1557.0
-,Overall Mississippi Presidential Primaries Results,False,M. Huckabee,Republican,7,100.0,Mississippi,0.3,1033.0
-,Overall Mississippi Presidential Primaries Results,False,R. Paul,Republican,8,100.0,Mississippi,0.2,622.0
-,Overall Mississippi Presidential Primaries Results,False,C. Christie,Republican,9,100.0,Mississippi,0.1,480.0
-,Overall Mississippi Presidential Primaries Results,False,R. Santorum,Republican,10,100.0,Mississippi,0.1,284.0
-,Overall Mississippi Presidential Primaries Results,False,C. Fiorina,Republican,11,100.0,Mississippi,0.1,222.0
-,Overall Mississippi Presidential Primaries Results,False,L. Graham,Republican,12,100.0,Mississippi,0.0,170.0
-,Overall Mississippi Presidential Primaries Results,False,G. Pataki,Republican,13,100.0,Mississippi,0.0,128.0
-47.0,Overall Missouri Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,Missouri,49.6,310602.0
-34.0,Overall Missouri Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,Missouri,49.4,309071.0
-,Overall Missouri Presidential Primaries Results,False,Uncommitted,Democratic,3,100.0,Missouri,0.6,3702.0
-,Overall Missouri Presidential Primaries Results,False,H. Hewes,Democratic,4,100.0,Missouri,0.1,648.0
-,Overall Missouri Presidential Primaries Results,False,M. O'Malley,Democratic,5,100.0,Missouri,0.1,441.0
-,Overall Missouri Presidential Primaries Results,False,J. Adams,Democratic,6,100.0,Missouri,0.1,433.0
-,Overall Missouri Presidential Primaries Results,False,R. De La Fuente,Democratic,7,100.0,Missouri,0.1,343.0
-,Overall Missouri Presidential Primaries Results,False,W. Wilson,Democratic,8,100.0,Missouri,0.0,307.0
-,Overall Missouri Presidential Primaries Results,False,K. Judd,Democratic,9,100.0,Missouri,0.0,283.0
-,Overall Missouri Presidential Primaries Results,False,J. Wolfe,Democratic,10,100.0,Missouri,0.0,247.0
-25.0,Overall Missouri Presidential Primaries Results,True,D. Trump,Republican,1,100.0,Missouri,40.9,382093.0
-5.0,Overall Missouri Presidential Primaries Results,False,T. Cruz,Republican,2,100.0,Missouri,40.7,380367.0
-,Overall Missouri Presidential Primaries Results,False,J. Kasich,Republican,3,100.0,Missouri,9.9,92533.0
-,Overall Missouri Presidential Primaries Results,False,M. Rubio,Republican,4,100.0,Missouri,6.1,57006.0
-,Overall Missouri Presidential Primaries Results,False,B. Carson,Republican,5,100.0,Missouri,0.9,8201.0
-,Overall Missouri Presidential Primaries Results,False,J. Bush,Republican,6,100.0,Missouri,0.4,3349.0
-,Overall Missouri Presidential Primaries Results,False,Uncommitted,Republican,7,100.0,Missouri,0.3,3216.0
-,Overall Missouri Presidential Primaries Results,False,M. Huckabee,Republican,8,100.0,Missouri,0.2,2137.0
-,Overall Missouri Presidential Primaries Results,False,R. Paul,Republican,9,100.0,Missouri,0.2,1771.0
-,Overall Missouri Presidential Primaries Results,False,C. Christie,Republican,10,100.0,Missouri,0.2,1677.0
-,Overall Missouri Presidential Primaries Results,False,R. Santorum,Republican,11,100.0,Missouri,0.1,729.0
-,Overall Missouri Presidential Primaries Results,False,C. Fiorina,Republican,12,100.0,Missouri,0.1,603.0
-,Overall Missouri Presidential Primaries Results,False,J. Lynch,Republican,13,100.0,Missouri,0.0,101.0
-12.0,Overall Montana Presidential Primaries Results,True,B. Sanders,Democratic,1,100.0,Montana,51.1,63168.0
-15.0,Overall Montana Presidential Primaries Results,False,H. Clinton,Democratic,2,100.0,Montana,44.6,55194.0
-,Overall Montana Presidential Primaries Results,False,No Preference,Democratic,3,100.0,Montana,4.3,5364.0
-27.0,Overall Montana Presidential Primaries Results,True,D. Trump,Republican,1,100.0,Montana,73.7,114056.0
-,Overall Montana Presidential Primaries Results,False,T. Cruz,Republican,2,100.0,Montana,9.4,14476.0
-,Overall Montana Presidential Primaries Results,False,J. Kasich,Republican,3,100.0,Montana,6.9,10622.0
-,Overall Montana Presidential Primaries Results,False,No Preference,Republican,4,100.0,Montana,4.7,7295.0
-,Overall Montana Presidential Primaries Results,False,M. Rubio,Republican,5,100.0,Montana,3.3,5113.0
-,Overall Montana Presidential Primaries Results,False,J. Bush,Republican,6,100.0,Montana,2.1,3248.0
-,Overall New Hampshire Presidential Primaries Results,True,B. Sanders,Democratic,1,100.0,New Hampshire,60.4,151584.0
-,Overall New Hampshire Presidential Primaries Results,False,H. Clinton,Democratic,2,100.0,New Hampshire,38.0,95252.0
-,Overall New Hampshire Presidential Primaries Results,False,Total Write-ins,Democratic,3,100.0,New Hampshire,0.9,2174.0
-,Overall New Hampshire Presidential Primaries Results,False,M. O'Malley,Democratic,4,100.0,New Hampshire,0.3,643.0
-,Overall New Hampshire Presidential Primaries Results,False,V. Supreme,Democratic,5,100.0,New Hampshire,0.1,260.0
-,Overall New Hampshire Presidential Primaries Results,False,D. Thistle,Democratic,6,100.0,New Hampshire,0.1,226.0
-,Overall New Hampshire Presidential Primaries Results,False,G. Schwass,Democratic,7,100.0,New Hampshire,0.0,125.0
-,Overall New Hampshire Presidential Primaries Results,False,S. Burke,Democratic,8,100.0,New Hampshire,0.0,106.0
-,Overall New Hampshire Presidential Primaries Results,False,R. De La Fuente,Democratic,9,100.0,New Hampshire,0.0,95.0
-,Overall New Hampshire Presidential Primaries Results,False,J. Wolfe,Democratic,10,100.0,New Hampshire,0.0,54.0
-,Overall New Hampshire Presidential Primaries Results,False,J. Adams,Democratic,11,100.0,New Hampshire,0.0,52.0
-,Overall New Hampshire Presidential Primaries Results,False,L. Kelso,Democratic,12,100.0,New Hampshire,0.0,47.0
-,Overall New Hampshire Presidential Primaries Results,False,K. Judd,Democratic,13,100.0,New Hampshire,0.0,43.0
-,Overall New Hampshire Presidential Primaries Results,False,E. Elbot,Democratic,14,100.0,New Hampshire,0.0,34.0
-,Overall New Hampshire Presidential Primaries Results,False,S. Locke,Democratic,15,100.0,New Hampshire,0.0,33.0
-,Overall New Hampshire Presidential Primaries Results,False,B. French,Democratic,16,100.0,New Hampshire,0.0,27.0
-,Overall New Hampshire Presidential Primaries Results,False,M. Greenstein,Democratic,17,100.0,New Hampshire,0.0,27.0
-,Overall New Hampshire Presidential Primaries Results,False,J. Valentine,Democratic,18,100.0,New Hampshire,0.0,25.0
-,Overall New Hampshire Presidential Primaries Results,False,E. O'Donnell,Democratic,19,100.0,New Hampshire,0.0,22.0
-,Overall New Hampshire Presidential Primaries Results,False,R. Lovitt,Democratic,20,100.0,New Hampshire,0.0,21.0
-,Overall New Hampshire Presidential Primaries Results,False,M. Steinberg,Democratic,21,100.0,New Hampshire,0.0,21.0
-,Overall New Hampshire Presidential Primaries Results,False,H. Hewes,Democratic,22,100.0,New Hampshire,0.0,18.0
-,Overall New Hampshire Presidential Primaries Results,False,B. McGaughey,Democratic,23,100.0,New Hampshire,0.0,17.0
-,Overall New Hampshire Presidential Primaries Results,False,E. Sonnino,Democratic,24,100.0,New Hampshire,0.0,17.0
-,Overall New Hampshire Presidential Primaries Results,False,S. Lipscomb,Democratic,25,100.0,New Hampshire,0.0,16.0
-,Overall New Hampshire Presidential Primaries Results,False,S. Sloan,Democratic,26,100.0,New Hampshire,0.0,15.0
-,Overall New Hampshire Presidential Primaries Results,False,B. Hutton,Democratic,27,100.0,New Hampshire,0.0,14.0
-,Overall New Hampshire Presidential Primaries Results,False,R. Moroz,Democratic,28,100.0,New Hampshire,0.0,8.0
-,Overall New Hampshire Presidential Primaries Results,False,R. Weil,Democratic,29,100.0,New Hampshire,0.0,7.0
-,Overall New Hampshire Presidential Primaries Results,True,D. Trump,Republican,1,100.0,New Hampshire,35.3,100406.0
-,Overall New Hampshire Presidential Primaries Results,False,J. Kasich,Republican,2,100.0,New Hampshire,15.8,44909.0
-,Overall New Hampshire Presidential Primaries Results,False,T. Cruz,Republican,3,100.0,New Hampshire,11.7,33189.0
-,Overall New Hampshire Presidential Primaries Results,False,J. Bush,Republican,4,100.0,New Hampshire,11.0,31310.0
-,Overall New Hampshire Presidential Primaries Results,False,M. Rubio,Republican,5,100.0,New Hampshire,10.6,30032.0
-,Overall New Hampshire Presidential Primaries Results,False,C. Christie,Republican,6,100.0,New Hampshire,7.4,21069.0
-,Overall New Hampshire Presidential Primaries Results,False,C. Fiorina,Republican,7,100.0,New Hampshire,4.1,11706.0
-,Overall New Hampshire Presidential Primaries Results,False,B. Carson,Republican,8,100.0,New Hampshire,2.3,6509.0
-,Overall New Hampshire Presidential Primaries Results,False,R. Paul,Republican,9,100.0,New Hampshire,0.7,1900.0
-,Overall New Hampshire Presidential Primaries Results,False,Total Write-ins,Republican,10,100.0,New Hampshire,0.6,1775.0
-,Overall New Hampshire Presidential Primaries Results,False,M. Huckabee,Republican,11,100.0,New Hampshire,0.1,215.0
-,Overall New Hampshire Presidential Primaries Results,False,A. Martin,Republican,12,100.0,New Hampshire,0.1,169.0
-,Overall New Hampshire Presidential Primaries Results,False,R. Santorum,Republican,13,100.0,New Hampshire,0.1,155.0
-,Overall New Hampshire Presidential Primaries Results,False,J. Gilmore,Republican,14,100.0,New Hampshire,0.0,133.0
-,Overall New Hampshire Presidential Primaries Results,False,R. Witz,Republican,15,100.0,New Hampshire,0.0,105.0
-,Overall New Hampshire Presidential Primaries Results,False,G. Pataki,Republican,16,100.0,New Hampshire,0.0,80.0
-,Overall New Hampshire Presidential Primaries Results,False,T. Cook,Republican,17,100.0,New Hampshire,0.0,77.0
-,Overall New Hampshire Presidential Primaries Results,False,L. Graham,Republican,18,100.0,New Hampshire,0.0,70.0
-,Overall New Hampshire Presidential Primaries Results,False,B. Jindal,Republican,19,100.0,New Hampshire,0.0,64.0
-,Overall New Hampshire Presidential Primaries Results,False,B. Cullison,Republican,20,100.0,New Hampshire,0.0,54.0
-,Overall New Hampshire Presidential Primaries Results,False,F. Lynch,Republican,21,100.0,New Hampshire,0.0,47.0
-,Overall New Hampshire Presidential Primaries Results,False,J. Robinson,Republican,22,100.0,New Hampshire,0.0,44.0
-,Overall New Hampshire Presidential Primaries Results,False,S. Comley,Republican,23,100.0,New Hampshire,0.0,31.0
-,Overall New Hampshire Presidential Primaries Results,False,D. Dyas,Republican,24,100.0,New Hampshire,0.0,14.0
-,Overall New Hampshire Presidential Primaries Results,False,C. Prag,Republican,25,100.0,New Hampshire,0.0,14.0
-,Overall New Hampshire Presidential Primaries Results,False,S. McCarthy,Republican,26,100.0,New Hampshire,0.0,12.0
-,Overall New Hampshire Presidential Primaries Results,False,W. Iwachiw,Republican,27,100.0,New Hampshire,0.0,9.0
-,Overall New Hampshire Presidential Primaries Results,False,K. Huey,Republican,28,100.0,New Hampshire,0.0,7.0
-,Overall New Hampshire Presidential Primaries Results,False,M. Drozd,Republican,29,100.0,New Hampshire,0.0,5.0
-,Overall New Hampshire Presidential Primaries Results,False,R. Mann,Republican,30,100.0,New Hampshire,0.0,5.0
-,Overall New Hampshire Presidential Primaries Results,False,P. Messina,Republican,31,100.0,New Hampshire,0.0,5.0
-85.0,Overall New Jersey Presidential Primaries Results,True,H. Clinton,Democratic,1,99.2,New Jersey,63.3,542927.0
-49.0,Overall New Jersey Presidential Primaries Results,False,B. Sanders,Democratic,2,99.2,New Jersey,36.7,315327.0
-51.0,Overall New Jersey Presidential Primaries Results,True,D. Trump,Republican,1,99.2,New Jersey,80.6,350973.0
-,Overall New Jersey Presidential Primaries Results,False,J. Kasich,Republican,2,99.2,New Jersey,13.3,57759.0
-,Overall New Jersey Presidential Primaries Results,False,T. Cruz,Republican,3,99.2,New Jersey,6.1,26753.0
-27.0,Overall New Mexico Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,New Mexico,51.5,110486.0
-16.0,Overall New Mexico Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,New Mexico,48.5,104006.0
-24.0,Overall New Mexico Presidential Primaries Results,True,D. Trump,Republican,1,100.0,New Mexico,70.7,73647.0
-,Overall New Mexico Presidential Primaries Results,False,T. Cruz,Republican,2,100.0,New Mexico,13.3,13839.0
-,Overall New Mexico Presidential Primaries Results,False,J. Kasich,Republican,3,100.0,New Mexico,7.6,7876.0
-,Overall New Mexico Presidential Primaries Results,False,B. Carson,Republican,4,100.0,New Mexico,3.7,3810.0
-,Overall New Mexico Presidential Primaries Results,False,J. Bush,Republican,5,100.0,New Mexico,3.4,3497.0
-,Overall New Mexico Presidential Primaries Results,False,C. Fiorina,Republican,6,100.0,New Mexico,1.4,1506.0
-181.0,Overall New York Presidential Primaries Results,True,H. Clinton,Democratic,1,99.6,New York,58.0,1054083.0
-108.0,Overall New York Presidential Primaries Results,False,B. Sanders,Democratic,2,99.6,New York,42.0,763469.0
-89.0,Overall New York Presidential Primaries Results,True,D. Trump,Republican,1,99.3,New York,60.4,524932.0
-6.0,Overall New York Presidential Primaries Results,False,J. Kasich,Republican,2,99.3,New York,25.1,217904.0
-,Overall New York Presidential Primaries Results,False,T. Cruz,Republican,3,99.3,New York,14.5,126151.0
-,Overall New York Presidential Primaries Results,False,B. Carson,Republican,4,99.3,New York,0.0,0.0
-71.0,Overall North Carolina Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,North Carolina,54.6,616383.0
-49.0,Overall North Carolina Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,North Carolina,40.8,460316.0
-,Overall North Carolina Presidential Primaries Results,False,No Preference,Democratic,3,100.0,North Carolina,3.3,37185.0
-,Overall North Carolina Presidential Primaries Results,False,M. O'Malley,Democratic,4,100.0,North Carolina,1.1,12007.0
-,Overall North Carolina Presidential Primaries Results,False,R. De La Fuente,Democratic,5,100.0,North Carolina,0.3,3350.0
-29.0,Overall North Carolina Presidential Primaries Results,True,D. Trump,Republican,1,100.0,North Carolina,40.2,458151.0
-27.0,Overall North Carolina Presidential Primaries Results,False,T. Cruz,Republican,2,100.0,North Carolina,36.8,418740.0
-9.0,Overall North Carolina Presidential Primaries Results,False,J. Kasich,Republican,3,100.0,North Carolina,12.7,144299.0
-6.0,Overall North Carolina Presidential Primaries Results,False,M. Rubio,Republican,4,100.0,North Carolina,7.7,87858.0
-1.0,Overall North Carolina Presidential Primaries Results,False,B. Carson,Republican,5,100.0,North Carolina,1.0,10913.0
-,Overall North Carolina Presidential Primaries Results,False,No Preference,Republican,6,100.0,North Carolina,0.5,6019.0
-,Overall North Carolina Presidential Primaries Results,False,J. Bush,Republican,7,100.0,North Carolina,0.3,3841.0
-,Overall North Carolina Presidential Primaries Results,False,M. Huckabee,Republican,8,100.0,North Carolina,0.3,3076.0
-,Overall North Carolina Presidential Primaries Results,False,R. Paul,Republican,9,100.0,North Carolina,0.2,2708.0
-,Overall North Carolina Presidential Primaries Results,False,C. Christie,Republican,10,100.0,North Carolina,0.1,1244.0
-,Overall North Carolina Presidential Primaries Results,False,C. Fiorina,Republican,11,100.0,North Carolina,0.1,944.0
-,Overall North Carolina Presidential Primaries Results,False,R. Santorum,Republican,12,100.0,North Carolina,0.1,655.0
-,Overall North Carolina Presidential Primaries Results,False,J. Gilmore,Republican,13,100.0,North Carolina,0.0,270.0
-96.0,Overall Ohio Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,Ohio,56.5,679266.0
-63.0,Overall Ohio Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,Ohio,42.7,513549.0
-,Overall Ohio Presidential Primaries Results,False,R. De La Fuente,Democratic,3,100.0,Ohio,0.8,9348.0
-66.0,Overall Ohio Presidential Primaries Results,True,J. Kasich,Republican,1,100.0,Ohio,46.8,956762.0
-,Overall Ohio Presidential Primaries Results,False,D. Trump,Republican,2,100.0,Ohio,35.6,727585.0
-,Overall Ohio Presidential Primaries Results,False,T. Cruz,Republican,3,100.0,Ohio,13.1,267592.0
-,Overall Ohio Presidential Primaries Results,False,M. Rubio,Republican,4,100.0,Ohio,2.9,59418.0
-,Overall Ohio Presidential Primaries Results,False,B. Carson,Republican,5,100.0,Ohio,0.7,14883.0
-,Overall Ohio Presidential Primaries Results,False,J. Bush,Republican,6,100.0,Ohio,0.3,5572.0
-,Overall Ohio Presidential Primaries Results,False,M. Huckabee,Republican,7,100.0,Ohio,0.2,4980.0
-,Overall Ohio Presidential Primaries Results,False,C. Christie,Republican,8,100.0,Ohio,0.1,2586.0
-,Overall Ohio Presidential Primaries Results,False,C. Fiorina,Republican,9,100.0,Ohio,0.1,2287.0
-,Overall Ohio Presidential Primaries Results,False,R. Santorum,Republican,10,100.0,Ohio,0.1,1378.0
-,Overall Oklahoma Presidential Primaries Results,True,B. Sanders,Democratic,1,100.0,Oklahoma,51.9,174054.0
-,Overall Oklahoma Presidential Primaries Results,False,H. Clinton,Democratic,2,100.0,Oklahoma,41.5,139338.0
-,Overall Oklahoma Presidential Primaries Results,False,M. O'Malley,Democratic,3,100.0,Oklahoma,2.3,7669.0
-,Overall Oklahoma Presidential Primaries Results,False,K. Judd,Democratic,4,100.0,Oklahoma,1.3,4385.0
-,Overall Oklahoma Presidential Primaries Results,False,M. Steinberg,Democratic,5,100.0,Oklahoma,1.2,4167.0
-,Overall Oklahoma Presidential Primaries Results,False,S. Locke,Democratic,6,100.0,Oklahoma,1.0,3456.0
-,Overall Oklahoma Presidential Primaries Results,False,R. De La Fuente,Democratic,7,100.0,Oklahoma,0.7,2485.0
-,Overall Oklahoma Presidential Primaries Results,True,T. Cruz,Republican,1,100.0,Oklahoma,34.4,157941.0
-,Overall Oklahoma Presidential Primaries Results,False,D. Trump,Republican,2,100.0,Oklahoma,28.3,130141.0
-,Overall Oklahoma Presidential Primaries Results,False,M. Rubio,Republican,3,100.0,Oklahoma,26.0,119562.0
-,Overall Oklahoma Presidential Primaries Results,False,B. Carson,Republican,4,100.0,Oklahoma,6.2,28572.0
-,Overall Oklahoma Presidential Primaries Results,False,J. Kasich,Republican,5,100.0,Oklahoma,3.6,16515.0
-,Overall Oklahoma Presidential Primaries Results,False,J. Bush,Republican,6,100.0,Oklahoma,0.5,2089.0
-,Overall Oklahoma Presidential Primaries Results,False,R. Paul,Republican,7,100.0,Oklahoma,0.4,1662.0
-,Overall Oklahoma Presidential Primaries Results,False,M. Huckabee,Republican,8,100.0,Oklahoma,0.3,1306.0
-,Overall Oklahoma Presidential Primaries Results,False,C. Fiorina,Republican,9,100.0,Oklahoma,0.1,610.0
-,Overall Oklahoma Presidential Primaries Results,False,C. Christie,Republican,10,100.0,Oklahoma,0.1,545.0
-,Overall Oklahoma Presidential Primaries Results,False,R. Santorum,Republican,11,100.0,Oklahoma,0.1,375.0
-,Overall Oklahoma Presidential Primaries Results,False,L. Graham,Republican,12,100.0,Oklahoma,0.0,224.0
-39.0,Overall Oregon Presidential Primaries Results,True,B. Sanders,Democratic,1,95.5,Oregon,56.0,320746.0
-34.0,Overall Oregon Presidential Primaries Results,False,H. Clinton,Democratic,2,95.5,Oregon,44.0,251739.0
-18.0,Overall Oregon Presidential Primaries Results,True,D. Trump,Republican,1,93.3,Oregon,66.6,240804.0
-5.0,Overall Oregon Presidential Primaries Results,False,T. Cruz,Republican,2,93.3,Oregon,17.0,61590.0
-5.0,Overall Oregon Presidential Primaries Results,False,J. Kasich,Republican,3,93.3,Oregon,16.3,59096.0
-125.0,Overall Pennsylvania Presidential Primaries Results,True,H. Clinton,Democratic,1,99.5,Pennsylvania,55.6,918689.0
-83.0,Overall Pennsylvania Presidential Primaries Results,False,B. Sanders,Democratic,2,99.5,Pennsylvania,43.6,719955.0
-,Overall Pennsylvania Presidential Primaries Results,False,R. De La Fuente,Democratic,3,99.5,Pennsylvania,0.9,14303.0
-64.0,Overall Pennsylvania Presidential Primaries Results,True,D. Trump,Republican,1,99.5,Pennsylvania,56.7,892702.0
-4.0,Overall Pennsylvania Presidential Primaries Results,False,T. Cruz,Republican,2,99.5,Pennsylvania,21.6,340201.0
-,Overall Pennsylvania Presidential Primaries Results,False,J. Kasich,Republican,3,99.5,Pennsylvania,19.4,304793.0
-,Overall Pennsylvania Presidential Primaries Results,False,B. Carson,Republican,4,99.5,Pennsylvania,0.9,14616.0
-,Overall Pennsylvania Presidential Primaries Results,False,M. Rubio,Republican,5,99.5,Pennsylvania,0.7,11739.0
-,Overall Pennsylvania Presidential Primaries Results,False,J. Bush,Republican,6,99.5,Pennsylvania,0.6,9287.0
-,Overall Rhode Island Presidential Primaries Results,True,B. Sanders,Democratic,1,100.0,Rhode Island,54.6,68761.0
-,Overall Rhode Island Presidential Primaries Results,False,H. Clinton,Democratic,2,100.0,Rhode Island,43.6,54887.0
-,Overall Rhode Island Presidential Primaries Results,False,Uncommitted,Democratic,3,100.0,Rhode Island,1.4,1773.0
-,Overall Rhode Island Presidential Primaries Results,False,M. Stewart,Democratic,4,100.0,Rhode Island,0.2,270.0
-,Overall Rhode Island Presidential Primaries Results,False,R. De La Fuente,Democratic,5,100.0,Rhode Island,0.1,155.0
-,Overall Rhode Island Presidential Primaries Results,True,D. Trump,Republican,1,100.0,Rhode Island,63.6,40020.0
-,Overall Rhode Island Presidential Primaries Results,False,J. Kasich,Republican,2,100.0,Rhode Island,24.5,15400.0
-,Overall Rhode Island Presidential Primaries Results,False,T. Cruz,Republican,3,100.0,Rhode Island,10.6,6679.0
-,Overall Rhode Island Presidential Primaries Results,False,Uncommitted,Republican,4,100.0,Rhode Island,0.7,462.0
-,Overall Rhode Island Presidential Primaries Results,False,M. Rubio,Republican,5,100.0,Rhode Island,0.6,404.0
-45.0,Overall South Carolina Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,South Carolina,73.5,271514.0
-14.0,Overall South Carolina Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,South Carolina,26.0,95977.0
-,Overall South Carolina Presidential Primaries Results,False,W. Wilson,Democratic,3,100.0,South Carolina,0.4,1321.0
-,Overall South Carolina Presidential Primaries Results,False,M. O'Malley,Democratic,4,100.0,South Carolina,0.2,714.0
-50.0,Overall South Carolina Presidential Primaries Results,True,D. Trump,Republican,1,100.0,South Carolina,32.5,239851.0
-,Overall South Carolina Presidential Primaries Results,False,M. Rubio,Republican,2,100.0,South Carolina,22.5,165881.0
-,Overall South Carolina Presidential Primaries Results,False,T. Cruz,Republican,3,100.0,South Carolina,22.3,164790.0
-,Overall South Carolina Presidential Primaries Results,False,J. Bush,Republican,4,100.0,South Carolina,7.8,57863.0
-,Overall South Carolina Presidential Primaries Results,False,J. Kasich,Republican,5,100.0,South Carolina,7.6,56206.0
-,Overall South Carolina Presidential Primaries Results,False,B. Carson,Republican,6,100.0,South Carolina,7.2,53326.0
-15.0,Overall South Dakota Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,South Dakota,51.0,27046.0
-10.0,Overall South Dakota Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,South Dakota,49.0,25958.0
-29.0,Overall South Dakota Presidential Primaries Results,True,D. Trump,Republican,1,100.0,South Dakota,67.1,44866.0
-,Overall South Dakota Presidential Primaries Results,False,T. Cruz,Republican,2,100.0,South Dakota,17.0,11353.0
-,Overall South Dakota Presidential Primaries Results,False,J. Kasich,Republican,3,100.0,South Dakota,15.9,10659.0
-49.0,Overall Tennessee Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,Tennessee,66.1,245304.0
-22.0,Overall Tennessee Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,Tennessee,32.4,120333.0
-1.0,Overall Tennessee Presidential Primaries Results,False,Uncommitted,Democratic,3,100.0,Tennessee,0.9,3433.0
-,Overall Tennessee Presidential Primaries Results,False,M. O'Malley,Democratic,4,100.0,Tennessee,0.5,2012.0
-31.0,Overall Tennessee Presidential Primaries Results,True,D. Trump,Republican,1,100.0,Tennessee,38.9,332702.0
-14.0,Overall Tennessee Presidential Primaries Results,False,T. Cruz,Republican,2,100.0,Tennessee,24.7,211159.0
-9.0,Overall Tennessee Presidential Primaries Results,False,M. Rubio,Republican,3,100.0,Tennessee,21.2,180989.0
-,Overall Tennessee Presidential Primaries Results,False,B. Carson,Republican,4,100.0,Tennessee,7.6,64846.0
-,Overall Tennessee Presidential Primaries Results,False,J. Kasich,Republican,5,100.0,Tennessee,5.3,45243.0
-,Overall Tennessee Presidential Primaries Results,False,J. Bush,Republican,6,100.0,Tennessee,1.1,9543.0
-,Overall Tennessee Presidential Primaries Results,False,M. Huckabee,Republican,7,100.0,Tennessee,0.3,2404.0
-,Overall Tennessee Presidential Primaries Results,False,R. Paul,Republican,8,100.0,Tennessee,0.3,2336.0
-,Overall Tennessee Presidential Primaries Results,False,Uncommitted,Republican,9,100.0,Tennessee,0.2,1837.0
-,Overall Tennessee Presidential Primaries Results,False,C. Christie,Republican,10,100.0,Tennessee,0.1,1249.0
-,Overall Tennessee Presidential Primaries Results,False,C. Fiorina,Republican,11,100.0,Tennessee,0.1,713.0
-,Overall Tennessee Presidential Primaries Results,False,R. Santorum,Republican,12,100.0,Tennessee,0.1,710.0
-,Overall Tennessee Presidential Primaries Results,False,J. Gilmore,Republican,13,100.0,Tennessee,0.0,270.0
-,Overall Tennessee Presidential Primaries Results,False,L. Graham,Republican,14,100.0,Tennessee,0.0,256.0
-,Overall Tennessee Presidential Primaries Results,False,G. Pataki,Republican,15,100.0,Tennessee,0.0,188.0
-170.0,Overall Texas Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,Texas,65.2,935080.0
-75.0,Overall Texas Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,Texas,33.2,475561.0
-,Overall Texas Presidential Primaries Results,False,R. De La Fuente,Democratic,3,100.0,Texas,0.6,8425.0
-,Overall Texas Presidential Primaries Results,False,M. O'Malley,Democratic,4,100.0,Texas,0.4,5337.0
-,Overall Texas Presidential Primaries Results,False,W. Wilson,Democratic,5,100.0,Texas,0.2,3251.0
-,Overall Texas Presidential Primaries Results,False,K. Judd,Democratic,6,100.0,Texas,0.2,2505.0
-,Overall Texas Presidential Primaries Results,False,C. Hawes,Democratic,7,100.0,Texas,0.1,2016.0
-,Overall Texas Presidential Primaries Results,False,S. Locke,Democratic,8,100.0,Texas,0.1,1733.0
-104.0,Overall Texas Presidential Primaries Results,True,T. Cruz,Republican,1,100.0,Texas,43.8,1239370.0
-48.0,Overall Texas Presidential Primaries Results,False,D. Trump,Republican,2,100.0,Texas,26.7,757618.0
-3.0,Overall Texas Presidential Primaries Results,False,M. Rubio,Republican,3,100.0,Texas,17.7,502223.0
-,Overall Texas Presidential Primaries Results,False,J. Kasich,Republican,4,100.0,Texas,4.2,120257.0
-,Overall Texas Presidential Primaries Results,False,B. Carson,Republican,5,100.0,Texas,4.2,117780.0
-,Overall Texas Presidential Primaries Results,False,J. Bush,Republican,6,100.0,Texas,1.3,35418.0
-,Overall Texas Presidential Primaries Results,False,Uncommitted,Republican,7,100.0,Texas,1.0,29515.0
-,Overall Texas Presidential Primaries Results,False,R. Paul,Republican,8,100.0,Texas,0.3,7969.0
-,Overall Texas Presidential Primaries Results,False,M. Huckabee,Republican,9,100.0,Texas,0.2,6213.0
-,Overall Texas Presidential Primaries Results,False,E. Gray,Republican,10,100.0,Texas,0.2,5455.0
-,Overall Texas Presidential Primaries Results,False,C. Christie,Republican,11,100.0,Texas,0.1,3461.0
-,Overall Texas Presidential Primaries Results,False,C. Fiorina,Republican,12,100.0,Texas,0.1,3243.0
-,Overall Texas Presidential Primaries Results,False,R. Santorum,Republican,13,100.0,Texas,0.1,2004.0
-,Overall Texas Presidential Primaries Results,False,L. Graham,Republican,14,100.0,Texas,0.1,1708.0
-22.0,Overall Vermont Presidential Primaries Results,True,B. Sanders,Democratic,1,100.0,Vermont,86.1,115863.0
-4.0,Overall Vermont Presidential Primaries Results,False,H. Clinton,Democratic,2,100.0,Vermont,13.6,18335.0
-,Overall Vermont Presidential Primaries Results,False,M. O'Malley,Democratic,3,100.0,Vermont,0.2,279.0
-,Overall Vermont Presidential Primaries Results,False,R. De La Fuente,Democratic,4,100.0,Vermont,0.1,94.0
-6.0,Overall Vermont Presidential Primaries Results,True,D. Trump,Republican,1,100.0,Vermont,32.7,19968.0
-6.0,Overall Vermont Presidential Primaries Results,False,J. Kasich,Republican,2,100.0,Vermont,30.4,18543.0
-,Overall Vermont Presidential Primaries Results,False,M. Rubio,Republican,3,100.0,Vermont,19.3,11778.0
-,Overall Vermont Presidential Primaries Results,False,T. Cruz,Republican,4,100.0,Vermont,9.7,5929.0
-,Overall Vermont Presidential Primaries Results,False,B. Carson,Republican,5,100.0,Vermont,4.2,2544.0
-,Overall Vermont Presidential Primaries Results,False,J. Bush,Republican,6,100.0,Vermont,1.8,1101.0
-,Overall Vermont Presidential Primaries Results,False,R. Paul,Republican,7,100.0,Vermont,0.7,415.0
-,Overall Vermont Presidential Primaries Results,False,C. Christie,Republican,8,100.0,Vermont,0.6,361.0
-,Overall Vermont Presidential Primaries Results,False,C. Fiorina,Republican,9,100.0,Vermont,0.3,211.0
-,Overall Vermont Presidential Primaries Results,False,R. Santorum,Republican,10,100.0,Vermont,0.3,163.0
-73.0,Overall Virginia Presidential Primaries Results,True,H. Clinton,Democratic,1,100.0,Virginia,64.3,503358.0
-32.0,Overall Virginia Presidential Primaries Results,False,B. Sanders,Democratic,2,100.0,Virginia,35.2,275507.0
-,Overall Virginia Presidential Primaries Results,False,M. O'Malley,Democratic,3,100.0,Virginia,0.5,4030.0
-17.0,Overall Virginia Presidential Primaries Results,True,D. Trump,Republican,1,100.0,Virginia,34.7,355960.0
-16.0,Overall Virginia Presidential Primaries Results,False,M. Rubio,Republican,2,100.0,Virginia,31.9,327042.0
-8.0,Overall Virginia Presidential Primaries Results,False,T. Cruz,Republican,3,100.0,Virginia,16.9,173193.0
-5.0,Overall Virginia Presidential Primaries Results,False,J. Kasich,Republican,4,100.0,Virginia,9.4,96519.0
-3.0,Overall Virginia Presidential Primaries Results,False,B. Carson,Republican,5,100.0,Virginia,5.9,60093.0
-,Overall Virginia Presidential Primaries Results,False,J. Bush,Republican,6,100.0,Virginia,0.4,3606.0
-,Overall Virginia Presidential Primaries Results,False,R. Paul,Republican,7,100.0,Virginia,0.3,2935.0
-,Overall Virginia Presidential Primaries Results,False,M. Huckabee,Republican,8,100.0,Virginia,0.1,1491.0
-,Overall Virginia Presidential Primaries Results,False,C. Christie,Republican,9,100.0,Virginia,0.1,1098.0
-,Overall Virginia Presidential Primaries Results,False,C. Fiorina,Republican,10,100.0,Virginia,0.1,912.0
-,Overall Virginia Presidential Primaries Results,False,J. Gilmore,Republican,11,100.0,Virginia,0.1,881.0
-,Overall Virginia Presidential Primaries Results,False,R. Santorum,Republican,12,100.0,Virginia,0.1,728.0
-,Overall Virginia Presidential Primaries Results,False,L. Graham,Republican,13,100.0,Virginia,0.0,455.0
-19.0,Overall West Virginia Presidential Primaries Results,True,B. Sanders,Democratic,1,100.0,West Virginia,51.4,123860.0
-18.0,Overall West Virginia Presidential Primaries Results,False,H. Clinton,Democratic,2,100.0,West Virginia,35.8,86354.0
-,Overall West Virginia Presidential Primaries Results,False,P. Farrell,Democratic,3,100.0,West Virginia,8.9,21559.0
-,Overall West Virginia Presidential Primaries Results,False,K. Judd,Democratic,4,100.0,West Virginia,1.8,4452.0
-,Overall West Virginia Presidential Primaries Results,False,M. O'Malley,Democratic,5,100.0,West Virginia,1.6,3781.0
-,Overall West Virginia Presidential Primaries Results,False,R. De La Fuente,Democratic,6,100.0,West Virginia,0.4,1010.0
-32.0,Overall West Virginia Presidential Primaries Results,True,D. Trump,Republican,1,100.0,West Virginia,77.0,156245.0
-,Overall West Virginia Presidential Primaries Results,False,T. Cruz,Republican,2,100.0,West Virginia,9.0,18208.0
-1.0,Overall West Virginia Presidential Primaries Results,False,J. Kasich,Republican,3,100.0,West Virginia,6.7,13685.0
-,Overall West Virginia Presidential Primaries Results,False,B. Carson,Republican,4,100.0,West Virginia,2.2,4397.0
-,Overall West Virginia Presidential Primaries Results,False,M. Rubio,Republican,5,100.0,West Virginia,1.4,2895.0
-,Overall West Virginia Presidential Primaries Results,False,J. Bush,Republican,6,100.0,West Virginia,1.1,2298.0
-,Overall West Virginia Presidential Primaries Results,False,R. Paul,Republican,7,100.0,West Virginia,0.9,1789.0
-,Overall West Virginia Presidential Primaries Results,False,M. Huckabee,Republican,8,100.0,West Virginia,0.9,1770.0
-,Overall West Virginia Presidential Primaries Results,False,C. Christie,Republican,9,100.0,West Virginia,0.4,723.0
-,Overall West Virginia Presidential Primaries Results,False,C. Fiorina,Republican,10,100.0,West Virginia,0.3,658.0
-,Overall West Virginia Presidential Primaries Results,False,D. Hall,Republican,11,100.0,West Virginia,0.1,212.0
-49.0,Overall Wisconsin Presidential Primaries Results,True,B. Sanders,Democratic,1,100.0,Wisconsin,56.6,567936.0
-47.0,Overall Wisconsin Presidential Primaries Results,False,H. Clinton,Democratic,2,100.0,Wisconsin,43.1,432767.0
-,Overall Wisconsin Presidential Primaries Results,False,M. O'Malley,Democratic,3,100.0,Wisconsin,0.2,1765.0
-,Overall Wisconsin Presidential Primaries Results,False,Uninstructed,Democratic,4,100.0,Wisconsin,0.1,1436.0
-36.0,Overall Wisconsin Presidential Primaries Results,True,T. Cruz,Republican,1,100.0,Wisconsin,48.2,531129.0
-6.0,Overall Wisconsin Presidential Primaries Results,False,D. Trump,Republican,2,100.0,Wisconsin,35.1,386370.0
-,Overall Wisconsin Presidential Primaries Results,False,J. Kasich,Republican,3,100.0,Wisconsin,14.1,155200.0
-,Overall Wisconsin Presidential Primaries Results,False,M. Rubio,Republican,4,100.0,Wisconsin,1.0,10569.0
-,Overall Wisconsin Presidential Primaries Results,False,B. Carson,Republican,5,100.0,Wisconsin,0.5,5608.0
-,Overall Wisconsin Presidential Primaries Results,False,J. Bush,Republican,6,100.0,Wisconsin,0.3,3153.0
-,Overall Wisconsin Presidential Primaries Results,False,R. Paul,Republican,7,100.0,Wisconsin,0.2,2491.0
-,Overall Wisconsin Presidential Primaries Results,False,Uninstructed,Republican,8,100.0,Wisconsin,0.2,2288.0
-,Overall Wisconsin Presidential Primaries Results,False,M. Huckabee,Republican,9,100.0,Wisconsin,0.1,1428.0
-,Overall Wisconsin Presidential Primaries Results,False,C. Christie,Republican,10,100.0,Wisconsin,0.1,1310.0
-,Overall Wisconsin Presidential Primaries Results,False,C. Fiorina,Republican,11,100.0,Wisconsin,0.1,825.0
-,Overall Wisconsin Presidential Primaries Results,False,R. Santorum,Republican,12,100.0,Wisconsin,0.0,510.0
-,Overall Wisconsin Presidential Primaries Results,False,J. Gilmore,Republican,13,100.0,Wisconsin,0.0,242.0
-14.0,Overall Alaska Presidential Caucuses Results,True,B. Sanders,Democratic,1,100.0,Alaska,81.6,440.0
-4.0,Overall Alaska Presidential Caucuses Results,False,H. Clinton,Democratic,2,100.0,Alaska,18.4,99.0
-,Overall Alaska Presidential Caucuses Results,False,R. De La Fuente,Democratic,3,100.0,Alaska,0.0,0.0
-2.0,Overall Alaska Presidential Caucuses Results,False,Uncommitted,Democratic,4,100.0,Alaska,0.0,0.0
-12.0,Overall Alaska Presidential Caucuses Results,True,T. Cruz,Republican,1,100.0,Alaska,36.4,7973.0
-11.0,Overall Alaska Presidential Caucuses Results,False,D. Trump,Republican,2,100.0,Alaska,33.5,7346.0
-5.0,Overall Alaska Presidential Caucuses Results,False,M. Rubio,Republican,3,100.0,Alaska,15.1,3318.0
-,Overall Alaska Presidential Caucuses Results,False,B. Carson,Republican,4,100.0,Alaska,10.9,2401.0
-,Overall Alaska Presidential Caucuses Results,False,J. Kasich,Republican,5,100.0,Alaska,4.1,892.0
-,Overall Alaska Presidential Caucuses Results,False,Uncommitted,Republican,6,100.0,Alaska,0.0,0.0
-20.0,Overall Hawaii Presidential Caucuses Results,True,B. Sanders,Democratic,1,100.0,Hawaii,69.8,23530.0
-12.0,Overall Hawaii Presidential Caucuses Results,False,H. Clinton,Democratic,2,100.0,Hawaii,30.0,10125.0
-2.0,Overall Hawaii Presidential Caucuses Results,False,Uncommitted,Democratic,3,100.0,Hawaii,0.1,43.0
-,Overall Hawaii Presidential Caucuses Results,False,R. De La Fuente,Democratic,4,100.0,Hawaii,0.0,12.0
-,Overall Hawaii Presidential Caucuses Results,False,M. O'Malley,Democratic,5,100.0,Hawaii,0.0,6.0
-10.0,Overall Hawaii Presidential Caucuses Results,True,D. Trump,Republican,1,100.0,Hawaii,42.4,5677.0
-6.0,Overall Hawaii Presidential Caucuses Results,False,T. Cruz,Republican,2,100.0,Hawaii,32.7,4379.0
-,Overall Hawaii Presidential Caucuses Results,False,M. Rubio,Republican,3,100.0,Hawaii,13.1,1759.0
-,Overall Hawaii Presidential Caucuses Results,False,J. Kasich,Republican,4,100.0,Hawaii,10.6,1413.0
-,Overall Hawaii Presidential Caucuses Results,False,B. Carson,Republican,5,100.0,Hawaii,0.9,127.0
-,Overall Hawaii Presidential Caucuses Results,False,J. Bush,Republican,6,100.0,Hawaii,0.2,22.0
-29.0,Overall Iowa Presidential Caucuses Results,,H. Clinton,Democratic,1,100.0,Iowa,49.9,701.0
-21.0,Overall Iowa Presidential Caucuses Results,,B. Sanders,Democratic,2,100.0,Iowa,49.6,697.0
-,Overall Iowa Presidential Caucuses Results,,M. O'Malley,Democratic,3,100.0,Iowa,0.6,8.0
-,Overall Iowa Presidential Caucuses Results,,Other,Democratic,4,100.0,Iowa,0.0,0.0
-1.0,Overall Iowa Presidential Caucuses Results,,Uncommitted,Democratic,5,100.0,Iowa,0.0,0.0
-8.0,Overall Iowa Presidential Caucuses Results,True,T. Cruz,Republican,1,100.0,Iowa,27.6,51666.0
-7.0,Overall Iowa Presidential Caucuses Results,False,D. Trump,Republican,2,100.0,Iowa,24.3,45427.0
-7.0,Overall Iowa Presidential Caucuses Results,False,M. Rubio,Republican,3,100.0,Iowa,23.1,43165.0
-3.0,Overall Iowa Presidential Caucuses Results,False,B. Carson,Republican,4,100.0,Iowa,9.3,17395.0
-1.0,Overall Iowa Presidential Caucuses Results,False,R. Paul,Republican,5,100.0,Iowa,4.5,8481.0
-1.0,Overall Iowa Presidential Caucuses Results,False,J. Bush,Republican,6,100.0,Iowa,2.8,5238.0
-1.0,Overall Iowa Presidential Caucuses Results,False,C. Fiorina,Republican,7,100.0,Iowa,1.9,3485.0
-1.0,Overall Iowa Presidential Caucuses Results,False,J. Kasich,Republican,8,100.0,Iowa,1.9,3474.0
-1.0,Overall Iowa Presidential Caucuses Results,False,M. Huckabee,Republican,9,100.0,Iowa,1.8,3345.0
-,Overall Iowa Presidential Caucuses Results,False,C. Christie,Republican,10,100.0,Iowa,1.8,3284.0
-,Overall Iowa Presidential Caucuses Results,False,R. Santorum,Republican,11,100.0,Iowa,1.0,1783.0
-,Overall Iowa Presidential Caucuses Results,False,Other,Republican,12,100.0,Iowa,0.1,119.0
-,Overall Iowa Presidential Caucuses Results,False,J. Gilmore,Republican,13,100.0,Iowa,0.0,12.0
-23.0,Overall Kansas Presidential Caucuses Results,True,B. Sanders,Democratic,1,100.0,Kansas,67.7,26450.0
-14.0,Overall Kansas Presidential Caucuses Results,False,H. Clinton,Democratic,2,100.0,Kansas,32.3,12593.0
-,Overall Kansas Presidential Caucuses Results,False,R. De La Fuente,Democratic,3,100.0,Kansas,0.0,0.0
-,Overall Kansas Presidential Caucuses Results,False,M. O'Malley,Democratic,4,100.0,Kansas,0.0,0.0
-,Overall Kansas Presidential Caucuses Results,False,Uncommitted,Democratic,5,100.0,Kansas,0.0,0.0
-24.0,Overall Kansas Presidential Caucuses Results,True,T. Cruz,Republican,1,100.0,Kansas,48.2,35207.0
-9.0,Overall Kansas Presidential Caucuses Results,False,D. Trump,Republican,2,100.0,Kansas,23.3,17062.0
-6.0,Overall Kansas Presidential Caucuses Results,False,M. Rubio,Republican,3,100.0,Kansas,16.7,12189.0
-1.0,Overall Kansas Presidential Caucuses Results,False,J. Kasich,Republican,4,100.0,Kansas,10.7,7795.0
-,Overall Kansas Presidential Caucuses Results,False,B. Carson,Republican,5,100.0,Kansas,0.7,511.0
-,Overall Kansas Presidential Caucuses Results,False,Uncommitted,Republican,6,100.0,Kansas,0.3,242.0
-,Overall Kansas Presidential Caucuses Results,False,J. Bush,Republican,7,100.0,Kansas,0.1,78.0
-,Overall Kansas Presidential Caucuses Results,False,C. Fiorina,Republican,8,100.0,Kansas,0.0,32.0
-16.0,Overall Maine Presidential Caucuses Results,True,B. Sanders,Democratic,1,91.1,Maine,64.3,2231.0
-11.0,Overall Maine Presidential Caucuses Results,False,H. Clinton,Democratic,2,91.1,Maine,35.5,1232.0
-,Overall Maine Presidential Caucuses Results,False,Uncommitted,Democratic,3,91.1,Maine,0.2,7.0
-,Overall Maine Presidential Caucuses Results,False,Other,Democratic,4,91.1,Maine,0.0,0.0
-12.0,Overall Maine Presidential Caucuses Results,True,T. Cruz,Republican,1,100.0,Maine,45.9,8550.0
-9.0,Overall Maine Presidential Caucuses Results,False,D. Trump,Republican,2,100.0,Maine,32.6,6070.0
-2.0,Overall Maine Presidential Caucuses Results,False,J. Kasich,Republican,3,100.0,Maine,12.2,2270.0
-,Overall Maine Presidential Caucuses Results,False,M. Rubio,Republican,4,100.0,Maine,8.0,1492.0
-,Overall Maine Presidential Caucuses Results,False,B. Carson,Republican,5,100.0,Maine,0.7,132.0
-,Overall Maine Presidential Caucuses Results,False,R. Paul,Republican,6,100.0,Maine,0.3,55.0
-,Overall Maine Presidential Caucuses Results,False,J. Bush,Republican,7,100.0,Maine,0.2,31.0
-,Overall Maine Presidential Caucuses Results,False,C. Fiorina,Republican,8,100.0,Maine,0.1,17.0
-,Overall Maine Presidential Caucuses Results,False,M. Huckabee,Republican,9,100.0,Maine,0.1,10.0
-,Overall Maine Presidential Caucuses Results,False,C. Christie,Republican,10,100.0,Maine,0.0,0.0
-49.0,Overall Minnesota Presidential Caucuses Results,True,B. Sanders,Democratic,1,89.8,Minnesota,61.6,118135.0
-40.0,Overall Minnesota Presidential Caucuses Results,False,H. Clinton,Democratic,2,89.8,Minnesota,38.4,73510.0
-,Overall Minnesota Presidential Caucuses Results,False,R. De La Fuente,Democratic,3,89.8,Minnesota,0.0,1.0
-2.0,Overall Minnesota Presidential Caucuses Results,False,Uncommitted,Democratic,4,89.8,Minnesota,0.0,1.0
-,Overall Minnesota Presidential Caucuses Results,False,M. O'Malley,Democratic,5,89.8,Minnesota,0.0,0.0
-,Overall Minnesota Presidential Caucuses Results,False,Other,Democratic,6,89.8,Minnesota,0.0,0.0
-17.0,Overall Minnesota Presidential Caucuses Results,True,M. Rubio,Republican,1,96.0,Minnesota,36.5,41126.0
-13.0,Overall Minnesota Presidential Caucuses Results,False,T. Cruz,Republican,2,96.0,Minnesota,29.0,32684.0
-8.0,Overall Minnesota Presidential Caucuses Results,False,D. Trump,Republican,3,96.0,Minnesota,21.3,24018.0
-,Overall Minnesota Presidential Caucuses Results,False,B. Carson,Republican,4,96.0,Minnesota,7.3,8233.0
-,Overall Minnesota Presidential Caucuses Results,False,J. Kasich,Republican,5,96.0,Minnesota,5.8,6488.0
-,Overall Minnesota Presidential Caucuses Results,False,Write-In,Republican,6,96.0,Minnesota,0.2,206.0
-27.0,Overall Nevada Presidential Caucuses Results,True,H. Clinton,Democratic,1,98.5,Nevada,52.6,6309.0
-16.0,Overall Nevada Presidential Caucuses Results,False,B. Sanders,Democratic,2,98.5,Nevada,47.3,5668.0
-,Overall Nevada Presidential Caucuses Results,False,Uncommitted,Democratic,3,98.5,Nevada,0.1,8.0
-,Overall Nevada Presidential Caucuses Results,False,Other,Democratic,4,98.5,Nevada,0.0,0.0
-16.0,Overall Nevada Presidential Caucuses Results,True,D. Trump,Republican,1,100.0,Nevada,45.9,34531.0
-7.0,Overall Nevada Presidential Caucuses Results,False,M. Rubio,Republican,2,100.0,Nevada,23.9,17940.0
-6.0,Overall Nevada Presidential Caucuses Results,False,T. Cruz,Republican,3,100.0,Nevada,21.4,16079.0
-1.0,Overall Nevada Presidential Caucuses Results,False,B. Carson,Republican,4,100.0,Nevada,4.8,3619.0
-1.0,Overall Nevada Presidential Caucuses Results,False,J. Kasich,Republican,5,100.0,Nevada,3.6,2709.0
-,Overall Nevada Presidential Caucuses Results,False,R. Paul,Republican,6,100.0,Nevada,0.2,170.0
-,Overall Nevada Presidential Caucuses Results,False,J. Bush,Republican,7,100.0,Nevada,0.1,64.0
-,Overall Nevada Presidential Caucuses Results,False,C. Christie,Republican,8,100.0,Nevada,0.1,50.0
-,Overall Nevada Presidential Caucuses Results,False,C. Fiorina,Republican,9,100.0,Nevada,0.0,22.0
-,Overall Nevada Presidential Caucuses Results,False,M. Huckabee,Republican,10,100.0,Nevada,0.0,21.0
-,Overall Nevada Presidential Caucuses Results,False,R. Santorum,Republican,11,100.0,Nevada,0.0,11.0
-28.0,Overall Utah Presidential Caucuses Results,True,B. Sanders,Democratic,1,99.1,Utah,79.3,61333.0
-8.0,Overall Utah Presidential Caucuses Results,False,H. Clinton,Democratic,2,99.1,Utah,20.3,15666.0
-,Overall Utah Presidential Caucuses Results,False,Uncommitted,Democratic,3,99.1,Utah,0.4,317.0
-,Overall Utah Presidential Caucuses Results,False,R. De La Fuente,Democratic,4,99.1,Utah,0.0,19.0
-,Overall Utah Presidential Caucuses Results,False,M. Greenstein,Democratic,5,99.1,Utah,0.0,9.0
-40.0,Overall Utah Presidential Caucuses Results,True,T. Cruz,Republican,1,88.7,Utah,69.2,122567.0
-,Overall Utah Presidential Caucuses Results,False,J. Kasich,Republican,2,88.7,Utah,16.8,29773.0
-,Overall Utah Presidential Caucuses Results,False,D. Trump,Republican,3,88.7,Utah,14.0,24864.0
-,Overall Utah Presidential Caucuses Results,False,M. Rubio,Republican,4,88.7,Utah,0.0,0.0
-7.0,Overall Wyoming Presidential Caucuses Results,True,B. Sanders,Democratic,1,100.0,Wyoming,55.7,156.0
-11.0,Overall Wyoming Presidential Caucuses Results,False,H. Clinton,Democratic,2,100.0,Wyoming,44.3,124.0
-,Overall Wyoming Presidential Caucuses Results,False,R. De La Fuente,Democratic,3,100.0,Wyoming,0.0,0.0
-,Overall Wyoming Presidential Caucuses Results,False,Other,Democratic,4,100.0,Wyoming,0.0,0.0
-,Overall Wyoming Presidential Caucuses Results,False,Uncommitted,Democratic,5,100.0,Wyoming,0.0,0.0
-9.0,Overall Wyoming Presidential Caucuses Results,,T. Cruz,Republican,1,100.0,Wyoming,66.3,644.0
-1.0,Overall Wyoming Presidential Caucuses Results,,M. Rubio,Republican,2,100.0,Wyoming,19.5,189.0
-1.0,Overall Wyoming Presidential Caucuses Results,,D. Trump,Republican,3,100.0,Wyoming,7.2,70.0
-4.0,Overall Wyoming Presidential Caucuses Results,,Uncommitted,Republican,4,100.0,Wyoming,7.0,68.0
-,Overall Wyoming Presidential Caucuses Results,,B. Carson,Republican,5,100.0,Wyoming,0.0,0.0
-,Overall Wyoming Presidential Caucuses Results,,J. Kasich,Republican,6,100.0,Wyoming,0.0,0.0
-,Overall Wyoming Presidential Caucuses Results,,Other,Republican,7,100.0,Wyoming,0.0,0.0
-,Overall Wyoming Presidential Caucuses Results,,R. Paul,Republican,8,100.0,Wyoming,0.0,0.0
-38.0,Overall Colorado Presidential Caucus Results,True,B. Sanders,,1,98.5,Colorado,58.9,71928.0
-40.0,Overall Colorado Presidential Caucus Results,False,H. Clinton,,2,98.5,Colorado,40.4,49256.0
-,Overall Colorado Presidential Caucus Results,False,Uncommitted,,3,98.5,Colorado,0.7,819.0
-,Overall Colorado Presidential Caucus Results,False,Other,,4,98.5,Colorado,0.0,48.0
-37.0,Overall District of Columbia Presidential Primary and Caucus Results,True,H. Clinton,Democratic,1,100.0,District of Columbia,78.7,75223.0
-6.0,Overall District of Columbia Presidential Primary and Caucus Results,False,B. Sanders,Democratic,2,100.0,District of Columbia,21.1,20137.0
-,Overall District of Columbia Presidential Primary and Caucus Results,False,R. De La Fuente,Democratic,3,100.0,District of Columbia,0.2,205.0
-10.0,Overall District of Columbia Presidential Primary and Caucus Results,True,M. Rubio,Republican,1,100.0,District of Columbia,37.3,1059.0
-9.0,Overall District of Columbia Presidential Primary and Caucus Results,False,J. Kasich,Republican,2,100.0,District of Columbia,35.5,1009.0
-,Overall District of Columbia Presidential Primary and Caucus Results,False,D. Trump,Republican,3,100.0,District of Columbia,13.8,391.0
-,Overall District of Columbia Presidential Primary and Caucus Results,False,T. Cruz,Republican,4,100.0,District of Columbia,12.4,351.0
-,Overall District of Columbia Presidential Primary and Caucus Results,False,J. Bush,Republican,5,100.0,District of Columbia,0.5,14.0
-,Overall District of Columbia Presidential Primary and Caucus Results,False,R. Paul,Republican,6,100.0,District of Columbia,0.4,12.0
-,Overall District of Columbia Presidential Primary and Caucus Results,False,B. Carson,Republican,7,100.0,District of Columbia,0.1,3.0
-,Overall District of Columbia Presidential Primary and Caucus Results,False,C. Fiorina,Republican,8,100.0,District of Columbia,0.0,0.0
-19.0,Overall Idaho Presidential Caucus and Primary Results,True,B. Sanders,Democratic,1,100.0,Idaho,78.0,18640.0
-6.0,Overall Idaho Presidential Caucus and Primary Results,False,H. Clinton,Democratic,2,100.0,Idaho,21.2,5065.0
-1.0,Overall Idaho Presidential Caucus and Primary Results,False,Uncommitted,Democratic,3,100.0,Idaho,0.7,175.0
-,Overall Idaho Presidential Caucus and Primary Results,False,R. De La Fuente,Democratic,4,100.0,Idaho,0.0,4.0
-20.0,Overall Idaho Presidential Caucus and Primary Results,True,T. Cruz,Republican,1,100.0,Idaho,45.4,100942.0
-12.0,Overall Idaho Presidential Caucus and Primary Results,False,D. Trump,Republican,2,100.0,Idaho,28.1,62478.0
-,Overall Idaho Presidential Caucus and Primary Results,False,M. Rubio,Republican,3,100.0,Idaho,15.9,35347.0
-,Overall Idaho Presidential Caucus and Primary Results,False,J. Kasich,Republican,4,100.0,Idaho,7.4,16517.0
-,Overall Idaho Presidential Caucus and Primary Results,False,B. Carson,Republican,5,100.0,Idaho,1.7,3887.0
-,Overall Idaho Presidential Caucus and Primary Results,False,J. Bush,Republican,6,100.0,Idaho,0.4,938.0
-,Overall Idaho Presidential Caucus and Primary Results,False,R. Paul,Republican,7,100.0,Idaho,0.4,834.0
-,Overall Idaho Presidential Caucus and Primary Results,False,M. Huckabee,Republican,8,100.0,Idaho,0.2,356.0
-,Overall Idaho Presidential Caucus and Primary Results,False,C. Christie,Republican,9,100.0,Idaho,0.2,355.0
-,Overall Idaho Presidential Caucus and Primary Results,False,C. Fiorina,Republican,10,100.0,Idaho,0.1,241.0
-,Overall Idaho Presidential Caucus and Primary Results,False,R. Santorum,Republican,11,100.0,Idaho,0.1,211.0
-,Overall Idaho Presidential Caucus and Primary Results,False,L. Graham,Republican,12,100.0,Idaho,0.0,80.0
-,Overall Idaho Presidential Caucus and Primary Results,False,P. Messina,Republican,13,100.0,Idaho,0.0,27.0
-30.0,Overall Kentucky Presidential Primary and Caucus Results,,H. Clinton,Democratic,1,100.0,Kentucky,46.8,212550.0
-27.0,Overall Kentucky Presidential Primary and Caucus Results,,B. Sanders,Democratic,2,100.0,Kentucky,46.3,210626.0
-1.0,Overall Kentucky Presidential Primary and Caucus Results,,Uncommitted,Democratic,3,100.0,Kentucky,5.3,24101.0
-,Overall Kentucky Presidential Primary and Caucus Results,,M. O'Malley,Democratic,4,100.0,Kentucky,1.3,5703.0
-,Overall Kentucky Presidential Primary and Caucus Results,,R. De La Fuente,Democratic,5,100.0,Kentucky,0.4,1593.0
-17.0,Overall Kentucky Presidential Primary and Caucus Results,True,D. Trump,Republican,1,100.0,Kentucky,35.9,82493.0
-15.0,Overall Kentucky Presidential Primary and Caucus Results,False,T. Cruz,Republican,2,100.0,Kentucky,31.6,72503.0
-7.0,Overall Kentucky Presidential Primary and Caucus Results,False,M. Rubio,Republican,3,100.0,Kentucky,16.4,37579.0
-7.0,Overall Kentucky Presidential Primary and Caucus Results,False,J. Kasich,Republican,4,100.0,Kentucky,14.4,33134.0
-,Overall Kentucky Presidential Primary and Caucus Results,False,B. Carson,Republican,5,100.0,Kentucky,0.8,1951.0
-,Overall Kentucky Presidential Primary and Caucus Results,False,R. Paul,Republican,6,100.0,Kentucky,0.4,872.0
-,Overall Kentucky Presidential Primary and Caucus Results,False,Uncommitted,Republican,7,100.0,Kentucky,0.2,496.0
-,Overall Kentucky Presidential Primary and Caucus Results,False,J. Bush,Republican,8,100.0,Kentucky,0.1,305.0
-,Overall Kentucky Presidential Primary and Caucus Results,False,M. Huckabee,Republican,9,100.0,Kentucky,0.1,174.0
-,Overall Kentucky Presidential Primary and Caucus Results,False,C. Christie,Republican,10,100.0,Kentucky,0.0,65.0
-,Overall Kentucky Presidential Primary and Caucus Results,False,C. Fiorina,Republican,11,100.0,Kentucky,0.0,64.0
-,Overall Kentucky Presidential Primary and Caucus Results,False,R. Santorum,Republican,12,100.0,Kentucky,0.0,31.0
-14.0,Overall Nebraska Presidential Caucus and Primary Results,True,H. Clinton,Democratic,1,100.0,Nebraska,53.3,41829.0
-16.0,Overall Nebraska Presidential Caucus and Primary Results,False,B. Sanders,Democratic,2,100.0,Nebraska,46.7,36714.0
-36.0,Overall Nebraska Presidential Caucus and Primary Results,True,D. Trump,Republican,1,100.0,Nebraska,61.4,121287.0
-,Overall Nebraska Presidential Caucus and Primary Results,False,T. Cruz,Republican,2,100.0,Nebraska,18.4,36418.0
-,Overall Nebraska Presidential Caucus and Primary Results,False,J. Kasich,Republican,3,100.0,Nebraska,11.4,22526.0
-,Overall Nebraska Presidential Caucus and Primary Results,False,B. Carson,Republican,4,100.0,Nebraska,5.1,10029.0
-,Overall Nebraska Presidential Caucus and Primary Results,False,M. Rubio,Republican,5,100.0,Nebraska,3.6,7170.0
-23.0,Overall Washington Presidential Caucus and Primary Results,True,B. Sanders,Democratic,1,100.0,Washington,72.7,19159.0
-21.0,Overall Washington Presidential Caucus and Primary Results,False,H. Clinton,Democratic,2,100.0,Washington,27.1,7140.0
-4.0,Overall Washington Presidential Caucus and Primary Results,False,Uncommitted,Democratic,3,100.0,Washington,0.2,46.0
-,Overall Washington Presidential Caucus and Primary Results,False,Other,Democratic,4,100.0,Washington,0.0,0.0
-40.0,Overall Washington Presidential Caucus and Primary Results,True,D. Trump,Republican,1,72.3,Washington,75.8,403003.0
-,Overall Washington Presidential Caucus and Primary Results,False,T. Cruz,Republican,2,72.3,Washington,10.5,55719.0
-,Overall Washington Presidential Caucus and Primary Results,False,J. Kasich,Republican,3,72.3,Washington,9.8,52129.0
-,Overall Washington Presidential Caucus and Primary Results,False,B. Carson,Republican,4,72.3,Washington,3.9,20646.0
-14.0,Overall North Dakota Presidential Caucus Results,True,B. Sanders,,1,100.0,North Dakota,64.2,253.0
-6.0,Overall North Dakota Presidential Caucus Results,False,H. Clinton,,2,100.0,North Dakota,25.6,101.0
-3.0,Overall North Dakota Presidential Caucus Results,False,Uncommitted,,3,100.0,North Dakota,10.2,40.0
-,Overall North Dakota Presidential Caucus Results,False,R. De La Fuente,,4,100.0,North Dakota,0.0,0.0
-,Overall North Dakota Presidential Caucus Results,False,K. Judd,,5,100.0,North Dakota,0.0,0.0
-,Overall North Dakota Presidential Caucus Results,False,Other,,6,100.0,North Dakota,0.0,0.0
-,Overall North Dakota Presidential Caucus Results,False,W. Wilson,,7,100.0,North Dakota,0.0,0.0
+delegates,geo_name,individual_party,is_winner,name,party,rank,reporting_pct,state,vote_pct,votes
+51.0,Overall Alabama Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,Alabama,77.8,309928.0
+9.0,Overall Alabama Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,Alabama,19.2,76399.0
+,Overall Alabama Presidential Primaries Results,democrat,False,Uncommitted,Democratic,3,100.0,Alabama,2.4,9534.0
+,Overall Alabama Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,4,100.0,Alabama,0.4,1489.0
+,Overall Alabama Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,5,100.0,Alabama,0.2,814.0
+36.0,Overall Alabama Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,Alabama,43.4,371735.0
+13.0,Overall Alabama Presidential Primaries Results,republican,False,T. Cruz,Republican,2,100.0,Alabama,21.1,180608.0
+1.0,Overall Alabama Presidential Primaries Results,republican,False,M. Rubio,Republican,3,100.0,Alabama,18.7,159802.0
+,Overall Alabama Presidential Primaries Results,republican,False,B. Carson,Republican,4,100.0,Alabama,10.2,87517.0
+,Overall Alabama Presidential Primaries Results,republican,False,J. Kasich,Republican,5,100.0,Alabama,4.4,37970.0
+,Overall Alabama Presidential Primaries Results,republican,False,Uncommitted,Republican,6,100.0,Alabama,0.9,7911.0
+,Overall Alabama Presidential Primaries Results,republican,False,J. Bush,Republican,7,100.0,Alabama,0.5,3946.0
+,Overall Alabama Presidential Primaries Results,republican,False,M. Huckabee,Republican,8,100.0,Alabama,0.3,2535.0
+,Overall Alabama Presidential Primaries Results,republican,False,R. Paul,Republican,9,100.0,Alabama,0.2,1879.0
+,Overall Alabama Presidential Primaries Results,republican,False,C. Christie,Republican,10,100.0,Alabama,0.1,850.0
+,Overall Alabama Presidential Primaries Results,republican,False,R. Santorum,Republican,11,100.0,Alabama,0.1,616.0
+,Overall Alabama Presidential Primaries Results,republican,False,C. Fiorina,Republican,12,100.0,Alabama,0.1,543.0
+,Overall Alabama Presidential Primaries Results,republican,False,L. Graham,Republican,13,100.0,Alabama,0.0,254.0
+14.0,Overall Alaska Presidential Caucuses Results,democrat,True,B. Sanders,Democratic,1,100.0,Alaska,81.6,440.0
+4.0,Overall Alaska Presidential Caucuses Results,democrat,False,H. Clinton,Democratic,2,100.0,Alaska,18.4,99.0
+,Overall Alaska Presidential Caucuses Results,democrat,False,R. De La Fuente,Democratic,3,100.0,Alaska,0.0,0.0
+2.0,Overall Alaska Presidential Caucuses Results,democrat,False,Uncommitted,Democratic,4,100.0,Alaska,0.0,0.0
+12.0,Overall Alaska Presidential Caucuses Results,republican,True,T. Cruz,Republican,1,100.0,Alaska,36.4,7973.0
+11.0,Overall Alaska Presidential Caucuses Results,republican,False,D. Trump,Republican,2,100.0,Alaska,33.5,7346.0
+5.0,Overall Alaska Presidential Caucuses Results,republican,False,M. Rubio,Republican,3,100.0,Alaska,15.1,3318.0
+,Overall Alaska Presidential Caucuses Results,republican,False,B. Carson,Republican,4,100.0,Alaska,10.9,2401.0
+,Overall Alaska Presidential Caucuses Results,republican,False,J. Kasich,Republican,5,100.0,Alaska,4.1,892.0
+,Overall Alaska Presidential Caucuses Results,republican,False,Uncommitted,Republican,6,100.0,Alaska,0.0,0.0
+,Overall Arizona Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,99.5,Arizona,57.6,235697.0
+,Overall Arizona Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,99.5,Arizona,39.9,163400.0
+,Overall Arizona Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,3,99.5,Arizona,0.9,3599.0
+,Overall Arizona Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,4,99.5,Arizona,0.6,2540.0
+,Overall Arizona Presidential Primaries Results,democrat,False,M. Steinberg,Democratic,5,99.5,Arizona,0.5,2118.0
+,Overall Arizona Presidential Primaries Results,democrat,False,H. Hewes,Democratic,6,99.5,Arizona,0.4,1659.0
+,Overall Arizona Presidential Primaries Results,republican,True,D. Trump,Republican,1,99.5,Arizona,47.1,249916.0
+,Overall Arizona Presidential Primaries Results,republican,False,T. Cruz,Republican,2,99.5,Arizona,24.9,132147.0
+,Overall Arizona Presidential Primaries Results,republican,False,M. Rubio,Republican,3,99.5,Arizona,13.3,70556.0
+,Overall Arizona Presidential Primaries Results,republican,False,J. Kasich,Republican,4,99.5,Arizona,10.0,53040.0
+,Overall Arizona Presidential Primaries Results,republican,False,B. Carson,Republican,5,99.5,Arizona,2.7,14321.0
+,Overall Arizona Presidential Primaries Results,republican,False,J. Bush,Republican,6,99.5,Arizona,0.8,4076.0
+,Overall Arizona Presidential Primaries Results,republican,False,R. Paul,Republican,7,99.5,Arizona,0.4,2035.0
+,Overall Arizona Presidential Primaries Results,republican,False,C. Fiorina,Republican,8,99.5,Arizona,0.2,1177.0
+,Overall Arizona Presidential Primaries Results,republican,False,M. Huckabee,Republican,9,99.5,Arizona,0.2,1168.0
+,Overall Arizona Presidential Primaries Results,republican,False,C. Christie,Republican,10,99.5,Arizona,0.2,919.0
+,Overall Arizona Presidential Primaries Results,republican,False,R. Santorum,Republican,11,99.5,Arizona,0.1,463.0
+,Overall Arizona Presidential Primaries Results,republican,False,L. Graham,Republican,12,99.5,Arizona,0.1,449.0
+,Overall Arizona Presidential Primaries Results,republican,False,G. Pataki,Republican,13,99.5,Arizona,0.0,265.0
+,Overall Arizona Presidential Primaries Results,republican,False,T. Cook,Republican,14,99.5,Arizona,0.0,217.0
+27.0,Overall Arkansas Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,99.2,Arkansas,66.3,144580.0
+10.0,Overall Arkansas Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,99.2,Arkansas,29.7,64868.0
+,Overall Arkansas Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,3,99.2,Arkansas,1.3,2764.0
+,Overall Arkansas Presidential Primaries Results,democrat,False,J. Wolfe,Democratic,4,99.2,Arkansas,1.2,2541.0
+,Overall Arkansas Presidential Primaries Results,democrat,False,J. Valentine,Democratic,5,99.2,Arkansas,0.8,1687.0
+,Overall Arkansas Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,6,99.2,Arkansas,0.8,1680.0
+16.0,Overall Arkansas Presidential Primaries Results,republican,True,D. Trump,Republican,1,99.2,Arkansas,32.8,133144.0
+15.0,Overall Arkansas Presidential Primaries Results,republican,False,T. Cruz,Republican,2,99.2,Arkansas,30.5,123873.0
+9.0,Overall Arkansas Presidential Primaries Results,republican,False,M. Rubio,Republican,3,99.2,Arkansas,24.9,101235.0
+,Overall Arkansas Presidential Primaries Results,republican,False,B. Carson,Republican,4,99.2,Arkansas,5.7,23173.0
+,Overall Arkansas Presidential Primaries Results,republican,False,J. Kasich,Republican,5,99.2,Arkansas,3.7,15098.0
+,Overall Arkansas Presidential Primaries Results,republican,False,M. Huckabee,Republican,6,99.2,Arkansas,1.2,4703.0
+,Overall Arkansas Presidential Primaries Results,republican,False,J. Bush,Republican,7,99.2,Arkansas,0.6,2406.0
+,Overall Arkansas Presidential Primaries Results,republican,False,R. Paul,Republican,8,99.2,Arkansas,0.3,1127.0
+,Overall Arkansas Presidential Primaries Results,republican,False,C. Christie,Republican,9,99.2,Arkansas,0.2,651.0
+,Overall Arkansas Presidential Primaries Results,republican,False,C. Fiorina,Republican,10,99.2,Arkansas,0.1,409.0
+,Overall Arkansas Presidential Primaries Results,republican,False,R. Santorum,Republican,11,99.2,Arkansas,0.1,286.0
+,Overall Arkansas Presidential Primaries Results,republican,False,L. Graham,Republican,12,99.2,Arkansas,0.1,250.0
+,Overall Arkansas Presidential Primaries Results,republican,False,B. Jindal,Republican,13,99.2,Arkansas,0.0,167.0
+325.0,Overall California Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,California,55.8,1940580.0
+222.0,Overall California Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,California,43.2,1502043.0
+,Overall California Presidential Primaries Results,democrat,False,W. Wilson,Democratic,3,100.0,California,0.3,8709.0
+,Overall California Presidential Primaries Results,democrat,False,M. Steinberg,Democratic,4,100.0,California,0.2,7905.0
+,Overall California Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,5,100.0,California,0.2,5780.0
+,Overall California Presidential Primaries Results,democrat,False,K. Judd,Democratic,6,100.0,California,0.2,5433.0
+,Overall California Presidential Primaries Results,democrat,False,H. Hewes,Democratic,7,100.0,California,0.2,5270.0
+172.0,Overall California Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,California,75.3,1174829.0
+,Overall California Presidential Primaries Results,republican,False,J. Kasich,Republican,2,100.0,California,11.3,176620.0
+,Overall California Presidential Primaries Results,republican,False,T. Cruz,Republican,3,100.0,California,9.2,144125.0
+,Overall California Presidential Primaries Results,republican,False,B. Carson,Republican,4,100.0,California,3.5,54145.0
+,Overall California Presidential Primaries Results,republican,False,J. Gilmore,Republican,5,100.0,California,0.7,11101.0
+38.0,Overall Colorado Presidential Caucus Results,democrat,True,B. Sanders,,1,98.5,Colorado,58.9,71928.0
+40.0,Overall Colorado Presidential Caucus Results,democrat,False,H. Clinton,,2,98.5,Colorado,40.4,49256.0
+,Overall Colorado Presidential Caucus Results,democrat,False,Uncommitted,,3,98.5,Colorado,0.7,819.0
+,Overall Colorado Presidential Caucus Results,democrat,False,Other,,4,98.5,Colorado,0.0,48.0
+44.0,Overall Connecticut Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,99.9,Connecticut,51.8,170075.0
+27.0,Overall Connecticut Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,99.9,Connecticut,46.4,152410.0
+,Overall Connecticut Presidential Primaries Results,democrat,False,Uncommitted,Democratic,3,99.9,Connecticut,1.5,4877.0
+,Overall Connecticut Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,4,99.9,Connecticut,0.3,960.0
+28.0,Overall Connecticut Presidential Primaries Results,republican,True,D. Trump,Republican,1,99.9,Connecticut,57.9,123367.0
+,Overall Connecticut Presidential Primaries Results,republican,False,J. Kasich,Republican,2,99.9,Connecticut,28.4,60481.0
+,Overall Connecticut Presidential Primaries Results,republican,False,T. Cruz,Republican,3,99.9,Connecticut,11.7,24969.0
+,Overall Connecticut Presidential Primaries Results,republican,False,Uncommitted,Republican,4,99.9,Connecticut,1.2,2654.0
+,Overall Connecticut Presidential Primaries Results,republican,False,B. Carson,Republican,5,99.9,Connecticut,0.8,1741.0
+,Overall Delaware Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,Delaware,59.8,55950.0
+,Overall Delaware Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,Delaware,39.2,36659.0
+,Overall Delaware Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,3,100.0,Delaware,1.1,1024.0
+,Overall Delaware Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,Delaware,60.8,42472.0
+,Overall Delaware Presidential Primaries Results,republican,False,J. Kasich,Republican,2,100.0,Delaware,20.4,14225.0
+,Overall Delaware Presidential Primaries Results,republican,False,T. Cruz,Republican,3,100.0,Delaware,15.9,11110.0
+,Overall Delaware Presidential Primaries Results,republican,False,B. Carson,Republican,4,100.0,Delaware,1.3,885.0
+,Overall Delaware Presidential Primaries Results,republican,False,M. Rubio,Republican,5,100.0,Delaware,0.9,622.0
+,Overall Delaware Presidential Primaries Results,republican,False,J. Bush,Republican,6,100.0,Delaware,0.8,578.0
+37.0,Overall District of Columbia Presidential Primary and Caucus Results,democrat,True,H. Clinton,Democratic,1,100.0,District of Columbia,78.7,75223.0
+6.0,Overall District of Columbia Presidential Primary and Caucus Results,democrat,False,B. Sanders,Democratic,2,100.0,District of Columbia,21.1,20137.0
+,Overall District of Columbia Presidential Primary and Caucus Results,democrat,False,R. De La Fuente,Democratic,3,100.0,District of Columbia,0.2,205.0
+10.0,Overall District of Columbia Presidential Primary and Caucus Results,republican,True,M. Rubio,Republican,1,100.0,District of Columbia,37.3,1059.0
+9.0,Overall District of Columbia Presidential Primary and Caucus Results,republican,False,J. Kasich,Republican,2,100.0,District of Columbia,35.5,1009.0
+,Overall District of Columbia Presidential Primary and Caucus Results,republican,False,D. Trump,Republican,3,100.0,District of Columbia,13.8,391.0
+,Overall District of Columbia Presidential Primary and Caucus Results,republican,False,T. Cruz,Republican,4,100.0,District of Columbia,12.4,351.0
+,Overall District of Columbia Presidential Primary and Caucus Results,republican,False,J. Bush,Republican,5,100.0,District of Columbia,0.5,14.0
+,Overall District of Columbia Presidential Primary and Caucus Results,republican,False,R. Paul,Republican,6,100.0,District of Columbia,0.4,12.0
+,Overall District of Columbia Presidential Primary and Caucus Results,republican,False,B. Carson,Republican,7,100.0,District of Columbia,0.1,3.0
+,Overall District of Columbia Presidential Primary and Caucus Results,republican,False,C. Fiorina,Republican,8,100.0,District of Columbia,0.0,0.0
+,Overall Florida Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,Florida,64.4,1097400.0
+,Overall Florida Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,Florida,33.3,566603.0
+,Overall Florida Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,3,100.0,Florida,2.3,38875.0
+,Overall Florida Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,Florida,45.7,1077221.0
+,Overall Florida Presidential Primaries Results,republican,False,M. Rubio,Republican,2,100.0,Florida,27.0,636653.0
+,Overall Florida Presidential Primaries Results,republican,False,T. Cruz,Republican,3,100.0,Florida,17.1,403640.0
+,Overall Florida Presidential Primaries Results,republican,False,J. Kasich,Republican,4,100.0,Florida,6.8,159412.0
+,Overall Florida Presidential Primaries Results,republican,False,J. Bush,Republican,5,100.0,Florida,1.8,43452.0
+,Overall Florida Presidential Primaries Results,republican,False,B. Carson,Republican,6,100.0,Florida,0.9,21163.0
+,Overall Florida Presidential Primaries Results,republican,False,R. Paul,Republican,7,100.0,Florida,0.2,4431.0
+,Overall Florida Presidential Primaries Results,republican,False,M. Huckabee,Republican,8,100.0,Florida,0.1,2617.0
+,Overall Florida Presidential Primaries Results,republican,False,C. Christie,Republican,9,100.0,Florida,0.1,2486.0
+,Overall Florida Presidential Primaries Results,republican,False,C. Fiorina,Republican,10,100.0,Florida,0.1,1894.0
+,Overall Florida Presidential Primaries Results,republican,False,R. Santorum,Republican,11,100.0,Florida,0.1,1204.0
+,Overall Florida Presidential Primaries Results,republican,False,L. Graham,Republican,12,100.0,Florida,0.0,693.0
+,Overall Florida Presidential Primaries Results,republican,False,J. Gilmore,Republican,13,100.0,Florida,0.0,317.0
+83.0,Overall Georgia Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,Georgia,71.3,543008.0
+28.0,Overall Georgia Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,Georgia,28.2,214332.0
+,Overall Georgia Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,3,100.0,Georgia,0.3,2119.0
+,Overall Georgia Presidential Primaries Results,democrat,False,M. Steinberg,Democratic,4,100.0,Georgia,0.2,1759.0
+40.0,Overall Georgia Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,Georgia,38.8,501707.0
+14.0,Overall Georgia Presidential Primaries Results,republican,False,M. Rubio,Republican,2,100.0,Georgia,24.4,315979.0
+18.0,Overall Georgia Presidential Primaries Results,republican,False,T. Cruz,Republican,3,100.0,Georgia,23.6,305109.0
+,Overall Georgia Presidential Primaries Results,republican,False,B. Carson,Republican,4,100.0,Georgia,6.2,80503.0
+,Overall Georgia Presidential Primaries Results,republican,False,J. Kasich,Republican,5,100.0,Georgia,5.6,72303.0
+,Overall Georgia Presidential Primaries Results,republican,False,J. Bush,Republican,6,100.0,Georgia,0.6,7664.0
+,Overall Georgia Presidential Primaries Results,republican,False,R. Paul,Republican,7,100.0,Georgia,0.2,2901.0
+,Overall Georgia Presidential Primaries Results,republican,False,M. Huckabee,Republican,8,100.0,Georgia,0.2,2615.0
+,Overall Georgia Presidential Primaries Results,republican,False,C. Christie,Republican,9,100.0,Georgia,0.1,1485.0
+,Overall Georgia Presidential Primaries Results,republican,False,C. Fiorina,Republican,10,100.0,Georgia,0.1,1143.0
+,Overall Georgia Presidential Primaries Results,republican,False,R. Santorum,Republican,11,100.0,Georgia,0.0,534.0
+,Overall Georgia Presidential Primaries Results,republican,False,L. Graham,Republican,12,100.0,Georgia,0.0,423.0
+,Overall Georgia Presidential Primaries Results,republican,False,G. Pataki,Republican,13,100.0,Georgia,0.0,235.0
+20.0,Overall Hawaii Presidential Caucuses Results,democrat,True,B. Sanders,Democratic,1,100.0,Hawaii,69.8,23530.0
+12.0,Overall Hawaii Presidential Caucuses Results,democrat,False,H. Clinton,Democratic,2,100.0,Hawaii,30.0,10125.0
+2.0,Overall Hawaii Presidential Caucuses Results,democrat,False,Uncommitted,Democratic,3,100.0,Hawaii,0.1,43.0
+,Overall Hawaii Presidential Caucuses Results,democrat,False,R. De La Fuente,Democratic,4,100.0,Hawaii,0.0,12.0
+,Overall Hawaii Presidential Caucuses Results,democrat,False,M. O'Malley,Democratic,5,100.0,Hawaii,0.0,6.0
+10.0,Overall Hawaii Presidential Caucuses Results,republican,True,D. Trump,Republican,1,100.0,Hawaii,42.4,5677.0
+6.0,Overall Hawaii Presidential Caucuses Results,republican,False,T. Cruz,Republican,2,100.0,Hawaii,32.7,4379.0
+,Overall Hawaii Presidential Caucuses Results,republican,False,M. Rubio,Republican,3,100.0,Hawaii,13.1,1759.0
+,Overall Hawaii Presidential Caucuses Results,republican,False,J. Kasich,Republican,4,100.0,Hawaii,10.6,1413.0
+,Overall Hawaii Presidential Caucuses Results,republican,False,B. Carson,Republican,5,100.0,Hawaii,0.9,127.0
+,Overall Hawaii Presidential Caucuses Results,republican,False,J. Bush,Republican,6,100.0,Hawaii,0.2,22.0
+19.0,Overall Idaho Presidential Caucus and Primary Results,democrat,True,B. Sanders,Democratic,1,100.0,Idaho,78.0,18640.0
+6.0,Overall Idaho Presidential Caucus and Primary Results,democrat,False,H. Clinton,Democratic,2,100.0,Idaho,21.2,5065.0
+1.0,Overall Idaho Presidential Caucus and Primary Results,democrat,False,Uncommitted,Democratic,3,100.0,Idaho,0.7,175.0
+,Overall Idaho Presidential Caucus and Primary Results,democrat,False,R. De La Fuente,Democratic,4,100.0,Idaho,0.0,4.0
+20.0,Overall Idaho Presidential Caucus and Primary Results,republican,True,T. Cruz,Republican,1,100.0,Idaho,45.4,100942.0
+12.0,Overall Idaho Presidential Caucus and Primary Results,republican,False,D. Trump,Republican,2,100.0,Idaho,28.1,62478.0
+,Overall Idaho Presidential Caucus and Primary Results,republican,False,M. Rubio,Republican,3,100.0,Idaho,15.9,35347.0
+,Overall Idaho Presidential Caucus and Primary Results,republican,False,J. Kasich,Republican,4,100.0,Idaho,7.4,16517.0
+,Overall Idaho Presidential Caucus and Primary Results,republican,False,B. Carson,Republican,5,100.0,Idaho,1.7,3887.0
+,Overall Idaho Presidential Caucus and Primary Results,republican,False,J. Bush,Republican,6,100.0,Idaho,0.4,938.0
+,Overall Idaho Presidential Caucus and Primary Results,republican,False,R. Paul,Republican,7,100.0,Idaho,0.4,834.0
+,Overall Idaho Presidential Caucus and Primary Results,republican,False,M. Huckabee,Republican,8,100.0,Idaho,0.2,356.0
+,Overall Idaho Presidential Caucus and Primary Results,republican,False,C. Christie,Republican,9,100.0,Idaho,0.2,355.0
+,Overall Idaho Presidential Caucus and Primary Results,republican,False,C. Fiorina,Republican,10,100.0,Idaho,0.1,241.0
+,Overall Idaho Presidential Caucus and Primary Results,republican,False,R. Santorum,Republican,11,100.0,Idaho,0.1,211.0
+,Overall Idaho Presidential Caucus and Primary Results,republican,False,L. Graham,Republican,12,100.0,Idaho,0.0,80.0
+,Overall Idaho Presidential Caucus and Primary Results,republican,False,P. Messina,Republican,13,100.0,Idaho,0.0,27.0
+105.0,Overall Illinois Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,Illinois,50.5,1017006.0
+78.0,Overall Illinois Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,Illinois,48.7,982017.0
+,Overall Illinois Presidential Primaries Results,democrat,False,W. Wilson,Democratic,3,100.0,Illinois,0.3,6432.0
+,Overall Illinois Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,4,100.0,Illinois,0.3,6064.0
+,Overall Illinois Presidential Primaries Results,democrat,False,L. Cohen,Democratic,5,100.0,Illinois,0.1,2362.0
+,Overall Illinois Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,6,100.0,Illinois,0.1,1766.0
+54.0,Overall Illinois Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,Illinois,38.8,556916.0
+9.0,Overall Illinois Presidential Primaries Results,republican,False,T. Cruz,Republican,2,100.0,Illinois,30.3,434038.0
+6.0,Overall Illinois Presidential Primaries Results,republican,False,J. Kasich,Republican,3,100.0,Illinois,19.7,282874.0
+,Overall Illinois Presidential Primaries Results,republican,False,M. Rubio,Republican,4,100.0,Illinois,8.7,124568.0
+,Overall Illinois Presidential Primaries Results,republican,False,B. Carson,Republican,5,100.0,Illinois,0.8,11289.0
+,Overall Illinois Presidential Primaries Results,republican,False,J. Bush,Republican,6,100.0,Illinois,0.8,10974.0
+,Overall Illinois Presidential Primaries Results,republican,False,R. Paul,Republican,7,100.0,Illinois,0.3,4667.0
+,Overall Illinois Presidential Primaries Results,republican,False,C. Christie,Republican,8,100.0,Illinois,0.2,3326.0
+,Overall Illinois Presidential Primaries Results,republican,False,M. Huckabee,Republican,9,100.0,Illinois,0.2,2700.0
+,Overall Illinois Presidential Primaries Results,republican,False,C. Fiorina,Republican,10,100.0,Illinois,0.1,1512.0
+,Overall Illinois Presidential Primaries Results,republican,False,R. Santorum,Republican,11,100.0,Illinois,0.1,1142.0
+44.0,Overall Indiana Presidential Primaries Results,democrat,True,B. Sanders,Democratic,1,100.0,Indiana,52.5,335256.0
+47.0,Overall Indiana Presidential Primaries Results,democrat,False,H. Clinton,Democratic,2,100.0,Indiana,47.5,303382.0
+57.0,Overall Indiana Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,Indiana,53.3,590460.0
+,Overall Indiana Presidential Primaries Results,republican,False,T. Cruz,Republican,2,100.0,Indiana,36.6,406280.0
+,Overall Indiana Presidential Primaries Results,republican,False,J. Kasich,Republican,3,100.0,Indiana,7.6,83913.0
+,Overall Indiana Presidential Primaries Results,republican,False,B. Carson,Republican,4,100.0,Indiana,0.8,8900.0
+,Overall Indiana Presidential Primaries Results,republican,False,J. Bush,Republican,5,100.0,Indiana,0.6,6492.0
+,Overall Indiana Presidential Primaries Results,republican,False,M. Rubio,Republican,6,100.0,Indiana,0.5,5167.0
+,Overall Indiana Presidential Primaries Results,republican,False,R. Paul,Republican,7,100.0,Indiana,0.4,4294.0
+,Overall Indiana Presidential Primaries Results,republican,False,C. Christie,Republican,8,100.0,Indiana,0.2,1733.0
+,Overall Indiana Presidential Primaries Results,republican,False,C. Fiorina,Republican,9,100.0,Indiana,0.1,1491.0
+29.0,Overall Iowa Presidential Caucuses Results,democrat,,H. Clinton,Democratic,1,100.0,Iowa,49.9,701.0
+21.0,Overall Iowa Presidential Caucuses Results,democrat,,B. Sanders,Democratic,2,100.0,Iowa,49.6,697.0
+,Overall Iowa Presidential Caucuses Results,democrat,,M. O'Malley,Democratic,3,100.0,Iowa,0.6,8.0
+,Overall Iowa Presidential Caucuses Results,democrat,,Other,Democratic,4,100.0,Iowa,0.0,0.0
+1.0,Overall Iowa Presidential Caucuses Results,democrat,,Uncommitted,Democratic,5,100.0,Iowa,0.0,0.0
+8.0,Overall Iowa Presidential Caucuses Results,republican,True,T. Cruz,Republican,1,100.0,Iowa,27.6,51666.0
+7.0,Overall Iowa Presidential Caucuses Results,republican,False,D. Trump,Republican,2,100.0,Iowa,24.3,45427.0
+7.0,Overall Iowa Presidential Caucuses Results,republican,False,M. Rubio,Republican,3,100.0,Iowa,23.1,43165.0
+3.0,Overall Iowa Presidential Caucuses Results,republican,False,B. Carson,Republican,4,100.0,Iowa,9.3,17395.0
+1.0,Overall Iowa Presidential Caucuses Results,republican,False,R. Paul,Republican,5,100.0,Iowa,4.5,8481.0
+1.0,Overall Iowa Presidential Caucuses Results,republican,False,J. Bush,Republican,6,100.0,Iowa,2.8,5238.0
+1.0,Overall Iowa Presidential Caucuses Results,republican,False,C. Fiorina,Republican,7,100.0,Iowa,1.9,3485.0
+1.0,Overall Iowa Presidential Caucuses Results,republican,False,J. Kasich,Republican,8,100.0,Iowa,1.9,3474.0
+1.0,Overall Iowa Presidential Caucuses Results,republican,False,M. Huckabee,Republican,9,100.0,Iowa,1.8,3345.0
+,Overall Iowa Presidential Caucuses Results,republican,False,C. Christie,Republican,10,100.0,Iowa,1.8,3284.0
+,Overall Iowa Presidential Caucuses Results,republican,False,R. Santorum,Republican,11,100.0,Iowa,1.0,1783.0
+,Overall Iowa Presidential Caucuses Results,republican,False,Other,Republican,12,100.0,Iowa,0.1,119.0
+,Overall Iowa Presidential Caucuses Results,republican,False,J. Gilmore,Republican,13,100.0,Iowa,0.0,12.0
+23.0,Overall Kansas Presidential Caucuses Results,democrat,True,B. Sanders,Democratic,1,100.0,Kansas,67.7,26450.0
+14.0,Overall Kansas Presidential Caucuses Results,democrat,False,H. Clinton,Democratic,2,100.0,Kansas,32.3,12593.0
+,Overall Kansas Presidential Caucuses Results,democrat,False,R. De La Fuente,Democratic,3,100.0,Kansas,0.0,0.0
+,Overall Kansas Presidential Caucuses Results,democrat,False,M. O'Malley,Democratic,4,100.0,Kansas,0.0,0.0
+,Overall Kansas Presidential Caucuses Results,democrat,False,Uncommitted,Democratic,5,100.0,Kansas,0.0,0.0
+24.0,Overall Kansas Presidential Caucuses Results,republican,True,T. Cruz,Republican,1,100.0,Kansas,48.2,35207.0
+9.0,Overall Kansas Presidential Caucuses Results,republican,False,D. Trump,Republican,2,100.0,Kansas,23.3,17062.0
+6.0,Overall Kansas Presidential Caucuses Results,republican,False,M. Rubio,Republican,3,100.0,Kansas,16.7,12189.0
+1.0,Overall Kansas Presidential Caucuses Results,republican,False,J. Kasich,Republican,4,100.0,Kansas,10.7,7795.0
+,Overall Kansas Presidential Caucuses Results,republican,False,B. Carson,Republican,5,100.0,Kansas,0.7,511.0
+,Overall Kansas Presidential Caucuses Results,republican,False,Uncommitted,Republican,6,100.0,Kansas,0.3,242.0
+,Overall Kansas Presidential Caucuses Results,republican,False,J. Bush,Republican,7,100.0,Kansas,0.1,78.0
+,Overall Kansas Presidential Caucuses Results,republican,False,C. Fiorina,Republican,8,100.0,Kansas,0.0,32.0
+30.0,Overall Kentucky Presidential Primary and Caucus Results,democrat,,H. Clinton,Democratic,1,100.0,Kentucky,46.8,212550.0
+27.0,Overall Kentucky Presidential Primary and Caucus Results,democrat,,B. Sanders,Democratic,2,100.0,Kentucky,46.3,210626.0
+1.0,Overall Kentucky Presidential Primary and Caucus Results,democrat,,Uncommitted,Democratic,3,100.0,Kentucky,5.3,24101.0
+,Overall Kentucky Presidential Primary and Caucus Results,democrat,,M. O'Malley,Democratic,4,100.0,Kentucky,1.3,5703.0
+,Overall Kentucky Presidential Primary and Caucus Results,democrat,,R. De La Fuente,Democratic,5,100.0,Kentucky,0.4,1593.0
+17.0,Overall Kentucky Presidential Primary and Caucus Results,republican,True,D. Trump,Republican,1,100.0,Kentucky,35.9,82493.0
+15.0,Overall Kentucky Presidential Primary and Caucus Results,republican,False,T. Cruz,Republican,2,100.0,Kentucky,31.6,72503.0
+7.0,Overall Kentucky Presidential Primary and Caucus Results,republican,False,M. Rubio,Republican,3,100.0,Kentucky,16.4,37579.0
+7.0,Overall Kentucky Presidential Primary and Caucus Results,republican,False,J. Kasich,Republican,4,100.0,Kentucky,14.4,33134.0
+,Overall Kentucky Presidential Primary and Caucus Results,republican,False,B. Carson,Republican,5,100.0,Kentucky,0.8,1951.0
+,Overall Kentucky Presidential Primary and Caucus Results,republican,False,R. Paul,Republican,6,100.0,Kentucky,0.4,872.0
+,Overall Kentucky Presidential Primary and Caucus Results,republican,False,Uncommitted,Republican,7,100.0,Kentucky,0.2,496.0
+,Overall Kentucky Presidential Primary and Caucus Results,republican,False,J. Bush,Republican,8,100.0,Kentucky,0.1,305.0
+,Overall Kentucky Presidential Primary and Caucus Results,republican,False,M. Huckabee,Republican,9,100.0,Kentucky,0.1,174.0
+,Overall Kentucky Presidential Primary and Caucus Results,republican,False,C. Christie,Republican,10,100.0,Kentucky,0.0,65.0
+,Overall Kentucky Presidential Primary and Caucus Results,republican,False,C. Fiorina,Republican,11,100.0,Kentucky,0.0,64.0
+,Overall Kentucky Presidential Primary and Caucus Results,republican,False,R. Santorum,Republican,12,100.0,Kentucky,0.0,31.0
+45.0,Overall Louisiana Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,Louisiana,71.1,221615.0
+14.0,Overall Louisiana Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,Louisiana,23.2,72240.0
+,Overall Louisiana Presidential Primaries Results,democrat,False,S. Burke,Democratic,3,100.0,Louisiana,1.5,4783.0
+,Overall Louisiana Presidential Primaries Results,democrat,False,J. Wolfe,Democratic,4,100.0,Louisiana,1.4,4509.0
+,Overall Louisiana Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,5,100.0,Louisiana,0.8,2550.0
+,Overall Louisiana Presidential Primaries Results,democrat,False,W. Wilson,Democratic,6,100.0,Louisiana,0.5,1423.0
+,Overall Louisiana Presidential Primaries Results,democrat,False,K. Judd,Democratic,7,100.0,Louisiana,0.4,1355.0
+,Overall Louisiana Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,8,100.0,Louisiana,0.4,1341.0
+,Overall Louisiana Presidential Primaries Results,democrat,False,M. Steinberg,Democratic,9,100.0,Louisiana,0.3,993.0
+,Overall Louisiana Presidential Primaries Results,democrat,False,H. Hewes,Democratic,10,100.0,Louisiana,0.3,804.0
+25.0,Overall Louisiana Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,Louisiana,41.4,124818.0
+18.0,Overall Louisiana Presidential Primaries Results,republican,False,T. Cruz,Republican,2,100.0,Louisiana,37.8,113949.0
+,Overall Louisiana Presidential Primaries Results,republican,False,M. Rubio,Republican,3,100.0,Louisiana,11.2,33804.0
+,Overall Louisiana Presidential Primaries Results,republican,False,J. Kasich,Republican,4,100.0,Louisiana,6.4,19355.0
+,Overall Louisiana Presidential Primaries Results,republican,False,B. Carson,Republican,5,100.0,Louisiana,1.5,4544.0
+,Overall Louisiana Presidential Primaries Results,republican,False,J. Bush,Republican,6,100.0,Louisiana,0.7,2144.0
+,Overall Louisiana Presidential Primaries Results,republican,False,R. Paul,Republican,7,100.0,Louisiana,0.2,668.0
+,Overall Louisiana Presidential Primaries Results,republican,False,M. Huckabee,Republican,8,100.0,Louisiana,0.2,645.0
+,Overall Louisiana Presidential Primaries Results,republican,False,C. Christie,Republican,9,100.0,Louisiana,0.1,401.0
+,Overall Louisiana Presidential Primaries Results,republican,False,C. Fiorina,Republican,10,100.0,Louisiana,0.1,243.0
+,Overall Louisiana Presidential Primaries Results,republican,False,T. Cook,Republican,11,100.0,Louisiana,0.1,219.0
+,Overall Louisiana Presidential Primaries Results,republican,False,R. Santorum,Republican,12,100.0,Louisiana,0.1,180.0
+,Overall Louisiana Presidential Primaries Results,republican,False,L. Graham,Republican,13,100.0,Louisiana,0.1,151.0
+,Overall Louisiana Presidential Primaries Results,republican,False,P. Messina,Republican,14,100.0,Louisiana,0.0,48.0
+16.0,Overall Maine Presidential Caucuses Results,democrat,True,B. Sanders,Democratic,1,91.1,Maine,64.3,2231.0
+11.0,Overall Maine Presidential Caucuses Results,democrat,False,H. Clinton,Democratic,2,91.1,Maine,35.5,1232.0
+,Overall Maine Presidential Caucuses Results,democrat,False,Uncommitted,Democratic,3,91.1,Maine,0.2,7.0
+,Overall Maine Presidential Caucuses Results,democrat,False,Other,Democratic,4,91.1,Maine,0.0,0.0
+12.0,Overall Maine Presidential Caucuses Results,republican,True,T. Cruz,Republican,1,100.0,Maine,45.9,8550.0
+9.0,Overall Maine Presidential Caucuses Results,republican,False,D. Trump,Republican,2,100.0,Maine,32.6,6070.0
+2.0,Overall Maine Presidential Caucuses Results,republican,False,J. Kasich,Republican,3,100.0,Maine,12.2,2270.0
+,Overall Maine Presidential Caucuses Results,republican,False,M. Rubio,Republican,4,100.0,Maine,8.0,1492.0
+,Overall Maine Presidential Caucuses Results,republican,False,B. Carson,Republican,5,100.0,Maine,0.7,132.0
+,Overall Maine Presidential Caucuses Results,republican,False,R. Paul,Republican,6,100.0,Maine,0.3,55.0
+,Overall Maine Presidential Caucuses Results,republican,False,J. Bush,Republican,7,100.0,Maine,0.2,31.0
+,Overall Maine Presidential Caucuses Results,republican,False,C. Fiorina,Republican,8,100.0,Maine,0.1,17.0
+,Overall Maine Presidential Caucuses Results,republican,False,M. Huckabee,Republican,9,100.0,Maine,0.1,10.0
+,Overall Maine Presidential Caucuses Results,republican,False,C. Christie,Republican,10,100.0,Maine,0.0,0.0
+80.0,Overall Maryland Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,99.2,Maryland,63.0,533247.0
+36.0,Overall Maryland Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,99.2,Maryland,33.2,281275.0
+4.0,Overall Maryland Presidential Primaries Results,democrat,False,Uncommitted,Democratic,3,99.2,Maryland,3.3,28131.0
+,Overall Maryland Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,4,99.2,Maryland,0.4,3386.0
+38.0,Overall Maryland Presidential Primaries Results,republican,True,D. Trump,Republican,1,99.2,Maryland,54.4,236623.0
+,Overall Maryland Presidential Primaries Results,republican,False,J. Kasich,Republican,2,99.2,Maryland,23.0,100089.0
+,Overall Maryland Presidential Primaries Results,republican,False,T. Cruz,Republican,3,99.2,Maryland,18.9,82038.0
+,Overall Maryland Presidential Primaries Results,republican,False,B. Carson,Republican,4,99.2,Maryland,1.3,5626.0
+,Overall Maryland Presidential Primaries Results,republican,False,M. Rubio,Republican,5,99.2,Maryland,0.7,2945.0
+,Overall Maryland Presidential Primaries Results,republican,False,J. Bush,Republican,6,99.2,Maryland,0.6,2437.0
+,Overall Maryland Presidential Primaries Results,republican,False,R. Paul,Republican,7,99.2,Maryland,0.3,1451.0
+,Overall Maryland Presidential Primaries Results,republican,False,C. Christie,Republican,8,99.2,Maryland,0.3,1184.0
+,Overall Maryland Presidential Primaries Results,republican,False,C. Fiorina,Republican,9,99.2,Maryland,0.2,946.0
+,Overall Maryland Presidential Primaries Results,republican,False,M. Huckabee,Republican,10,99.2,Maryland,0.2,787.0
+,Overall Maryland Presidential Primaries Results,republican,False,R. Santorum,Republican,11,99.2,Maryland,0.1,446.0
+,Overall Massachusetts Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,99.9,Massachusetts,50.1,603784.0
+,Overall Massachusetts Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,99.9,Massachusetts,48.7,586716.0
+,Overall Massachusetts Presidential Primaries Results,democrat,False,No Preference,Democratic,3,99.9,Massachusetts,0.7,8152.0
+,Overall Massachusetts Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,4,99.9,Massachusetts,0.4,4744.0
+,Overall Massachusetts Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,5,99.9,Massachusetts,0.1,1531.0
+,Overall Massachusetts Presidential Primaries Results,republican,True,D. Trump,Republican,1,99.9,Massachusetts,49.3,311313.0
+,Overall Massachusetts Presidential Primaries Results,republican,False,J. Kasich,Republican,2,99.9,Massachusetts,18.0,113783.0
+,Overall Massachusetts Presidential Primaries Results,republican,False,M. Rubio,Republican,3,99.9,Massachusetts,17.9,112822.0
+,Overall Massachusetts Presidential Primaries Results,republican,False,T. Cruz,Republican,4,99.9,Massachusetts,9.6,60473.0
+,Overall Massachusetts Presidential Primaries Results,republican,False,B. Carson,Republican,5,99.9,Massachusetts,2.6,16277.0
+,Overall Massachusetts Presidential Primaries Results,republican,False,J. Bush,Republican,6,99.9,Massachusetts,1.0,6454.0
+,Overall Massachusetts Presidential Primaries Results,republican,False,No Preference,Republican,7,99.9,Massachusetts,0.5,3236.0
+,Overall Massachusetts Presidential Primaries Results,republican,False,R. Paul,Republican,8,99.9,Massachusetts,0.3,1862.0
+,Overall Massachusetts Presidential Primaries Results,republican,False,C. Christie,Republican,9,99.9,Massachusetts,0.3,1832.0
+,Overall Massachusetts Presidential Primaries Results,republican,False,C. Fiorina,Republican,10,99.9,Massachusetts,0.2,1153.0
+,Overall Massachusetts Presidential Primaries Results,republican,False,J. Gilmore,Republican,11,99.9,Massachusetts,0.1,744.0
+,Overall Massachusetts Presidential Primaries Results,republican,False,M. Huckabee,Republican,12,99.9,Massachusetts,0.1,689.0
+,Overall Massachusetts Presidential Primaries Results,republican,False,G. Pataki,Republican,13,99.9,Massachusetts,0.1,467.0
+,Overall Massachusetts Presidential Primaries Results,republican,False,R. Santorum,Republican,14,99.9,Massachusetts,0.0,290.0
+65.0,Overall Michigan Presidential Primaries Results,democrat,True,B. Sanders,Democratic,1,100.0,Michigan,49.8,595222.0
+73.0,Overall Michigan Presidential Primaries Results,democrat,False,H. Clinton,Democratic,2,100.0,Michigan,48.3,576795.0
+2.0,Overall Michigan Presidential Primaries Results,democrat,False,Uncommitted,Democratic,3,100.0,Michigan,1.6,19425.0
+,Overall Michigan Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,4,100.0,Michigan,0.2,2338.0
+,Overall Michigan Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,5,100.0,Michigan,0.1,863.0
+25.0,Overall Michigan Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,Michigan,36.5,483751.0
+17.0,Overall Michigan Presidential Primaries Results,republican,False,T. Cruz,Republican,2,100.0,Michigan,24.9,330015.0
+17.0,Overall Michigan Presidential Primaries Results,republican,False,J. Kasich,Republican,3,100.0,Michigan,24.3,321655.0
+,Overall Michigan Presidential Primaries Results,republican,False,M. Rubio,Republican,4,100.0,Michigan,9.3,123673.0
+,Overall Michigan Presidential Primaries Results,republican,False,B. Carson,Republican,5,100.0,Michigan,1.6,21342.0
+,Overall Michigan Presidential Primaries Results,republican,False,Uncommitted,Republican,6,100.0,Michigan,1.5,19842.0
+,Overall Michigan Presidential Primaries Results,republican,False,J. Bush,Republican,7,100.0,Michigan,0.8,10670.0
+,Overall Michigan Presidential Primaries Results,republican,False,R. Paul,Republican,8,100.0,Michigan,0.3,3776.0
+,Overall Michigan Presidential Primaries Results,republican,False,C. Christie,Republican,9,100.0,Michigan,0.2,3121.0
+,Overall Michigan Presidential Primaries Results,republican,False,M. Huckabee,Republican,10,100.0,Michigan,0.2,2606.0
+,Overall Michigan Presidential Primaries Results,republican,False,R. Santorum,Republican,11,100.0,Michigan,0.1,1725.0
+,Overall Michigan Presidential Primaries Results,republican,False,C. Fiorina,Republican,12,100.0,Michigan,0.1,1413.0
+,Overall Michigan Presidential Primaries Results,republican,False,G. Pataki,Republican,13,100.0,Michigan,0.0,592.0
+,Overall Michigan Presidential Primaries Results,republican,False,L. Graham,Republican,14,100.0,Michigan,0.0,440.0
+49.0,Overall Minnesota Presidential Caucuses Results,democrat,True,B. Sanders,Democratic,1,89.8,Minnesota,61.6,118135.0
+40.0,Overall Minnesota Presidential Caucuses Results,democrat,False,H. Clinton,Democratic,2,89.8,Minnesota,38.4,73510.0
+,Overall Minnesota Presidential Caucuses Results,democrat,False,R. De La Fuente,Democratic,3,89.8,Minnesota,0.0,1.0
+2.0,Overall Minnesota Presidential Caucuses Results,democrat,False,Uncommitted,Democratic,4,89.8,Minnesota,0.0,1.0
+,Overall Minnesota Presidential Caucuses Results,democrat,False,M. O'Malley,Democratic,5,89.8,Minnesota,0.0,0.0
+,Overall Minnesota Presidential Caucuses Results,democrat,False,Other,Democratic,6,89.8,Minnesota,0.0,0.0
+17.0,Overall Minnesota Presidential Caucuses Results,republican,True,M. Rubio,Republican,1,96.0,Minnesota,36.5,41126.0
+13.0,Overall Minnesota Presidential Caucuses Results,republican,False,T. Cruz,Republican,2,96.0,Minnesota,29.0,32684.0
+8.0,Overall Minnesota Presidential Caucuses Results,republican,False,D. Trump,Republican,3,96.0,Minnesota,21.3,24018.0
+,Overall Minnesota Presidential Caucuses Results,republican,False,B. Carson,Republican,4,96.0,Minnesota,7.3,8233.0
+,Overall Minnesota Presidential Caucuses Results,republican,False,J. Kasich,Republican,5,96.0,Minnesota,5.8,6488.0
+,Overall Minnesota Presidential Caucuses Results,republican,False,Write-In,Republican,6,96.0,Minnesota,0.2,206.0
+34.0,Overall Mississippi Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,Mississippi,82.6,182447.0
+7.0,Overall Mississippi Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,Mississippi,16.5,36348.0
+,Overall Mississippi Presidential Primaries Results,democrat,False,W. Wilson,Democratic,3,100.0,Mississippi,0.4,874.0
+,Overall Mississippi Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,4,100.0,Mississippi,0.3,651.0
+,Overall Mississippi Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,5,100.0,Mississippi,0.2,470.0
+25.0,Overall Mississippi Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,Mississippi,47.3,191755.0
+15.0,Overall Mississippi Presidential Primaries Results,republican,False,T. Cruz,Republican,2,100.0,Mississippi,36.3,147065.0
+,Overall Mississippi Presidential Primaries Results,republican,False,J. Kasich,Republican,3,100.0,Mississippi,8.8,35817.0
+,Overall Mississippi Presidential Primaries Results,republican,False,M. Rubio,Republican,4,100.0,Mississippi,5.1,20768.0
+,Overall Mississippi Presidential Primaries Results,republican,False,B. Carson,Republican,5,100.0,Mississippi,1.3,5309.0
+,Overall Mississippi Presidential Primaries Results,republican,False,J. Bush,Republican,6,100.0,Mississippi,0.4,1557.0
+,Overall Mississippi Presidential Primaries Results,republican,False,M. Huckabee,Republican,7,100.0,Mississippi,0.3,1033.0
+,Overall Mississippi Presidential Primaries Results,republican,False,R. Paul,Republican,8,100.0,Mississippi,0.2,622.0
+,Overall Mississippi Presidential Primaries Results,republican,False,C. Christie,Republican,9,100.0,Mississippi,0.1,480.0
+,Overall Mississippi Presidential Primaries Results,republican,False,R. Santorum,Republican,10,100.0,Mississippi,0.1,284.0
+,Overall Mississippi Presidential Primaries Results,republican,False,C. Fiorina,Republican,11,100.0,Mississippi,0.1,222.0
+,Overall Mississippi Presidential Primaries Results,republican,False,L. Graham,Republican,12,100.0,Mississippi,0.0,170.0
+,Overall Mississippi Presidential Primaries Results,republican,False,G. Pataki,Republican,13,100.0,Mississippi,0.0,128.0
+47.0,Overall Missouri Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,Missouri,49.6,310602.0
+34.0,Overall Missouri Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,Missouri,49.4,309071.0
+,Overall Missouri Presidential Primaries Results,democrat,False,Uncommitted,Democratic,3,100.0,Missouri,0.6,3702.0
+,Overall Missouri Presidential Primaries Results,democrat,False,H. Hewes,Democratic,4,100.0,Missouri,0.1,648.0
+,Overall Missouri Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,5,100.0,Missouri,0.1,441.0
+,Overall Missouri Presidential Primaries Results,democrat,False,J. Adams,Democratic,6,100.0,Missouri,0.1,433.0
+,Overall Missouri Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,7,100.0,Missouri,0.1,343.0
+,Overall Missouri Presidential Primaries Results,democrat,False,W. Wilson,Democratic,8,100.0,Missouri,0.0,307.0
+,Overall Missouri Presidential Primaries Results,democrat,False,K. Judd,Democratic,9,100.0,Missouri,0.0,283.0
+,Overall Missouri Presidential Primaries Results,democrat,False,J. Wolfe,Democratic,10,100.0,Missouri,0.0,247.0
+25.0,Overall Missouri Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,Missouri,40.9,382093.0
+5.0,Overall Missouri Presidential Primaries Results,republican,False,T. Cruz,Republican,2,100.0,Missouri,40.7,380367.0
+,Overall Missouri Presidential Primaries Results,republican,False,J. Kasich,Republican,3,100.0,Missouri,9.9,92533.0
+,Overall Missouri Presidential Primaries Results,republican,False,M. Rubio,Republican,4,100.0,Missouri,6.1,57006.0
+,Overall Missouri Presidential Primaries Results,republican,False,B. Carson,Republican,5,100.0,Missouri,0.9,8201.0
+,Overall Missouri Presidential Primaries Results,republican,False,J. Bush,Republican,6,100.0,Missouri,0.4,3349.0
+,Overall Missouri Presidential Primaries Results,republican,False,Uncommitted,Republican,7,100.0,Missouri,0.3,3216.0
+,Overall Missouri Presidential Primaries Results,republican,False,M. Huckabee,Republican,8,100.0,Missouri,0.2,2137.0
+,Overall Missouri Presidential Primaries Results,republican,False,R. Paul,Republican,9,100.0,Missouri,0.2,1771.0
+,Overall Missouri Presidential Primaries Results,republican,False,C. Christie,Republican,10,100.0,Missouri,0.2,1677.0
+,Overall Missouri Presidential Primaries Results,republican,False,R. Santorum,Republican,11,100.0,Missouri,0.1,729.0
+,Overall Missouri Presidential Primaries Results,republican,False,C. Fiorina,Republican,12,100.0,Missouri,0.1,603.0
+,Overall Missouri Presidential Primaries Results,republican,False,J. Lynch,Republican,13,100.0,Missouri,0.0,101.0
+12.0,Overall Montana Presidential Primaries Results,democrat,True,B. Sanders,Democratic,1,100.0,Montana,51.1,63168.0
+15.0,Overall Montana Presidential Primaries Results,democrat,False,H. Clinton,Democratic,2,100.0,Montana,44.6,55194.0
+,Overall Montana Presidential Primaries Results,democrat,False,No Preference,Democratic,3,100.0,Montana,4.3,5364.0
+27.0,Overall Montana Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,Montana,73.7,114056.0
+,Overall Montana Presidential Primaries Results,republican,False,T. Cruz,Republican,2,100.0,Montana,9.4,14476.0
+,Overall Montana Presidential Primaries Results,republican,False,J. Kasich,Republican,3,100.0,Montana,6.9,10622.0
+,Overall Montana Presidential Primaries Results,republican,False,No Preference,Republican,4,100.0,Montana,4.7,7295.0
+,Overall Montana Presidential Primaries Results,republican,False,M. Rubio,Republican,5,100.0,Montana,3.3,5113.0
+,Overall Montana Presidential Primaries Results,republican,False,J. Bush,Republican,6,100.0,Montana,2.1,3248.0
+14.0,Overall Nebraska Presidential Caucus and Primary Results,democrat,True,H. Clinton,Democratic,1,100.0,Nebraska,53.3,41829.0
+16.0,Overall Nebraska Presidential Caucus and Primary Results,democrat,False,B. Sanders,Democratic,2,100.0,Nebraska,46.7,36714.0
+36.0,Overall Nebraska Presidential Caucus and Primary Results,republican,True,D. Trump,Republican,1,100.0,Nebraska,61.4,121287.0
+,Overall Nebraska Presidential Caucus and Primary Results,republican,False,T. Cruz,Republican,2,100.0,Nebraska,18.4,36418.0
+,Overall Nebraska Presidential Caucus and Primary Results,republican,False,J. Kasich,Republican,3,100.0,Nebraska,11.4,22526.0
+,Overall Nebraska Presidential Caucus and Primary Results,republican,False,B. Carson,Republican,4,100.0,Nebraska,5.1,10029.0
+,Overall Nebraska Presidential Caucus and Primary Results,republican,False,M. Rubio,Republican,5,100.0,Nebraska,3.6,7170.0
+27.0,Overall Nevada Presidential Caucuses Results,democrat,True,H. Clinton,Democratic,1,98.5,Nevada,52.6,6309.0
+16.0,Overall Nevada Presidential Caucuses Results,democrat,False,B. Sanders,Democratic,2,98.5,Nevada,47.3,5668.0
+,Overall Nevada Presidential Caucuses Results,democrat,False,Uncommitted,Democratic,3,98.5,Nevada,0.1,8.0
+,Overall Nevada Presidential Caucuses Results,democrat,False,Other,Democratic,4,98.5,Nevada,0.0,0.0
+16.0,Overall Nevada Presidential Caucuses Results,republican,True,D. Trump,Republican,1,100.0,Nevada,45.9,34531.0
+7.0,Overall Nevada Presidential Caucuses Results,republican,False,M. Rubio,Republican,2,100.0,Nevada,23.9,17940.0
+6.0,Overall Nevada Presidential Caucuses Results,republican,False,T. Cruz,Republican,3,100.0,Nevada,21.4,16079.0
+1.0,Overall Nevada Presidential Caucuses Results,republican,False,B. Carson,Republican,4,100.0,Nevada,4.8,3619.0
+1.0,Overall Nevada Presidential Caucuses Results,republican,False,J. Kasich,Republican,5,100.0,Nevada,3.6,2709.0
+,Overall Nevada Presidential Caucuses Results,republican,False,R. Paul,Republican,6,100.0,Nevada,0.2,170.0
+,Overall Nevada Presidential Caucuses Results,republican,False,J. Bush,Republican,7,100.0,Nevada,0.1,64.0
+,Overall Nevada Presidential Caucuses Results,republican,False,C. Christie,Republican,8,100.0,Nevada,0.1,50.0
+,Overall Nevada Presidential Caucuses Results,republican,False,C. Fiorina,Republican,9,100.0,Nevada,0.0,22.0
+,Overall Nevada Presidential Caucuses Results,republican,False,M. Huckabee,Republican,10,100.0,Nevada,0.0,21.0
+,Overall Nevada Presidential Caucuses Results,republican,False,R. Santorum,Republican,11,100.0,Nevada,0.0,11.0
+,Overall New Hampshire Presidential Primaries Results,democrat,True,B. Sanders,Democratic,1,100.0,New Hampshire,60.4,151584.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,H. Clinton,Democratic,2,100.0,New Hampshire,38.0,95252.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,Total Write-ins,Democratic,3,100.0,New Hampshire,0.9,2174.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,4,100.0,New Hampshire,0.3,643.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,V. Supreme,Democratic,5,100.0,New Hampshire,0.1,260.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,D. Thistle,Democratic,6,100.0,New Hampshire,0.1,226.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,G. Schwass,Democratic,7,100.0,New Hampshire,0.0,125.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,S. Burke,Democratic,8,100.0,New Hampshire,0.0,106.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,9,100.0,New Hampshire,0.0,95.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,J. Wolfe,Democratic,10,100.0,New Hampshire,0.0,54.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,J. Adams,Democratic,11,100.0,New Hampshire,0.0,52.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,L. Kelso,Democratic,12,100.0,New Hampshire,0.0,47.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,K. Judd,Democratic,13,100.0,New Hampshire,0.0,43.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,E. Elbot,Democratic,14,100.0,New Hampshire,0.0,34.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,S. Locke,Democratic,15,100.0,New Hampshire,0.0,33.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,B. French,Democratic,16,100.0,New Hampshire,0.0,27.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,M. Greenstein,Democratic,17,100.0,New Hampshire,0.0,27.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,J. Valentine,Democratic,18,100.0,New Hampshire,0.0,25.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,E. O'Donnell,Democratic,19,100.0,New Hampshire,0.0,22.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,R. Lovitt,Democratic,20,100.0,New Hampshire,0.0,21.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,M. Steinberg,Democratic,21,100.0,New Hampshire,0.0,21.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,H. Hewes,Democratic,22,100.0,New Hampshire,0.0,18.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,B. McGaughey,Democratic,23,100.0,New Hampshire,0.0,17.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,E. Sonnino,Democratic,24,100.0,New Hampshire,0.0,17.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,S. Lipscomb,Democratic,25,100.0,New Hampshire,0.0,16.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,S. Sloan,Democratic,26,100.0,New Hampshire,0.0,15.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,B. Hutton,Democratic,27,100.0,New Hampshire,0.0,14.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,R. Moroz,Democratic,28,100.0,New Hampshire,0.0,8.0
+,Overall New Hampshire Presidential Primaries Results,democrat,False,R. Weil,Democratic,29,100.0,New Hampshire,0.0,7.0
+,Overall New Hampshire Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,New Hampshire,35.3,100406.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,J. Kasich,Republican,2,100.0,New Hampshire,15.8,44909.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,T. Cruz,Republican,3,100.0,New Hampshire,11.7,33189.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,J. Bush,Republican,4,100.0,New Hampshire,11.0,31310.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,M. Rubio,Republican,5,100.0,New Hampshire,10.6,30032.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,C. Christie,Republican,6,100.0,New Hampshire,7.4,21069.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,C. Fiorina,Republican,7,100.0,New Hampshire,4.1,11706.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,B. Carson,Republican,8,100.0,New Hampshire,2.3,6509.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,R. Paul,Republican,9,100.0,New Hampshire,0.7,1900.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,Total Write-ins,Republican,10,100.0,New Hampshire,0.6,1775.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,M. Huckabee,Republican,11,100.0,New Hampshire,0.1,215.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,A. Martin,Republican,12,100.0,New Hampshire,0.1,169.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,R. Santorum,Republican,13,100.0,New Hampshire,0.1,155.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,J. Gilmore,Republican,14,100.0,New Hampshire,0.0,133.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,R. Witz,Republican,15,100.0,New Hampshire,0.0,105.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,G. Pataki,Republican,16,100.0,New Hampshire,0.0,80.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,T. Cook,Republican,17,100.0,New Hampshire,0.0,77.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,L. Graham,Republican,18,100.0,New Hampshire,0.0,70.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,B. Jindal,Republican,19,100.0,New Hampshire,0.0,64.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,B. Cullison,Republican,20,100.0,New Hampshire,0.0,54.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,F. Lynch,Republican,21,100.0,New Hampshire,0.0,47.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,J. Robinson,Republican,22,100.0,New Hampshire,0.0,44.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,S. Comley,Republican,23,100.0,New Hampshire,0.0,31.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,D. Dyas,Republican,24,100.0,New Hampshire,0.0,14.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,C. Prag,Republican,25,100.0,New Hampshire,0.0,14.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,S. McCarthy,Republican,26,100.0,New Hampshire,0.0,12.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,W. Iwachiw,Republican,27,100.0,New Hampshire,0.0,9.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,K. Huey,Republican,28,100.0,New Hampshire,0.0,7.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,M. Drozd,Republican,29,100.0,New Hampshire,0.0,5.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,R. Mann,Republican,30,100.0,New Hampshire,0.0,5.0
+,Overall New Hampshire Presidential Primaries Results,republican,False,P. Messina,Republican,31,100.0,New Hampshire,0.0,5.0
+85.0,Overall New Jersey Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,99.2,New Jersey,63.3,542927.0
+49.0,Overall New Jersey Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,99.2,New Jersey,36.7,315327.0
+51.0,Overall New Jersey Presidential Primaries Results,republican,True,D. Trump,Republican,1,99.2,New Jersey,80.6,350973.0
+,Overall New Jersey Presidential Primaries Results,republican,False,J. Kasich,Republican,2,99.2,New Jersey,13.3,57759.0
+,Overall New Jersey Presidential Primaries Results,republican,False,T. Cruz,Republican,3,99.2,New Jersey,6.1,26753.0
+27.0,Overall New Mexico Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,New Mexico,51.5,110486.0
+16.0,Overall New Mexico Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,New Mexico,48.5,104006.0
+24.0,Overall New Mexico Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,New Mexico,70.7,73647.0
+,Overall New Mexico Presidential Primaries Results,republican,False,T. Cruz,Republican,2,100.0,New Mexico,13.3,13839.0
+,Overall New Mexico Presidential Primaries Results,republican,False,J. Kasich,Republican,3,100.0,New Mexico,7.6,7876.0
+,Overall New Mexico Presidential Primaries Results,republican,False,B. Carson,Republican,4,100.0,New Mexico,3.7,3810.0
+,Overall New Mexico Presidential Primaries Results,republican,False,J. Bush,Republican,5,100.0,New Mexico,3.4,3497.0
+,Overall New Mexico Presidential Primaries Results,republican,False,C. Fiorina,Republican,6,100.0,New Mexico,1.4,1506.0
+181.0,Overall New York Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,99.6,New York,58.0,1054083.0
+108.0,Overall New York Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,99.6,New York,42.0,763469.0
+89.0,Overall New York Presidential Primaries Results,republican,True,D. Trump,Republican,1,99.3,New York,60.4,524932.0
+6.0,Overall New York Presidential Primaries Results,republican,False,J. Kasich,Republican,2,99.3,New York,25.1,217904.0
+,Overall New York Presidential Primaries Results,republican,False,T. Cruz,Republican,3,99.3,New York,14.5,126151.0
+,Overall New York Presidential Primaries Results,republican,False,B. Carson,Republican,4,99.3,New York,0.0,0.0
+71.0,Overall North Carolina Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,North Carolina,54.6,616383.0
+49.0,Overall North Carolina Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,North Carolina,40.8,460316.0
+,Overall North Carolina Presidential Primaries Results,democrat,False,No Preference,Democratic,3,100.0,North Carolina,3.3,37185.0
+,Overall North Carolina Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,4,100.0,North Carolina,1.1,12007.0
+,Overall North Carolina Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,5,100.0,North Carolina,0.3,3350.0
+29.0,Overall North Carolina Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,North Carolina,40.2,458151.0
+27.0,Overall North Carolina Presidential Primaries Results,republican,False,T. Cruz,Republican,2,100.0,North Carolina,36.8,418740.0
+9.0,Overall North Carolina Presidential Primaries Results,republican,False,J. Kasich,Republican,3,100.0,North Carolina,12.7,144299.0
+6.0,Overall North Carolina Presidential Primaries Results,republican,False,M. Rubio,Republican,4,100.0,North Carolina,7.7,87858.0
+1.0,Overall North Carolina Presidential Primaries Results,republican,False,B. Carson,Republican,5,100.0,North Carolina,1.0,10913.0
+,Overall North Carolina Presidential Primaries Results,republican,False,No Preference,Republican,6,100.0,North Carolina,0.5,6019.0
+,Overall North Carolina Presidential Primaries Results,republican,False,J. Bush,Republican,7,100.0,North Carolina,0.3,3841.0
+,Overall North Carolina Presidential Primaries Results,republican,False,M. Huckabee,Republican,8,100.0,North Carolina,0.3,3076.0
+,Overall North Carolina Presidential Primaries Results,republican,False,R. Paul,Republican,9,100.0,North Carolina,0.2,2708.0
+,Overall North Carolina Presidential Primaries Results,republican,False,C. Christie,Republican,10,100.0,North Carolina,0.1,1244.0
+,Overall North Carolina Presidential Primaries Results,republican,False,C. Fiorina,Republican,11,100.0,North Carolina,0.1,944.0
+,Overall North Carolina Presidential Primaries Results,republican,False,R. Santorum,Republican,12,100.0,North Carolina,0.1,655.0
+,Overall North Carolina Presidential Primaries Results,republican,False,J. Gilmore,Republican,13,100.0,North Carolina,0.0,270.0
+14.0,Overall North Dakota Presidential Caucus Results,democrat,True,B. Sanders,,1,100.0,North Dakota,64.2,253.0
+6.0,Overall North Dakota Presidential Caucus Results,democrat,False,H. Clinton,,2,100.0,North Dakota,25.6,101.0
+3.0,Overall North Dakota Presidential Caucus Results,democrat,False,Uncommitted,,3,100.0,North Dakota,10.2,40.0
+,Overall North Dakota Presidential Caucus Results,democrat,False,R. De La Fuente,,4,100.0,North Dakota,0.0,0.0
+,Overall North Dakota Presidential Caucus Results,democrat,False,K. Judd,,5,100.0,North Dakota,0.0,0.0
+,Overall North Dakota Presidential Caucus Results,democrat,False,Other,,6,100.0,North Dakota,0.0,0.0
+,Overall North Dakota Presidential Caucus Results,democrat,False,W. Wilson,,7,100.0,North Dakota,0.0,0.0
+96.0,Overall Ohio Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,Ohio,56.5,679266.0
+63.0,Overall Ohio Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,Ohio,42.7,513549.0
+,Overall Ohio Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,3,100.0,Ohio,0.8,9348.0
+66.0,Overall Ohio Presidential Primaries Results,republican,True,J. Kasich,Republican,1,100.0,Ohio,46.8,956762.0
+,Overall Ohio Presidential Primaries Results,republican,False,D. Trump,Republican,2,100.0,Ohio,35.6,727585.0
+,Overall Ohio Presidential Primaries Results,republican,False,T. Cruz,Republican,3,100.0,Ohio,13.1,267592.0
+,Overall Ohio Presidential Primaries Results,republican,False,M. Rubio,Republican,4,100.0,Ohio,2.9,59418.0
+,Overall Ohio Presidential Primaries Results,republican,False,B. Carson,Republican,5,100.0,Ohio,0.7,14883.0
+,Overall Ohio Presidential Primaries Results,republican,False,J. Bush,Republican,6,100.0,Ohio,0.3,5572.0
+,Overall Ohio Presidential Primaries Results,republican,False,M. Huckabee,Republican,7,100.0,Ohio,0.2,4980.0
+,Overall Ohio Presidential Primaries Results,republican,False,C. Christie,Republican,8,100.0,Ohio,0.1,2586.0
+,Overall Ohio Presidential Primaries Results,republican,False,C. Fiorina,Republican,9,100.0,Ohio,0.1,2287.0
+,Overall Ohio Presidential Primaries Results,republican,False,R. Santorum,Republican,10,100.0,Ohio,0.1,1378.0
+,Overall Oklahoma Presidential Primaries Results,democrat,True,B. Sanders,Democratic,1,100.0,Oklahoma,51.9,174054.0
+,Overall Oklahoma Presidential Primaries Results,democrat,False,H. Clinton,Democratic,2,100.0,Oklahoma,41.5,139338.0
+,Overall Oklahoma Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,3,100.0,Oklahoma,2.3,7669.0
+,Overall Oklahoma Presidential Primaries Results,democrat,False,K. Judd,Democratic,4,100.0,Oklahoma,1.3,4385.0
+,Overall Oklahoma Presidential Primaries Results,democrat,False,M. Steinberg,Democratic,5,100.0,Oklahoma,1.2,4167.0
+,Overall Oklahoma Presidential Primaries Results,democrat,False,S. Locke,Democratic,6,100.0,Oklahoma,1.0,3456.0
+,Overall Oklahoma Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,7,100.0,Oklahoma,0.7,2485.0
+,Overall Oklahoma Presidential Primaries Results,republican,True,T. Cruz,Republican,1,100.0,Oklahoma,34.4,157941.0
+,Overall Oklahoma Presidential Primaries Results,republican,False,D. Trump,Republican,2,100.0,Oklahoma,28.3,130141.0
+,Overall Oklahoma Presidential Primaries Results,republican,False,M. Rubio,Republican,3,100.0,Oklahoma,26.0,119562.0
+,Overall Oklahoma Presidential Primaries Results,republican,False,B. Carson,Republican,4,100.0,Oklahoma,6.2,28572.0
+,Overall Oklahoma Presidential Primaries Results,republican,False,J. Kasich,Republican,5,100.0,Oklahoma,3.6,16515.0
+,Overall Oklahoma Presidential Primaries Results,republican,False,J. Bush,Republican,6,100.0,Oklahoma,0.5,2089.0
+,Overall Oklahoma Presidential Primaries Results,republican,False,R. Paul,Republican,7,100.0,Oklahoma,0.4,1662.0
+,Overall Oklahoma Presidential Primaries Results,republican,False,M. Huckabee,Republican,8,100.0,Oklahoma,0.3,1306.0
+,Overall Oklahoma Presidential Primaries Results,republican,False,C. Fiorina,Republican,9,100.0,Oklahoma,0.1,610.0
+,Overall Oklahoma Presidential Primaries Results,republican,False,C. Christie,Republican,10,100.0,Oklahoma,0.1,545.0
+,Overall Oklahoma Presidential Primaries Results,republican,False,R. Santorum,Republican,11,100.0,Oklahoma,0.1,375.0
+,Overall Oklahoma Presidential Primaries Results,republican,False,L. Graham,Republican,12,100.0,Oklahoma,0.0,224.0
+39.0,Overall Oregon Presidential Primaries Results,democrat,True,B. Sanders,Democratic,1,95.5,Oregon,56.0,320746.0
+34.0,Overall Oregon Presidential Primaries Results,democrat,False,H. Clinton,Democratic,2,95.5,Oregon,44.0,251739.0
+18.0,Overall Oregon Presidential Primaries Results,republican,True,D. Trump,Republican,1,93.3,Oregon,66.6,240804.0
+5.0,Overall Oregon Presidential Primaries Results,republican,False,T. Cruz,Republican,2,93.3,Oregon,17.0,61590.0
+5.0,Overall Oregon Presidential Primaries Results,republican,False,J. Kasich,Republican,3,93.3,Oregon,16.3,59096.0
+125.0,Overall Pennsylvania Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,99.5,Pennsylvania,55.6,918689.0
+83.0,Overall Pennsylvania Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,99.5,Pennsylvania,43.6,719955.0
+,Overall Pennsylvania Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,3,99.5,Pennsylvania,0.9,14303.0
+64.0,Overall Pennsylvania Presidential Primaries Results,republican,True,D. Trump,Republican,1,99.5,Pennsylvania,56.7,892702.0
+4.0,Overall Pennsylvania Presidential Primaries Results,republican,False,T. Cruz,Republican,2,99.5,Pennsylvania,21.6,340201.0
+,Overall Pennsylvania Presidential Primaries Results,republican,False,J. Kasich,Republican,3,99.5,Pennsylvania,19.4,304793.0
+,Overall Pennsylvania Presidential Primaries Results,republican,False,B. Carson,Republican,4,99.5,Pennsylvania,0.9,14616.0
+,Overall Pennsylvania Presidential Primaries Results,republican,False,M. Rubio,Republican,5,99.5,Pennsylvania,0.7,11739.0
+,Overall Pennsylvania Presidential Primaries Results,republican,False,J. Bush,Republican,6,99.5,Pennsylvania,0.6,9287.0
+,Overall Rhode Island Presidential Primaries Results,democrat,True,B. Sanders,Democratic,1,100.0,Rhode Island,54.6,68761.0
+,Overall Rhode Island Presidential Primaries Results,democrat,False,H. Clinton,Democratic,2,100.0,Rhode Island,43.6,54887.0
+,Overall Rhode Island Presidential Primaries Results,democrat,False,Uncommitted,Democratic,3,100.0,Rhode Island,1.4,1773.0
+,Overall Rhode Island Presidential Primaries Results,democrat,False,M. Stewart,Democratic,4,100.0,Rhode Island,0.2,270.0
+,Overall Rhode Island Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,5,100.0,Rhode Island,0.1,155.0
+,Overall Rhode Island Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,Rhode Island,63.6,40020.0
+,Overall Rhode Island Presidential Primaries Results,republican,False,J. Kasich,Republican,2,100.0,Rhode Island,24.5,15400.0
+,Overall Rhode Island Presidential Primaries Results,republican,False,T. Cruz,Republican,3,100.0,Rhode Island,10.6,6679.0
+,Overall Rhode Island Presidential Primaries Results,republican,False,Uncommitted,Republican,4,100.0,Rhode Island,0.7,462.0
+,Overall Rhode Island Presidential Primaries Results,republican,False,M. Rubio,Republican,5,100.0,Rhode Island,0.6,404.0
+45.0,Overall South Carolina Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,South Carolina,73.5,271514.0
+14.0,Overall South Carolina Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,South Carolina,26.0,95977.0
+,Overall South Carolina Presidential Primaries Results,democrat,False,W. Wilson,Democratic,3,100.0,South Carolina,0.4,1321.0
+,Overall South Carolina Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,4,100.0,South Carolina,0.2,714.0
+50.0,Overall South Carolina Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,South Carolina,32.5,239851.0
+,Overall South Carolina Presidential Primaries Results,republican,False,M. Rubio,Republican,2,100.0,South Carolina,22.5,165881.0
+,Overall South Carolina Presidential Primaries Results,republican,False,T. Cruz,Republican,3,100.0,South Carolina,22.3,164790.0
+,Overall South Carolina Presidential Primaries Results,republican,False,J. Bush,Republican,4,100.0,South Carolina,7.8,57863.0
+,Overall South Carolina Presidential Primaries Results,republican,False,J. Kasich,Republican,5,100.0,South Carolina,7.6,56206.0
+,Overall South Carolina Presidential Primaries Results,republican,False,B. Carson,Republican,6,100.0,South Carolina,7.2,53326.0
+15.0,Overall South Dakota Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,South Dakota,51.0,27046.0
+10.0,Overall South Dakota Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,South Dakota,49.0,25958.0
+29.0,Overall South Dakota Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,South Dakota,67.1,44866.0
+,Overall South Dakota Presidential Primaries Results,republican,False,T. Cruz,Republican,2,100.0,South Dakota,17.0,11353.0
+,Overall South Dakota Presidential Primaries Results,republican,False,J. Kasich,Republican,3,100.0,South Dakota,15.9,10659.0
+49.0,Overall Tennessee Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,Tennessee,66.1,245304.0
+22.0,Overall Tennessee Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,Tennessee,32.4,120333.0
+1.0,Overall Tennessee Presidential Primaries Results,democrat,False,Uncommitted,Democratic,3,100.0,Tennessee,0.9,3433.0
+,Overall Tennessee Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,4,100.0,Tennessee,0.5,2012.0
+31.0,Overall Tennessee Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,Tennessee,38.9,332702.0
+14.0,Overall Tennessee Presidential Primaries Results,republican,False,T. Cruz,Republican,2,100.0,Tennessee,24.7,211159.0
+9.0,Overall Tennessee Presidential Primaries Results,republican,False,M. Rubio,Republican,3,100.0,Tennessee,21.2,180989.0
+,Overall Tennessee Presidential Primaries Results,republican,False,B. Carson,Republican,4,100.0,Tennessee,7.6,64846.0
+,Overall Tennessee Presidential Primaries Results,republican,False,J. Kasich,Republican,5,100.0,Tennessee,5.3,45243.0
+,Overall Tennessee Presidential Primaries Results,republican,False,J. Bush,Republican,6,100.0,Tennessee,1.1,9543.0
+,Overall Tennessee Presidential Primaries Results,republican,False,M. Huckabee,Republican,7,100.0,Tennessee,0.3,2404.0
+,Overall Tennessee Presidential Primaries Results,republican,False,R. Paul,Republican,8,100.0,Tennessee,0.3,2336.0
+,Overall Tennessee Presidential Primaries Results,republican,False,Uncommitted,Republican,9,100.0,Tennessee,0.2,1837.0
+,Overall Tennessee Presidential Primaries Results,republican,False,C. Christie,Republican,10,100.0,Tennessee,0.1,1249.0
+,Overall Tennessee Presidential Primaries Results,republican,False,C. Fiorina,Republican,11,100.0,Tennessee,0.1,713.0
+,Overall Tennessee Presidential Primaries Results,republican,False,R. Santorum,Republican,12,100.0,Tennessee,0.1,710.0
+,Overall Tennessee Presidential Primaries Results,republican,False,J. Gilmore,Republican,13,100.0,Tennessee,0.0,270.0
+,Overall Tennessee Presidential Primaries Results,republican,False,L. Graham,Republican,14,100.0,Tennessee,0.0,256.0
+,Overall Tennessee Presidential Primaries Results,republican,False,G. Pataki,Republican,15,100.0,Tennessee,0.0,188.0
+170.0,Overall Texas Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,Texas,65.2,935080.0
+75.0,Overall Texas Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,Texas,33.2,475561.0
+,Overall Texas Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,3,100.0,Texas,0.6,8425.0
+,Overall Texas Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,4,100.0,Texas,0.4,5337.0
+,Overall Texas Presidential Primaries Results,democrat,False,W. Wilson,Democratic,5,100.0,Texas,0.2,3251.0
+,Overall Texas Presidential Primaries Results,democrat,False,K. Judd,Democratic,6,100.0,Texas,0.2,2505.0
+,Overall Texas Presidential Primaries Results,democrat,False,C. Hawes,Democratic,7,100.0,Texas,0.1,2016.0
+,Overall Texas Presidential Primaries Results,democrat,False,S. Locke,Democratic,8,100.0,Texas,0.1,1733.0
+104.0,Overall Texas Presidential Primaries Results,republican,True,T. Cruz,Republican,1,100.0,Texas,43.8,1239370.0
+48.0,Overall Texas Presidential Primaries Results,republican,False,D. Trump,Republican,2,100.0,Texas,26.7,757618.0
+3.0,Overall Texas Presidential Primaries Results,republican,False,M. Rubio,Republican,3,100.0,Texas,17.7,502223.0
+,Overall Texas Presidential Primaries Results,republican,False,J. Kasich,Republican,4,100.0,Texas,4.2,120257.0
+,Overall Texas Presidential Primaries Results,republican,False,B. Carson,Republican,5,100.0,Texas,4.2,117780.0
+,Overall Texas Presidential Primaries Results,republican,False,J. Bush,Republican,6,100.0,Texas,1.3,35418.0
+,Overall Texas Presidential Primaries Results,republican,False,Uncommitted,Republican,7,100.0,Texas,1.0,29515.0
+,Overall Texas Presidential Primaries Results,republican,False,R. Paul,Republican,8,100.0,Texas,0.3,7969.0
+,Overall Texas Presidential Primaries Results,republican,False,M. Huckabee,Republican,9,100.0,Texas,0.2,6213.0
+,Overall Texas Presidential Primaries Results,republican,False,E. Gray,Republican,10,100.0,Texas,0.2,5455.0
+,Overall Texas Presidential Primaries Results,republican,False,C. Christie,Republican,11,100.0,Texas,0.1,3461.0
+,Overall Texas Presidential Primaries Results,republican,False,C. Fiorina,Republican,12,100.0,Texas,0.1,3243.0
+,Overall Texas Presidential Primaries Results,republican,False,R. Santorum,Republican,13,100.0,Texas,0.1,2004.0
+,Overall Texas Presidential Primaries Results,republican,False,L. Graham,Republican,14,100.0,Texas,0.1,1708.0
+28.0,Overall Utah Presidential Caucuses Results,democrat,True,B. Sanders,Democratic,1,99.1,Utah,79.3,61333.0
+8.0,Overall Utah Presidential Caucuses Results,democrat,False,H. Clinton,Democratic,2,99.1,Utah,20.3,15666.0
+,Overall Utah Presidential Caucuses Results,democrat,False,Uncommitted,Democratic,3,99.1,Utah,0.4,317.0
+,Overall Utah Presidential Caucuses Results,democrat,False,R. De La Fuente,Democratic,4,99.1,Utah,0.0,19.0
+,Overall Utah Presidential Caucuses Results,democrat,False,M. Greenstein,Democratic,5,99.1,Utah,0.0,9.0
+40.0,Overall Utah Presidential Caucuses Results,republican,True,T. Cruz,Republican,1,88.7,Utah,69.2,122567.0
+,Overall Utah Presidential Caucuses Results,republican,False,J. Kasich,Republican,2,88.7,Utah,16.8,29773.0
+,Overall Utah Presidential Caucuses Results,republican,False,D. Trump,Republican,3,88.7,Utah,14.0,24864.0
+,Overall Utah Presidential Caucuses Results,republican,False,M. Rubio,Republican,4,88.7,Utah,0.0,0.0
+22.0,Overall Vermont Presidential Primaries Results,democrat,True,B. Sanders,Democratic,1,100.0,Vermont,86.1,115863.0
+4.0,Overall Vermont Presidential Primaries Results,democrat,False,H. Clinton,Democratic,2,100.0,Vermont,13.6,18335.0
+,Overall Vermont Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,3,100.0,Vermont,0.2,279.0
+,Overall Vermont Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,4,100.0,Vermont,0.1,94.0
+6.0,Overall Vermont Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,Vermont,32.7,19968.0
+6.0,Overall Vermont Presidential Primaries Results,republican,False,J. Kasich,Republican,2,100.0,Vermont,30.4,18543.0
+,Overall Vermont Presidential Primaries Results,republican,False,M. Rubio,Republican,3,100.0,Vermont,19.3,11778.0
+,Overall Vermont Presidential Primaries Results,republican,False,T. Cruz,Republican,4,100.0,Vermont,9.7,5929.0
+,Overall Vermont Presidential Primaries Results,republican,False,B. Carson,Republican,5,100.0,Vermont,4.2,2544.0
+,Overall Vermont Presidential Primaries Results,republican,False,J. Bush,Republican,6,100.0,Vermont,1.8,1101.0
+,Overall Vermont Presidential Primaries Results,republican,False,R. Paul,Republican,7,100.0,Vermont,0.7,415.0
+,Overall Vermont Presidential Primaries Results,republican,False,C. Christie,Republican,8,100.0,Vermont,0.6,361.0
+,Overall Vermont Presidential Primaries Results,republican,False,C. Fiorina,Republican,9,100.0,Vermont,0.3,211.0
+,Overall Vermont Presidential Primaries Results,republican,False,R. Santorum,Republican,10,100.0,Vermont,0.3,163.0
+73.0,Overall Virginia Presidential Primaries Results,democrat,True,H. Clinton,Democratic,1,100.0,Virginia,64.3,503358.0
+32.0,Overall Virginia Presidential Primaries Results,democrat,False,B. Sanders,Democratic,2,100.0,Virginia,35.2,275507.0
+,Overall Virginia Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,3,100.0,Virginia,0.5,4030.0
+17.0,Overall Virginia Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,Virginia,34.7,355960.0
+16.0,Overall Virginia Presidential Primaries Results,republican,False,M. Rubio,Republican,2,100.0,Virginia,31.9,327042.0
+8.0,Overall Virginia Presidential Primaries Results,republican,False,T. Cruz,Republican,3,100.0,Virginia,16.9,173193.0
+5.0,Overall Virginia Presidential Primaries Results,republican,False,J. Kasich,Republican,4,100.0,Virginia,9.4,96519.0
+3.0,Overall Virginia Presidential Primaries Results,republican,False,B. Carson,Republican,5,100.0,Virginia,5.9,60093.0
+,Overall Virginia Presidential Primaries Results,republican,False,J. Bush,Republican,6,100.0,Virginia,0.4,3606.0
+,Overall Virginia Presidential Primaries Results,republican,False,R. Paul,Republican,7,100.0,Virginia,0.3,2935.0
+,Overall Virginia Presidential Primaries Results,republican,False,M. Huckabee,Republican,8,100.0,Virginia,0.1,1491.0
+,Overall Virginia Presidential Primaries Results,republican,False,C. Christie,Republican,9,100.0,Virginia,0.1,1098.0
+,Overall Virginia Presidential Primaries Results,republican,False,C. Fiorina,Republican,10,100.0,Virginia,0.1,912.0
+,Overall Virginia Presidential Primaries Results,republican,False,J. Gilmore,Republican,11,100.0,Virginia,0.1,881.0
+,Overall Virginia Presidential Primaries Results,republican,False,R. Santorum,Republican,12,100.0,Virginia,0.1,728.0
+,Overall Virginia Presidential Primaries Results,republican,False,L. Graham,Republican,13,100.0,Virginia,0.0,455.0
+23.0,Overall Washington Presidential Caucus and Primary Results,democrat,True,B. Sanders,Democratic,1,100.0,Washington,72.7,19159.0
+21.0,Overall Washington Presidential Caucus and Primary Results,democrat,False,H. Clinton,Democratic,2,100.0,Washington,27.1,7140.0
+4.0,Overall Washington Presidential Caucus and Primary Results,democrat,False,Uncommitted,Democratic,3,100.0,Washington,0.2,46.0
+,Overall Washington Presidential Caucus and Primary Results,democrat,False,Other,Democratic,4,100.0,Washington,0.0,0.0
+40.0,Overall Washington Presidential Caucus and Primary Results,republican,True,D. Trump,Republican,1,72.3,Washington,75.8,403003.0
+,Overall Washington Presidential Caucus and Primary Results,republican,False,T. Cruz,Republican,2,72.3,Washington,10.5,55719.0
+,Overall Washington Presidential Caucus and Primary Results,republican,False,J. Kasich,Republican,3,72.3,Washington,9.8,52129.0
+,Overall Washington Presidential Caucus and Primary Results,republican,False,B. Carson,Republican,4,72.3,Washington,3.9,20646.0
+19.0,Overall West Virginia Presidential Primaries Results,democrat,True,B. Sanders,Democratic,1,100.0,West Virginia,51.4,123860.0
+18.0,Overall West Virginia Presidential Primaries Results,democrat,False,H. Clinton,Democratic,2,100.0,West Virginia,35.8,86354.0
+,Overall West Virginia Presidential Primaries Results,democrat,False,P. Farrell,Democratic,3,100.0,West Virginia,8.9,21559.0
+,Overall West Virginia Presidential Primaries Results,democrat,False,K. Judd,Democratic,4,100.0,West Virginia,1.8,4452.0
+,Overall West Virginia Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,5,100.0,West Virginia,1.6,3781.0
+,Overall West Virginia Presidential Primaries Results,democrat,False,R. De La Fuente,Democratic,6,100.0,West Virginia,0.4,1010.0
+32.0,Overall West Virginia Presidential Primaries Results,republican,True,D. Trump,Republican,1,100.0,West Virginia,77.0,156245.0
+,Overall West Virginia Presidential Primaries Results,republican,False,T. Cruz,Republican,2,100.0,West Virginia,9.0,18208.0
+1.0,Overall West Virginia Presidential Primaries Results,republican,False,J. Kasich,Republican,3,100.0,West Virginia,6.7,13685.0
+,Overall West Virginia Presidential Primaries Results,republican,False,B. Carson,Republican,4,100.0,West Virginia,2.2,4397.0
+,Overall West Virginia Presidential Primaries Results,republican,False,M. Rubio,Republican,5,100.0,West Virginia,1.4,2895.0
+,Overall West Virginia Presidential Primaries Results,republican,False,J. Bush,Republican,6,100.0,West Virginia,1.1,2298.0
+,Overall West Virginia Presidential Primaries Results,republican,False,R. Paul,Republican,7,100.0,West Virginia,0.9,1789.0
+,Overall West Virginia Presidential Primaries Results,republican,False,M. Huckabee,Republican,8,100.0,West Virginia,0.9,1770.0
+,Overall West Virginia Presidential Primaries Results,republican,False,C. Christie,Republican,9,100.0,West Virginia,0.4,723.0
+,Overall West Virginia Presidential Primaries Results,republican,False,C. Fiorina,Republican,10,100.0,West Virginia,0.3,658.0
+,Overall West Virginia Presidential Primaries Results,republican,False,D. Hall,Republican,11,100.0,West Virginia,0.1,212.0
+49.0,Overall Wisconsin Presidential Primaries Results,democrat,True,B. Sanders,Democratic,1,100.0,Wisconsin,56.6,567936.0
+47.0,Overall Wisconsin Presidential Primaries Results,democrat,False,H. Clinton,Democratic,2,100.0,Wisconsin,43.1,432767.0
+,Overall Wisconsin Presidential Primaries Results,democrat,False,M. O'Malley,Democratic,3,100.0,Wisconsin,0.2,1765.0
+,Overall Wisconsin Presidential Primaries Results,democrat,False,Uninstructed,Democratic,4,100.0,Wisconsin,0.1,1436.0
+36.0,Overall Wisconsin Presidential Primaries Results,republican,True,T. Cruz,Republican,1,100.0,Wisconsin,48.2,531129.0
+6.0,Overall Wisconsin Presidential Primaries Results,republican,False,D. Trump,Republican,2,100.0,Wisconsin,35.1,386370.0
+,Overall Wisconsin Presidential Primaries Results,republican,False,J. Kasich,Republican,3,100.0,Wisconsin,14.1,155200.0
+,Overall Wisconsin Presidential Primaries Results,republican,False,M. Rubio,Republican,4,100.0,Wisconsin,1.0,10569.0
+,Overall Wisconsin Presidential Primaries Results,republican,False,B. Carson,Republican,5,100.0,Wisconsin,0.5,5608.0
+,Overall Wisconsin Presidential Primaries Results,republican,False,J. Bush,Republican,6,100.0,Wisconsin,0.3,3153.0
+,Overall Wisconsin Presidential Primaries Results,republican,False,R. Paul,Republican,7,100.0,Wisconsin,0.2,2491.0
+,Overall Wisconsin Presidential Primaries Results,republican,False,Uninstructed,Republican,8,100.0,Wisconsin,0.2,2288.0
+,Overall Wisconsin Presidential Primaries Results,republican,False,M. Huckabee,Republican,9,100.0,Wisconsin,0.1,1428.0
+,Overall Wisconsin Presidential Primaries Results,republican,False,C. Christie,Republican,10,100.0,Wisconsin,0.1,1310.0
+,Overall Wisconsin Presidential Primaries Results,republican,False,C. Fiorina,Republican,11,100.0,Wisconsin,0.1,825.0
+,Overall Wisconsin Presidential Primaries Results,republican,False,R. Santorum,Republican,12,100.0,Wisconsin,0.0,510.0
+,Overall Wisconsin Presidential Primaries Results,republican,False,J. Gilmore,Republican,13,100.0,Wisconsin,0.0,242.0
+7.0,Overall Wyoming Presidential Caucuses Results,democrat,True,B. Sanders,Democratic,1,100.0,Wyoming,55.7,156.0
+11.0,Overall Wyoming Presidential Caucuses Results,democrat,False,H. Clinton,Democratic,2,100.0,Wyoming,44.3,124.0
+,Overall Wyoming Presidential Caucuses Results,democrat,False,R. De La Fuente,Democratic,3,100.0,Wyoming,0.0,0.0
+,Overall Wyoming Presidential Caucuses Results,democrat,False,Other,Democratic,4,100.0,Wyoming,0.0,0.0
+,Overall Wyoming Presidential Caucuses Results,democrat,False,Uncommitted,Democratic,5,100.0,Wyoming,0.0,0.0
+9.0,Overall Wyoming Presidential Caucuses Results,republican,,T. Cruz,Republican,1,100.0,Wyoming,66.3,644.0
+1.0,Overall Wyoming Presidential Caucuses Results,republican,,M. Rubio,Republican,2,100.0,Wyoming,19.5,189.0
+1.0,Overall Wyoming Presidential Caucuses Results,republican,,D. Trump,Republican,3,100.0,Wyoming,7.2,70.0
+4.0,Overall Wyoming Presidential Caucuses Results,republican,,Uncommitted,Republican,4,100.0,Wyoming,7.0,68.0
+,Overall Wyoming Presidential Caucuses Results,republican,,B. Carson,Republican,5,100.0,Wyoming,0.0,0.0
+,Overall Wyoming Presidential Caucuses Results,republican,,J. Kasich,Republican,6,100.0,Wyoming,0.0,0.0
+,Overall Wyoming Presidential Caucuses Results,republican,,Other,Republican,7,100.0,Wyoming,0.0,0.0
+,Overall Wyoming Presidential Caucuses Results,republican,,R. Paul,Republican,8,100.0,Wyoming,0.0,0.0

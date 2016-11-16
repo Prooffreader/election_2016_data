@@ -1,77 +1,66 @@
 geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_pct,state,vote_pct,votes
-Overall Indiana Governor Primaries Results,,False,True,J. Gregg,Democratic,1,100.0,Indiana,,
-Overall Indiana Governor Primaries Results,,True,True,M. Pence,Republican,1,100.0,Indiana,,
-Overall Missouri Governor Races Results,,False,True,C. Koster,Democratic,1,100.0,Missouri,78.8,255466.0
-Overall Missouri Governor Races Results,,False,False,E. Morrison,Democratic,2,100.0,Missouri,9.7,31364.0
-Overall Missouri Governor Races Results,,False,False,C. Wheeler,Democratic,3,100.0,Missouri,7.9,25656.0
-Overall Missouri Governor Races Results,,False,False,L. Steinman,Democratic,4,100.0,Missouri,3.7,11874.0
-Overall Missouri Governor Races Results,,False,True,E. Greitens,Republican,1,100.0,Missouri,34.6,236250.0
-Overall Missouri Governor Races Results,,False,False,J. Brunner,Republican,2,100.0,Missouri,24.8,169425.0
-Overall Missouri Governor Races Results,,False,False,P. Kinder,Republican,3,100.0,Missouri,20.7,141498.0
-Overall Missouri Governor Races Results,,False,False,C. Hanaway,Republican,4,100.0,Missouri,19.9,136350.0
-Overall Missouri Governor Races Results,Libertarian,False,True,C. Spragins,Independent,1,100.0,Missouri,,
-Overall Montana Governor Races Results,,True,True,S. Bullock,Democratic,1,100.0,Montana,91.3,109567.0
-Overall Montana Governor Races Results,,False,False,B. McChesney,Democratic,2,100.0,Montana,8.7,10503.0
-Overall Montana Governor Races Results,,False,True,G. Gianforte,Republican,1,100.0,Montana,76.4,110079.0
-Overall Montana Governor Races Results,,False,False,T. Nelson,Republican,2,100.0,Montana,23.6,34074.0
-Overall Montana Governor Races Results,Libertarian,False,True,T. Dunlap,Governor Election,1,100.0,Montana,,
-Overall New Hampshire Governor Primaries Results,,False,True,C. Van Ostern,Democratic,1,100.0,New Hampshire,52.0,37696.0
-Overall New Hampshire Governor Primaries Results,,False,False,S. Marchand,Democratic,2,100.0,New Hampshire,25.3,18338.0
-Overall New Hampshire Governor Primaries Results,,False,False,M. Connolly,Democratic,3,100.0,New Hampshire,20.5,14840.0
-Overall New Hampshire Governor Primaries Results,,False,False,I. Freeman,Democratic,4,100.0,New Hampshire,1.5,1069.0
-Overall New Hampshire Governor Primaries Results,,False,False,D. Dextraze,Democratic,5,100.0,New Hampshire,0.8,557.0
-Overall New Hampshire Governor Primaries Results,,False,True,C. Sununu,Republican,1,100.0,New Hampshire,30.7,34137.0
-Overall New Hampshire Governor Primaries Results,,False,False,F. Edelblut,Republican,2,100.0,New Hampshire,29.8,33149.0
-Overall New Hampshire Governor Primaries Results,,False,False,T. Gatsas,Republican,3,100.0,New Hampshire,20.5,22840.0
-Overall New Hampshire Governor Primaries Results,,False,False,J. Forrester,Republican,4,100.0,New Hampshire,17.7,19716.0
-Overall New Hampshire Governor Primaries Results,,False,False,J. Lavoie,Republican,5,100.0,New Hampshire,1.3,1429.0
-Overall North Carolina Governor Primaries Results,,False,True,R. Cooper,Democratic,1,100.0,North Carolina,68.8,702943.0
-Overall North Carolina Governor Primaries Results,,False,False,K. Spaulding,Democratic,2,100.0,North Carolina,31.2,319349.0
-Overall North Carolina Governor Primaries Results,,True,True,P. McCrory,Republican,1,100.0,North Carolina,81.8,868960.0
-Overall North Carolina Governor Primaries Results,,False,False,C. Brawley,Republican,2,100.0,North Carolina,10.6,112607.0
-Overall North Carolina Governor Primaries Results,,False,False,C. Moss,Republican,3,100.0,North Carolina,7.6,81301.0
-Overall North Dakota Governor Races Results,,False,True,M. Nelson,Democratic,1,100.0,North Dakota,,
-Overall North Dakota Governor Races Results,,False,True,D. Burgum,Republican,1,100.0,North Dakota,59.5,67450.0
-Overall North Dakota Governor Races Results,,False,False,W. Stenehjem,Republican,2,100.0,North Dakota,38.6,43800.0
-Overall North Dakota Governor Races Results,,False,False,P. Sorum,Republican,3,100.0,North Dakota,1.9,2139.0
-Overall North Dakota Governor Races Results,Libertarian,False,True,M. Riske,Independent,1,100.0,North Dakota,,
-Overall Oregon Governor Primaries Results,,True,True,K. Brown,Democratic,1,92.8,Oregon,84.9,452320.0
-Overall Oregon Governor Primaries Results,,False,False,J. Bell,Democratic,2,92.8,Oregon,7.2,38487.0
-Overall Oregon Governor Primaries Results,,False,False,D. Stauffer,Democratic,3,92.8,Oregon,2.8,14992.0
-Overall Oregon Governor Primaries Results,,False,False,S. Johnson,Democratic,4,92.8,Oregon,2.3,12474.0
-Overall Oregon Governor Primaries Results,,False,False,K. Forsythe,Democratic,5,92.8,Oregon,1.8,9442.0
-Overall Oregon Governor Primaries Results,,False,False,C. Chance,Democratic,6,92.8,Oregon,1.0,5163.0
-Overall Oregon Governor Primaries Results,,False,True,B. Pierce,Republican,1,92.1,Oregon,47.9,162106.0
-Overall Oregon Governor Primaries Results,,False,False,A. Alley,Republican,2,92.1,Oregon,29.2,98582.0
-Overall Oregon Governor Primaries Results,,False,False,B. Cuff,Republican,3,92.1,Oregon,11.6,39368.0
-Overall Oregon Governor Primaries Results,,False,False,B. Niemeyer,Republican,4,92.1,Oregon,10.1,33987.0
-Overall Oregon Governor Primaries Results,,False,False,B. Forthan,Republican,5,92.1,Oregon,1.2,4041.0
-Overall Utah Governor Races Results,,False,True,M. Weinholtz,Democratic,1,100.0,Utah,,
-Overall Utah Governor Races Results,,True,True,G. Herbert,Republican,1,100.0,Utah,72.1,165678.0
-Overall Utah Governor Races Results,,False,False,J. Johnson,Republican,2,100.0,Utah,27.9,63978.0
-Overall Utah Governor Races Results,Libertarian,False,True,B. Kamerath,Independent,1,100.0,Utah,,
-Overall Utah Governor Races Results,Independent,False,True,D. Schanze,Independent,1,100.0,Utah,,
-Overall Vermont Governor Primaries Results,,False,True,S. Minter,Democratic,1,100.0,Vermont,51.2,35979.0
-Overall Vermont Governor Primaries Results,,False,False,M. Dunne,Democratic,2,100.0,Vermont,38.0,26699.0
-Overall Vermont Governor Primaries Results,,False,False,P. Galbraith,Democratic,3,100.0,Vermont,9.4,6616.0
-Overall Vermont Governor Primaries Results,,False,False,C. Ericson,Democratic,4,100.0,Vermont,0.8,538.0
-Overall Vermont Governor Primaries Results,,False,False,B. Paige,Democratic,5,100.0,Vermont,0.6,387.0
-Overall Vermont Governor Primaries Results,,False,True,P. Scott,Republican,1,100.0,Vermont,60.5,27669.0
-Overall Vermont Governor Primaries Results,,False,False,B. Lisman,Republican,2,100.0,Vermont,39.5,18055.0
-Overall West Virginia Governor Primaries Results,,False,True,J. Justice,Democratic,1,100.0,West Virginia,51.3,131845.0
-Overall West Virginia Governor Primaries Results,,False,False,B. Goodwin,Democratic,2,100.0,West Virginia,25.3,64941.0
-Overall West Virginia Governor Primaries Results,,False,False,J. Kessler,Democratic,3,100.0,West Virginia,23.4,59993.0
-Overall West Virginia Governor Primaries Results,,False,True,B. Cole,Republican,1,100.0,West Virginia,,
-Overall Delaware Governor Primary Results,,False,True,C. Bonini,,1,100.0,Delaware,69.9,21150.0
-Overall Delaware Governor Primary Results,,False,False,L. Lafferty,,2,100.0,Delaware,30.1,9115.0
-Overall Washington Governor Race Results,Democratic,True,True,J. Inslee,,1,80.1,Washington,48.6,461387.0
-Overall Washington Governor Race Results,Republican,False,True,B. Bryant,,2,80.1,Washington,38.6,366393.0
-Overall Washington Governor Race Results,Republican,False,False,B. Hirt,,3,80.1,Washington,3.9,37002.0
-Overall Washington Governor Race Results,Democratic,False,False,P. O'Rourke,,4,80.1,Washington,2.8,26771.0
-Overall Washington Governor Race Results,Independent_Other,False,False,S. Rubenstein,,5,80.1,Washington,1.6,15110.0
-Overall Washington Governor Race Results,Democratic,False,False,J. Dodds,,6,80.1,Washington,1.1,10706.0
-Overall Washington Governor Race Results,Democratic,False,False,J. Deal,,7,80.1,Washington,1.0,9887.0
-Overall Washington Governor Race Results,Republican,False,False,Goodspaceguy,,8,80.1,Washington,1.0,9552.0
-Overall Washington Governor Race Results,American Shopping,False,False,M. Martin,,9,80.1,Washington,0.7,7105.0
-Overall Washington Governor Race Results,Independent_Other,False,False,D. Blomstrom,,10,80.1,Washington,0.4,3353.0
-Overall Washington Governor Race Results,Independent_Other,False,False,C. Joubert,,11,80.1,Washington,0.3,2674.0
+Overall Delaware Governor Primary Results,republican,False,True,C. Bonini,,1,100.0,Delaware,69.9,21150.0
+Overall Delaware Governor Primary Results,republican,False,False,L. Lafferty,,2,100.0,Delaware,30.1,9115.0
+Overall Indiana Governor Primaries Results,democrat,False,True,J. Gregg,Democratic,1,100.0,Indiana,,
+Overall Indiana Governor Primaries Results,republican,True,True,M. Pence,Republican,1,100.0,Indiana,,
+Overall Missouri Governor Races Results,democrat,False,True,C. Koster,Democratic,1,100.0,Missouri,78.8,255466.0
+Overall Missouri Governor Races Results,democrat,False,False,E. Morrison,Democratic,2,100.0,Missouri,9.7,31364.0
+Overall Missouri Governor Races Results,democrat,False,False,C. Wheeler,Democratic,3,100.0,Missouri,7.9,25656.0
+Overall Missouri Governor Races Results,democrat,False,False,L. Steinman,Democratic,4,100.0,Missouri,3.7,11874.0
+Overall Missouri Governor Races Results,republican,False,True,E. Greitens,Republican,1,100.0,Missouri,34.6,236250.0
+Overall Missouri Governor Races Results,republican,False,False,J. Brunner,Republican,2,100.0,Missouri,24.8,169425.0
+Overall Missouri Governor Races Results,republican,False,False,P. Kinder,Republican,3,100.0,Missouri,20.7,141498.0
+Overall Missouri Governor Races Results,republican,False,False,C. Hanaway,Republican,4,100.0,Missouri,19.9,136350.0
+Overall Missouri Governor Races Results,independent_or_other,False,True,C. Spragins,Independent,1,100.0,Missouri,,
+Overall Montana Governor Races Results,democrat,True,True,S. Bullock,Democratic,1,100.0,Montana,91.3,109567.0
+Overall Montana Governor Races Results,democrat,False,False,B. McChesney,Democratic,2,100.0,Montana,8.7,10503.0
+Overall Montana Governor Races Results,republican,False,True,G. Gianforte,Republican,1,100.0,Montana,76.4,110079.0
+Overall Montana Governor Races Results,republican,False,False,T. Nelson,Republican,2,100.0,Montana,23.6,34074.0
+Overall Montana Governor Races Results,independent_or_other,False,True,T. Dunlap,Governor Election,1,100.0,Montana,,
+Overall New Hampshire Governor Primaries Results,democrat,False,True,C. Van Ostern,Democratic,1,100.0,New Hampshire,52.0,37696.0
+Overall New Hampshire Governor Primaries Results,democrat,False,False,S. Marchand,Democratic,2,100.0,New Hampshire,25.3,18338.0
+Overall New Hampshire Governor Primaries Results,democrat,False,False,M. Connolly,Democratic,3,100.0,New Hampshire,20.5,14840.0
+Overall New Hampshire Governor Primaries Results,democrat,False,False,I. Freeman,Democratic,4,100.0,New Hampshire,1.5,1069.0
+Overall New Hampshire Governor Primaries Results,democrat,False,False,D. Dextraze,Democratic,5,100.0,New Hampshire,0.8,557.0
+Overall New Hampshire Governor Primaries Results,republican,False,True,C. Sununu,Republican,1,100.0,New Hampshire,30.7,34137.0
+Overall New Hampshire Governor Primaries Results,republican,False,False,F. Edelblut,Republican,2,100.0,New Hampshire,29.8,33149.0
+Overall New Hampshire Governor Primaries Results,republican,False,False,T. Gatsas,Republican,3,100.0,New Hampshire,20.5,22840.0
+Overall New Hampshire Governor Primaries Results,republican,False,False,J. Forrester,Republican,4,100.0,New Hampshire,17.7,19716.0
+Overall New Hampshire Governor Primaries Results,republican,False,False,J. Lavoie,Republican,5,100.0,New Hampshire,1.3,1429.0
+Overall North Carolina Governor Primaries Results,democrat,False,True,R. Cooper,Democratic,1,100.0,North Carolina,68.8,702943.0
+Overall North Carolina Governor Primaries Results,democrat,False,False,K. Spaulding,Democratic,2,100.0,North Carolina,31.2,319349.0
+Overall North Carolina Governor Primaries Results,republican,True,True,P. McCrory,Republican,1,100.0,North Carolina,81.8,868960.0
+Overall North Carolina Governor Primaries Results,republican,False,False,C. Brawley,Republican,2,100.0,North Carolina,10.6,112607.0
+Overall North Carolina Governor Primaries Results,republican,False,False,C. Moss,Republican,3,100.0,North Carolina,7.6,81301.0
+Overall North Dakota Governor Races Results,democrat,False,True,M. Nelson,Democratic,1,100.0,North Dakota,,
+Overall North Dakota Governor Races Results,republican,False,True,D. Burgum,Republican,1,100.0,North Dakota,59.5,67450.0
+Overall North Dakota Governor Races Results,republican,False,False,W. Stenehjem,Republican,2,100.0,North Dakota,38.6,43800.0
+Overall North Dakota Governor Races Results,republican,False,False,P. Sorum,Republican,3,100.0,North Dakota,1.9,2139.0
+Overall North Dakota Governor Races Results,independent_or_other,False,True,M. Riske,Independent,1,100.0,North Dakota,,
+Overall Utah Governor Races Results,democrat,False,True,M. Weinholtz,Democratic,1,100.0,Utah,,
+Overall Utah Governor Races Results,republican,True,True,G. Herbert,Republican,1,100.0,Utah,72.1,165678.0
+Overall Utah Governor Races Results,republican,False,False,J. Johnson,Republican,2,100.0,Utah,27.9,63978.0
+Overall Utah Governor Races Results,independent_or_other,False,True,B. Kamerath,Independent,1,100.0,Utah,,
+Overall Utah Governor Races Results,independent_or_other,False,True,D. Schanze,Independent,1,100.0,Utah,,
+Overall Vermont Governor Primaries Results,democrat,False,True,S. Minter,Democratic,1,100.0,Vermont,51.2,35979.0
+Overall Vermont Governor Primaries Results,democrat,False,False,M. Dunne,Democratic,2,100.0,Vermont,38.0,26699.0
+Overall Vermont Governor Primaries Results,democrat,False,False,P. Galbraith,Democratic,3,100.0,Vermont,9.4,6616.0
+Overall Vermont Governor Primaries Results,democrat,False,False,C. Ericson,Democratic,4,100.0,Vermont,0.8,538.0
+Overall Vermont Governor Primaries Results,democrat,False,False,B. Paige,Democratic,5,100.0,Vermont,0.6,387.0
+Overall Vermont Governor Primaries Results,republican,False,True,P. Scott,Republican,1,100.0,Vermont,60.5,27669.0
+Overall Vermont Governor Primaries Results,republican,False,False,B. Lisman,Republican,2,100.0,Vermont,39.5,18055.0
+Overall Washington Governor Race Results,democrat,True,True,J. Inslee,,1,80.1,Washington,48.6,461387.0
+Overall Washington Governor Race Results,republican,False,True,B. Bryant,,2,80.1,Washington,38.6,366393.0
+Overall Washington Governor Race Results,republican,False,False,B. Hirt,,3,80.1,Washington,3.9,37002.0
+Overall Washington Governor Race Results,democrat,False,False,P. O'Rourke,,4,80.1,Washington,2.8,26771.0
+Overall Washington Governor Race Results,independent_or_other,False,False,S. Rubenstein,,5,80.1,Washington,1.6,15110.0
+Overall Washington Governor Race Results,democrat,False,False,J. Dodds,,6,80.1,Washington,1.1,10706.0
+Overall Washington Governor Race Results,democrat,False,False,J. Deal,,7,80.1,Washington,1.0,9887.0
+Overall Washington Governor Race Results,republican,False,False,Goodspaceguy,,8,80.1,Washington,1.0,9552.0
+Overall Washington Governor Race Results,independent_or_other,False,False,M. Martin,,9,80.1,Washington,0.7,7105.0
+Overall Washington Governor Race Results,independent_or_other,False,False,D. Blomstrom,,10,80.1,Washington,0.4,3353.0
+Overall Washington Governor Race Results,independent_or_other,False,False,C. Joubert,,11,80.1,Washington,0.3,2674.0
+Overall West Virginia Governor Primaries Results,democrat,False,True,J. Justice,Democratic,1,100.0,West Virginia,51.3,131845.0
+Overall West Virginia Governor Primaries Results,democrat,False,False,B. Goodwin,Democratic,2,100.0,West Virginia,25.3,64941.0
+Overall West Virginia Governor Primaries Results,democrat,False,False,J. Kessler,Democratic,3,100.0,West Virginia,23.4,59993.0
+Overall West Virginia Governor Primaries Results,republican,False,True,B. Cole,Republican,1,100.0,West Virginia,,

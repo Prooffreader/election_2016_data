@@ -1,303 +1,303 @@
 delegates,electoral_votes,geo_name,individual_party,is_winner,name,rank,reporting_pct,state,vote_pct,votes
-9.0,9.0,Overall 2016 Alabama Presidential Election Results,Republican,True,D. Trump,1,100.0,Alabama,62.9,1306925
-,9.0,Overall 2016 Alabama Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Alabama,34.6,718084
-,9.0,Overall 2016 Alabama Presidential Election Results,Independent,False,G. Johnson,3,100.0,Alabama,2.1,43869
-,9.0,Overall 2016 Alabama Presidential Election Results,Independent,False,J. Stein,4,100.0,Alabama,0.4,9287
-3.0,3.0,Overall 2016 Alaska Presidential Election Results,Republican,True,D. Trump,1,99.8,Alaska,52.9,130415
-,3.0,Overall 2016 Alaska Presidential Election Results,Democratic,False,H. Clinton,2,99.8,Alaska,37.7,93007
-,3.0,Overall 2016 Alaska Presidential Election Results,Libertarian,False,G. Johnson,3,99.8,Alaska,5.9,14593
-,3.0,Overall 2016 Alaska Presidential Election Results,Green,False,J. Stein,4,99.8,Alaska,1.8,4445
-,3.0,Overall 2016 Alaska Presidential Election Results,Constitution,False,D. Castle,5,99.8,Alaska,1.3,3156
-,3.0,Overall 2016 Alaska Presidential Election Results,Independent_N,False,R. De La Fuente,6,99.8,Alaska,0.4,972
-11.0,11.0,Overall 2016 Arizona Presidential Election Results,Republican,True,D. Trump,1,100.0,Arizona,49.5,1017166
-,11.0,Overall 2016 Arizona Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Arizona,45.4,933655
-,11.0,Overall 2016 Arizona Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Arizona,3.9,79874
-,11.0,Overall 2016 Arizona Presidential Election Results,Green,False,J. Stein,4,100.0,Arizona,1.2,25195
-6.0,6.0,Overall 2016 Arkansas Presidential Election Results,Republican,True,D. Trump,1,100.0,Arkansas,60.4,677904
-,6.0,Overall 2016 Arkansas Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Arkansas,33.8,378729
-,6.0,Overall 2016 Arkansas Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Arkansas,2.6,29518
-,6.0,Overall 2016 Arkansas Presidential Election Results,Better for America,False,E. McMullin,4,100.0,Arkansas,1.2,13069
-,6.0,Overall 2016 Arkansas Presidential Election Results,Green,False,J. Stein,5,100.0,Arkansas,0.9,9837
-,6.0,Overall 2016 Arkansas Presidential Election Results,Independent,False,J. Hedges,6,100.0,Arkansas,0.4,4676
-,6.0,Overall 2016 Arkansas Presidential Election Results,Constitution,False,D. Castle,7,100.0,Arkansas,0.4,4567
-,6.0,Overall 2016 Arkansas Presidential Election Results,Independent,False,L. Kahn,8,100.0,Arkansas,0.3,3384
-55.0,55.0,Overall 2016 California Presidential Election Results,Democratic,True,H. Clinton,1,100.0,California,61.5,5589936
-,55.0,Overall 2016 California Presidential Election Results,Republican,False,D. Trump,2,100.0,California,33.2,3021095
-,55.0,Overall 2016 California Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,California,3.2,288310
-,55.0,Overall 2016 California Presidential Election Results,Green,False,J. Stein,4,100.0,California,1.7,155706
-,55.0,Overall 2016 California Presidential Election Results,Progressive,False,G. La Riva,5,100.0,California,0.4,38880
-9.0,9.0,Overall 2016 Colorado Presidential Election Results,Democratic,True,H. Clinton,1,100.0,Colorado,47.2,1208095
-,9.0,Overall 2016 Colorado Presidential Election Results,Republican,False,D. Trump,2,100.0,Colorado,44.4,1136354
-,9.0,Overall 2016 Colorado Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Colorado,5.0,129128
-,9.0,Overall 2016 Colorado Presidential Election Results,Green,False,J. Stein,4,100.0,Colorado,1.3,33009
-,9.0,Overall 2016 Colorado Presidential Election Results,U.S. Taxpayers,False,E. McMullin,5,100.0,Colorado,1.0,26715
-,9.0,Overall 2016 Colorado Presidential Election Results,Constitution,False,D. Castle,6,100.0,Colorado,0.4,10883
-,9.0,Overall 2016 Colorado Presidential Election Results,Veterans,False,C. Keniston,7,100.0,Colorado,0.2,4732
-,9.0,Overall 2016 Colorado Presidential Election Results,U.S. Taxpayers,False,M. Smith,8,100.0,Colorado,0.1,1661
-,9.0,Overall 2016 Colorado Presidential Election Results,American,False,R. De La Fuente,9,100.0,Colorado,0.0,1061
-,9.0,Overall 2016 Colorado Presidential Election Results,Independent,False,K. Kopitke,10,100.0,Colorado,0.0,1001
-,9.0,Overall 2016 Colorado Presidential Election Results,U.S. Taxpayers,False,J. Maldonado,11,100.0,Colorado,0.0,780
-,9.0,Overall 2016 Colorado Presidential Election Results,Independent_Other,False,M. Maturen,12,100.0,Colorado,0.0,752
-,9.0,Overall 2016 Colorado Presidential Election Results,U.S. Taxpayers,False,R. Scott,13,100.0,Colorado,0.0,687
-,9.0,Overall 2016 Colorado Presidential Election Results,Independent_Other,False,R. Silva,14,100.0,Colorado,0.0,652
-,9.0,Overall 2016 Colorado Presidential Election Results,American,False,T. Hoefling,15,100.0,Colorado,0.0,639
-,9.0,Overall 2016 Colorado Presidential Election Results,Progressive,False,G. La Riva,16,100.0,Colorado,0.0,445
-,9.0,Overall 2016 Colorado Presidential Election Results,American Shopping,False,A. Kennedy,17,100.0,Colorado,0.0,409
-,9.0,Overall 2016 Colorado Presidential Election Results,U.S. Taxpayers,False,L. Kotlikoff,18,100.0,Colorado,0.0,359
-,9.0,Overall 2016 Colorado Presidential Election Results,Progressive,False,B. Lyttle,19,100.0,Colorado,0.0,336
-,9.0,Overall 2016 Colorado Presidential Election Results,Independent_Other,False,F. Atwood,20,100.0,Colorado,0.0,309
-,9.0,Overall 2016 Colorado Presidential Election Results,American Shopping,False,E. Soltysik,21,100.0,Colorado,0.0,235
-,9.0,Overall 2016 Colorado Presidential Election Results,Progressive,False,J. Hedges,22,100.0,Colorado,0.0,163
-7.0,7.0,Overall 2016 Connecticut Presidential Election Results,Democratic,True,H. Clinton,1,96.1,Connecticut,53.9,823360
-,7.0,Overall 2016 Connecticut Presidential Election Results,Republican,False,D. Trump,2,96.1,Connecticut,41.7,637919
-,7.0,Overall 2016 Connecticut Presidential Election Results,Libertarian,False,G. Johnson,3,96.1,Connecticut,3.0,45999
-,7.0,Overall 2016 Connecticut Presidential Election Results,Green,False,J. Stein,4,96.1,Connecticut,1.4,21539
-3.0,3.0,Overall 2016 Delaware Presidential Election Results,Democratic,True,H. Clinton,1,100.0,Delaware,53.4,235581
-,3.0,Overall 2016 Delaware Presidential Election Results,Republican,False,D. Trump,2,100.0,Delaware,41.9,185103
-,3.0,Overall 2016 Delaware Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Delaware,3.3,14751
-,3.0,Overall 2016 Delaware Presidential Election Results,Green,False,J. Stein,4,100.0,Delaware,1.4,6100
-3.0,3.0,Overall 2016 District of Columbia Presidential Election Results,Democratic,True,H. Clinton,1,100.0,District of Columbia,92.8,260223
-,3.0,Overall 2016 District of Columbia Presidential Election Results,Republican,False,D. Trump,2,100.0,District of Columbia,4.1,11553
-,3.0,Overall 2016 District of Columbia Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,District of Columbia,1.6,4501
-,3.0,Overall 2016 District of Columbia Presidential Election Results,Democratic,False,J. Stein,4,100.0,District of Columbia,1.4,3995
-29.0,29.0,Overall 2016 Florida Presidential Election Results,Republican,True,D. Trump,1,100.0,Florida,49.1,4605515
-,29.0,Overall 2016 Florida Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Florida,47.8,4485745
-,29.0,Overall 2016 Florida Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Florida,2.2,206007
-,29.0,Overall 2016 Florida Presidential Election Results,Green,False,J. Stein,4,100.0,Florida,0.7,64019
-,29.0,Overall 2016 Florida Presidential Election Results,Constitution,False,D. Castle,5,100.0,Florida,0.2,16393
-,29.0,Overall 2016 Florida Presidential Election Results,Republican,False,R. De La Fuente,6,100.0,Florida,0.1,9071
-16.0,16.0,Overall 2016 Georgia Presidential Election Results,Republican,True,D. Trump,1,100.0,Georgia,51.3,2068623
-,16.0,Overall 2016 Georgia Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Georgia,45.6,1837300
-,16.0,Overall 2016 Georgia Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Georgia,3.1,123641
-4.0,4.0,Overall 2016 Hawaii Presidential Election Results,Democratic,True,H. Clinton,1,100.0,Hawaii,62.3,251853
-,4.0,Overall 2016 Hawaii Presidential Election Results,Republican,False,D. Trump,2,100.0,Hawaii,30.1,121648
-,4.0,Overall 2016 Hawaii Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Hawaii,3.7,14854
-,4.0,Overall 2016 Hawaii Presidential Election Results,Green,False,J. Stein,4,100.0,Hawaii,2.9,11608
-,4.0,Overall 2016 Hawaii Presidential Election Results,Constitution,False,D. Castle,5,100.0,Hawaii,1.0,4191
-4.0,4.0,Overall 2016 Idaho Presidential Election Results,Republican,True,D. Trump,1,100.0,Idaho,59.2,407199
-,4.0,Overall 2016 Idaho Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Idaho,27.6,189677
-,4.0,Overall 2016 Idaho Presidential Election Results,Independent,False,E. McMullin,3,100.0,Idaho,6.8,46538
-,4.0,Overall 2016 Idaho Presidential Election Results,Libertarian,False,G. Johnson,4,100.0,Idaho,4.1,28256
-,4.0,Overall 2016 Idaho Presidential Election Results,Independent,False,J. Stein,5,100.0,Idaho,1.2,8464
-,4.0,Overall 2016 Idaho Presidential Election Results,Independent,False,D. Castle,6,100.0,Idaho,0.6,4378
-,4.0,Overall 2016 Idaho Presidential Election Results,Constitution,False,S. Copeland,7,100.0,Idaho,0.3,2347
-,4.0,Overall 2016 Idaho Presidential Election Results,Independent,False,R. De La Fuente,8,100.0,Idaho,0.2,1376
-20.0,20.0,Overall 2016 Illinois Presidential Election Results,Democratic,True,H. Clinton,1,99.1,Illinois,55.4,2977498
-,20.0,Overall 2016 Illinois Presidential Election Results,Republican,False,D. Trump,2,99.1,Illinois,39.4,2118179
-,20.0,Overall 2016 Illinois Presidential Election Results,Libertarian,False,G. Johnson,3,99.1,Illinois,3.8,204491
-,20.0,Overall 2016 Illinois Presidential Election Results,Green,False,J. Stein,4,99.1,Illinois,1.4,74112
-11.0,11.0,Overall 2016 Indiana Presidential Election Results,Republican,True,D. Trump,1,100.0,Indiana,57.2,1556220
-,11.0,Overall 2016 Indiana Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Indiana,37.9,1031953
-,11.0,Overall 2016 Indiana Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Indiana,4.9,133856
-6.0,6.0,Overall 2016 Iowa Presidential Election Results,Republican,True,D. Trump,1,99.9,Iowa,51.8,798923
-,6.0,Overall 2016 Iowa Presidential Election Results,Democratic,False,H. Clinton,2,99.9,Iowa,42.2,650790
-,6.0,Overall 2016 Iowa Presidential Election Results,Libertarian,False,G. Johnson,3,99.9,Iowa,3.7,57322
-,6.0,Overall 2016 Iowa Presidential Election Results,Progressive,False,E. McMullin,4,99.9,Iowa,0.8,12267
-,6.0,Overall 2016 Iowa Presidential Election Results,Green,False,J. Stein,5,99.9,Iowa,0.7,11119
-,6.0,Overall 2016 Iowa Presidential Election Results,Constitution,False,D. Castle,6,99.9,Iowa,0.5,7252
-,6.0,Overall 2016 Iowa Presidential Election Results,Libertarian,False,D. Vacek,7,99.9,Iowa,0.1,2256
-,6.0,Overall 2016 Iowa Presidential Election Results,Independent_Other,False,L. Kahn,8,99.9,Iowa,0.1,2181
-,6.0,Overall 2016 Iowa Presidential Election Results,Progressive,False,R. De La Fuente,9,99.9,Iowa,0.0,450
-,6.0,Overall 2016 Iowa Presidential Election Results,Progressive,False,G. La Riva,10,99.9,Iowa,0.0,320
-6.0,6.0,Overall 2016 Kansas Presidential Election Results,Republican,True,D. Trump,1,99.9,Kansas,57.2,656009
-,6.0,Overall 2016 Kansas Presidential Election Results,Democratic,False,H. Clinton,2,99.9,Kansas,36.2,414788
-,6.0,Overall 2016 Kansas Presidential Election Results,Libertarian,False,G. Johnson,3,99.9,Kansas,4.7,53648
-,6.0,Overall 2016 Kansas Presidential Election Results,Independent,False,J. Stein,4,99.9,Kansas,2.0,22698
-8.0,8.0,Overall 2016 Kentucky Presidential Election Results,Republican,True,D. Trump,1,100.0,Kentucky,62.5,1202942
-,8.0,Overall 2016 Kentucky Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Kentucky,32.7,628834
-,8.0,Overall 2016 Kentucky Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Kentucky,2.8,53749
-,8.0,Overall 2016 Kentucky Presidential Election Results,Independent,False,E. McMullin,4,100.0,Kentucky,1.2,22780
-,8.0,Overall 2016 Kentucky Presidential Election Results,Green,False,J. Stein,5,100.0,Kentucky,0.7,13913
-,8.0,Overall 2016 Kentucky Presidential Election Results,American,False,R. De La Fuente,6,100.0,Kentucky,0.1,1128
-8.0,8.0,Overall 2016 Louisiana Presidential Election Results,Republican,True,D. Trump,1,100.0,Louisiana,58.1,1178004
-,8.0,Overall 2016 Louisiana Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Louisiana,38.4,779535
-,8.0,Overall 2016 Louisiana Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Louisiana,1.9,37950
-,8.0,Overall 2016 Louisiana Presidential Election Results,Green,False,J. Stein,4,100.0,Louisiana,0.7,14018
-,8.0,Overall 2016 Louisiana Presidential Election Results,Independent_Other,False,E. McMullin,5,100.0,Louisiana,0.4,8546
-,8.0,Overall 2016 Louisiana Presidential Election Results,Independent_Other,False,D. Castle,6,100.0,Louisiana,0.2,3128
-,8.0,Overall 2016 Louisiana Presidential Election Results,Independent_Other,False,C. Keniston,7,100.0,Louisiana,0.1,1880
-,8.0,Overall 2016 Louisiana Presidential Election Results,Independent_Other,False,T. Hoefling,8,100.0,Louisiana,0.1,1581
-,8.0,Overall 2016 Louisiana Presidential Election Results,Independent_Other,False,L. Kotlikoff,9,100.0,Louisiana,0.1,1046
-,8.0,Overall 2016 Louisiana Presidential Election Results,Independent_Other,False,P. Jacob,10,100.0,Louisiana,0.0,748
-,8.0,Overall 2016 Louisiana Presidential Election Results,Independent_Other,False,A. Kennedy,11,100.0,Louisiana,0.0,480
-,8.0,Overall 2016 Louisiana Presidential Election Results,Independent_Other,False,G. La Riva,12,100.0,Louisiana,0.0,446
-,8.0,Overall 2016 Louisiana Presidential Election Results,Independent_Other,False,J. White,13,100.0,Louisiana,0.0,369
-3.0,4.0,Overall 2016 Maine Presidential Election Results,Democratic,True,H. Clinton,1,100.0,Maine,47.9,354873
-1.0,4.0,Overall 2016 Maine Presidential Election Results,Republican,False,D. Trump,2,100.0,Maine,45.2,334838
-,4.0,Overall 2016 Maine Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Maine,5.1,37764
-,4.0,Overall 2016 Maine Presidential Election Results,Green,False,J. Stein,4,100.0,Maine,1.9,14075
-10.0,10.0,Overall 2016 Maryland Presidential Election Results,Democratic,True,H. Clinton,1,99.9,Maryland,60.5,1497951
-,10.0,Overall 2016 Maryland Presidential Election Results,Republican,False,D. Trump,2,99.9,Maryland,35.3,873646
-,10.0,Overall 2016 Maryland Presidential Election Results,Libertarian,False,G. Johnson,3,99.9,Maryland,2.9,71107
-,10.0,Overall 2016 Maryland Presidential Election Results,Green,False,J. Stein,4,99.9,Maryland,1.3,31839
-11.0,11.0,Overall 2016 Massachusetts Presidential Election Results,Democratic,True,H. Clinton,1,100.0,Massachusetts,60.8,1964768
-,11.0,Overall 2016 Massachusetts Presidential Election Results,Republican,False,D. Trump,2,100.0,Massachusetts,33.5,1083069
-,11.0,Overall 2016 Massachusetts Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Massachusetts,4.2,136784
-,11.0,Overall 2016 Massachusetts Presidential Election Results,Green,False,J. Stein,4,100.0,Massachusetts,1.5,46910
-,16.0,Overall 2016 Michigan Presidential Election Results,Republican,,D. Trump,1,100.0,Michigan,47.6,2279221
-,16.0,Overall 2016 Michigan Presidential Election Results,Democratic,,H. Clinton,2,100.0,Michigan,47.3,2267798
-,16.0,Overall 2016 Michigan Presidential Election Results,Libertarian,,G. Johnson,3,100.0,Michigan,3.6,173023
-,16.0,Overall 2016 Michigan Presidential Election Results,Green,,J. Stein,4,100.0,Michigan,1.1,50690
-,16.0,Overall 2016 Michigan Presidential Election Results,U.S. Taxpayers,,D. Castle,5,100.0,Michigan,0.4,16925
-,16.0,Overall 2016 Michigan Presidential Election Results,Independent_N,,E. Soltysik,6,100.0,Michigan,0.0,2236
-10.0,10.0,Overall 2016 Minnesota Presidential Election Results,Democratic,True,H. Clinton,1,100.0,Minnesota,46.9,1366676
-,10.0,Overall 2016 Minnesota Presidential Election Results,Republican,False,D. Trump,2,100.0,Minnesota,45.4,1322891
-,10.0,Overall 2016 Minnesota Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Minnesota,3.9,112944
-,10.0,Overall 2016 Minnesota Presidential Election Results,Independent,False,E. McMullin,4,100.0,Minnesota,1.8,53080
-,10.0,Overall 2016 Minnesota Presidential Election Results,Green,False,J. Stein,5,100.0,Minnesota,1.3,36957
-,10.0,Overall 2016 Minnesota Presidential Election Results,Libertarian,False,D. Vacek,6,100.0,Minnesota,0.4,11290
-,10.0,Overall 2016 Minnesota Presidential Election Results,Constitution,False,D. Castle,7,100.0,Minnesota,0.3,9466
-,10.0,Overall 2016 Minnesota Presidential Election Results,American Shopping,False,A. Kennedy,8,100.0,Minnesota,0.1,1670
-,10.0,Overall 2016 Minnesota Presidential Election Results,American,False,R. De La Fuente,9,100.0,Minnesota,0.0,1430
-6.0,6.0,Overall 2016 Mississippi Presidential Election Results,Republican,True,D. Trump,1,100.0,Mississippi,58.3,678457
-,6.0,Overall 2016 Mississippi Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Mississippi,39.7,462001
-,6.0,Overall 2016 Mississippi Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Mississippi,1.2,13789
-,6.0,Overall 2016 Mississippi Presidential Election Results,Constitution,False,D. Castle,4,100.0,Mississippi,0.3,3878
-,6.0,Overall 2016 Mississippi Presidential Election Results,Green,False,J. Stein,5,100.0,Mississippi,0.3,3580
-,6.0,Overall 2016 Mississippi Presidential Election Results,Progressive,False,J. Hedges,6,100.0,Mississippi,0.1,686
-,6.0,Overall 2016 Mississippi Presidential Election Results,American,False,R. De La Fuente,7,100.0,Mississippi,0.1,596
-10.0,10.0,Overall 2016 Missouri Presidential Election Results,Republican,True,D. Trump,1,99.9,Missouri,57.1,1585753
-,10.0,Overall 2016 Missouri Presidential Election Results,Democratic,False,H. Clinton,2,99.9,Missouri,38.0,1054889
-,10.0,Overall 2016 Missouri Presidential Election Results,Libertarian,False,G. Johnson,3,99.9,Missouri,3.5,96404
-,10.0,Overall 2016 Missouri Presidential Election Results,Green,False,J. Stein,4,99.9,Missouri,0.9,25086
-,10.0,Overall 2016 Missouri Presidential Election Results,Constitution,False,D. Castle,5,99.9,Missouri,0.5,12966
-3.0,3.0,Overall 2016 Montana Presidential Election Results,Republican,True,D. Trump,1,100.0,Montana,56.5,274120
-,3.0,Overall 2016 Montana Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Montana,36.0,174521
-,3.0,Overall 2016 Montana Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Montana,5.6,27264
-,3.0,Overall 2016 Montana Presidential Election Results,Green,False,J. Stein,4,100.0,Montana,1.6,7669
-,3.0,Overall 2016 Montana Presidential Election Results,American,False,R. De La Fuente,5,100.0,Montana,0.3,1535
-5.0,5.0,Overall 2016 Nebraska Presidential Election Results,Republican,True,D. Trump,1,100.0,Nebraska,60.3,485819
-,5.0,Overall 2016 Nebraska Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Nebraska,34.0,273858
-,5.0,Overall 2016 Nebraska Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Nebraska,4.7,37615
-,5.0,Overall 2016 Nebraska Presidential Election Results,Progressive,False,J. Stein,4,100.0,Nebraska,1.0,8346
-6.0,6.0,Overall 2016 Nevada Presidential Election Results,Democratic,True,H. Clinton,1,100.0,Nevada,47.9,537753
-,6.0,Overall 2016 Nevada Presidential Election Results,Republican,False,D. Trump,2,100.0,Nevada,45.5,511319
-,6.0,Overall 2016 Nevada Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Nevada,3.3,37299
-,6.0,Overall 2016 Nevada Presidential Election Results,Independent_N,False,None of these candidates,4,100.0,Nevada,2.6,28824
-,6.0,Overall 2016 Nevada Presidential Election Results,Independent,False,D. Castle,5,100.0,Nevada,0.5,5254
-,6.0,Overall 2016 Nevada Presidential Election Results,Independent_N,False,R. De La Fuente,6,100.0,Nevada,0.2,2541
-,4.0,Overall 2016 New Hampshire Presidential Election Results,Democratic,,H. Clinton,1,100.0,New Hampshire,47.6,348126
-,4.0,Overall 2016 New Hampshire Presidential Election Results,Republican,,D. Trump,2,100.0,New Hampshire,47.3,345598
-,4.0,Overall 2016 New Hampshire Presidential Election Results,Libertarian,,G. Johnson,3,100.0,New Hampshire,4.2,30530
-,4.0,Overall 2016 New Hampshire Presidential Election Results,Green,,J. Stein,4,100.0,New Hampshire,0.9,6374
-,4.0,Overall 2016 New Hampshire Presidential Election Results,American,,R. De La Fuente,5,100.0,New Hampshire,0.1,674
-14.0,14.0,Overall 2016 New Jersey Presidential Election Results,Democratic,True,H. Clinton,1,99.3,New Jersey,55.0,2021756
-,14.0,Overall 2016 New Jersey Presidential Election Results,Republican,False,D. Trump,2,99.3,New Jersey,41.8,1535513
-,14.0,Overall 2016 New Jersey Presidential Election Results,Libertarian,False,G. Johnson,3,99.3,New Jersey,1.9,68695
-,14.0,Overall 2016 New Jersey Presidential Election Results,Green,False,J. Stein,4,99.3,New Jersey,1.0,35949
-,14.0,Overall 2016 New Jersey Presidential Election Results,Constitution,False,D. Castle,5,99.3,New Jersey,0.2,5830
-,14.0,Overall 2016 New Jersey Presidential Election Results,American Shopping,False,A. Kennedy,6,99.3,New Jersey,0.1,2090
-,14.0,Overall 2016 New Jersey Presidential Election Results,American,False,R. De La Fuente,7,99.3,New Jersey,0.0,1765
-,14.0,Overall 2016 New Jersey Presidential Election Results,Working Class,False,M. Moorehead,8,99.3,New Jersey,0.0,1682
-,14.0,Overall 2016 New Jersey Presidential Election Results,Progressive,False,G. La Riva,9,99.3,New Jersey,0.0,1613
-5.0,5.0,Overall 2016 New Mexico Presidential Election Results,Democratic,True,H. Clinton,1,100.0,New Mexico,48.3,380724
-,5.0,Overall 2016 New Mexico Presidential Election Results,Republican,False,D. Trump,2,100.0,New Mexico,40.0,315875
-,5.0,Overall 2016 New Mexico Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,New Mexico,9.3,73669
-,5.0,Overall 2016 New Mexico Presidential Election Results,Green,False,J. Stein,4,100.0,New Mexico,1.2,9729
-,5.0,Overall 2016 New Mexico Presidential Election Results,Better for America,False,E. McMullin,5,100.0,New Mexico,0.7,5714
-,5.0,Overall 2016 New Mexico Presidential Election Results,Constitution,False,D. Castle,6,100.0,New Mexico,0.2,1490
-,5.0,Overall 2016 New Mexico Presidential Election Results,Progressive,False,G. La Riva,7,100.0,New Mexico,0.1,1174
-,5.0,Overall 2016 New Mexico Presidential Election Results,American,False,R. De La Fuente,8,100.0,New Mexico,0.1,466
-29.0,29.0,Overall 2016 New York Presidential Election Results,Democratic,True,H. Clinton,1,99.7,New York,58.8,4143874
-,29.0,Overall 2016 New York Presidential Election Results,Republican,False,D. Trump,2,99.7,New York,37.5,2640570
-,29.0,Overall 2016 New York Presidential Election Results,Libertarian,False,G. Johnson,3,99.7,New York,2.3,161836
-,29.0,Overall 2016 New York Presidential Election Results,Green,False,J. Stein,4,99.7,New York,1.4,99895
-15.0,15.0,Overall 2016 North Carolina Presidential Election Results,Republican,True,D. Trump,1,100.0,North Carolina,50.5,2339603
-,15.0,Overall 2016 North Carolina Presidential Election Results,Democratic,False,H. Clinton,2,100.0,North Carolina,46.7,2162074
-,15.0,Overall 2016 North Carolina Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,North Carolina,2.8,127794
-3.0,3.0,Overall 2016 North Dakota Presidential Election Results,Republican,True,D. Trump,1,100.0,North Dakota,64.1,216133
-,3.0,Overall 2016 North Dakota Presidential Election Results,Democratic,False,H. Clinton,2,100.0,North Dakota,27.8,93526
-,3.0,Overall 2016 North Dakota Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,North Dakota,6.3,21351
-,3.0,Overall 2016 North Dakota Presidential Election Results,Green,False,J. Stein,4,100.0,North Dakota,1.1,3769
-,3.0,Overall 2016 North Dakota Presidential Election Results,Constitution,False,D. Castle,5,100.0,North Dakota,0.5,1825
-,3.0,Overall 2016 North Dakota Presidential Election Results,American,False,R. De La Fuente,6,100.0,North Dakota,0.1,364
-18.0,18.0,Overall 2016 Ohio Presidential Election Results,Republican,True,D. Trump,1,100.0,Ohio,52.1,2771984
-,18.0,Overall 2016 Ohio Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Ohio,43.5,2317001
-,18.0,Overall 2016 Ohio Presidential Election Results,Independent,False,G. Johnson,3,100.0,Ohio,3.2,168599
-,18.0,Overall 2016 Ohio Presidential Election Results,Green,False,J. Stein,4,100.0,Ohio,0.8,44310
-,18.0,Overall 2016 Ohio Presidential Election Results,Independent,False,R. Duncan,5,100.0,Ohio,0.4,23501
-7.0,7.0,Overall 2016 Oklahoma Presidential Election Results,Republican,True,D. Trump,1,100.0,Oklahoma,65.3,947934
-,7.0,Overall 2016 Oklahoma Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Oklahoma,28.9,419788
-,7.0,Overall 2016 Oklahoma Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Oklahoma,5.7,83334
-7.0,7.0,Overall 2016 Oregon Presidential Election Results,Democratic,True,H. Clinton,1,99.1,Oregon,51.7,934631
-,7.0,Overall 2016 Oregon Presidential Election Results,Republican,False,D. Trump,2,99.1,Oregon,41.1,742506
-,7.0,Overall 2016 Oregon Presidential Election Results,Libertarian,False,G. Johnson,3,99.1,Oregon,4.8,86306
-,7.0,Overall 2016 Oregon Presidential Election Results,Progressive,False,J. Stein,4,99.1,Oregon,2.5,45132
-20.0,20.0,Overall 2016 Pennsylvania Presidential Election Results,Republican,True,D. Trump,1,99.8,Pennsylvania,48.8,2912941
-,20.0,Overall 2016 Pennsylvania Presidential Election Results,Democratic,False,H. Clinton,2,99.8,Pennsylvania,47.6,2844705
-,20.0,Overall 2016 Pennsylvania Presidential Election Results,Libertarian,False,G. Johnson,3,99.8,Pennsylvania,2.4,142653
-,20.0,Overall 2016 Pennsylvania Presidential Election Results,Green,False,J. Stein,4,99.8,Pennsylvania,0.8,48912
-,20.0,Overall 2016 Pennsylvania Presidential Election Results,Constitution,False,D. Castle,5,99.8,Pennsylvania,0.4,20896
-4.0,4.0,Overall 2016 Rhode Island Presidential Election Results,Democratic,True,H. Clinton,1,100.0,Rhode Island,55.4,249902
-,4.0,Overall 2016 Rhode Island Presidential Election Results,Republican,False,D. Trump,2,100.0,Rhode Island,39.8,179421
-,4.0,Overall 2016 Rhode Island Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Rhode Island,3.2,14643
-,4.0,Overall 2016 Rhode Island Presidential Election Results,Green,False,J. Stein,4,100.0,Rhode Island,1.4,6155
-,4.0,Overall 2016 Rhode Island Presidential Election Results,American,False,R. De La Fuente,5,100.0,Rhode Island,0.1,666
-9.0,9.0,Overall 2016 South Carolina Presidential Election Results,Republican,True,D. Trump,1,100.0,South Carolina,54.9,1143611
-,9.0,Overall 2016 South Carolina Presidential Election Results,Democratic,False,H. Clinton,2,100.0,South Carolina,40.8,849469
-,9.0,Overall 2016 South Carolina Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,South Carolina,2.3,48715
-,9.0,Overall 2016 South Carolina Presidential Election Results,Independent,False,E. McMullin,4,100.0,South Carolina,1.0,20795
-,9.0,Overall 2016 South Carolina Presidential Election Results,Green,False,J. Stein,5,100.0,South Carolina,0.6,12917
-,9.0,Overall 2016 South Carolina Presidential Election Results,Constitution,False,D. Castle,6,100.0,South Carolina,0.3,5716
-,9.0,Overall 2016 South Carolina Presidential Election Results,American,False,P. Skewes,7,100.0,South Carolina,0.2,3221
-3.0,3.0,Overall 2016 South Dakota Presidential Election Results,Republican,True,D. Trump,1,100.0,South Dakota,61.5,227701
-,3.0,Overall 2016 South Dakota Presidential Election Results,Democratic,False,H. Clinton,2,100.0,South Dakota,31.7,117442
-,3.0,Overall 2016 South Dakota Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,South Dakota,5.6,20845
-,3.0,Overall 2016 South Dakota Presidential Election Results,Constitution,False,D. Castle,4,100.0,South Dakota,1.1,4059
-11.0,11.0,Overall 2016 Tennessee Presidential Election Results,Republican,True,D. Trump,1,100.0,Tennessee,61.1,1517402
-,11.0,Overall 2016 Tennessee Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Tennessee,34.9,867110
-,11.0,Overall 2016 Tennessee Presidential Election Results,Independent,False,G. Johnson,3,100.0,Tennessee,2.8,70084
-,11.0,Overall 2016 Tennessee Presidential Election Results,Independent,False,J. Stein,4,100.0,Tennessee,0.6,15919
-,11.0,Overall 2016 Tennessee Presidential Election Results,Independent,False,M. Smith,5,100.0,Tennessee,0.3,7244
-,11.0,Overall 2016 Tennessee Presidential Election Results,Independent,False,R. De La Fuente,6,100.0,Tennessee,0.2,4064
-,11.0,Overall 2016 Tennessee Presidential Election Results,Independent,False,A. Kennedy,7,100.0,Tennessee,0.1,2868
-38.0,38.0,Overall 2016 Texas Presidential Election Results,Republican,True,D. Trump,1,99.9,Texas,52.6,4681590
-,38.0,Overall 2016 Texas Presidential Election Results,Democratic,False,H. Clinton,2,99.9,Texas,43.4,3867816
-,38.0,Overall 2016 Texas Presidential Election Results,Libertarian,False,G. Johnson,3,99.9,Texas,3.2,282524
-,38.0,Overall 2016 Texas Presidential Election Results,Green,False,J. Stein,4,99.9,Texas,0.8,71307
-6.0,6.0,Overall 2016 Utah Presidential Election Results,Republican,True,D. Trump,1,82.5,Utah,46.6,397004
-,6.0,Overall 2016 Utah Presidential Election Results,Democratic,False,H. Clinton,2,82.5,Utah,27.8,237241
-,6.0,Overall 2016 Utah Presidential Election Results,U.S. Taxpayers,False,E. McMullin,3,82.5,Utah,20.6,175301
-,6.0,Overall 2016 Utah Presidential Election Results,Libertarian,False,G. Johnson,4,82.5,Utah,3.3,27735
-,6.0,Overall 2016 Utah Presidential Election Results,U.S. Taxpayers,False,J. Stein,5,82.5,Utah,0.7,6072
-,6.0,Overall 2016 Utah Presidential Election Results,Constitution,False,D. Castle,6,82.5,Utah,0.7,5636
-,6.0,Overall 2016 Utah Presidential Election Results,Independent,False,R. Giordani,7,82.5,Utah,0.2,2093
-,6.0,Overall 2016 Utah Presidential Election Results,U.S. Taxpayers,False,R. De La Fuente,8,82.5,Utah,0.1,585
-,6.0,Overall 2016 Utah Presidential Election Results,U.S. Taxpayers,False,A. Kennedy,9,82.5,Utah,0.0,397
-,6.0,Overall 2016 Utah Presidential Election Results,U.S. Taxpayers,False,M. Moorehead,10,82.5,Utah,0.0,397
-3.0,3.0,Overall 2016 Vermont Presidential Election Results,Democratic,True,H. Clinton,1,100.0,Vermont,61.1,178117
-,3.0,Overall 2016 Vermont Presidential Election Results,Republican,False,D. Trump,2,100.0,Vermont,32.6,95050
-,3.0,Overall 2016 Vermont Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Vermont,3.4,10043
-,3.0,Overall 2016 Vermont Presidential Election Results,Green,False,J. Stein,4,100.0,Vermont,2.3,6745
-,3.0,Overall 2016 Vermont Presidential Election Results,Independent,False,R. De La Fuente,5,100.0,Vermont,0.4,1063
-,3.0,Overall 2016 Vermont Presidential Election Results,Libertarian,False,G. La Riva,6,100.0,Vermont,0.1,323
-13.0,13.0,Overall 2016 Virginia Presidential Election Results,Democratic,True,H. Clinton,1,99.9,Virginia,49.9,1916845
-,13.0,Overall 2016 Virginia Presidential Election Results,Republican,False,D. Trump,2,99.9,Virginia,45.0,1731156
-,13.0,Overall 2016 Virginia Presidential Election Results,Libertarian,False,G. Johnson,3,99.9,Virginia,3.0,116600
-,13.0,Overall 2016 Virginia Presidential Election Results,Independent,False,E. McMullin,4,99.9,Virginia,1.4,52914
-,13.0,Overall 2016 Virginia Presidential Election Results,Green,False,J. Stein,5,99.9,Virginia,0.7,27272
-12.0,12.0,Overall 2016 Washington Presidential Election Results,Democratic,True,H. Clinton,1,81.6,Washington,54.9,1364934
-,12.0,Overall 2016 Washington Presidential Election Results,Republican,False,D. Trump,2,81.6,Washington,38.3,950710
-,12.0,Overall 2016 Washington Presidential Election Results,Libertarian,False,G. Johnson,3,81.6,Washington,4.5,112520
-,12.0,Overall 2016 Washington Presidential Election Results,Green,False,J. Stein,4,81.6,Washington,1.5,38377
-,12.0,Overall 2016 Washington Presidential Election Results,Constitution,False,D. Castle,5,81.6,Washington,0.5,12342
-,12.0,Overall 2016 Washington Presidential Election Results,American Shopping,False,A. Kennedy,6,81.6,Washington,0.1,3095
-,12.0,Overall 2016 Washington Presidential Election Results,Progressive,False,G. La Riva,7,81.6,Washington,0.1,2313
-5.0,5.0,Overall 2016 West Virginia Presidential Election Results,Republican,True,D. Trump,1,100.0,West Virginia,68.7,486198
-,5.0,Overall 2016 West Virginia Presidential Election Results,Democratic,False,H. Clinton,2,100.0,West Virginia,26.5,187457
-,5.0,Overall 2016 West Virginia Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,West Virginia,3.2,22798
-,5.0,Overall 2016 West Virginia Presidential Election Results,Mountain,False,J. Stein,4,100.0,West Virginia,1.1,8000
-,5.0,Overall 2016 West Virginia Presidential Election Results,Constitution,False,D. Castle,5,100.0,West Virginia,0.5,3773
-10.0,10.0,Overall 2016 Wisconsin Presidential Election Results,Republican,True,D. Trump,1,100.0,Wisconsin,47.9,1409467
-,10.0,Overall 2016 Wisconsin Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Wisconsin,46.9,1382210
-,10.0,Overall 2016 Wisconsin Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Wisconsin,3.6,106442
-,10.0,Overall 2016 Wisconsin Presidential Election Results,Green,False,J. Stein,4,100.0,Wisconsin,1.1,30980
-,10.0,Overall 2016 Wisconsin Presidential Election Results,Constitution,False,D. Castle,5,100.0,Wisconsin,0.4,12179
-,10.0,Overall 2016 Wisconsin Presidential Election Results,Working Class,False,M. Moorehead,6,100.0,Wisconsin,0.1,1781
-,10.0,Overall 2016 Wisconsin Presidential Election Results,American,False,R. De La Fuente,7,100.0,Wisconsin,0.1,1561
-3.0,3.0,Overall 2016 Wyoming Presidential Election Results,Republican,True,D. Trump,1,100.0,Wyoming,70.1,174248
-,3.0,Overall 2016 Wyoming Presidential Election Results,Democratic,False,H. Clinton,2,100.0,Wyoming,22.5,55949
-,3.0,Overall 2016 Wyoming Presidential Election Results,Libertarian,False,G. Johnson,3,100.0,Wyoming,5.3,13285
-,3.0,Overall 2016 Wyoming Presidential Election Results,Independent,False,J. Stein,4,100.0,Wyoming,1.0,2512
-,3.0,Overall 2016 Wyoming Presidential Election Results,Constitution,False,D. Castle,5,100.0,Wyoming,0.8,2038
-,3.0,Overall 2016 Wyoming Presidential Election Results,Independent,False,R. De La Fuente,6,100.0,Wyoming,0.3,710
+9.0,9.0,Overall 2016 Alabama Presidential Election Results,republican,True,D. Trump,1,100.0,Alabama,62.9,1306925
+,9.0,Overall 2016 Alabama Presidential Election Results,democrat,False,H. Clinton,2,100.0,Alabama,34.6,718084
+,9.0,Overall 2016 Alabama Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Alabama,2.1,43869
+,9.0,Overall 2016 Alabama Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Alabama,0.4,9287
+3.0,3.0,Overall 2016 Alaska Presidential Election Results,republican,True,D. Trump,1,99.8,Alaska,52.9,130415
+,3.0,Overall 2016 Alaska Presidential Election Results,democrat,False,H. Clinton,2,99.8,Alaska,37.7,93007
+,3.0,Overall 2016 Alaska Presidential Election Results,independent_or_other,False,G. Johnson,3,99.8,Alaska,5.9,14593
+,3.0,Overall 2016 Alaska Presidential Election Results,independent_or_other,False,J. Stein,4,99.8,Alaska,1.8,4445
+,3.0,Overall 2016 Alaska Presidential Election Results,independent_or_other,False,D. Castle,5,99.8,Alaska,1.3,3156
+,3.0,Overall 2016 Alaska Presidential Election Results,independent_or_other,False,R. De La Fuente,6,99.8,Alaska,0.4,972
+11.0,11.0,Overall 2016 Arizona Presidential Election Results,republican,True,D. Trump,1,100.0,Arizona,49.5,1017166
+,11.0,Overall 2016 Arizona Presidential Election Results,democrat,False,H. Clinton,2,100.0,Arizona,45.4,933655
+,11.0,Overall 2016 Arizona Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Arizona,3.9,79874
+,11.0,Overall 2016 Arizona Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Arizona,1.2,25195
+6.0,6.0,Overall 2016 Arkansas Presidential Election Results,republican,True,D. Trump,1,100.0,Arkansas,60.4,677904
+,6.0,Overall 2016 Arkansas Presidential Election Results,democrat,False,H. Clinton,2,100.0,Arkansas,33.8,378729
+,6.0,Overall 2016 Arkansas Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Arkansas,2.6,29518
+,6.0,Overall 2016 Arkansas Presidential Election Results,independent_or_other,False,E. McMullin,4,100.0,Arkansas,1.2,13069
+,6.0,Overall 2016 Arkansas Presidential Election Results,independent_or_other,False,J. Stein,5,100.0,Arkansas,0.9,9837
+,6.0,Overall 2016 Arkansas Presidential Election Results,independent_or_other,False,J. Hedges,6,100.0,Arkansas,0.4,4676
+,6.0,Overall 2016 Arkansas Presidential Election Results,independent_or_other,False,D. Castle,7,100.0,Arkansas,0.4,4567
+,6.0,Overall 2016 Arkansas Presidential Election Results,independent_or_other,False,L. Kahn,8,100.0,Arkansas,0.3,3384
+55.0,55.0,Overall 2016 California Presidential Election Results,democrat,True,H. Clinton,1,100.0,California,61.5,5589936
+,55.0,Overall 2016 California Presidential Election Results,republican,False,D. Trump,2,100.0,California,33.2,3021095
+,55.0,Overall 2016 California Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,California,3.2,288310
+,55.0,Overall 2016 California Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,California,1.7,155706
+,55.0,Overall 2016 California Presidential Election Results,independent_or_other,False,G. La Riva,5,100.0,California,0.4,38880
+9.0,9.0,Overall 2016 Colorado Presidential Election Results,democrat,True,H. Clinton,1,100.0,Colorado,47.2,1208095
+,9.0,Overall 2016 Colorado Presidential Election Results,republican,False,D. Trump,2,100.0,Colorado,44.4,1136354
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Colorado,5.0,129128
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Colorado,1.3,33009
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,E. McMullin,5,100.0,Colorado,1.0,26715
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,D. Castle,6,100.0,Colorado,0.4,10883
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,C. Keniston,7,100.0,Colorado,0.2,4732
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,M. Smith,8,100.0,Colorado,0.1,1661
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,R. De La Fuente,9,100.0,Colorado,0.0,1061
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,K. Kopitke,10,100.0,Colorado,0.0,1001
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,J. Maldonado,11,100.0,Colorado,0.0,780
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,M. Maturen,12,100.0,Colorado,0.0,752
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,R. Scott,13,100.0,Colorado,0.0,687
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,R. Silva,14,100.0,Colorado,0.0,652
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,T. Hoefling,15,100.0,Colorado,0.0,639
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,G. La Riva,16,100.0,Colorado,0.0,445
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,A. Kennedy,17,100.0,Colorado,0.0,409
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,L. Kotlikoff,18,100.0,Colorado,0.0,359
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,B. Lyttle,19,100.0,Colorado,0.0,336
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,F. Atwood,20,100.0,Colorado,0.0,309
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,E. Soltysik,21,100.0,Colorado,0.0,235
+,9.0,Overall 2016 Colorado Presidential Election Results,independent_or_other,False,J. Hedges,22,100.0,Colorado,0.0,163
+7.0,7.0,Overall 2016 Connecticut Presidential Election Results,democrat,True,H. Clinton,1,96.1,Connecticut,53.9,823360
+,7.0,Overall 2016 Connecticut Presidential Election Results,republican,False,D. Trump,2,96.1,Connecticut,41.7,637919
+,7.0,Overall 2016 Connecticut Presidential Election Results,independent_or_other,False,G. Johnson,3,96.1,Connecticut,3.0,45999
+,7.0,Overall 2016 Connecticut Presidential Election Results,independent_or_other,False,J. Stein,4,96.1,Connecticut,1.4,21539
+3.0,3.0,Overall 2016 Delaware Presidential Election Results,democrat,True,H. Clinton,1,100.0,Delaware,53.4,235581
+,3.0,Overall 2016 Delaware Presidential Election Results,republican,False,D. Trump,2,100.0,Delaware,41.9,185103
+,3.0,Overall 2016 Delaware Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Delaware,3.3,14751
+,3.0,Overall 2016 Delaware Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Delaware,1.4,6100
+3.0,3.0,Overall 2016 District of Columbia Presidential Election Results,democrat,True,H. Clinton,1,100.0,District of Columbia,92.8,260223
+,3.0,Overall 2016 District of Columbia Presidential Election Results,republican,False,D. Trump,2,100.0,District of Columbia,4.1,11553
+,3.0,Overall 2016 District of Columbia Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,District of Columbia,1.6,4501
+,3.0,Overall 2016 District of Columbia Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,District of Columbia,1.4,3995
+29.0,29.0,Overall 2016 Florida Presidential Election Results,republican,True,D. Trump,1,100.0,Florida,49.1,4605515
+,29.0,Overall 2016 Florida Presidential Election Results,democrat,False,H. Clinton,2,100.0,Florida,47.8,4485745
+,29.0,Overall 2016 Florida Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Florida,2.2,206007
+,29.0,Overall 2016 Florida Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Florida,0.7,64019
+,29.0,Overall 2016 Florida Presidential Election Results,independent_or_other,False,D. Castle,5,100.0,Florida,0.2,16393
+,29.0,Overall 2016 Florida Presidential Election Results,independent_or_other,False,R. De La Fuente,6,100.0,Florida,0.1,9071
+16.0,16.0,Overall 2016 Georgia Presidential Election Results,republican,True,D. Trump,1,100.0,Georgia,51.3,2068623
+,16.0,Overall 2016 Georgia Presidential Election Results,democrat,False,H. Clinton,2,100.0,Georgia,45.6,1837300
+,16.0,Overall 2016 Georgia Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Georgia,3.1,123641
+4.0,4.0,Overall 2016 Hawaii Presidential Election Results,democrat,True,H. Clinton,1,100.0,Hawaii,62.3,251853
+,4.0,Overall 2016 Hawaii Presidential Election Results,republican,False,D. Trump,2,100.0,Hawaii,30.1,121648
+,4.0,Overall 2016 Hawaii Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Hawaii,3.7,14854
+,4.0,Overall 2016 Hawaii Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Hawaii,2.9,11608
+,4.0,Overall 2016 Hawaii Presidential Election Results,independent_or_other,False,D. Castle,5,100.0,Hawaii,1.0,4191
+4.0,4.0,Overall 2016 Idaho Presidential Election Results,republican,True,D. Trump,1,100.0,Idaho,59.2,407199
+,4.0,Overall 2016 Idaho Presidential Election Results,democrat,False,H. Clinton,2,100.0,Idaho,27.6,189677
+,4.0,Overall 2016 Idaho Presidential Election Results,independent_or_other,False,E. McMullin,3,100.0,Idaho,6.8,46538
+,4.0,Overall 2016 Idaho Presidential Election Results,independent_or_other,False,G. Johnson,4,100.0,Idaho,4.1,28256
+,4.0,Overall 2016 Idaho Presidential Election Results,independent_or_other,False,J. Stein,5,100.0,Idaho,1.2,8464
+,4.0,Overall 2016 Idaho Presidential Election Results,independent_or_other,False,D. Castle,6,100.0,Idaho,0.6,4378
+,4.0,Overall 2016 Idaho Presidential Election Results,independent_or_other,False,S. Copeland,7,100.0,Idaho,0.3,2347
+,4.0,Overall 2016 Idaho Presidential Election Results,independent_or_other,False,R. De La Fuente,8,100.0,Idaho,0.2,1376
+20.0,20.0,Overall 2016 Illinois Presidential Election Results,democrat,True,H. Clinton,1,99.1,Illinois,55.4,2977498
+,20.0,Overall 2016 Illinois Presidential Election Results,republican,False,D. Trump,2,99.1,Illinois,39.4,2118179
+,20.0,Overall 2016 Illinois Presidential Election Results,independent_or_other,False,G. Johnson,3,99.1,Illinois,3.8,204491
+,20.0,Overall 2016 Illinois Presidential Election Results,independent_or_other,False,J. Stein,4,99.1,Illinois,1.4,74112
+11.0,11.0,Overall 2016 Indiana Presidential Election Results,republican,True,D. Trump,1,100.0,Indiana,57.2,1556220
+,11.0,Overall 2016 Indiana Presidential Election Results,democrat,False,H. Clinton,2,100.0,Indiana,37.9,1031953
+,11.0,Overall 2016 Indiana Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Indiana,4.9,133856
+6.0,6.0,Overall 2016 Iowa Presidential Election Results,republican,True,D. Trump,1,99.9,Iowa,51.8,798923
+,6.0,Overall 2016 Iowa Presidential Election Results,democrat,False,H. Clinton,2,99.9,Iowa,42.2,650790
+,6.0,Overall 2016 Iowa Presidential Election Results,independent_or_other,False,G. Johnson,3,99.9,Iowa,3.7,57322
+,6.0,Overall 2016 Iowa Presidential Election Results,independent_or_other,False,E. McMullin,4,99.9,Iowa,0.8,12267
+,6.0,Overall 2016 Iowa Presidential Election Results,independent_or_other,False,J. Stein,5,99.9,Iowa,0.7,11119
+,6.0,Overall 2016 Iowa Presidential Election Results,independent_or_other,False,D. Castle,6,99.9,Iowa,0.5,7252
+,6.0,Overall 2016 Iowa Presidential Election Results,independent_or_other,False,D. Vacek,7,99.9,Iowa,0.1,2256
+,6.0,Overall 2016 Iowa Presidential Election Results,independent_or_other,False,L. Kahn,8,99.9,Iowa,0.1,2181
+,6.0,Overall 2016 Iowa Presidential Election Results,independent_or_other,False,R. De La Fuente,9,99.9,Iowa,0.0,450
+,6.0,Overall 2016 Iowa Presidential Election Results,independent_or_other,False,G. La Riva,10,99.9,Iowa,0.0,320
+6.0,6.0,Overall 2016 Kansas Presidential Election Results,republican,True,D. Trump,1,99.9,Kansas,57.2,656009
+,6.0,Overall 2016 Kansas Presidential Election Results,democrat,False,H. Clinton,2,99.9,Kansas,36.2,414788
+,6.0,Overall 2016 Kansas Presidential Election Results,independent_or_other,False,G. Johnson,3,99.9,Kansas,4.7,53648
+,6.0,Overall 2016 Kansas Presidential Election Results,independent_or_other,False,J. Stein,4,99.9,Kansas,2.0,22698
+8.0,8.0,Overall 2016 Kentucky Presidential Election Results,republican,True,D. Trump,1,100.0,Kentucky,62.5,1202942
+,8.0,Overall 2016 Kentucky Presidential Election Results,democrat,False,H. Clinton,2,100.0,Kentucky,32.7,628834
+,8.0,Overall 2016 Kentucky Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Kentucky,2.8,53749
+,8.0,Overall 2016 Kentucky Presidential Election Results,independent_or_other,False,E. McMullin,4,100.0,Kentucky,1.2,22780
+,8.0,Overall 2016 Kentucky Presidential Election Results,independent_or_other,False,J. Stein,5,100.0,Kentucky,0.7,13913
+,8.0,Overall 2016 Kentucky Presidential Election Results,independent_or_other,False,R. De La Fuente,6,100.0,Kentucky,0.1,1128
+8.0,8.0,Overall 2016 Louisiana Presidential Election Results,republican,True,D. Trump,1,100.0,Louisiana,58.1,1178004
+,8.0,Overall 2016 Louisiana Presidential Election Results,democrat,False,H. Clinton,2,100.0,Louisiana,38.4,779535
+,8.0,Overall 2016 Louisiana Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Louisiana,1.9,37950
+,8.0,Overall 2016 Louisiana Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Louisiana,0.7,14018
+,8.0,Overall 2016 Louisiana Presidential Election Results,independent_or_other,False,E. McMullin,5,100.0,Louisiana,0.4,8546
+,8.0,Overall 2016 Louisiana Presidential Election Results,independent_or_other,False,D. Castle,6,100.0,Louisiana,0.2,3128
+,8.0,Overall 2016 Louisiana Presidential Election Results,independent_or_other,False,C. Keniston,7,100.0,Louisiana,0.1,1880
+,8.0,Overall 2016 Louisiana Presidential Election Results,independent_or_other,False,T. Hoefling,8,100.0,Louisiana,0.1,1581
+,8.0,Overall 2016 Louisiana Presidential Election Results,independent_or_other,False,L. Kotlikoff,9,100.0,Louisiana,0.1,1046
+,8.0,Overall 2016 Louisiana Presidential Election Results,independent_or_other,False,P. Jacob,10,100.0,Louisiana,0.0,748
+,8.0,Overall 2016 Louisiana Presidential Election Results,independent_or_other,False,A. Kennedy,11,100.0,Louisiana,0.0,480
+,8.0,Overall 2016 Louisiana Presidential Election Results,independent_or_other,False,G. La Riva,12,100.0,Louisiana,0.0,446
+,8.0,Overall 2016 Louisiana Presidential Election Results,independent_or_other,False,J. White,13,100.0,Louisiana,0.0,369
+3.0,4.0,Overall 2016 Maine Presidential Election Results,democrat,True,H. Clinton,1,100.0,Maine,47.9,354873
+1.0,4.0,Overall 2016 Maine Presidential Election Results,republican,False,D. Trump,2,100.0,Maine,45.2,334838
+,4.0,Overall 2016 Maine Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Maine,5.1,37764
+,4.0,Overall 2016 Maine Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Maine,1.9,14075
+10.0,10.0,Overall 2016 Maryland Presidential Election Results,democrat,True,H. Clinton,1,99.9,Maryland,60.5,1497951
+,10.0,Overall 2016 Maryland Presidential Election Results,republican,False,D. Trump,2,99.9,Maryland,35.3,873646
+,10.0,Overall 2016 Maryland Presidential Election Results,independent_or_other,False,G. Johnson,3,99.9,Maryland,2.9,71107
+,10.0,Overall 2016 Maryland Presidential Election Results,independent_or_other,False,J. Stein,4,99.9,Maryland,1.3,31839
+11.0,11.0,Overall 2016 Massachusetts Presidential Election Results,democrat,True,H. Clinton,1,100.0,Massachusetts,60.8,1964768
+,11.0,Overall 2016 Massachusetts Presidential Election Results,republican,False,D. Trump,2,100.0,Massachusetts,33.5,1083069
+,11.0,Overall 2016 Massachusetts Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Massachusetts,4.2,136784
+,11.0,Overall 2016 Massachusetts Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Massachusetts,1.5,46910
+,16.0,Overall 2016 Michigan Presidential Election Results,republican,,D. Trump,1,100.0,Michigan,47.6,2279221
+,16.0,Overall 2016 Michigan Presidential Election Results,democrat,,H. Clinton,2,100.0,Michigan,47.3,2267798
+,16.0,Overall 2016 Michigan Presidential Election Results,independent_or_other,,G. Johnson,3,100.0,Michigan,3.6,173023
+,16.0,Overall 2016 Michigan Presidential Election Results,independent_or_other,,J. Stein,4,100.0,Michigan,1.1,50690
+,16.0,Overall 2016 Michigan Presidential Election Results,independent_or_other,,D. Castle,5,100.0,Michigan,0.4,16925
+,16.0,Overall 2016 Michigan Presidential Election Results,independent_or_other,,E. Soltysik,6,100.0,Michigan,0.0,2236
+10.0,10.0,Overall 2016 Minnesota Presidential Election Results,democrat,True,H. Clinton,1,100.0,Minnesota,46.9,1366676
+,10.0,Overall 2016 Minnesota Presidential Election Results,republican,False,D. Trump,2,100.0,Minnesota,45.4,1322891
+,10.0,Overall 2016 Minnesota Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Minnesota,3.9,112944
+,10.0,Overall 2016 Minnesota Presidential Election Results,independent_or_other,False,E. McMullin,4,100.0,Minnesota,1.8,53080
+,10.0,Overall 2016 Minnesota Presidential Election Results,independent_or_other,False,J. Stein,5,100.0,Minnesota,1.3,36957
+,10.0,Overall 2016 Minnesota Presidential Election Results,independent_or_other,False,D. Vacek,6,100.0,Minnesota,0.4,11290
+,10.0,Overall 2016 Minnesota Presidential Election Results,independent_or_other,False,D. Castle,7,100.0,Minnesota,0.3,9466
+,10.0,Overall 2016 Minnesota Presidential Election Results,independent_or_other,False,A. Kennedy,8,100.0,Minnesota,0.1,1670
+,10.0,Overall 2016 Minnesota Presidential Election Results,independent_or_other,False,R. De La Fuente,9,100.0,Minnesota,0.0,1430
+6.0,6.0,Overall 2016 Mississippi Presidential Election Results,republican,True,D. Trump,1,100.0,Mississippi,58.3,678457
+,6.0,Overall 2016 Mississippi Presidential Election Results,democrat,False,H. Clinton,2,100.0,Mississippi,39.7,462001
+,6.0,Overall 2016 Mississippi Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Mississippi,1.2,13789
+,6.0,Overall 2016 Mississippi Presidential Election Results,independent_or_other,False,D. Castle,4,100.0,Mississippi,0.3,3878
+,6.0,Overall 2016 Mississippi Presidential Election Results,independent_or_other,False,J. Stein,5,100.0,Mississippi,0.3,3580
+,6.0,Overall 2016 Mississippi Presidential Election Results,independent_or_other,False,J. Hedges,6,100.0,Mississippi,0.1,686
+,6.0,Overall 2016 Mississippi Presidential Election Results,independent_or_other,False,R. De La Fuente,7,100.0,Mississippi,0.1,596
+10.0,10.0,Overall 2016 Missouri Presidential Election Results,republican,True,D. Trump,1,99.9,Missouri,57.1,1585753
+,10.0,Overall 2016 Missouri Presidential Election Results,democrat,False,H. Clinton,2,99.9,Missouri,38.0,1054889
+,10.0,Overall 2016 Missouri Presidential Election Results,independent_or_other,False,G. Johnson,3,99.9,Missouri,3.5,96404
+,10.0,Overall 2016 Missouri Presidential Election Results,independent_or_other,False,J. Stein,4,99.9,Missouri,0.9,25086
+,10.0,Overall 2016 Missouri Presidential Election Results,independent_or_other,False,D. Castle,5,99.9,Missouri,0.5,12966
+3.0,3.0,Overall 2016 Montana Presidential Election Results,republican,True,D. Trump,1,100.0,Montana,56.5,274120
+,3.0,Overall 2016 Montana Presidential Election Results,democrat,False,H. Clinton,2,100.0,Montana,36.0,174521
+,3.0,Overall 2016 Montana Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Montana,5.6,27264
+,3.0,Overall 2016 Montana Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Montana,1.6,7669
+,3.0,Overall 2016 Montana Presidential Election Results,independent_or_other,False,R. De La Fuente,5,100.0,Montana,0.3,1535
+5.0,5.0,Overall 2016 Nebraska Presidential Election Results,republican,True,D. Trump,1,100.0,Nebraska,60.3,485819
+,5.0,Overall 2016 Nebraska Presidential Election Results,democrat,False,H. Clinton,2,100.0,Nebraska,34.0,273858
+,5.0,Overall 2016 Nebraska Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Nebraska,4.7,37615
+,5.0,Overall 2016 Nebraska Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Nebraska,1.0,8346
+6.0,6.0,Overall 2016 Nevada Presidential Election Results,democrat,True,H. Clinton,1,100.0,Nevada,47.9,537753
+,6.0,Overall 2016 Nevada Presidential Election Results,republican,False,D. Trump,2,100.0,Nevada,45.5,511319
+,6.0,Overall 2016 Nevada Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Nevada,3.3,37299
+,6.0,Overall 2016 Nevada Presidential Election Results,independent_or_other,False,None of these candidates,4,100.0,Nevada,2.6,28824
+,6.0,Overall 2016 Nevada Presidential Election Results,independent_or_other,False,D. Castle,5,100.0,Nevada,0.5,5254
+,6.0,Overall 2016 Nevada Presidential Election Results,independent_or_other,False,R. De La Fuente,6,100.0,Nevada,0.2,2541
+,4.0,Overall 2016 New Hampshire Presidential Election Results,democrat,,H. Clinton,1,100.0,New Hampshire,47.6,348521
+,4.0,Overall 2016 New Hampshire Presidential Election Results,republican,,D. Trump,2,100.0,New Hampshire,47.3,345789
+,4.0,Overall 2016 New Hampshire Presidential Election Results,independent_or_other,,G. Johnson,3,100.0,New Hampshire,4.2,30530
+,4.0,Overall 2016 New Hampshire Presidential Election Results,independent_or_other,,J. Stein,4,100.0,New Hampshire,0.9,6374
+,4.0,Overall 2016 New Hampshire Presidential Election Results,independent_or_other,,R. De La Fuente,5,100.0,New Hampshire,0.1,674
+14.0,14.0,Overall 2016 New Jersey Presidential Election Results,democrat,True,H. Clinton,1,99.3,New Jersey,55.0,2021756
+,14.0,Overall 2016 New Jersey Presidential Election Results,republican,False,D. Trump,2,99.3,New Jersey,41.8,1535513
+,14.0,Overall 2016 New Jersey Presidential Election Results,independent_or_other,False,G. Johnson,3,99.3,New Jersey,1.9,68695
+,14.0,Overall 2016 New Jersey Presidential Election Results,independent_or_other,False,J. Stein,4,99.3,New Jersey,1.0,35949
+,14.0,Overall 2016 New Jersey Presidential Election Results,independent_or_other,False,D. Castle,5,99.3,New Jersey,0.2,5830
+,14.0,Overall 2016 New Jersey Presidential Election Results,independent_or_other,False,A. Kennedy,6,99.3,New Jersey,0.1,2090
+,14.0,Overall 2016 New Jersey Presidential Election Results,independent_or_other,False,R. De La Fuente,7,99.3,New Jersey,0.0,1765
+,14.0,Overall 2016 New Jersey Presidential Election Results,independent_or_other,False,M. Moorehead,8,99.3,New Jersey,0.0,1682
+,14.0,Overall 2016 New Jersey Presidential Election Results,independent_or_other,False,G. La Riva,9,99.3,New Jersey,0.0,1613
+5.0,5.0,Overall 2016 New Mexico Presidential Election Results,democrat,True,H. Clinton,1,100.0,New Mexico,48.3,380724
+,5.0,Overall 2016 New Mexico Presidential Election Results,republican,False,D. Trump,2,100.0,New Mexico,40.0,315875
+,5.0,Overall 2016 New Mexico Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,New Mexico,9.3,73669
+,5.0,Overall 2016 New Mexico Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,New Mexico,1.2,9729
+,5.0,Overall 2016 New Mexico Presidential Election Results,independent_or_other,False,E. McMullin,5,100.0,New Mexico,0.7,5714
+,5.0,Overall 2016 New Mexico Presidential Election Results,independent_or_other,False,D. Castle,6,100.0,New Mexico,0.2,1490
+,5.0,Overall 2016 New Mexico Presidential Election Results,independent_or_other,False,G. La Riva,7,100.0,New Mexico,0.1,1174
+,5.0,Overall 2016 New Mexico Presidential Election Results,independent_or_other,False,R. De La Fuente,8,100.0,New Mexico,0.1,466
+29.0,29.0,Overall 2016 New York Presidential Election Results,democrat,True,H. Clinton,1,99.7,New York,58.8,4143874
+,29.0,Overall 2016 New York Presidential Election Results,republican,False,D. Trump,2,99.7,New York,37.5,2640570
+,29.0,Overall 2016 New York Presidential Election Results,independent_or_other,False,G. Johnson,3,99.7,New York,2.3,161836
+,29.0,Overall 2016 New York Presidential Election Results,independent_or_other,False,J. Stein,4,99.7,New York,1.4,99895
+15.0,15.0,Overall 2016 North Carolina Presidential Election Results,republican,True,D. Trump,1,100.0,North Carolina,50.5,2339603
+,15.0,Overall 2016 North Carolina Presidential Election Results,democrat,False,H. Clinton,2,100.0,North Carolina,46.7,2162074
+,15.0,Overall 2016 North Carolina Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,North Carolina,2.8,127794
+3.0,3.0,Overall 2016 North Dakota Presidential Election Results,republican,True,D. Trump,1,100.0,North Dakota,64.1,216133
+,3.0,Overall 2016 North Dakota Presidential Election Results,democrat,False,H. Clinton,2,100.0,North Dakota,27.8,93526
+,3.0,Overall 2016 North Dakota Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,North Dakota,6.3,21351
+,3.0,Overall 2016 North Dakota Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,North Dakota,1.1,3769
+,3.0,Overall 2016 North Dakota Presidential Election Results,independent_or_other,False,D. Castle,5,100.0,North Dakota,0.5,1825
+,3.0,Overall 2016 North Dakota Presidential Election Results,independent_or_other,False,R. De La Fuente,6,100.0,North Dakota,0.1,364
+18.0,18.0,Overall 2016 Ohio Presidential Election Results,republican,True,D. Trump,1,100.0,Ohio,52.1,2771984
+,18.0,Overall 2016 Ohio Presidential Election Results,democrat,False,H. Clinton,2,100.0,Ohio,43.5,2317001
+,18.0,Overall 2016 Ohio Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Ohio,3.2,168599
+,18.0,Overall 2016 Ohio Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Ohio,0.8,44310
+,18.0,Overall 2016 Ohio Presidential Election Results,independent_or_other,False,R. Duncan,5,100.0,Ohio,0.4,23501
+7.0,7.0,Overall 2016 Oklahoma Presidential Election Results,republican,True,D. Trump,1,100.0,Oklahoma,65.3,947934
+,7.0,Overall 2016 Oklahoma Presidential Election Results,democrat,False,H. Clinton,2,100.0,Oklahoma,28.9,419788
+,7.0,Overall 2016 Oklahoma Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Oklahoma,5.7,83334
+7.0,7.0,Overall 2016 Oregon Presidential Election Results,democrat,True,H. Clinton,1,99.1,Oregon,51.7,934631
+,7.0,Overall 2016 Oregon Presidential Election Results,republican,False,D. Trump,2,99.1,Oregon,41.1,742506
+,7.0,Overall 2016 Oregon Presidential Election Results,independent_or_other,False,G. Johnson,3,99.1,Oregon,4.8,86306
+,7.0,Overall 2016 Oregon Presidential Election Results,independent_or_other,False,J. Stein,4,99.1,Oregon,2.5,45132
+20.0,20.0,Overall 2016 Pennsylvania Presidential Election Results,republican,True,D. Trump,1,99.8,Pennsylvania,48.8,2912941
+,20.0,Overall 2016 Pennsylvania Presidential Election Results,democrat,False,H. Clinton,2,99.8,Pennsylvania,47.6,2844705
+,20.0,Overall 2016 Pennsylvania Presidential Election Results,independent_or_other,False,G. Johnson,3,99.8,Pennsylvania,2.4,142653
+,20.0,Overall 2016 Pennsylvania Presidential Election Results,independent_or_other,False,J. Stein,4,99.8,Pennsylvania,0.8,48912
+,20.0,Overall 2016 Pennsylvania Presidential Election Results,independent_or_other,False,D. Castle,5,99.8,Pennsylvania,0.4,20896
+4.0,4.0,Overall 2016 Rhode Island Presidential Election Results,democrat,True,H. Clinton,1,100.0,Rhode Island,55.4,249902
+,4.0,Overall 2016 Rhode Island Presidential Election Results,republican,False,D. Trump,2,100.0,Rhode Island,39.8,179421
+,4.0,Overall 2016 Rhode Island Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Rhode Island,3.2,14643
+,4.0,Overall 2016 Rhode Island Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Rhode Island,1.4,6155
+,4.0,Overall 2016 Rhode Island Presidential Election Results,independent_or_other,False,R. De La Fuente,5,100.0,Rhode Island,0.1,666
+9.0,9.0,Overall 2016 South Carolina Presidential Election Results,republican,True,D. Trump,1,100.0,South Carolina,54.9,1143611
+,9.0,Overall 2016 South Carolina Presidential Election Results,democrat,False,H. Clinton,2,100.0,South Carolina,40.8,849469
+,9.0,Overall 2016 South Carolina Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,South Carolina,2.3,48715
+,9.0,Overall 2016 South Carolina Presidential Election Results,independent_or_other,False,E. McMullin,4,100.0,South Carolina,1.0,20795
+,9.0,Overall 2016 South Carolina Presidential Election Results,independent_or_other,False,J. Stein,5,100.0,South Carolina,0.6,12917
+,9.0,Overall 2016 South Carolina Presidential Election Results,independent_or_other,False,D. Castle,6,100.0,South Carolina,0.3,5716
+,9.0,Overall 2016 South Carolina Presidential Election Results,independent_or_other,False,P. Skewes,7,100.0,South Carolina,0.2,3221
+3.0,3.0,Overall 2016 South Dakota Presidential Election Results,republican,True,D. Trump,1,100.0,South Dakota,61.5,227701
+,3.0,Overall 2016 South Dakota Presidential Election Results,democrat,False,H. Clinton,2,100.0,South Dakota,31.7,117442
+,3.0,Overall 2016 South Dakota Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,South Dakota,5.6,20845
+,3.0,Overall 2016 South Dakota Presidential Election Results,independent_or_other,False,D. Castle,4,100.0,South Dakota,1.1,4059
+11.0,11.0,Overall 2016 Tennessee Presidential Election Results,republican,True,D. Trump,1,100.0,Tennessee,61.1,1517402
+,11.0,Overall 2016 Tennessee Presidential Election Results,democrat,False,H. Clinton,2,100.0,Tennessee,34.9,867110
+,11.0,Overall 2016 Tennessee Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Tennessee,2.8,70084
+,11.0,Overall 2016 Tennessee Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Tennessee,0.6,15919
+,11.0,Overall 2016 Tennessee Presidential Election Results,independent_or_other,False,M. Smith,5,100.0,Tennessee,0.3,7244
+,11.0,Overall 2016 Tennessee Presidential Election Results,independent_or_other,False,R. De La Fuente,6,100.0,Tennessee,0.2,4064
+,11.0,Overall 2016 Tennessee Presidential Election Results,independent_or_other,False,A. Kennedy,7,100.0,Tennessee,0.1,2868
+38.0,38.0,Overall 2016 Texas Presidential Election Results,republican,True,D. Trump,1,99.9,Texas,52.6,4681590
+,38.0,Overall 2016 Texas Presidential Election Results,democrat,False,H. Clinton,2,99.9,Texas,43.4,3867816
+,38.0,Overall 2016 Texas Presidential Election Results,independent_or_other,False,G. Johnson,3,99.9,Texas,3.2,282524
+,38.0,Overall 2016 Texas Presidential Election Results,independent_or_other,False,J. Stein,4,99.9,Texas,0.8,71307
+6.0,6.0,Overall 2016 Utah Presidential Election Results,republican,True,D. Trump,1,82.5,Utah,46.6,397004
+,6.0,Overall 2016 Utah Presidential Election Results,democrat,False,H. Clinton,2,82.5,Utah,27.8,237241
+,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,E. McMullin,3,82.5,Utah,20.6,175301
+,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,G. Johnson,4,82.5,Utah,3.3,27735
+,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,J. Stein,5,82.5,Utah,0.7,6072
+,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,D. Castle,6,82.5,Utah,0.7,5636
+,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,R. Giordani,7,82.5,Utah,0.2,2093
+,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,R. De La Fuente,8,82.5,Utah,0.1,585
+,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,A. Kennedy,9,82.5,Utah,0.0,397
+,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,M. Moorehead,10,82.5,Utah,0.0,397
+3.0,3.0,Overall 2016 Vermont Presidential Election Results,democrat,True,H. Clinton,1,100.0,Vermont,61.1,178117
+,3.0,Overall 2016 Vermont Presidential Election Results,republican,False,D. Trump,2,100.0,Vermont,32.6,95050
+,3.0,Overall 2016 Vermont Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Vermont,3.4,10043
+,3.0,Overall 2016 Vermont Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Vermont,2.3,6745
+,3.0,Overall 2016 Vermont Presidential Election Results,independent_or_other,False,R. De La Fuente,5,100.0,Vermont,0.4,1063
+,3.0,Overall 2016 Vermont Presidential Election Results,independent_or_other,False,G. La Riva,6,100.0,Vermont,0.1,323
+13.0,13.0,Overall 2016 Virginia Presidential Election Results,democrat,True,H. Clinton,1,99.9,Virginia,49.9,1916845
+,13.0,Overall 2016 Virginia Presidential Election Results,republican,False,D. Trump,2,99.9,Virginia,45.0,1731156
+,13.0,Overall 2016 Virginia Presidential Election Results,independent_or_other,False,G. Johnson,3,99.9,Virginia,3.0,116600
+,13.0,Overall 2016 Virginia Presidential Election Results,independent_or_other,False,E. McMullin,4,99.9,Virginia,1.4,52914
+,13.0,Overall 2016 Virginia Presidential Election Results,independent_or_other,False,J. Stein,5,99.9,Virginia,0.7,27272
+12.0,12.0,Overall 2016 Washington Presidential Election Results,democrat,True,H. Clinton,1,81.6,Washington,54.9,1364934
+,12.0,Overall 2016 Washington Presidential Election Results,republican,False,D. Trump,2,81.6,Washington,38.3,950710
+,12.0,Overall 2016 Washington Presidential Election Results,independent_or_other,False,G. Johnson,3,81.6,Washington,4.5,112520
+,12.0,Overall 2016 Washington Presidential Election Results,independent_or_other,False,J. Stein,4,81.6,Washington,1.5,38377
+,12.0,Overall 2016 Washington Presidential Election Results,independent_or_other,False,D. Castle,5,81.6,Washington,0.5,12342
+,12.0,Overall 2016 Washington Presidential Election Results,independent_or_other,False,A. Kennedy,6,81.6,Washington,0.1,3095
+,12.0,Overall 2016 Washington Presidential Election Results,independent_or_other,False,G. La Riva,7,81.6,Washington,0.1,2313
+5.0,5.0,Overall 2016 West Virginia Presidential Election Results,republican,True,D. Trump,1,100.0,West Virginia,68.7,486198
+,5.0,Overall 2016 West Virginia Presidential Election Results,democrat,False,H. Clinton,2,100.0,West Virginia,26.5,187457
+,5.0,Overall 2016 West Virginia Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,West Virginia,3.2,22798
+,5.0,Overall 2016 West Virginia Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,West Virginia,1.1,8000
+,5.0,Overall 2016 West Virginia Presidential Election Results,independent_or_other,False,D. Castle,5,100.0,West Virginia,0.5,3773
+10.0,10.0,Overall 2016 Wisconsin Presidential Election Results,republican,True,D. Trump,1,100.0,Wisconsin,47.9,1409467
+,10.0,Overall 2016 Wisconsin Presidential Election Results,democrat,False,H. Clinton,2,100.0,Wisconsin,46.9,1382210
+,10.0,Overall 2016 Wisconsin Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Wisconsin,3.6,106442
+,10.0,Overall 2016 Wisconsin Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Wisconsin,1.1,30980
+,10.0,Overall 2016 Wisconsin Presidential Election Results,independent_or_other,False,D. Castle,5,100.0,Wisconsin,0.4,12179
+,10.0,Overall 2016 Wisconsin Presidential Election Results,independent_or_other,False,M. Moorehead,6,100.0,Wisconsin,0.1,1781
+,10.0,Overall 2016 Wisconsin Presidential Election Results,independent_or_other,False,R. De La Fuente,7,100.0,Wisconsin,0.1,1561
+3.0,3.0,Overall 2016 Wyoming Presidential Election Results,republican,True,D. Trump,1,100.0,Wyoming,70.1,174248
+,3.0,Overall 2016 Wyoming Presidential Election Results,democrat,False,H. Clinton,2,100.0,Wyoming,22.5,55949
+,3.0,Overall 2016 Wyoming Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Wyoming,5.3,13285
+,3.0,Overall 2016 Wyoming Presidential Election Results,independent_or_other,False,J. Stein,4,100.0,Wyoming,1.0,2512
+,3.0,Overall 2016 Wyoming Presidential Election Results,independent_or_other,False,D. Castle,5,100.0,Wyoming,0.8,2038
+,3.0,Overall 2016 Wyoming Presidential Election Results,independent_or_other,False,R. De La Fuente,6,100.0,Wyoming,0.3,710
