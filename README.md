@@ -4,6 +4,8 @@ These are csvs of results scraped from Politico and (for exit polls) CNN website
 
 #### Update 2016-11-16, 18:20 EST: Politico's website had the wrong names for several third-party candidates. I have re-run the script from scratch, without errors, using only 'democratic', 'republican' and 'indepdent_or_other' for the field 'individual_party'. This issue has now been closed.
 
+Added 2016-11-23: ``change_tracking`` folder to see which ``pct_reporting`` fields have changed since the last time this script was run.
+
 For more about the ethics of scraping, see [this Quora post](https://www.quora.com/What-is-the-legality-of-web-scraping). I used Selenium, which automated the Google Chrome browser, so I put no more load on their servers than a normal visitor. The only thing the program did faster than a human is parse the results.
 
 Note that the use of Selenium was crucial because, in the case of Politico, the Outer HTML only loaded completely when the browser reached the bottom of the page, so a scraper that could "tell" the website it was really a browser and had scrolled all the way down was necessary.
