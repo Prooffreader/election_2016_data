@@ -3,6 +3,7 @@ gitignored/
 scripts/*.py
 scripts/*.json
 *chromedriver.exe
+*eraseme*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
