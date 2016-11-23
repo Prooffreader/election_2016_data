@@ -255,16 +255,16 @@ delegates,electoral_votes,geo_name,individual_party,is_winner,name,rank,reportin
 ,38.0,Overall 2016 Texas Presidential Election Results,democrat,False,H. Clinton,2,99.9,Texas,43.4,3867816
 ,38.0,Overall 2016 Texas Presidential Election Results,independent_or_other,False,G. Johnson,3,99.9,Texas,3.2,282524
 ,38.0,Overall 2016 Texas Presidential Election Results,independent_or_other,False,J. Stein,4,99.9,Texas,0.8,71307
-6.0,6.0,Overall 2016 Utah Presidential Election Results,republican,True,D. Trump,1,82.5,Utah,46.6,397004
-,6.0,Overall 2016 Utah Presidential Election Results,democrat,False,H. Clinton,2,82.5,Utah,27.8,237241
-,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,E. McMullin,3,82.5,Utah,20.6,175301
-,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,G. Johnson,4,82.5,Utah,3.3,27735
-,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,J. Stein,5,82.5,Utah,0.7,6072
-,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,D. Castle,6,82.5,Utah,0.7,5636
-,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,R. Giordani,7,82.5,Utah,0.2,2093
-,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,R. De La Fuente,8,82.5,Utah,0.1,585
-,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,A. Kennedy,9,82.5,Utah,0.0,397
-,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,M. Moorehead,10,82.5,Utah,0.0,397
+6.0,6.0,Overall 2016 Utah Presidential Election Results,republican,True,D. Trump,1,94.3,Utah,45.9,452086
+,6.0,Overall 2016 Utah Presidential Election Results,democrat,False,H. Clinton,2,94.3,Utah,27.8,274188
+,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,E. McMullin,3,94.3,Utah,21.0,207288
+,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,G. Johnson,4,94.3,Utah,3.4,33142
+,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,J. Stein,5,94.3,Utah,0.8,7695
+,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,D. Castle,6,94.3,Utah,0.7,6665
+,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,R. Giordani,7,94.3,Utah,0.2,2304
+,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,R. De La Fuente,8,94.3,Utah,0.1,695
+,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,M. Moorehead,9,94.3,Utah,0.0,451
+,6.0,Overall 2016 Utah Presidential Election Results,independent_or_other,False,A. Kennedy,10,94.3,Utah,0.0,443
 3.0,3.0,Overall 2016 Vermont Presidential Election Results,democrat,True,H. Clinton,1,100.0,Vermont,61.1,178117
 ,3.0,Overall 2016 Vermont Presidential Election Results,republican,False,D. Trump,2,100.0,Vermont,32.6,95050
 ,3.0,Overall 2016 Vermont Presidential Election Results,independent_or_other,False,G. Johnson,3,100.0,Vermont,3.4,10043
