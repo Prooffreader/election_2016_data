@@ -4,6 +4,7 @@ scripts/*.py
 scripts/*.json
 *chromedriver.exe
 *eraseme*
+*Copy*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
