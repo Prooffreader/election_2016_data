@@ -2,7 +2,7 @@
 
 These are csvs of results scraped from Politico and (for exit polls) CNN websites. If anyone uses this, I'd love to hear about it! [I wrote a brief blog post describing my motivation](http://prooffreaderplus.blogspot.ca/2016/11/i-scraped-all-2016-us-election-data.html)
 
-#### Update 2016-11-16, 18:20 EST: Politico's website had the wrong names for several third-party candidates. I have re-run the script from scratch, without errors, using only 'democratic', 'republican' and 'indepdent_or_other' for the field 'individual_party'. This issue has now been closed.
+#### Update 2016-11-16, 18:20 EST: Politico's website had the wrong names for several third-party candidates. I have re-run the script from scratch, without errors, using only 'democratic', 'republican' and 'independent_or_other' for the field 'individual_party'. This issue has now been closed.
 
 Added 2016-11-23: ``change_tracking`` folder to see which ``pct_reporting`` fields have changed since the last time this script was run.
 
