@@ -2669,6 +2669,10 @@ delegates,electoral_votes,fips,geo_name,individual_party,is_winner,name,rank,rep
 ,,10005,Sussex County,democrat,,H. Clinton,2,100.0,Delaware,37.2,39329
 ,,10005,Sussex County,independent_or_other,,G. Johnson,3,100.0,Delaware,2.6,2774
 ,,10005,Sussex County,independent_or_other,,J. Stein,4,100.0,Delaware,1.0,1104
+3.0,3.0,11001,District of Columbia,democrat,True,H. Clinton,1,100.0,District of Columbia,92.8,260223
+,3.0,11001,District of Columbia,republican,False,D. Trump,2,100.0,District of Columbia,4.1,11553
+,3.0,11001,District of Columbia,independent_or_other,False,G. Johnson,3,100.0,District of Columbia,1.6,4501
+,3.0,11001,District of Columbia,independent_or_other,False,J. Stein,4,100.0,District of Columbia,1.4,3995
 ,,12001,Alachua County,democrat,,H. Clinton,1,100.0,Florida,59.0,75370
 ,,12001,Alachua County,republican,,D. Trump,2,100.0,Florida,36.4,46584
 ,,12001,Alachua County,independent_or_other,,G. Johnson,3,100.0,Florida,3.2,4032

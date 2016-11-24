@@ -1205,16 +1205,6 @@ fips,geo_name,individual_party,name,party,rank,reporting_pct,state,vote_pct,vote
 1133,Winston County,republican,C. Fiorina,Republican,11,100.0,Alabama,0.1,6.0
 1133,Winston County,republican,R. Santorum,Republican,12,100.0,Alabama,0.1,6.0
 1133,Winston County,republican,L. Graham,Republican,13,100.0,Alabama,0.0,2.0
-0,Alaska,democrat,B. Sanders,Democrat,1,100.0,Alaska,81.6,440.0
-0,Alaska,democrat,H. Clinton,Democrat,2,100.0,Alaska,18.4,99.0
-0,Alaska,democrat,R. De La Fuente,Democrat,3,100.0,Alaska,0.0,0.0
-0,Alaska,democrat,Uncommitted,Democrat,4,100.0,Alaska,0.0,0.0
-0,Alaska,republican,T. Cruz,Republican,1,100.0,Alaska,36.4,7973.0
-0,Alaska,republican,D. Trump,Republican,2,100.0,Alaska,33.5,7346.0
-0,Alaska,republican,M. Rubio,Republican,3,100.0,Alaska,15.1,3318.0
-0,Alaska,republican,B. Carson,Republican,4,100.0,Alaska,10.9,2401.0
-0,Alaska,republican,J. Kasich,Republican,5,100.0,Alaska,4.1,892.0
-0,Alaska,republican,Uncommitted,Republican,6,100.0,Alaska,0.0,0.0
 4001,Apache County,democrat,H. Clinton,Democrat,1,100.0,Arizona,66.4,4450.0
 4001,Apache County,democrat,B. Sanders,Democrat,2,100.0,Arizona,28.8,1933.0
 4001,Apache County,democrat,M. Steinberg,Democrat,3,100.0,Arizona,1.5,102.0
@@ -3991,17 +3981,17 @@ fips,geo_name,individual_party,name,party,rank,reporting_pct,state,vote_pct,vote
 10005,Sussex County,republican,B. Carson,Republican,4,100.0,Delaware,1.2,299.0
 10005,Sussex County,republican,J. Bush,Republican,5,100.0,Delaware,0.6,151.0
 10005,Sussex County,republican,M. Rubio,Republican,6,100.0,Delaware,0.5,131.0
-0,District of Columbia,democrat,H. Clinton,Democrat,1,100.0,District of Columbia,78.7,75223.0
-0,District of Columbia,democrat,B. Sanders,Democrat,2,100.0,District of Columbia,21.1,20137.0
-0,District of Columbia,democrat,R. De La Fuente,Democrat,3,100.0,District of Columbia,0.2,205.0
-0,District of Columbia,republican,M. Rubio,Republican,1,100.0,District of Columbia,37.3,1059.0
-0,District of Columbia,republican,J. Kasich,Republican,2,100.0,District of Columbia,35.5,1009.0
-0,District of Columbia,republican,D. Trump,Republican,3,100.0,District of Columbia,13.8,391.0
-0,District of Columbia,republican,T. Cruz,Republican,4,100.0,District of Columbia,12.4,351.0
-0,District of Columbia,republican,J. Bush,Republican,5,100.0,District of Columbia,0.5,14.0
-0,District of Columbia,republican,R. Paul,Republican,6,100.0,District of Columbia,0.4,12.0
-0,District of Columbia,republican,B. Carson,Republican,7,100.0,District of Columbia,0.1,3.0
-0,District of Columbia,republican,C. Fiorina,Republican,8,100.0,District of Columbia,0.0,0.0
+11001,District of Columbia,democrat,H. Clinton,Democrat,1,100.0,District of Columbia,78.7,75223.0
+11001,District of Columbia,democrat,B. Sanders,Democrat,2,100.0,District of Columbia,21.1,20137.0
+11001,District of Columbia,democrat,R. De La Fuente,Democrat,3,100.0,District of Columbia,0.2,205.0
+11001,District of Columbia,republican,M. Rubio,Republican,1,100.0,District of Columbia,37.3,1059.0
+11001,District of Columbia,republican,J. Kasich,Republican,2,100.0,District of Columbia,35.5,1009.0
+11001,District of Columbia,republican,D. Trump,Republican,3,100.0,District of Columbia,13.8,391.0
+11001,District of Columbia,republican,T. Cruz,Republican,4,100.0,District of Columbia,12.4,351.0
+11001,District of Columbia,republican,J. Bush,Republican,5,100.0,District of Columbia,0.5,14.0
+11001,District of Columbia,republican,R. Paul,Republican,6,100.0,District of Columbia,0.4,12.0
+11001,District of Columbia,republican,B. Carson,Republican,7,100.0,District of Columbia,0.1,3.0
+11001,District of Columbia,republican,C. Fiorina,Republican,8,100.0,District of Columbia,0.0,0.0
 12001,Alachua County,democrat,H. Clinton,Democrat,1,100.0,Florida,49.2,17733.0
 12001,Alachua County,democrat,B. Sanders,Democrat,2,100.0,Florida,48.8,17590.0
 12001,Alachua County,democrat,M. O'Malley,Democrat,3,100.0,Florida,2.0,708.0

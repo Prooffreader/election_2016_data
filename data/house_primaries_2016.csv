@@ -406,7 +406,7 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 2,2nd District Primaries,democrat,True,True,S. Bishop,Democratic,1,100.0,Georgia,,
 2,2nd District Primaries,republican,False,True,G. Duke,Republican,1,100.0,Georgia,79.0,12895.0
 2,2nd District Primaries,republican,False,False,D. Vann,Republican,2,100.0,Georgia,21.0,3433.0
-3,3rd District Primaries,democrat,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span> A. Pendley</span>",Democratic,1,100.0,Georgia,50.2,6437.0
+3,3rd District Primaries,democrat,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner A. Pendley",Democratic,1,100.0,Georgia,50.2,6437.0
 3,3rd District Primaries,democrat,False,False,T. Cook,Democratic,2,100.0,Georgia,49.8,6398.0
 3,3rd District Primaries,republican,False,,M. Crane,Republican,1,100.0,Georgia,26.9,15343.0
 3,3rd District Primaries,republican,False,,D. Ferguson,Republican,2,100.0,Georgia,26.8,15277.0
@@ -499,7 +499,7 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 10,10th District Primaries,democrat,False,False,N. Rotering,Democratic,2,100.0,Illinois,46.2,43228.0
 10,10th District Primaries,republican,True,True,R. Dold,Republican,1,100.0,Illinois,,
 11,11th District Primaries,democrat,True,True,B. Foster,Democratic,1,100.0,Illinois,,
-11,11th District Primaries,republican,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span> T. Khouri</span>",Republican,1,100.0,Illinois,37.0,22603.0
+11,11th District Primaries,republican,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner T. Khouri",Republican,1,100.0,Illinois,37.0,22603.0
 11,11th District Primaries,republican,False,False,N. Stella,Republican,2,100.0,Illinois,36.3,22187.0
 11,11th District Primaries,republican,False,False,H. White,Republican,3,100.0,Illinois,26.7,16321.0
 13,13th District Primaries,democrat,False,True,M. Wicklund,Democratic,1,100.0,Illinois,,
@@ -553,7 +553,7 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 7,7th District Primaries,republican,False,True,C. Ping,Republican,1,100.0,Indiana,53.1,30509.0
 7,7th District Primaries,republican,False,False,W. Harmon,Republican,2,100.0,Indiana,29.5,16953.0
 7,7th District Primaries,republican,False,False,J. Miniear,Republican,3,100.0,Indiana,17.4,10030.0
-8,8th District Primaries,democrat,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span> R. Drake</span>",Democratic,1,100.0,Indiana,50.1,29185.0
+8,8th District Primaries,democrat,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner R. Drake",Democratic,1,100.0,Indiana,50.1,29185.0
 8,8th District Primaries,democrat,False,False,D. Orentlicher,Democratic,2,100.0,Indiana,49.9,29121.0
 8,8th District Primaries,republican,True,True,L. Bucshon,Republican,1,100.0,Indiana,65.0,72507.0
 8,8th District Primaries,republican,False,False,R. Moss,Republican,2,100.0,Indiana,35.0,38974.0
@@ -610,7 +610,7 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 6,6th District Primaries,republican,True,True,A. Barr,Republican,1,100.0,Kentucky,84.5,25212.0
 6,6th District Primaries,republican,False,False,R. Brill,Republican,2,100.0,Kentucky,15.5,4608.0
 1,1st District Primaries,democrat,True,True,C. Pingree,Democratic,1,100.0,Maine,,
-1,1st District Primaries,republican,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span> M. Holbrook</span>",Republican,1,99.4,Maine,50.1,10345.0
+1,1st District Primaries,republican,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner M. Holbrook",Republican,1,99.4,Maine,50.1,10345.0
 1,1st District Primaries,republican,False,False,A. Smith,Republican,2,99.4,Maine,49.9,10287.0
 2,2nd District Primaries,democrat,False,True,E. Cain,Democratic,1,100.0,Maine,,
 2,2nd District Primaries,republican,True,True,B. Poliquin,Republican,1,100.0,Maine,,
@@ -657,7 +657,7 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 6,6th District Primaries,republican,False,False,H. Painter,Republican,8,100.0,Maryland,1.8,1041.0
 7,7th District Primaries,democrat,True,True,E. Cummings,Democratic,1,98.4,Maryland,92.0,122299.0
 7,7th District Primaries,democrat,False,False,A. Petrus,Democratic,2,98.4,Maryland,8.0,10578.0
-7,7th District Primaries,republican,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span> C. Vaughn</span>",Republican,1,98.4,Maryland,41.4,10159.0
+7,7th District Primaries,republican,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner C. Vaughn",Republican,1,98.4,Maryland,41.4,10159.0
 7,7th District Primaries,republican,False,False,W. Newton,Republican,2,98.4,Maryland,41.6,10217.0
 7,7th District Primaries,republican,False,False,R. Bly,Republican,3,98.4,Maryland,17.1,4189.0
 8,8th District Primaries,democrat,False,True,J. Raskin,Democratic,1,100.0,Maryland,33.7,38902.0
@@ -756,17 +756,17 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 7,7th District Primaries,republican,False,False,A. Hinson,Republican,2,100.0,Minnesota,41.0,6087.0
 8,8th District Primaries,democrat,True,True,R. Nolan,Democratic,1,100.0,Minnesota,,
 8,8th District Primaries,republican,False,True,S. Mills,Republican,1,100.0,Minnesota,,
-1,1st District Primaries,democrat,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span> J. Owens</span>",Democratic,1,0.0,Mississippi,,
+1,1st District Primaries,democrat,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner J. Owens",Democratic,1,0.0,Mississippi,,
 1,1st District Primaries,republican,True,True,T. Kelly,Republican,1,100.0,Mississippi,89.3,94074.0
 1,1st District Primaries,republican,False,False,P. Clever,Republican,2,100.0,Mississippi,10.7,11254.0
-2,2nd District Primaries,democrat,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span> B. Thompson (i)</span>",Democratic,1,0.0,Mississippi,,
-2,2nd District Primaries,republican,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span> J. Bouie</span>",Republican,1,0.0,Mississippi,,
+2,2nd District Primaries,democrat,True,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner B. Thompson",Democratic,1,0.0,Mississippi,,
+2,2nd District Primaries,republican,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner J. Bouie",Republican,1,0.0,Mississippi,,
 3,3rd District Primaries,democrat,False,True,D. Quinn,Democratic,1,100.0,Mississippi,65.6,28041.0
 3,3rd District Primaries,democrat,False,False,N. Stewart,Democratic,2,100.0,Mississippi,34.4,14731.0
 3,3rd District Primaries,republican,True,True,G. Harper,Republican,1,100.0,Mississippi,89.3,102309.0
 3,3rd District Primaries,republican,False,False,J. Giles,Republican,2,100.0,Mississippi,10.7,12308.0
-4,4th District Primaries,democrat,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span> M. Gladney</span>",Democratic,1,0.0,Mississippi,,
-4,4th District Primaries,republican,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span> S. Palazzo (i)</span>",Republican,1,0.0,Mississippi,,
+4,4th District Primaries,democrat,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner M. Gladney",Democratic,1,0.0,Mississippi,,
+4,4th District Primaries,republican,True,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner S. Palazzo",Republican,1,0.0,Mississippi,,
 1,1st District Primaries,democrat,True,True,L. Clay,Democratic,1,100.0,Missouri,62.6,55847.0
 1,1st District Primaries,democrat,False,False,M. Chappelle-Nadal,Democratic,2,100.0,Missouri,26.8,23940.0
 1,1st District Primaries,democrat,False,False,B. Haas,Democratic,3,100.0,Missouri,10.5,9395.0
@@ -924,7 +924,7 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 3,3rd District Primaries,democrat,True,True,B. Lujan,Democratic,1,100.0,New Mexico,,
 3,3rd District Primaries,republican,False,True,M. Romero,Republican,1,100.0,New Mexico,62.0,16914.0
 3,3rd District Primaries,republican,False,False,M. Lucero,Republican,2,100.0,New Mexico,38.0,10362.0
-1,1st District Primaries,democrat,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span> A. Throne-Holst</span>",Democratic,1,100.0,New York,50.1,5446.0
+1,1st District Primaries,democrat,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner A. Throne-Holst",Democratic,1,100.0,New York,50.1,5446.0
 1,1st District Primaries,democrat,False,False,D. Calone,Democratic,2,100.0,New York,49.9,5417.0
 1,1st District Primaries,republican,True,True,L. Zeldin,Republican,1,100.0,New York,,
 1,1st District Primaries,independent_or_other,False,True,K. Schaeffer,Independent,1,100.0,New York,,
@@ -961,7 +961,7 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 12,12th District Primaries,democrat,True,True,C. Maloney,Democratic,1,100.0,New York,90.3,13389.0
 12,12th District Primaries,democrat,False,False,P. Lindner,Democratic,2,100.0,New York,9.7,1435.0
 12,12th District Primaries,republican,False,True,R. Ardini,Republican,1,100.0,New York,,
-13,13th District Primaries,democrat,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span> A. Espaillat</span>",Democratic,1,99.0,New York,36.8,15735.0
+13,13th District Primaries,democrat,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner A. Espaillat",Democratic,1,99.0,New York,36.8,15735.0
 13,13th District Primaries,democrat,False,False,K. Wright,Democratic,2,99.0,New York,34.0,14499.0
 13,13th District Primaries,democrat,False,False,C. Williams,Democratic,3,99.0,New York,10.9,4665.0
 13,13th District Primaries,democrat,False,False,A. Powell,Democratic,4,99.0,New York,6.2,2664.0
@@ -1041,7 +1041,7 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 8,8th District Primaries,republican,True,True,R. Hudson,Republican,1,100.0,North Carolina,64.6,16305.0
 8,8th District Primaries,republican,False,False,T. D'Annunzio,Republican,2,100.0,North Carolina,35.4,8943.0
 9,9th District Primaries,democrat,False,True,C. Cano,Democratic,1,100.0,North Carolina,,
-9,9th District Primaries,republican,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span> R. Pittenger (i)</span>",Republican,1,100.0,North Carolina,35.0,9268.0
+9,9th District Primaries,republican,True,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner R. Pittenger",Republican,1,100.0,North Carolina,35.0,9268.0
 9,9th District Primaries,republican,False,False,M. Harris,Republican,2,100.0,North Carolina,34.4,9126.0
 9,9th District Primaries,republican,False,False,T. Johnson,Republican,3,100.0,North Carolina,30.6,8118.0
 10,10th District Primaries,democrat,False,True,A. Millard,Democratic,1,100.0,North Carolina,,
@@ -1062,7 +1062,7 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 12,12th District Primaries,republican,False,True,L. Threatt,Republican,1,100.0,North Carolina,41.8,3481.0
 12,12th District Primaries,republican,False,False,P. Wright,Republican,2,100.0,North Carolina,34.6,2884.0
 12,12th District Primaries,republican,False,False,R. Duffie,Republican,3,100.0,North Carolina,23.6,1965.0
-13,13th District Primaries,democrat,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span> B. Davis</span>",Democratic,1,100.0,North Carolina,25.7,4694.0
+13,13th District Primaries,democrat,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner B. Davis",Democratic,1,100.0,North Carolina,25.7,4694.0
 13,13th District Primaries,democrat,False,False,B. Isner,Democratic,2,100.0,North Carolina,25.1,4582.0
 13,13th District Primaries,democrat,False,False,A. Coker,Democratic,3,100.0,North Carolina,22.4,4098.0
 13,13th District Primaries,democrat,False,False,M. Ferguson,Democratic,4,100.0,North Carolina,16.1,2943.0
@@ -1239,7 +1239,7 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 1,1st District Primaries,democrat,False,True,D. Cherny,Democratic,1,100.0,South Carolina,,
 1,1st District Primaries,republican,True,True,M. Sanford,Republican,1,100.0,South Carolina,55.6,21266.0
 1,1st District Primaries,republican,False,False,J. Horne,Republican,2,100.0,South Carolina,44.4,16974.0
-2,2nd District Primaries,democrat,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span> A. Bjorn</span>",Democratic,1,100.0,South Carolina,50.1,9604.0
+2,2nd District Primaries,democrat,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner A. Bjorn",Democratic,1,100.0,South Carolina,50.1,9604.0
 2,2nd District Primaries,democrat,False,False,P. Black,Democratic,2,100.0,South Carolina,49.9,9555.0
 2,2nd District Primaries,republican,True,True,J. Wilson,Republican,1,100.0,South Carolina,,
 3,3rd District Primaries,democrat,False,True,H. Cleveland,Democratic,1,100.0,South Carolina,,
@@ -1345,14 +1345,14 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 14,14th District Primaries,democrat,False,True,M. Cole,Democratic,1,100.0,Texas,,
 14,14th District Primaries,republican,True,True,R. Weber,Republican,1,100.0,Texas,84.0,57769.0
 14,14th District Primaries,republican,False,False,K. Casey,Republican,2,100.0,Texas,16.0,10971.0
-15,15th District Primaries,democrat,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span>* V. Gonzalez</span>",Democratic,1,100.0,Texas,42.2,22122.0
-15,15th District Primaries,democrat,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span>* S. Palacios</span>",Democratic,2,100.0,Texas,18.9,9907.0
+15,15th District Primaries,democrat,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner* V. Gonzalez",Democratic,1,100.0,Texas,42.2,22122.0
+15,15th District Primaries,democrat,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner* S. Palacios",Democratic,2,100.0,Texas,18.9,9907.0
 15,15th District Primaries,democrat,False,False,D. Elizondo,Democratic,3,100.0,Texas,16.9,8881.0
 15,15th District Primaries,democrat,False,False,J. Quintanilla,Democratic,4,100.0,Texas,11.7,6144.0
 15,15th District Primaries,democrat,False,False,R. Ramirez,Democratic,5,100.0,Texas,6.0,3146.0
 15,15th District Primaries,democrat,False,False,R. Sweeten,Democratic,6,100.0,Texas,4.2,2218.0
-15,15th District Primaries,republican,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span>* T. Westley</span>",Republican,1,100.0,Texas,45.0,13153.0
-15,15th District Primaries,republican,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span>* R. Villarreal</span>",Republican,2,100.0,Texas,31.9,9331.0
+15,15th District Primaries,republican,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner* T. Westley",Republican,1,100.0,Texas,45.0,13153.0
+15,15th District Primaries,republican,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner* R. Villarreal",Republican,2,100.0,Texas,31.9,9331.0
 15,15th District Primaries,republican,False,False,X. Salinas,Republican,3,100.0,Texas,23.0,6730.0
 16,16th District Primary,democrat,True,True,B. O'Rourke,,1,100.0,Texas,85.6,39958.0
 16,16th District Primary,democrat,False,False,B. Mendoza,,2,100.0,Texas,14.4,6732.0
@@ -1361,12 +1361,12 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 17,17th District Primaries,republican,False,False,R. Patterson,Republican,2,100.0,Texas,18.4,15387.0
 17,17th District Primaries,republican,False,False,K. Sims,Republican,3,100.0,Texas,9.1,7591.0
 18,18th District Primaries,democrat,True,True,S. Jackson Lee,Democratic,1,100.0,Texas,,
-18,18th District Primaries,republican,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span>* L. Bartley</span>",Republican,1,100.0,Texas,33.7,5679.0
-18,18th District Primaries,republican,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span>* R. Gonzales</span>",Republican,2,100.0,Texas,33.1,5578.0
+18,18th District Primaries,republican,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner* L. Bartley",Republican,1,100.0,Texas,33.7,5679.0
+18,18th District Primaries,republican,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner* R. Gonzales",Republican,2,100.0,Texas,33.1,5578.0
 18,18th District Primaries,republican,False,False,S. Fisher,Republican,3,100.0,Texas,26.1,4405.0
 18,18th District Primaries,republican,False,False,A. Pate,Republican,4,100.0,Texas,7.1,1202.0
-19,19th District Primary,republican,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span>* G. Robertson</span>",,1,100.0,Texas,26.7,27791.0
-19,19th District Primary,republican,False,True,"<span class=""name-combo""> <span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner</span></span>* J. Arrington</span>",,2,100.0,Texas,26.0,26980.0
+19,19th District Primary,republican,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner* G. Robertson",,1,100.0,Texas,26.7,27791.0
+19,19th District Primary,republican,False,True,"<span class=""token token-winner""><b aria-hidden=""true"" class=""icon icon-check""></b><span class=""icon-text"">Winner* J. Arrington",,2,100.0,Texas,26.0,26980.0
 19,19th District Primary,republican,False,False,M. Starr,,3,100.0,Texas,21.4,22256.0
 19,19th District Primary,republican,False,False,D. May,,4,100.0,Texas,9.2,9592.0
 19,19th District Primary,republican,False,False,G. Garrett,,5,100.0,Texas,8.0,8290.0

@@ -133,6 +133,12 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,rank,reporting_pct,st
 1131,Wilcox County,republican,True,,R. Shelby,2,100.0,Alabama,32.1,1815
 1133,Winston County,republican,True,,R. Shelby,1,100.0,Alabama,87.4,8814
 1133,Winston County,democrat,False,,R. Crumpton,2,100.0,Alabama,12.6,1267
+0,Alaska,republican,True,True,L. Murkowski,1,99.8,Alaska,44.3,111382
+0,Alaska,independent_or_other,False,False,J. Miller,2,99.8,Alaska,29.5,74245
+0,Alaska,independent_or_other,False,False,M. Stock,3,99.8,Alaska,13.7,34579
+0,Alaska,democrat,False,False,R. Metcalfe,4,99.8,Alaska,11.1,28026
+0,Alaska,independent_or_other,False,False,B. Craig,5,99.8,Alaska,0.8,2027
+0,Alaska,independent_or_other,False,False,T. Gianoutsos,6,99.8,Alaska,0.6,1385
 4001,Apache County,democrat,False,,A. Kirkpatrick,1,100.0,Arizona,68.4,13122
 4001,Apache County,republican,True,,J. McCain,2,100.0,Arizona,27.3,5229
 4001,Apache County,independent_or_other,False,,G. Swing,3,100.0,Arizona,4.3,828

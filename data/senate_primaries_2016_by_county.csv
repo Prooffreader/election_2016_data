@@ -768,346 +768,346 @@ fips,geo_name,individual_party,is_incumbent,name,party,rank,reporting_pct,state,
 5149,Yell County,democrat,False,C. Eldridge,Democratic,1,0.0,Arkansas,,
 5149,Yell County,republican,True,J. Boozman,Republican,1,100.0,Arkansas,78.1,1801.0
 5149,Yell County,republican,False,C. Coleman,Republican,2,100.0,Arkansas,21.9,504.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">K. Harris</span>",Open Primary,1,100.0,California,63.7,145595.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">L. Sanchez</span>",Open Primary,2,100.0,California,11.1,25499.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">D. Sundheim</span>",Open Primary,3,100.0,California,3.3,7631.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">T. Del Beccaro</span>",Open Primary,4,100.0,California,2.6,5883.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">S. Stokes</span>",Open Primary,5,100.0,California,1.6,3596.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">P. Elizondo</span>",Open Primary,6,100.0,California,1.4,3305.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">M. Munroe</span>",Open Primary,7,100.0,California,1.3,3074.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">G. Conlon</span>",Open Primary,8,100.0,California,1.3,2939.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">G. Yang</span>",Open Primary,9,100.0,California,1.2,2771.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">P. Wyman</span>",Open Primary,10,100.0,California,1.2,2664.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">E. Garcia</span>",Open Primary,11,100.0,California,0.9,2156.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">K. Roseberry</span>",Open Primary,12,100.0,California,0.9,2138.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">T. Palzer</span>",Open Primary,13,100.0,California,0.9,2071.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">G. Lightfoot</span>",Open Primary,14,100.0,California,0.9,2050.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">D. Krampe</span>",Open Primary,15,100.0,California,0.7,1498.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">J. Hanania</span>",Open Primary,16,100.0,California,0.6,1477.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">M. Herd</span>",Open Primary,17,100.0,California,0.6,1422.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">C. Grappo</span>",Open Primary,18,100.0,California,0.6,1420.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">V. Hougo</span>",Open Primary,19,100.0,California,0.6,1418.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">J. Parker</span>",Open Primary,20,100.0,California,0.6,1399.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">R. Unz</span>",Open Primary,21,100.0,California,0.6,1275.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">L. Shi</span>",Open Primary,22,100.0,California,0.5,1030.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">C. Grey</span>",Open Primary,23,100.0,California,0.4,887.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">M. Beitiks</span>",Open Primary,24,100.0,California,0.4,813.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">J. Williamson</span>",Open Primary,25,100.0,California,0.3,768.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">H. Peters</span>",Open Primary,26,100.0,California,0.3,697.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">P. Merritt</span>",Open Primary,27,100.0,California,0.3,666.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">E. Rodgers</span>",Open Primary,28,100.0,California,0.2,553.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">J. Laws</span>",Open Primary,29,100.0,California,0.2,460.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">D. Grundmann</span>",Open Primary,30,100.0,California,0.2,434.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">J. Kraus</span>",Open Primary,31,100.0,California,0.1,340.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">G. Myers</span>",Open Primary,32,100.0,California,0.1,319.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">T. Gildersleeve</span>",Open Primary,33,100.0,California,0.1,312.0
-6001,Alameda County,independent_or_other,False,"<span class=""name-combo"">S. Vineberg</span>",Open Primary,34,100.0,California,0.1,180.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">K. Harris</span>",Open Primary,1,100.0,California,38.5,168.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">L. Sanchez</span>",Open Primary,2,100.0,California,17.4,76.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">P. Wyman</span>",Open Primary,3,100.0,California,8.7,38.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">D. Sundheim</span>",Open Primary,4,100.0,California,6.2,27.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">G. Conlon</span>",Open Primary,5,100.0,California,5.5,24.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">T. Del Beccaro</span>",Open Primary,6,100.0,California,3.9,17.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">P. Elizondo</span>",Open Primary,7,100.0,California,3.0,13.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">G. Lightfoot</span>",Open Primary,8,100.0,California,2.3,10.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">V. Hougo</span>",Open Primary,9,100.0,California,1.8,8.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">K. Roseberry</span>",Open Primary,10,100.0,California,1.4,6.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">J. Laws</span>",Open Primary,11,100.0,California,1.1,5.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">G. Yang</span>",Open Primary,12,100.0,California,1.1,5.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">J. Kraus</span>",Open Primary,13,100.0,California,0.9,4.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">P. Merritt</span>",Open Primary,14,100.0,California,0.9,4.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">M. Munroe</span>",Open Primary,15,100.0,California,0.9,4.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">M. Beitiks</span>",Open Primary,16,100.0,California,0.7,3.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">M. Herd</span>",Open Primary,17,100.0,California,0.7,3.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">D. Krampe</span>",Open Primary,18,100.0,California,0.7,3.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">S. Stokes</span>",Open Primary,19,100.0,California,0.7,3.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">E. Garcia</span>",Open Primary,20,100.0,California,0.5,2.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">C. Grey</span>",Open Primary,21,100.0,California,0.5,2.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">J. Hanania</span>",Open Primary,22,100.0,California,0.5,2.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">T. Palzer</span>",Open Primary,23,100.0,California,0.5,2.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">L. Shi</span>",Open Primary,24,100.0,California,0.5,2.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">R. Unz</span>",Open Primary,25,100.0,California,0.5,2.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">D. Grundmann</span>",Open Primary,26,100.0,California,0.2,1.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">E. Rodgers</span>",Open Primary,27,100.0,California,0.2,1.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">J. Williamson</span>",Open Primary,28,100.0,California,0.2,1.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">T. Gildersleeve</span>",Open Primary,29,100.0,California,0.0,0.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">C. Grappo</span>",Open Primary,30,100.0,California,0.0,0.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">G. Myers</span>",Open Primary,31,100.0,California,0.0,0.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">J. Parker</span>",Open Primary,32,100.0,California,0.0,0.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">H. Peters</span>",Open Primary,33,100.0,California,0.0,0.0
-6003,Alpine County,independent_or_other,False,"<span class=""name-combo"">S. Vineberg</span>",Open Primary,34,100.0,California,0.0,0.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">K. Harris</span>",Open Primary,1,100.0,California,35.0,3020.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">L. Sanchez</span>",Open Primary,2,100.0,California,8.3,716.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">D. Sundheim</span>",Open Primary,3,100.0,California,13.3,1145.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">P. Wyman</span>",Open Primary,4,100.0,California,10.8,931.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">T. Del Beccaro</span>",Open Primary,5,100.0,California,6.7,574.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">G. Conlon</span>",Open Primary,6,100.0,California,5.1,440.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">R. Unz</span>",Open Primary,7,100.0,California,3.1,266.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">S. Stokes</span>",Open Primary,8,100.0,California,2.4,206.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">D. Krampe</span>",Open Primary,9,100.0,California,2.3,198.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">K. Roseberry</span>",Open Primary,10,100.0,California,1.7,149.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">G. Lightfoot</span>",Open Primary,11,100.0,California,1.5,131.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">V. Hougo</span>",Open Primary,12,100.0,California,1.1,99.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">P. Elizondo</span>",Open Primary,13,100.0,California,1.0,90.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">J. Williamson</span>",Open Primary,14,100.0,California,1.0,90.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">G. Yang</span>",Open Primary,15,100.0,California,1.0,86.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">T. Palzer</span>",Open Primary,16,100.0,California,0.8,71.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">C. Grey</span>",Open Primary,17,100.0,California,0.6,50.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">M. Beitiks</span>",Open Primary,18,100.0,California,0.5,46.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">M. Herd</span>",Open Primary,19,100.0,California,0.5,42.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">M. Munroe</span>",Open Primary,20,100.0,California,0.5,40.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">J. Kraus</span>",Open Primary,21,100.0,California,0.4,35.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">P. Merritt</span>",Open Primary,22,100.0,California,0.4,33.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">J. Parker</span>",Open Primary,23,100.0,California,0.3,26.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">J. Laws</span>",Open Primary,24,100.0,California,0.3,22.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">E. Garcia</span>",Open Primary,25,100.0,California,0.2,21.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">L. Shi</span>",Open Primary,26,100.0,California,0.2,20.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">J. Hanania</span>",Open Primary,27,100.0,California,0.2,17.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">D. Grundmann</span>",Open Primary,28,100.0,California,0.2,15.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">S. Vineberg</span>",Open Primary,29,100.0,California,0.2,15.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">C. Grappo</span>",Open Primary,30,100.0,California,0.2,14.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">H. Peters</span>",Open Primary,31,100.0,California,0.1,10.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">T. Gildersleeve</span>",Open Primary,32,100.0,California,0.1,5.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">E. Rodgers</span>",Open Primary,33,100.0,California,0.0,4.0
-6005,Amador County,independent_or_other,False,"<span class=""name-combo"">G. Myers</span>",Open Primary,34,100.0,California,0.0,3.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">K. Harris</span>",Open Primary,1,100.0,California,26.8,12189.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">L. Sanchez</span>",Open Primary,2,100.0,California,13.1,5968.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">D. Sundheim</span>",Open Primary,3,100.0,California,15.4,7009.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">P. Wyman</span>",Open Primary,4,100.0,California,7.2,3279.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">S. Stokes</span>",Open Primary,5,100.0,California,6.4,2929.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">G. Conlon</span>",Open Primary,6,100.0,California,4.4,1982.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">G. Lightfoot</span>",Open Primary,7,100.0,California,3.9,1771.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">T. Del Beccaro</span>",Open Primary,8,100.0,California,2.5,1148.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">P. Elizondo</span>",Open Primary,9,100.0,California,2.1,936.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">D. Krampe</span>",Open Primary,10,100.0,California,1.8,839.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">K. Roseberry</span>",Open Primary,11,100.0,California,1.6,729.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">G. Yang</span>",Open Primary,12,100.0,California,1.6,719.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">R. Unz</span>",Open Primary,13,100.0,California,1.6,714.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">M. Munroe</span>",Open Primary,14,100.0,California,1.4,615.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">V. Hougo</span>",Open Primary,15,100.0,California,1.2,562.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">T. Palzer</span>",Open Primary,16,100.0,California,1.2,549.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">J. Williamson</span>",Open Primary,17,100.0,California,1.1,489.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">M. Beitiks</span>",Open Primary,18,100.0,California,0.9,404.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">J. Laws</span>",Open Primary,19,100.0,California,0.7,310.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">C. Grey</span>",Open Primary,20,100.0,California,0.6,262.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">P. Merritt</span>",Open Primary,21,100.0,California,0.5,212.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">M. Herd</span>",Open Primary,22,100.0,California,0.5,211.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">J. Kraus</span>",Open Primary,23,100.0,California,0.4,202.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">J. Parker</span>",Open Primary,24,100.0,California,0.4,182.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">L. Shi</span>",Open Primary,25,100.0,California,0.4,178.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">E. Garcia</span>",Open Primary,26,100.0,California,0.4,177.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">J. Hanania</span>",Open Primary,27,100.0,California,0.3,148.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">C. Grappo</span>",Open Primary,28,100.0,California,0.3,142.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">D. Grundmann</span>",Open Primary,29,100.0,California,0.3,141.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">E. Rodgers</span>",Open Primary,30,100.0,California,0.3,118.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">H. Peters</span>",Open Primary,31,100.0,California,0.2,101.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">T. Gildersleeve</span>",Open Primary,32,100.0,California,0.2,94.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">S. Vineberg</span>",Open Primary,33,100.0,California,0.2,93.0
-6007,Butte County,independent_or_other,False,"<span class=""name-combo"">G. Myers</span>",Open Primary,34,100.0,California,0.1,24.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">K. Harris</span>",Open Primary,1,100.0,California,30.1,3596.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">L. Sanchez</span>",Open Primary,2,100.0,California,9.4,1128.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">D. Sundheim</span>",Open Primary,3,100.0,California,13.1,1563.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">P. Wyman</span>",Open Primary,4,100.0,California,10.2,1223.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">G. Conlon</span>",Open Primary,5,100.0,California,6.3,757.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">T. Del Beccaro</span>",Open Primary,6,100.0,California,5.7,681.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">R. Unz</span>",Open Primary,7,100.0,California,2.8,332.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">D. Krampe</span>",Open Primary,8,100.0,California,2.4,288.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">T. Palzer</span>",Open Primary,9,100.0,California,2.4,287.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">S. Stokes</span>",Open Primary,10,100.0,California,2.2,261.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">P. Elizondo</span>",Open Primary,11,100.0,California,1.9,229.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">G. Lightfoot</span>",Open Primary,12,100.0,California,1.9,228.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">V. Hougo</span>",Open Primary,13,100.0,California,1.5,176.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">K. Roseberry</span>",Open Primary,14,100.0,California,1.4,171.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">J. Williamson</span>",Open Primary,15,100.0,California,1.0,122.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">G. Yang</span>",Open Primary,16,100.0,California,1.0,119.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">M. Herd</span>",Open Primary,17,100.0,California,0.7,83.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">J. Laws</span>",Open Primary,18,100.0,California,0.7,83.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">J. Kraus</span>",Open Primary,19,100.0,California,0.7,82.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">M. Munroe</span>",Open Primary,20,100.0,California,0.7,82.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">C. Grey</span>",Open Primary,21,100.0,California,0.5,60.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">M. Beitiks</span>",Open Primary,22,100.0,California,0.4,53.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">P. Merritt</span>",Open Primary,23,100.0,California,0.4,51.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">E. Garcia</span>",Open Primary,24,100.0,California,0.4,50.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">J. Parker</span>",Open Primary,25,100.0,California,0.3,40.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">J. Hanania</span>",Open Primary,26,100.0,California,0.3,36.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">L. Shi</span>",Open Primary,27,100.0,California,0.2,28.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">D. Grundmann</span>",Open Primary,28,100.0,California,0.2,27.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">C. Grappo</span>",Open Primary,29,100.0,California,0.2,26.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">H. Peters</span>",Open Primary,30,100.0,California,0.2,26.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">S. Vineberg</span>",Open Primary,31,100.0,California,0.2,22.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">T. Gildersleeve</span>",Open Primary,32,100.0,California,0.1,16.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">G. Myers</span>",Open Primary,33,100.0,California,0.1,10.0
-6009,Calaveras County,independent_or_other,False,"<span class=""name-combo"">E. Rodgers</span>",Open Primary,34,100.0,California,0.1,10.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">K. Harris</span>",Open Primary,1,100.0,California,20.1,607.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">L. Sanchez</span>",Open Primary,2,100.0,California,16.7,504.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">P. Wyman</span>",Open Primary,3,100.0,California,12.2,368.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">D. Sundheim</span>",Open Primary,4,100.0,California,10.5,316.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">G. Conlon</span>",Open Primary,5,100.0,California,5.7,173.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">T. Del Beccaro</span>",Open Primary,6,100.0,California,3.9,117.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">S. Stokes</span>",Open Primary,7,100.0,California,3.0,91.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">R. Unz</span>",Open Primary,8,100.0,California,2.9,88.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">D. Grundmann</span>",Open Primary,9,100.0,California,2.7,81.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">D. Krampe</span>",Open Primary,10,100.0,California,2.7,81.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">G. Lightfoot</span>",Open Primary,11,100.0,California,2.4,72.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">T. Palzer</span>",Open Primary,12,100.0,California,1.9,57.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">V. Hougo</span>",Open Primary,13,100.0,California,1.7,50.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">J. Laws</span>",Open Primary,14,100.0,California,1.6,48.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">K. Roseberry</span>",Open Primary,15,100.0,California,1.6,48.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">J. Williamson</span>",Open Primary,16,100.0,California,1.5,45.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">G. Yang</span>",Open Primary,17,100.0,California,1.4,42.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">P. Elizondo</span>",Open Primary,18,100.0,California,0.8,24.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">J. Kraus</span>",Open Primary,19,100.0,California,0.8,24.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">E. Garcia</span>",Open Primary,20,100.0,California,0.8,23.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">M. Herd</span>",Open Primary,21,100.0,California,0.6,19.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">M. Munroe</span>",Open Primary,22,100.0,California,0.6,17.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">H. Peters</span>",Open Primary,23,100.0,California,0.6,17.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">C. Grappo</span>",Open Primary,24,100.0,California,0.5,15.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">M. Beitiks</span>",Open Primary,25,100.0,California,0.4,13.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">L. Shi</span>",Open Primary,26,100.0,California,0.4,12.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">C. Grey</span>",Open Primary,27,100.0,California,0.4,11.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">J. Parker</span>",Open Primary,28,100.0,California,0.4,11.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">E. Rodgers</span>",Open Primary,29,100.0,California,0.4,11.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">J. Hanania</span>",Open Primary,30,100.0,California,0.3,10.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">P. Merritt</span>",Open Primary,31,100.0,California,0.3,10.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">G. Myers</span>",Open Primary,32,100.0,California,0.3,9.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">T. Gildersleeve</span>",Open Primary,33,100.0,California,0.1,4.0
-6011,Colusa County,independent_or_other,False,"<span class=""name-combo"">S. Vineberg</span>",Open Primary,34,100.0,California,0.1,4.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">K. Harris</span>",Open Primary,1,100.0,California,54.1,89272.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">L. Sanchez</span>",Open Primary,2,100.0,California,9.4,15493.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">D. Sundheim</span>",Open Primary,3,100.0,California,5.9,9800.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">T. Del Beccaro</span>",Open Primary,4,100.0,California,5.8,9544.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">G. Conlon</span>",Open Primary,5,100.0,California,3.7,6127.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">P. Wyman</span>",Open Primary,6,100.0,California,2.7,4534.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">D. Krampe</span>",Open Primary,7,100.0,California,1.6,2637.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">S. Stokes</span>",Open Primary,8,100.0,California,1.6,2592.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">R. Unz</span>",Open Primary,9,100.0,California,1.4,2344.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">M. Munroe</span>",Open Primary,10,100.0,California,1.4,2340.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">K. Roseberry</span>",Open Primary,11,100.0,California,1.2,2002.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">G. Lightfoot</span>",Open Primary,12,100.0,California,1.2,1924.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">G. Yang</span>",Open Primary,13,100.0,California,1.1,1774.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">P. Elizondo</span>",Open Primary,14,100.0,California,1.0,1711.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">T. Palzer</span>",Open Primary,15,100.0,California,0.9,1516.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">M. Herd</span>",Open Primary,16,100.0,California,0.7,1205.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">E. Garcia</span>",Open Primary,17,100.0,California,0.7,1169.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">V. Hougo</span>",Open Primary,18,100.0,California,0.7,1131.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">C. Grappo</span>",Open Primary,19,100.0,California,0.6,992.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">J. Parker</span>",Open Primary,20,100.0,California,0.5,821.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">J. Williamson</span>",Open Primary,21,100.0,California,0.5,806.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">E. Rodgers</span>",Open Primary,22,100.0,California,0.4,651.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">H. Peters</span>",Open Primary,23,100.0,California,0.4,616.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">J. Kraus</span>",Open Primary,24,100.0,California,0.3,563.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">J. Hanania</span>",Open Primary,25,100.0,California,0.3,537.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">P. Merritt</span>",Open Primary,26,100.0,California,0.3,502.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">C. Grey</span>",Open Primary,27,100.0,California,0.3,471.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">M. Beitiks</span>",Open Primary,28,100.0,California,0.2,397.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">J. Laws</span>",Open Primary,29,100.0,California,0.2,397.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">L. Shi</span>",Open Primary,30,100.0,California,0.2,391.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">D. Grundmann</span>",Open Primary,31,100.0,California,0.2,260.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">T. Gildersleeve</span>",Open Primary,32,100.0,California,0.1,173.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">G. Myers</span>",Open Primary,33,100.0,California,0.1,162.0
-6013,Contra Costa County,independent_or_other,False,"<span class=""name-combo"">S. Vineberg</span>",Open Primary,34,100.0,California,0.1,123.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">K. Harris</span>",Open Primary,1,100.0,California,28.9,1331.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">L. Sanchez</span>",Open Primary,2,100.0,California,12.9,594.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">J. Laws</span>",Open Primary,3,100.0,California,8.6,396.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">P. Wyman</span>",Open Primary,4,100.0,California,8.3,383.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">D. Sundheim</span>",Open Primary,5,100.0,California,6.6,306.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">G. Conlon</span>",Open Primary,6,100.0,California,4.6,210.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">T. Del Beccaro</span>",Open Primary,7,100.0,California,3.6,168.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">G. Lightfoot</span>",Open Primary,8,100.0,California,3.6,166.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">S. Stokes</span>",Open Primary,9,100.0,California,3.3,151.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">D. Krampe</span>",Open Primary,10,100.0,California,2.0,91.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">T. Palzer</span>",Open Primary,11,100.0,California,1.9,88.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">K. Roseberry</span>",Open Primary,12,100.0,California,1.8,81.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">P. Elizondo</span>",Open Primary,13,100.0,California,1.5,69.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">G. Yang</span>",Open Primary,14,100.0,California,1.3,61.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">J. Williamson</span>",Open Primary,15,100.0,California,1.0,47.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">V. Hougo</span>",Open Primary,16,100.0,California,1.0,46.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">R. Unz</span>",Open Primary,17,100.0,California,1.0,45.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">M. Munroe</span>",Open Primary,18,100.0,California,0.9,43.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">M. Beitiks</span>",Open Primary,19,100.0,California,0.9,42.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">C. Grappo</span>",Open Primary,20,100.0,California,0.7,34.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">E. Garcia</span>",Open Primary,21,100.0,California,0.6,26.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">C. Grey</span>",Open Primary,22,100.0,California,0.6,26.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">J. Kraus</span>",Open Primary,23,100.0,California,0.5,25.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">P. Merritt</span>",Open Primary,24,100.0,California,0.5,25.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">H. Peters</span>",Open Primary,25,100.0,California,0.5,24.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">L. Shi</span>",Open Primary,26,100.0,California,0.5,22.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">J. Parker</span>",Open Primary,27,100.0,California,0.5,21.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">J. Hanania</span>",Open Primary,28,100.0,California,0.4,19.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">M. Herd</span>",Open Primary,29,100.0,California,0.3,15.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">T. Gildersleeve</span>",Open Primary,30,100.0,California,0.3,12.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">D. Grundmann</span>",Open Primary,31,100.0,California,0.3,12.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">E. Rodgers</span>",Open Primary,32,100.0,California,0.3,12.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">S. Vineberg</span>",Open Primary,33,100.0,California,0.2,7.0
-6015,Del Norte County,independent_or_other,False,"<span class=""name-combo"">G. Myers</span>",Open Primary,34,100.0,California,0.1,5.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">K. Harris</span>",Open Primary,1,100.0,California,33.0,14992.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">L. Sanchez</span>",Open Primary,2,100.0,California,9.1,4148.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">D. Sundheim</span>",Open Primary,3,100.0,California,18.5,8393.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">T. Del Beccaro</span>",Open Primary,4,100.0,California,7.6,3469.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">P. Wyman</span>",Open Primary,5,100.0,California,7.0,3185.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">G. Conlon</span>",Open Primary,6,100.0,California,4.5,2057.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">R. Unz</span>",Open Primary,7,100.0,California,2.7,1224.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">S. Stokes</span>",Open Primary,8,100.0,California,2.1,961.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">G. Lightfoot</span>",Open Primary,9,100.0,California,1.6,749.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">D. Krampe</span>",Open Primary,10,100.0,California,1.6,735.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">P. Elizondo</span>",Open Primary,11,100.0,California,1.5,691.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">K. Roseberry</span>",Open Primary,12,100.0,California,1.3,573.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">V. Hougo</span>",Open Primary,13,100.0,California,1.1,487.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">T. Palzer</span>",Open Primary,14,100.0,California,1.0,466.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">G. Yang</span>",Open Primary,15,100.0,California,0.9,389.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">M. Munroe</span>",Open Primary,16,100.0,California,0.8,369.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">J. Williamson</span>",Open Primary,17,100.0,California,0.8,359.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">J. Kraus</span>",Open Primary,18,100.0,California,0.7,296.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">M. Herd</span>",Open Primary,19,100.0,California,0.6,261.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">M. Beitiks</span>",Open Primary,20,100.0,California,0.5,235.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">C. Grey</span>",Open Primary,21,100.0,California,0.5,232.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">P. Merritt</span>",Open Primary,22,100.0,California,0.4,166.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">E. Garcia</span>",Open Primary,23,100.0,California,0.3,145.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">L. Shi</span>",Open Primary,24,100.0,California,0.3,133.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">J. Hanania</span>",Open Primary,25,100.0,California,0.3,128.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">J. Parker</span>",Open Primary,26,100.0,California,0.3,119.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">J. Laws</span>",Open Primary,27,100.0,California,0.2,111.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">S. Vineberg</span>",Open Primary,28,100.0,California,0.2,82.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">T. Gildersleeve</span>",Open Primary,29,100.0,California,0.1,64.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">C. Grappo</span>",Open Primary,30,100.0,California,0.1,63.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">D. Grundmann</span>",Open Primary,31,100.0,California,0.1,63.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">H. Peters</span>",Open Primary,32,100.0,California,0.1,36.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">E. Rodgers</span>",Open Primary,33,100.0,California,0.1,36.0
-6017,El Dorado County,independent_or_other,False,"<span class=""name-combo"">G. Myers</span>",Open Primary,34,100.0,California,0.0,16.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">L. Sanchez</span>",Open Primary,1,100.0,California,21.9,23182.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">K. Harris</span>",Open Primary,2,100.0,California,20.8,22112.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">P. Wyman</span>",Open Primary,3,100.0,California,12.2,12978.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">D. Sundheim</span>",Open Primary,4,100.0,California,10.3,10971.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">T. Del Beccaro</span>",Open Primary,5,100.0,California,3.9,4169.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">T. Palzer</span>",Open Primary,6,100.0,California,3.5,3666.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">K. Roseberry</span>",Open Primary,7,100.0,California,3.3,3519.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">G. Conlon</span>",Open Primary,8,100.0,California,3.3,3509.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">G. Yang</span>",Open Primary,9,100.0,California,2.8,2947.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">M. Munroe</span>",Open Primary,10,100.0,California,1.9,1979.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">S. Stokes</span>",Open Primary,11,100.0,California,1.8,1957.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">G. Lightfoot</span>",Open Primary,12,100.0,California,1.7,1840.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">E. Garcia</span>",Open Primary,13,100.0,California,1.2,1297.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">D. Krampe</span>",Open Primary,14,100.0,California,1.0,1062.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">P. Elizondo</span>",Open Primary,15,100.0,California,0.9,930.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">R. Unz</span>",Open Primary,16,100.0,California,0.8,901.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">E. Rodgers</span>",Open Primary,17,100.0,California,0.8,855.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">C. Grappo</span>",Open Primary,18,100.0,California,0.8,826.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">J. Williamson</span>",Open Primary,19,100.0,California,0.7,791.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">J. Laws</span>",Open Primary,20,100.0,California,0.7,789.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">P. Merritt</span>",Open Primary,21,100.0,California,0.7,785.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">V. Hougo</span>",Open Primary,22,100.0,California,0.7,779.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">C. Grey</span>",Open Primary,23,100.0,California,0.7,718.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">H. Peters</span>",Open Primary,24,100.0,California,0.5,568.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">M. Beitiks</span>",Open Primary,25,100.0,California,0.5,520.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">J. Parker</span>",Open Primary,26,100.0,California,0.5,487.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">L. Shi</span>",Open Primary,27,100.0,California,0.4,405.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">M. Herd</span>",Open Primary,28,100.0,California,0.4,378.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">D. Grundmann</span>",Open Primary,29,100.0,California,0.3,366.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">J. Hanania</span>",Open Primary,30,100.0,California,0.2,227.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">J. Kraus</span>",Open Primary,31,100.0,California,0.2,168.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">T. Gildersleeve</span>",Open Primary,32,100.0,California,0.1,156.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">S. Vineberg</span>",Open Primary,33,100.0,California,0.1,116.0
-6019,Fresno County,independent_or_other,False,"<span class=""name-combo"">G. Myers</span>",Open Primary,34,100.0,California,0.1,112.0
+6001,Alameda County,independent_or_other,False,K. Harris,Open Primary,1,100.0,California,63.7,145595.0
+6001,Alameda County,independent_or_other,False,L. Sanchez,Open Primary,2,100.0,California,11.1,25499.0
+6001,Alameda County,independent_or_other,False,D. Sundheim,Open Primary,3,100.0,California,3.3,7631.0
+6001,Alameda County,independent_or_other,False,T. Del Beccaro,Open Primary,4,100.0,California,2.6,5883.0
+6001,Alameda County,independent_or_other,False,S. Stokes,Open Primary,5,100.0,California,1.6,3596.0
+6001,Alameda County,independent_or_other,False,P. Elizondo,Open Primary,6,100.0,California,1.4,3305.0
+6001,Alameda County,independent_or_other,False,M. Munroe,Open Primary,7,100.0,California,1.3,3074.0
+6001,Alameda County,independent_or_other,False,G. Conlon,Open Primary,8,100.0,California,1.3,2939.0
+6001,Alameda County,independent_or_other,False,G. Yang,Open Primary,9,100.0,California,1.2,2771.0
+6001,Alameda County,independent_or_other,False,P. Wyman,Open Primary,10,100.0,California,1.2,2664.0
+6001,Alameda County,independent_or_other,False,E. Garcia,Open Primary,11,100.0,California,0.9,2156.0
+6001,Alameda County,independent_or_other,False,K. Roseberry,Open Primary,12,100.0,California,0.9,2138.0
+6001,Alameda County,independent_or_other,False,T. Palzer,Open Primary,13,100.0,California,0.9,2071.0
+6001,Alameda County,independent_or_other,False,G. Lightfoot,Open Primary,14,100.0,California,0.9,2050.0
+6001,Alameda County,independent_or_other,False,D. Krampe,Open Primary,15,100.0,California,0.7,1498.0
+6001,Alameda County,independent_or_other,False,J. Hanania,Open Primary,16,100.0,California,0.6,1477.0
+6001,Alameda County,independent_or_other,False,M. Herd,Open Primary,17,100.0,California,0.6,1422.0
+6001,Alameda County,independent_or_other,False,C. Grappo,Open Primary,18,100.0,California,0.6,1420.0
+6001,Alameda County,independent_or_other,False,V. Hougo,Open Primary,19,100.0,California,0.6,1418.0
+6001,Alameda County,independent_or_other,False,J. Parker,Open Primary,20,100.0,California,0.6,1399.0
+6001,Alameda County,independent_or_other,False,R. Unz,Open Primary,21,100.0,California,0.6,1275.0
+6001,Alameda County,independent_or_other,False,L. Shi,Open Primary,22,100.0,California,0.5,1030.0
+6001,Alameda County,independent_or_other,False,C. Grey,Open Primary,23,100.0,California,0.4,887.0
+6001,Alameda County,independent_or_other,False,M. Beitiks,Open Primary,24,100.0,California,0.4,813.0
+6001,Alameda County,independent_or_other,False,J. Williamson,Open Primary,25,100.0,California,0.3,768.0
+6001,Alameda County,independent_or_other,False,H. Peters,Open Primary,26,100.0,California,0.3,697.0
+6001,Alameda County,independent_or_other,False,P. Merritt,Open Primary,27,100.0,California,0.3,666.0
+6001,Alameda County,independent_or_other,False,E. Rodgers,Open Primary,28,100.0,California,0.2,553.0
+6001,Alameda County,independent_or_other,False,J. Laws,Open Primary,29,100.0,California,0.2,460.0
+6001,Alameda County,independent_or_other,False,D. Grundmann,Open Primary,30,100.0,California,0.2,434.0
+6001,Alameda County,independent_or_other,False,J. Kraus,Open Primary,31,100.0,California,0.1,340.0
+6001,Alameda County,independent_or_other,False,G. Myers,Open Primary,32,100.0,California,0.1,319.0
+6001,Alameda County,independent_or_other,False,T. Gildersleeve,Open Primary,33,100.0,California,0.1,312.0
+6001,Alameda County,independent_or_other,False,S. Vineberg,Open Primary,34,100.0,California,0.1,180.0
+6003,Alpine County,independent_or_other,False,K. Harris,Open Primary,1,100.0,California,38.5,168.0
+6003,Alpine County,independent_or_other,False,L. Sanchez,Open Primary,2,100.0,California,17.4,76.0
+6003,Alpine County,independent_or_other,False,P. Wyman,Open Primary,3,100.0,California,8.7,38.0
+6003,Alpine County,independent_or_other,False,D. Sundheim,Open Primary,4,100.0,California,6.2,27.0
+6003,Alpine County,independent_or_other,False,G. Conlon,Open Primary,5,100.0,California,5.5,24.0
+6003,Alpine County,independent_or_other,False,T. Del Beccaro,Open Primary,6,100.0,California,3.9,17.0
+6003,Alpine County,independent_or_other,False,P. Elizondo,Open Primary,7,100.0,California,3.0,13.0
+6003,Alpine County,independent_or_other,False,G. Lightfoot,Open Primary,8,100.0,California,2.3,10.0
+6003,Alpine County,independent_or_other,False,V. Hougo,Open Primary,9,100.0,California,1.8,8.0
+6003,Alpine County,independent_or_other,False,K. Roseberry,Open Primary,10,100.0,California,1.4,6.0
+6003,Alpine County,independent_or_other,False,J. Laws,Open Primary,11,100.0,California,1.1,5.0
+6003,Alpine County,independent_or_other,False,G. Yang,Open Primary,12,100.0,California,1.1,5.0
+6003,Alpine County,independent_or_other,False,J. Kraus,Open Primary,13,100.0,California,0.9,4.0
+6003,Alpine County,independent_or_other,False,P. Merritt,Open Primary,14,100.0,California,0.9,4.0
+6003,Alpine County,independent_or_other,False,M. Munroe,Open Primary,15,100.0,California,0.9,4.0
+6003,Alpine County,independent_or_other,False,M. Beitiks,Open Primary,16,100.0,California,0.7,3.0
+6003,Alpine County,independent_or_other,False,M. Herd,Open Primary,17,100.0,California,0.7,3.0
+6003,Alpine County,independent_or_other,False,D. Krampe,Open Primary,18,100.0,California,0.7,3.0
+6003,Alpine County,independent_or_other,False,S. Stokes,Open Primary,19,100.0,California,0.7,3.0
+6003,Alpine County,independent_or_other,False,E. Garcia,Open Primary,20,100.0,California,0.5,2.0
+6003,Alpine County,independent_or_other,False,C. Grey,Open Primary,21,100.0,California,0.5,2.0
+6003,Alpine County,independent_or_other,False,J. Hanania,Open Primary,22,100.0,California,0.5,2.0
+6003,Alpine County,independent_or_other,False,T. Palzer,Open Primary,23,100.0,California,0.5,2.0
+6003,Alpine County,independent_or_other,False,L. Shi,Open Primary,24,100.0,California,0.5,2.0
+6003,Alpine County,independent_or_other,False,R. Unz,Open Primary,25,100.0,California,0.5,2.0
+6003,Alpine County,independent_or_other,False,D. Grundmann,Open Primary,26,100.0,California,0.2,1.0
+6003,Alpine County,independent_or_other,False,E. Rodgers,Open Primary,27,100.0,California,0.2,1.0
+6003,Alpine County,independent_or_other,False,J. Williamson,Open Primary,28,100.0,California,0.2,1.0
+6003,Alpine County,independent_or_other,False,T. Gildersleeve,Open Primary,29,100.0,California,0.0,0.0
+6003,Alpine County,independent_or_other,False,C. Grappo,Open Primary,30,100.0,California,0.0,0.0
+6003,Alpine County,independent_or_other,False,G. Myers,Open Primary,31,100.0,California,0.0,0.0
+6003,Alpine County,independent_or_other,False,J. Parker,Open Primary,32,100.0,California,0.0,0.0
+6003,Alpine County,independent_or_other,False,H. Peters,Open Primary,33,100.0,California,0.0,0.0
+6003,Alpine County,independent_or_other,False,S. Vineberg,Open Primary,34,100.0,California,0.0,0.0
+6005,Amador County,independent_or_other,False,K. Harris,Open Primary,1,100.0,California,35.0,3020.0
+6005,Amador County,independent_or_other,False,L. Sanchez,Open Primary,2,100.0,California,8.3,716.0
+6005,Amador County,independent_or_other,False,D. Sundheim,Open Primary,3,100.0,California,13.3,1145.0
+6005,Amador County,independent_or_other,False,P. Wyman,Open Primary,4,100.0,California,10.8,931.0
+6005,Amador County,independent_or_other,False,T. Del Beccaro,Open Primary,5,100.0,California,6.7,574.0
+6005,Amador County,independent_or_other,False,G. Conlon,Open Primary,6,100.0,California,5.1,440.0
+6005,Amador County,independent_or_other,False,R. Unz,Open Primary,7,100.0,California,3.1,266.0
+6005,Amador County,independent_or_other,False,S. Stokes,Open Primary,8,100.0,California,2.4,206.0
+6005,Amador County,independent_or_other,False,D. Krampe,Open Primary,9,100.0,California,2.3,198.0
+6005,Amador County,independent_or_other,False,K. Roseberry,Open Primary,10,100.0,California,1.7,149.0
+6005,Amador County,independent_or_other,False,G. Lightfoot,Open Primary,11,100.0,California,1.5,131.0
+6005,Amador County,independent_or_other,False,V. Hougo,Open Primary,12,100.0,California,1.1,99.0
+6005,Amador County,independent_or_other,False,P. Elizondo,Open Primary,13,100.0,California,1.0,90.0
+6005,Amador County,independent_or_other,False,J. Williamson,Open Primary,14,100.0,California,1.0,90.0
+6005,Amador County,independent_or_other,False,G. Yang,Open Primary,15,100.0,California,1.0,86.0
+6005,Amador County,independent_or_other,False,T. Palzer,Open Primary,16,100.0,California,0.8,71.0
+6005,Amador County,independent_or_other,False,C. Grey,Open Primary,17,100.0,California,0.6,50.0
+6005,Amador County,independent_or_other,False,M. Beitiks,Open Primary,18,100.0,California,0.5,46.0
+6005,Amador County,independent_or_other,False,M. Herd,Open Primary,19,100.0,California,0.5,42.0
+6005,Amador County,independent_or_other,False,M. Munroe,Open Primary,20,100.0,California,0.5,40.0
+6005,Amador County,independent_or_other,False,J. Kraus,Open Primary,21,100.0,California,0.4,35.0
+6005,Amador County,independent_or_other,False,P. Merritt,Open Primary,22,100.0,California,0.4,33.0
+6005,Amador County,independent_or_other,False,J. Parker,Open Primary,23,100.0,California,0.3,26.0
+6005,Amador County,independent_or_other,False,J. Laws,Open Primary,24,100.0,California,0.3,22.0
+6005,Amador County,independent_or_other,False,E. Garcia,Open Primary,25,100.0,California,0.2,21.0
+6005,Amador County,independent_or_other,False,L. Shi,Open Primary,26,100.0,California,0.2,20.0
+6005,Amador County,independent_or_other,False,J. Hanania,Open Primary,27,100.0,California,0.2,17.0
+6005,Amador County,independent_or_other,False,D. Grundmann,Open Primary,28,100.0,California,0.2,15.0
+6005,Amador County,independent_or_other,False,S. Vineberg,Open Primary,29,100.0,California,0.2,15.0
+6005,Amador County,independent_or_other,False,C. Grappo,Open Primary,30,100.0,California,0.2,14.0
+6005,Amador County,independent_or_other,False,H. Peters,Open Primary,31,100.0,California,0.1,10.0
+6005,Amador County,independent_or_other,False,T. Gildersleeve,Open Primary,32,100.0,California,0.1,5.0
+6005,Amador County,independent_or_other,False,E. Rodgers,Open Primary,33,100.0,California,0.0,4.0
+6005,Amador County,independent_or_other,False,G. Myers,Open Primary,34,100.0,California,0.0,3.0
+6007,Butte County,independent_or_other,False,K. Harris,Open Primary,1,100.0,California,26.8,12189.0
+6007,Butte County,independent_or_other,False,L. Sanchez,Open Primary,2,100.0,California,13.1,5968.0
+6007,Butte County,independent_or_other,False,D. Sundheim,Open Primary,3,100.0,California,15.4,7009.0
+6007,Butte County,independent_or_other,False,P. Wyman,Open Primary,4,100.0,California,7.2,3279.0
+6007,Butte County,independent_or_other,False,S. Stokes,Open Primary,5,100.0,California,6.4,2929.0
+6007,Butte County,independent_or_other,False,G. Conlon,Open Primary,6,100.0,California,4.4,1982.0
+6007,Butte County,independent_or_other,False,G. Lightfoot,Open Primary,7,100.0,California,3.9,1771.0
+6007,Butte County,independent_or_other,False,T. Del Beccaro,Open Primary,8,100.0,California,2.5,1148.0
+6007,Butte County,independent_or_other,False,P. Elizondo,Open Primary,9,100.0,California,2.1,936.0
+6007,Butte County,independent_or_other,False,D. Krampe,Open Primary,10,100.0,California,1.8,839.0
+6007,Butte County,independent_or_other,False,K. Roseberry,Open Primary,11,100.0,California,1.6,729.0
+6007,Butte County,independent_or_other,False,G. Yang,Open Primary,12,100.0,California,1.6,719.0
+6007,Butte County,independent_or_other,False,R. Unz,Open Primary,13,100.0,California,1.6,714.0
+6007,Butte County,independent_or_other,False,M. Munroe,Open Primary,14,100.0,California,1.4,615.0
+6007,Butte County,independent_or_other,False,V. Hougo,Open Primary,15,100.0,California,1.2,562.0
+6007,Butte County,independent_or_other,False,T. Palzer,Open Primary,16,100.0,California,1.2,549.0
+6007,Butte County,independent_or_other,False,J. Williamson,Open Primary,17,100.0,California,1.1,489.0
+6007,Butte County,independent_or_other,False,M. Beitiks,Open Primary,18,100.0,California,0.9,404.0
+6007,Butte County,independent_or_other,False,J. Laws,Open Primary,19,100.0,California,0.7,310.0
+6007,Butte County,independent_or_other,False,C. Grey,Open Primary,20,100.0,California,0.6,262.0
+6007,Butte County,independent_or_other,False,P. Merritt,Open Primary,21,100.0,California,0.5,212.0
+6007,Butte County,independent_or_other,False,M. Herd,Open Primary,22,100.0,California,0.5,211.0
+6007,Butte County,independent_or_other,False,J. Kraus,Open Primary,23,100.0,California,0.4,202.0
+6007,Butte County,independent_or_other,False,J. Parker,Open Primary,24,100.0,California,0.4,182.0
+6007,Butte County,independent_or_other,False,L. Shi,Open Primary,25,100.0,California,0.4,178.0
+6007,Butte County,independent_or_other,False,E. Garcia,Open Primary,26,100.0,California,0.4,177.0
+6007,Butte County,independent_or_other,False,J. Hanania,Open Primary,27,100.0,California,0.3,148.0
+6007,Butte County,independent_or_other,False,C. Grappo,Open Primary,28,100.0,California,0.3,142.0
+6007,Butte County,independent_or_other,False,D. Grundmann,Open Primary,29,100.0,California,0.3,141.0
+6007,Butte County,independent_or_other,False,E. Rodgers,Open Primary,30,100.0,California,0.3,118.0
+6007,Butte County,independent_or_other,False,H. Peters,Open Primary,31,100.0,California,0.2,101.0
+6007,Butte County,independent_or_other,False,T. Gildersleeve,Open Primary,32,100.0,California,0.2,94.0
+6007,Butte County,independent_or_other,False,S. Vineberg,Open Primary,33,100.0,California,0.2,93.0
+6007,Butte County,independent_or_other,False,G. Myers,Open Primary,34,100.0,California,0.1,24.0
+6009,Calaveras County,independent_or_other,False,K. Harris,Open Primary,1,100.0,California,30.1,3596.0
+6009,Calaveras County,independent_or_other,False,L. Sanchez,Open Primary,2,100.0,California,9.4,1128.0
+6009,Calaveras County,independent_or_other,False,D. Sundheim,Open Primary,3,100.0,California,13.1,1563.0
+6009,Calaveras County,independent_or_other,False,P. Wyman,Open Primary,4,100.0,California,10.2,1223.0
+6009,Calaveras County,independent_or_other,False,G. Conlon,Open Primary,5,100.0,California,6.3,757.0
+6009,Calaveras County,independent_or_other,False,T. Del Beccaro,Open Primary,6,100.0,California,5.7,681.0
+6009,Calaveras County,independent_or_other,False,R. Unz,Open Primary,7,100.0,California,2.8,332.0
+6009,Calaveras County,independent_or_other,False,D. Krampe,Open Primary,8,100.0,California,2.4,288.0
+6009,Calaveras County,independent_or_other,False,T. Palzer,Open Primary,9,100.0,California,2.4,287.0
+6009,Calaveras County,independent_or_other,False,S. Stokes,Open Primary,10,100.0,California,2.2,261.0
+6009,Calaveras County,independent_or_other,False,P. Elizondo,Open Primary,11,100.0,California,1.9,229.0
+6009,Calaveras County,independent_or_other,False,G. Lightfoot,Open Primary,12,100.0,California,1.9,228.0
+6009,Calaveras County,independent_or_other,False,V. Hougo,Open Primary,13,100.0,California,1.5,176.0
+6009,Calaveras County,independent_or_other,False,K. Roseberry,Open Primary,14,100.0,California,1.4,171.0
+6009,Calaveras County,independent_or_other,False,J. Williamson,Open Primary,15,100.0,California,1.0,122.0
+6009,Calaveras County,independent_or_other,False,G. Yang,Open Primary,16,100.0,California,1.0,119.0
+6009,Calaveras County,independent_or_other,False,M. Herd,Open Primary,17,100.0,California,0.7,83.0
+6009,Calaveras County,independent_or_other,False,J. Laws,Open Primary,18,100.0,California,0.7,83.0
+6009,Calaveras County,independent_or_other,False,J. Kraus,Open Primary,19,100.0,California,0.7,82.0
+6009,Calaveras County,independent_or_other,False,M. Munroe,Open Primary,20,100.0,California,0.7,82.0
+6009,Calaveras County,independent_or_other,False,C. Grey,Open Primary,21,100.0,California,0.5,60.0
+6009,Calaveras County,independent_or_other,False,M. Beitiks,Open Primary,22,100.0,California,0.4,53.0
+6009,Calaveras County,independent_or_other,False,P. Merritt,Open Primary,23,100.0,California,0.4,51.0
+6009,Calaveras County,independent_or_other,False,E. Garcia,Open Primary,24,100.0,California,0.4,50.0
+6009,Calaveras County,independent_or_other,False,J. Parker,Open Primary,25,100.0,California,0.3,40.0
+6009,Calaveras County,independent_or_other,False,J. Hanania,Open Primary,26,100.0,California,0.3,36.0
+6009,Calaveras County,independent_or_other,False,L. Shi,Open Primary,27,100.0,California,0.2,28.0
+6009,Calaveras County,independent_or_other,False,D. Grundmann,Open Primary,28,100.0,California,0.2,27.0
+6009,Calaveras County,independent_or_other,False,C. Grappo,Open Primary,29,100.0,California,0.2,26.0
+6009,Calaveras County,independent_or_other,False,H. Peters,Open Primary,30,100.0,California,0.2,26.0
+6009,Calaveras County,independent_or_other,False,S. Vineberg,Open Primary,31,100.0,California,0.2,22.0
+6009,Calaveras County,independent_or_other,False,T. Gildersleeve,Open Primary,32,100.0,California,0.1,16.0
+6009,Calaveras County,independent_or_other,False,G. Myers,Open Primary,33,100.0,California,0.1,10.0
+6009,Calaveras County,independent_or_other,False,E. Rodgers,Open Primary,34,100.0,California,0.1,10.0
+6011,Colusa County,independent_or_other,False,K. Harris,Open Primary,1,100.0,California,20.1,607.0
+6011,Colusa County,independent_or_other,False,L. Sanchez,Open Primary,2,100.0,California,16.7,504.0
+6011,Colusa County,independent_or_other,False,P. Wyman,Open Primary,3,100.0,California,12.2,368.0
+6011,Colusa County,independent_or_other,False,D. Sundheim,Open Primary,4,100.0,California,10.5,316.0
+6011,Colusa County,independent_or_other,False,G. Conlon,Open Primary,5,100.0,California,5.7,173.0
+6011,Colusa County,independent_or_other,False,T. Del Beccaro,Open Primary,6,100.0,California,3.9,117.0
+6011,Colusa County,independent_or_other,False,S. Stokes,Open Primary,7,100.0,California,3.0,91.0
+6011,Colusa County,independent_or_other,False,R. Unz,Open Primary,8,100.0,California,2.9,88.0
+6011,Colusa County,independent_or_other,False,D. Grundmann,Open Primary,9,100.0,California,2.7,81.0
+6011,Colusa County,independent_or_other,False,D. Krampe,Open Primary,10,100.0,California,2.7,81.0
+6011,Colusa County,independent_or_other,False,G. Lightfoot,Open Primary,11,100.0,California,2.4,72.0
+6011,Colusa County,independent_or_other,False,T. Palzer,Open Primary,12,100.0,California,1.9,57.0
+6011,Colusa County,independent_or_other,False,V. Hougo,Open Primary,13,100.0,California,1.7,50.0
+6011,Colusa County,independent_or_other,False,J. Laws,Open Primary,14,100.0,California,1.6,48.0
+6011,Colusa County,independent_or_other,False,K. Roseberry,Open Primary,15,100.0,California,1.6,48.0
+6011,Colusa County,independent_or_other,False,J. Williamson,Open Primary,16,100.0,California,1.5,45.0
+6011,Colusa County,independent_or_other,False,G. Yang,Open Primary,17,100.0,California,1.4,42.0
+6011,Colusa County,independent_or_other,False,P. Elizondo,Open Primary,18,100.0,California,0.8,24.0
+6011,Colusa County,independent_or_other,False,J. Kraus,Open Primary,19,100.0,California,0.8,24.0
+6011,Colusa County,independent_or_other,False,E. Garcia,Open Primary,20,100.0,California,0.8,23.0
+6011,Colusa County,independent_or_other,False,M. Herd,Open Primary,21,100.0,California,0.6,19.0
+6011,Colusa County,independent_or_other,False,M. Munroe,Open Primary,22,100.0,California,0.6,17.0
+6011,Colusa County,independent_or_other,False,H. Peters,Open Primary,23,100.0,California,0.6,17.0
+6011,Colusa County,independent_or_other,False,C. Grappo,Open Primary,24,100.0,California,0.5,15.0
+6011,Colusa County,independent_or_other,False,M. Beitiks,Open Primary,25,100.0,California,0.4,13.0
+6011,Colusa County,independent_or_other,False,L. Shi,Open Primary,26,100.0,California,0.4,12.0
+6011,Colusa County,independent_or_other,False,C. Grey,Open Primary,27,100.0,California,0.4,11.0
+6011,Colusa County,independent_or_other,False,J. Parker,Open Primary,28,100.0,California,0.4,11.0
+6011,Colusa County,independent_or_other,False,E. Rodgers,Open Primary,29,100.0,California,0.4,11.0
+6011,Colusa County,independent_or_other,False,J. Hanania,Open Primary,30,100.0,California,0.3,10.0
+6011,Colusa County,independent_or_other,False,P. Merritt,Open Primary,31,100.0,California,0.3,10.0
+6011,Colusa County,independent_or_other,False,G. Myers,Open Primary,32,100.0,California,0.3,9.0
+6011,Colusa County,independent_or_other,False,T. Gildersleeve,Open Primary,33,100.0,California,0.1,4.0
+6011,Colusa County,independent_or_other,False,S. Vineberg,Open Primary,34,100.0,California,0.1,4.0
+6013,Contra Costa County,independent_or_other,False,K. Harris,Open Primary,1,100.0,California,54.1,89272.0
+6013,Contra Costa County,independent_or_other,False,L. Sanchez,Open Primary,2,100.0,California,9.4,15493.0
+6013,Contra Costa County,independent_or_other,False,D. Sundheim,Open Primary,3,100.0,California,5.9,9800.0
+6013,Contra Costa County,independent_or_other,False,T. Del Beccaro,Open Primary,4,100.0,California,5.8,9544.0
+6013,Contra Costa County,independent_or_other,False,G. Conlon,Open Primary,5,100.0,California,3.7,6127.0
+6013,Contra Costa County,independent_or_other,False,P. Wyman,Open Primary,6,100.0,California,2.7,4534.0
+6013,Contra Costa County,independent_or_other,False,D. Krampe,Open Primary,7,100.0,California,1.6,2637.0
+6013,Contra Costa County,independent_or_other,False,S. Stokes,Open Primary,8,100.0,California,1.6,2592.0
+6013,Contra Costa County,independent_or_other,False,R. Unz,Open Primary,9,100.0,California,1.4,2344.0
+6013,Contra Costa County,independent_or_other,False,M. Munroe,Open Primary,10,100.0,California,1.4,2340.0
+6013,Contra Costa County,independent_or_other,False,K. Roseberry,Open Primary,11,100.0,California,1.2,2002.0
+6013,Contra Costa County,independent_or_other,False,G. Lightfoot,Open Primary,12,100.0,California,1.2,1924.0
+6013,Contra Costa County,independent_or_other,False,G. Yang,Open Primary,13,100.0,California,1.1,1774.0
+6013,Contra Costa County,independent_or_other,False,P. Elizondo,Open Primary,14,100.0,California,1.0,1711.0
+6013,Contra Costa County,independent_or_other,False,T. Palzer,Open Primary,15,100.0,California,0.9,1516.0
+6013,Contra Costa County,independent_or_other,False,M. Herd,Open Primary,16,100.0,California,0.7,1205.0
+6013,Contra Costa County,independent_or_other,False,E. Garcia,Open Primary,17,100.0,California,0.7,1169.0
+6013,Contra Costa County,independent_or_other,False,V. Hougo,Open Primary,18,100.0,California,0.7,1131.0
+6013,Contra Costa County,independent_or_other,False,C. Grappo,Open Primary,19,100.0,California,0.6,992.0
+6013,Contra Costa County,independent_or_other,False,J. Parker,Open Primary,20,100.0,California,0.5,821.0
+6013,Contra Costa County,independent_or_other,False,J. Williamson,Open Primary,21,100.0,California,0.5,806.0
+6013,Contra Costa County,independent_or_other,False,E. Rodgers,Open Primary,22,100.0,California,0.4,651.0
+6013,Contra Costa County,independent_or_other,False,H. Peters,Open Primary,23,100.0,California,0.4,616.0
+6013,Contra Costa County,independent_or_other,False,J. Kraus,Open Primary,24,100.0,California,0.3,563.0
+6013,Contra Costa County,independent_or_other,False,J. Hanania,Open Primary,25,100.0,California,0.3,537.0
+6013,Contra Costa County,independent_or_other,False,P. Merritt,Open Primary,26,100.0,California,0.3,502.0
+6013,Contra Costa County,independent_or_other,False,C. Grey,Open Primary,27,100.0,California,0.3,471.0
+6013,Contra Costa County,independent_or_other,False,M. Beitiks,Open Primary,28,100.0,California,0.2,397.0
+6013,Contra Costa County,independent_or_other,False,J. Laws,Open Primary,29,100.0,California,0.2,397.0
+6013,Contra Costa County,independent_or_other,False,L. Shi,Open Primary,30,100.0,California,0.2,391.0
+6013,Contra Costa County,independent_or_other,False,D. Grundmann,Open Primary,31,100.0,California,0.2,260.0
+6013,Contra Costa County,independent_or_other,False,T. Gildersleeve,Open Primary,32,100.0,California,0.1,173.0
+6013,Contra Costa County,independent_or_other,False,G. Myers,Open Primary,33,100.0,California,0.1,162.0
+6013,Contra Costa County,independent_or_other,False,S. Vineberg,Open Primary,34,100.0,California,0.1,123.0
+6015,Del Norte County,independent_or_other,False,K. Harris,Open Primary,1,100.0,California,28.9,1331.0
+6015,Del Norte County,independent_or_other,False,L. Sanchez,Open Primary,2,100.0,California,12.9,594.0
+6015,Del Norte County,independent_or_other,False,J. Laws,Open Primary,3,100.0,California,8.6,396.0
+6015,Del Norte County,independent_or_other,False,P. Wyman,Open Primary,4,100.0,California,8.3,383.0
+6015,Del Norte County,independent_or_other,False,D. Sundheim,Open Primary,5,100.0,California,6.6,306.0
+6015,Del Norte County,independent_or_other,False,G. Conlon,Open Primary,6,100.0,California,4.6,210.0
+6015,Del Norte County,independent_or_other,False,T. Del Beccaro,Open Primary,7,100.0,California,3.6,168.0
+6015,Del Norte County,independent_or_other,False,G. Lightfoot,Open Primary,8,100.0,California,3.6,166.0
+6015,Del Norte County,independent_or_other,False,S. Stokes,Open Primary,9,100.0,California,3.3,151.0
+6015,Del Norte County,independent_or_other,False,D. Krampe,Open Primary,10,100.0,California,2.0,91.0
+6015,Del Norte County,independent_or_other,False,T. Palzer,Open Primary,11,100.0,California,1.9,88.0
+6015,Del Norte County,independent_or_other,False,K. Roseberry,Open Primary,12,100.0,California,1.8,81.0
+6015,Del Norte County,independent_or_other,False,P. Elizondo,Open Primary,13,100.0,California,1.5,69.0
+6015,Del Norte County,independent_or_other,False,G. Yang,Open Primary,14,100.0,California,1.3,61.0
+6015,Del Norte County,independent_or_other,False,J. Williamson,Open Primary,15,100.0,California,1.0,47.0
+6015,Del Norte County,independent_or_other,False,V. Hougo,Open Primary,16,100.0,California,1.0,46.0
+6015,Del Norte County,independent_or_other,False,R. Unz,Open Primary,17,100.0,California,1.0,45.0
+6015,Del Norte County,independent_or_other,False,M. Munroe,Open Primary,18,100.0,California,0.9,43.0
+6015,Del Norte County,independent_or_other,False,M. Beitiks,Open Primary,19,100.0,California,0.9,42.0
+6015,Del Norte County,independent_or_other,False,C. Grappo,Open Primary,20,100.0,California,0.7,34.0
+6015,Del Norte County,independent_or_other,False,E. Garcia,Open Primary,21,100.0,California,0.6,26.0
+6015,Del Norte County,independent_or_other,False,C. Grey,Open Primary,22,100.0,California,0.6,26.0
+6015,Del Norte County,independent_or_other,False,J. Kraus,Open Primary,23,100.0,California,0.5,25.0
+6015,Del Norte County,independent_or_other,False,P. Merritt,Open Primary,24,100.0,California,0.5,25.0
+6015,Del Norte County,independent_or_other,False,H. Peters,Open Primary,25,100.0,California,0.5,24.0
+6015,Del Norte County,independent_or_other,False,L. Shi,Open Primary,26,100.0,California,0.5,22.0
+6015,Del Norte County,independent_or_other,False,J. Parker,Open Primary,27,100.0,California,0.5,21.0
+6015,Del Norte County,independent_or_other,False,J. Hanania,Open Primary,28,100.0,California,0.4,19.0
+6015,Del Norte County,independent_or_other,False,M. Herd,Open Primary,29,100.0,California,0.3,15.0
+6015,Del Norte County,independent_or_other,False,T. Gildersleeve,Open Primary,30,100.0,California,0.3,12.0
+6015,Del Norte County,independent_or_other,False,D. Grundmann,Open Primary,31,100.0,California,0.3,12.0
+6015,Del Norte County,independent_or_other,False,E. Rodgers,Open Primary,32,100.0,California,0.3,12.0
+6015,Del Norte County,independent_or_other,False,S. Vineberg,Open Primary,33,100.0,California,0.2,7.0
+6015,Del Norte County,independent_or_other,False,G. Myers,Open Primary,34,100.0,California,0.1,5.0
+6017,El Dorado County,independent_or_other,False,K. Harris,Open Primary,1,100.0,California,33.0,14992.0
+6017,El Dorado County,independent_or_other,False,L. Sanchez,Open Primary,2,100.0,California,9.1,4148.0
+6017,El Dorado County,independent_or_other,False,D. Sundheim,Open Primary,3,100.0,California,18.5,8393.0
+6017,El Dorado County,independent_or_other,False,T. Del Beccaro,Open Primary,4,100.0,California,7.6,3469.0
+6017,El Dorado County,independent_or_other,False,P. Wyman,Open Primary,5,100.0,California,7.0,3185.0
+6017,El Dorado County,independent_or_other,False,G. Conlon,Open Primary,6,100.0,California,4.5,2057.0
+6017,El Dorado County,independent_or_other,False,R. Unz,Open Primary,7,100.0,California,2.7,1224.0
+6017,El Dorado County,independent_or_other,False,S. Stokes,Open Primary,8,100.0,California,2.1,961.0
+6017,El Dorado County,independent_or_other,False,G. Lightfoot,Open Primary,9,100.0,California,1.6,749.0
+6017,El Dorado County,independent_or_other,False,D. Krampe,Open Primary,10,100.0,California,1.6,735.0
+6017,El Dorado County,independent_or_other,False,P. Elizondo,Open Primary,11,100.0,California,1.5,691.0
+6017,El Dorado County,independent_or_other,False,K. Roseberry,Open Primary,12,100.0,California,1.3,573.0
+6017,El Dorado County,independent_or_other,False,V. Hougo,Open Primary,13,100.0,California,1.1,487.0
+6017,El Dorado County,independent_or_other,False,T. Palzer,Open Primary,14,100.0,California,1.0,466.0
+6017,El Dorado County,independent_or_other,False,G. Yang,Open Primary,15,100.0,California,0.9,389.0
+6017,El Dorado County,independent_or_other,False,M. Munroe,Open Primary,16,100.0,California,0.8,369.0
+6017,El Dorado County,independent_or_other,False,J. Williamson,Open Primary,17,100.0,California,0.8,359.0
+6017,El Dorado County,independent_or_other,False,J. Kraus,Open Primary,18,100.0,California,0.7,296.0
+6017,El Dorado County,independent_or_other,False,M. Herd,Open Primary,19,100.0,California,0.6,261.0
+6017,El Dorado County,independent_or_other,False,M. Beitiks,Open Primary,20,100.0,California,0.5,235.0
+6017,El Dorado County,independent_or_other,False,C. Grey,Open Primary,21,100.0,California,0.5,232.0
+6017,El Dorado County,independent_or_other,False,P. Merritt,Open Primary,22,100.0,California,0.4,166.0
+6017,El Dorado County,independent_or_other,False,E. Garcia,Open Primary,23,100.0,California,0.3,145.0
+6017,El Dorado County,independent_or_other,False,L. Shi,Open Primary,24,100.0,California,0.3,133.0
+6017,El Dorado County,independent_or_other,False,J. Hanania,Open Primary,25,100.0,California,0.3,128.0
+6017,El Dorado County,independent_or_other,False,J. Parker,Open Primary,26,100.0,California,0.3,119.0
+6017,El Dorado County,independent_or_other,False,J. Laws,Open Primary,27,100.0,California,0.2,111.0
+6017,El Dorado County,independent_or_other,False,S. Vineberg,Open Primary,28,100.0,California,0.2,82.0
+6017,El Dorado County,independent_or_other,False,T. Gildersleeve,Open Primary,29,100.0,California,0.1,64.0
+6017,El Dorado County,independent_or_other,False,C. Grappo,Open Primary,30,100.0,California,0.1,63.0
+6017,El Dorado County,independent_or_other,False,D. Grundmann,Open Primary,31,100.0,California,0.1,63.0
+6017,El Dorado County,independent_or_other,False,H. Peters,Open Primary,32,100.0,California,0.1,36.0
+6017,El Dorado County,independent_or_other,False,E. Rodgers,Open Primary,33,100.0,California,0.1,36.0
+6017,El Dorado County,independent_or_other,False,G. Myers,Open Primary,34,100.0,California,0.0,16.0
+6019,Fresno County,independent_or_other,False,L. Sanchez,Open Primary,1,100.0,California,21.9,23182.0
+6019,Fresno County,independent_or_other,False,K. Harris,Open Primary,2,100.0,California,20.8,22112.0
+6019,Fresno County,independent_or_other,False,P. Wyman,Open Primary,3,100.0,California,12.2,12978.0
+6019,Fresno County,independent_or_other,False,D. Sundheim,Open Primary,4,100.0,California,10.3,10971.0
+6019,Fresno County,independent_or_other,False,T. Del Beccaro,Open Primary,5,100.0,California,3.9,4169.0
+6019,Fresno County,independent_or_other,False,T. Palzer,Open Primary,6,100.0,California,3.5,3666.0
+6019,Fresno County,independent_or_other,False,K. Roseberry,Open Primary,7,100.0,California,3.3,3519.0
+6019,Fresno County,independent_or_other,False,G. Conlon,Open Primary,8,100.0,California,3.3,3509.0
+6019,Fresno County,independent_or_other,False,G. Yang,Open Primary,9,100.0,California,2.8,2947.0
+6019,Fresno County,independent_or_other,False,M. Munroe,Open Primary,10,100.0,California,1.9,1979.0
+6019,Fresno County,independent_or_other,False,S. Stokes,Open Primary,11,100.0,California,1.8,1957.0
+6019,Fresno County,independent_or_other,False,G. Lightfoot,Open Primary,12,100.0,California,1.7,1840.0
+6019,Fresno County,independent_or_other,False,E. Garcia,Open Primary,13,100.0,California,1.2,1297.0
+6019,Fresno County,independent_or_other,False,D. Krampe,Open Primary,14,100.0,California,1.0,1062.0
+6019,Fresno County,independent_or_other,False,P. Elizondo,Open Primary,15,100.0,California,0.9,930.0
+6019,Fresno County,independent_or_other,False,R. Unz,Open Primary,16,100.0,California,0.8,901.0
+6019,Fresno County,independent_or_other,False,E. Rodgers,Open Primary,17,100.0,California,0.8,855.0
+6019,Fresno County,independent_or_other,False,C. Grappo,Open Primary,18,100.0,California,0.8,826.0
+6019,Fresno County,independent_or_other,False,J. Williamson,Open Primary,19,100.0,California,0.7,791.0
+6019,Fresno County,independent_or_other,False,J. Laws,Open Primary,20,100.0,California,0.7,789.0
+6019,Fresno County,independent_or_other,False,P. Merritt,Open Primary,21,100.0,California,0.7,785.0
+6019,Fresno County,independent_or_other,False,V. Hougo,Open Primary,22,100.0,California,0.7,779.0
+6019,Fresno County,independent_or_other,False,C. Grey,Open Primary,23,100.0,California,0.7,718.0
+6019,Fresno County,independent_or_other,False,H. Peters,Open Primary,24,100.0,California,0.5,568.0
+6019,Fresno County,independent_or_other,False,M. Beitiks,Open Primary,25,100.0,California,0.5,520.0
+6019,Fresno County,independent_or_other,False,J. Parker,Open Primary,26,100.0,California,0.5,487.0
+6019,Fresno County,independent_or_other,False,L. Shi,Open Primary,27,100.0,California,0.4,405.0
+6019,Fresno County,independent_or_other,False,M. Herd,Open Primary,28,100.0,California,0.4,378.0
+6019,Fresno County,independent_or_other,False,D. Grundmann,Open Primary,29,100.0,California,0.3,366.0
+6019,Fresno County,independent_or_other,False,J. Hanania,Open Primary,30,100.0,California,0.2,227.0
+6019,Fresno County,independent_or_other,False,J. Kraus,Open Primary,31,100.0,California,0.2,168.0
+6019,Fresno County,independent_or_other,False,T. Gildersleeve,Open Primary,32,100.0,California,0.1,156.0
+6019,Fresno County,independent_or_other,False,S. Vineberg,Open Primary,33,100.0,California,0.1,116.0
+6019,Fresno County,independent_or_other,False,G. Myers,Open Primary,34,100.0,California,0.1,112.0
 6021,Glenn County,democrat,False,K. Harris,,1,100.0,California,18.8,675.0
 6021,Glenn County,republican,False,P. Wyman,,2,100.0,California,17.7,634.0
 6021,Glenn County,republican,False,D. Sundheim,,3,100.0,California,10.6,380.0
@@ -12915,176 +12915,176 @@ fips,geo_name,individual_party,is_incumbent,name,party,rank,reporting_pct,state,
 50027,Windsor County,democrat,True,P. Leahy,Democratic,1,100.0,Vermont,87.4,7091.0
 50027,Windsor County,democrat,False,C. Ericson,Democratic,2,100.0,Vermont,12.6,1020.0
 50027,Windsor County,republican,False,S. Milne,Republican,1,100.0,Vermont,,
-53001,Adams County,republican,False,"<span class=""name-combo"">C. Vance</span>",Open Primary,1,33.3,Washington,40.6,426.0
-53001,Adams County,democrat,False,"<span class=""name-combo"">P. Murray (i)</span>",Open Primary,2,33.3,Washington,34.4,361.0
-53001,Adams County,republican,False,"<span class=""name-combo"">E. Makus</span>",Open Primary,3,33.3,Washington,6.9,72.0
-53001,Adams County,republican,False,"<span class=""name-combo"">S. Nazarino</span>",Open Primary,4,33.3,Washington,5.8,61.0
-53001,Adams County,democrat,False,"<span class=""name-combo"">P. Cornell</span>",Open Primary,5,33.3,Washington,2.3,24.0
-53001,Adams County,republican,False,"<span class=""name-combo"">U. Mover</span>",Open Primary,6,33.3,Washington,1.9,20.0
-53001,Adams County,independent_or_other,False,"<span class=""name-combo"">T. Cummings</span>",Open Primary,7,33.3,Washington,1.8,19.0
-53001,Adams County,independent_or_other,False,"<span class=""name-combo"">M. Luke</span>",Open Primary,8,33.3,Washington,1.7,18.0
-53001,Adams County,independent_or_other,False,"<span class=""name-combo"">S. Wright</span>",Open Primary,9,33.3,Washington,1.1,12.0
-53001,Adams County,independent_or_other,False,"<span class=""name-combo"">D. Lands</span>",Open Primary,10,33.3,Washington,1.0,11.0
-53001,Adams County,independent_or_other,False,"<span class=""name-combo"">C. Jackson</span>",Open Primary,11,33.3,Washington,1.0,10.0
-53001,Adams County,democrat,False,"<span class=""name-combo"">M. Said</span>",Open Primary,12,33.3,Washington,0.5,5.0
-53001,Adams County,independent_or_other,False,"<span class=""name-combo"">J. Teuton</span>",Open Primary,13,33.3,Washington,0.4,4.0
-53001,Adams County,independent_or_other,False,"<span class=""name-combo"">P. Churchill</span>",Open Primary,14,33.3,Washington,0.2,2.0
-53001,Adams County,independent_or_other,False,"<span class=""name-combo"">Z. Haller</span>",Open Primary,15,33.3,Washington,0.2,2.0
-53001,Adams County,democrat,False,"<span class=""name-combo"">T. Amundson</span>",Open Primary,16,33.3,Washington,0.1,1.0
-53001,Adams County,independent_or_other,False,"<span class=""name-combo"">A. Tsimerman</span>",Open Primary,17,33.3,Washington,0.1,1.0
-53003,Asotin County,democrat,False,"<span class=""name-combo"">P. Murray (i)</span>",Open Primary,1,57.1,Washington,41.3,1429.0
-53003,Asotin County,republican,False,"<span class=""name-combo"">C. Vance</span>",Open Primary,2,57.1,Washington,32.3,1117.0
-53003,Asotin County,democrat,False,"<span class=""name-combo"">P. Cornell</span>",Open Primary,3,57.1,Washington,5.6,194.0
-53003,Asotin County,republican,False,"<span class=""name-combo"">S. Nazarino</span>",Open Primary,4,57.1,Washington,5.2,181.0
-53003,Asotin County,republican,False,"<span class=""name-combo"">E. Makus</span>",Open Primary,5,57.1,Washington,5.1,176.0
-53003,Asotin County,independent_or_other,False,"<span class=""name-combo"">M. Luke</span>",Open Primary,6,57.1,Washington,2.0,68.0
-53003,Asotin County,independent_or_other,False,"<span class=""name-combo"">D. Lands</span>",Open Primary,7,57.1,Washington,1.4,50.0
-53003,Asotin County,independent_or_other,False,"<span class=""name-combo"">T. Cummings</span>",Open Primary,8,57.1,Washington,1.4,47.0
-53003,Asotin County,republican,False,"<span class=""name-combo"">U. Mover</span>",Open Primary,9,57.1,Washington,1.0,36.0
-53003,Asotin County,democrat,False,"<span class=""name-combo"">T. Amundson</span>",Open Primary,10,57.1,Washington,0.9,32.0
-53003,Asotin County,independent_or_other,False,"<span class=""name-combo"">S. Wright</span>",Open Primary,11,57.1,Washington,0.9,31.0
-53003,Asotin County,independent_or_other,False,"<span class=""name-combo"">Z. Haller</span>",Open Primary,12,57.1,Washington,0.9,30.0
-53003,Asotin County,independent_or_other,False,"<span class=""name-combo"">C. Jackson</span>",Open Primary,13,57.1,Washington,0.7,24.0
-53003,Asotin County,democrat,False,"<span class=""name-combo"">M. Said</span>",Open Primary,14,57.1,Washington,0.3,12.0
-53003,Asotin County,independent_or_other,False,"<span class=""name-combo"">J. Teuton</span>",Open Primary,15,57.1,Washington,0.3,12.0
-53003,Asotin County,independent_or_other,False,"<span class=""name-combo"">P. Churchill</span>",Open Primary,16,57.1,Washington,0.3,9.0
-53003,Asotin County,independent_or_other,False,"<span class=""name-combo"">A. Tsimerman</span>",Open Primary,17,57.1,Washington,0.2,8.0
-53005,Benton County,democrat,False,"<span class=""name-combo"">P. Murray (i)</span>",Open Primary,1,72.0,Washington,40.5,10180.0
-53005,Benton County,republican,False,"<span class=""name-combo"">C. Vance</span>",Open Primary,2,72.0,Washington,37.7,9478.0
-53005,Benton County,republican,False,"<span class=""name-combo"">E. Makus</span>",Open Primary,3,72.0,Washington,5.4,1366.0
-53005,Benton County,republican,False,"<span class=""name-combo"">S. Nazarino</span>",Open Primary,4,72.0,Washington,3.8,954.0
-53005,Benton County,democrat,False,"<span class=""name-combo"">P. Cornell</span>",Open Primary,5,72.0,Washington,2.7,670.0
-53005,Benton County,independent_or_other,False,"<span class=""name-combo"">M. Luke</span>",Open Primary,6,72.0,Washington,2.1,538.0
-53005,Benton County,independent_or_other,False,"<span class=""name-combo"">D. Lands</span>",Open Primary,7,72.0,Washington,1.7,425.0
-53005,Benton County,independent_or_other,False,"<span class=""name-combo"">T. Cummings</span>",Open Primary,8,72.0,Washington,1.0,264.0
-53005,Benton County,independent_or_other,False,"<span class=""name-combo"">Z. Haller</span>",Open Primary,9,72.0,Washington,1.0,242.0
-53005,Benton County,republican,False,"<span class=""name-combo"">U. Mover</span>",Open Primary,10,72.0,Washington,0.9,216.0
-53005,Benton County,independent_or_other,False,"<span class=""name-combo"">S. Wright</span>",Open Primary,11,72.0,Washington,0.8,202.0
-53005,Benton County,independent_or_other,False,"<span class=""name-combo"">J. Teuton</span>",Open Primary,12,72.0,Washington,0.6,152.0
-53005,Benton County,democrat,False,"<span class=""name-combo"">M. Said</span>",Open Primary,13,72.0,Washington,0.5,126.0
-53005,Benton County,democrat,False,"<span class=""name-combo"">T. Amundson</span>",Open Primary,14,72.0,Washington,0.5,120.0
-53005,Benton County,independent_or_other,False,"<span class=""name-combo"">C. Jackson</span>",Open Primary,15,72.0,Washington,0.4,96.0
-53005,Benton County,independent_or_other,False,"<span class=""name-combo"">A. Tsimerman</span>",Open Primary,16,72.0,Washington,0.3,79.0
-53005,Benton County,independent_or_other,False,"<span class=""name-combo"">P. Churchill</span>",Open Primary,17,72.0,Washington,0.2,51.0
-53007,Chelan County,democrat,False,"<span class=""name-combo"">P. Murray (i)</span>",Open Primary,1,71.4,Washington,41.7,3807.0
-53007,Chelan County,republican,False,"<span class=""name-combo"">C. Vance</span>",Open Primary,2,71.4,Washington,38.4,3506.0
-53007,Chelan County,republican,False,"<span class=""name-combo"">E. Makus</span>",Open Primary,3,71.4,Washington,5.5,503.0
-53007,Chelan County,republican,False,"<span class=""name-combo"">S. Nazarino</span>",Open Primary,4,71.4,Washington,3.9,352.0
-53007,Chelan County,democrat,False,"<span class=""name-combo"">P. Cornell</span>",Open Primary,5,71.4,Washington,2.6,236.0
-53007,Chelan County,independent_or_other,False,"<span class=""name-combo"">M. Luke</span>",Open Primary,6,71.4,Washington,1.2,112.0
-53007,Chelan County,independent_or_other,False,"<span class=""name-combo"">D. Lands</span>",Open Primary,7,71.4,Washington,1.1,96.0
-53007,Chelan County,independent_or_other,False,"<span class=""name-combo"">S. Wright</span>",Open Primary,8,71.4,Washington,1.0,91.0
-53007,Chelan County,republican,False,"<span class=""name-combo"">U. Mover</span>",Open Primary,9,71.4,Washington,0.9,79.0
-53007,Chelan County,independent_or_other,False,"<span class=""name-combo"">T. Cummings</span>",Open Primary,10,71.4,Washington,0.9,78.0
-53007,Chelan County,independent_or_other,False,"<span class=""name-combo"">Z. Haller</span>",Open Primary,11,71.4,Washington,0.7,64.0
-53007,Chelan County,democrat,False,"<span class=""name-combo"">M. Said</span>",Open Primary,12,71.4,Washington,0.6,58.0
-53007,Chelan County,democrat,False,"<span class=""name-combo"">T. Amundson</span>",Open Primary,13,71.4,Washington,0.4,41.0
-53007,Chelan County,independent_or_other,False,"<span class=""name-combo"">C. Jackson</span>",Open Primary,14,71.4,Washington,0.4,36.0
-53007,Chelan County,independent_or_other,False,"<span class=""name-combo"">J. Teuton</span>",Open Primary,15,71.4,Washington,0.4,36.0
-53007,Chelan County,independent_or_other,False,"<span class=""name-combo"">A. Tsimerman</span>",Open Primary,16,71.4,Washington,0.4,33.0
-53007,Chelan County,independent_or_other,False,"<span class=""name-combo"">P. Churchill</span>",Open Primary,17,71.4,Washington,0.1,8.0
-53009,Clallam County,democrat,False,"<span class=""name-combo"">P. Murray (i)</span>",Open Primary,1,66.7,Washington,49.9,5254.0
-53009,Clallam County,republican,False,"<span class=""name-combo"">C. Vance</span>",Open Primary,2,66.7,Washington,30.5,3216.0
-53009,Clallam County,republican,False,"<span class=""name-combo"">E. Makus</span>",Open Primary,3,66.7,Washington,4.0,420.0
-53009,Clallam County,republican,False,"<span class=""name-combo"">S. Nazarino</span>",Open Primary,4,66.7,Washington,3.7,388.0
-53009,Clallam County,democrat,False,"<span class=""name-combo"">P. Cornell</span>",Open Primary,5,66.7,Washington,3.1,328.0
-53009,Clallam County,independent_or_other,False,"<span class=""name-combo"">M. Luke</span>",Open Primary,6,66.7,Washington,1.5,163.0
-53009,Clallam County,independent_or_other,False,"<span class=""name-combo"">D. Lands</span>",Open Primary,7,66.7,Washington,1.1,111.0
-53009,Clallam County,independent_or_other,False,"<span class=""name-combo"">T. Cummings</span>",Open Primary,8,66.7,Washington,1.0,103.0
-53009,Clallam County,republican,False,"<span class=""name-combo"">U. Mover</span>",Open Primary,9,66.7,Washington,0.9,92.0
-53009,Clallam County,independent_or_other,False,"<span class=""name-combo"">S. Wright</span>",Open Primary,10,66.7,Washington,0.8,88.0
-53009,Clallam County,democrat,False,"<span class=""name-combo"">T. Amundson</span>",Open Primary,11,66.7,Washington,0.8,84.0
-53009,Clallam County,independent_or_other,False,"<span class=""name-combo"">Z. Haller</span>",Open Primary,12,66.7,Washington,0.8,83.0
-53009,Clallam County,democrat,False,"<span class=""name-combo"">M. Said</span>",Open Primary,13,66.7,Washington,0.6,59.0
-53009,Clallam County,independent_or_other,False,"<span class=""name-combo"">C. Jackson</span>",Open Primary,14,66.7,Washington,0.5,55.0
-53009,Clallam County,independent_or_other,False,"<span class=""name-combo"">J. Teuton</span>",Open Primary,15,66.7,Washington,0.5,49.0
-53009,Clallam County,independent_or_other,False,"<span class=""name-combo"">A. Tsimerman</span>",Open Primary,16,66.7,Washington,0.3,31.0
-53009,Clallam County,independent_or_other,False,"<span class=""name-combo"">P. Churchill</span>",Open Primary,17,66.7,Washington,0.1,14.0
-53011,Clark County,democrat,False,"<span class=""name-combo"">P. Murray (i)</span>",Open Primary,1,88.8,Washington,48.0,30447.0
-53011,Clark County,republican,False,"<span class=""name-combo"">C. Vance</span>",Open Primary,2,88.8,Washington,28.5,18102.0
-53011,Clark County,republican,False,"<span class=""name-combo"">E. Makus</span>",Open Primary,3,88.8,Washington,5.4,3430.0
-53011,Clark County,republican,False,"<span class=""name-combo"">S. Nazarino</span>",Open Primary,4,88.8,Washington,4.8,3071.0
-53011,Clark County,democrat,False,"<span class=""name-combo"">P. Cornell</span>",Open Primary,5,88.8,Washington,4.2,2662.0
-53011,Clark County,independent_or_other,False,"<span class=""name-combo"">M. Luke</span>",Open Primary,6,88.8,Washington,2.1,1316.0
-53011,Clark County,independent_or_other,False,"<span class=""name-combo"">D. Lands</span>",Open Primary,7,88.8,Washington,1.4,882.0
-53011,Clark County,independent_or_other,False,"<span class=""name-combo"">S. Wright</span>",Open Primary,8,88.8,Washington,0.8,536.0
-53011,Clark County,democrat,False,"<span class=""name-combo"">T. Amundson</span>",Open Primary,9,88.8,Washington,0.8,524.0
-53011,Clark County,independent_or_other,False,"<span class=""name-combo"">T. Cummings</span>",Open Primary,10,88.8,Washington,0.8,516.0
-53011,Clark County,democrat,False,"<span class=""name-combo"">M. Said</span>",Open Primary,11,88.8,Washington,0.7,453.0
-53011,Clark County,republican,False,"<span class=""name-combo"">U. Mover</span>",Open Primary,12,88.8,Washington,0.6,384.0
-53011,Clark County,independent_or_other,False,"<span class=""name-combo"">Z. Haller</span>",Open Primary,13,88.8,Washington,0.5,317.0
-53011,Clark County,independent_or_other,False,"<span class=""name-combo"">C. Jackson</span>",Open Primary,14,88.8,Washington,0.5,311.0
-53011,Clark County,independent_or_other,False,"<span class=""name-combo"">J. Teuton</span>",Open Primary,15,88.8,Washington,0.5,296.0
-53011,Clark County,independent_or_other,False,"<span class=""name-combo"">A. Tsimerman</span>",Open Primary,16,88.8,Washington,0.2,129.0
-53011,Clark County,independent_or_other,False,"<span class=""name-combo"">P. Churchill</span>",Open Primary,17,88.8,Washington,0.2,116.0
-53013,Columbia County,democrat,False,"<span class=""name-combo"">P. Murray (i)</span>",Open Primary,1,50.0,Washington,37.6,331.0
-53013,Columbia County,republican,False,"<span class=""name-combo"">C. Vance</span>",Open Primary,2,50.0,Washington,36.1,318.0
-53013,Columbia County,republican,False,"<span class=""name-combo"">E. Makus</span>",Open Primary,3,50.0,Washington,9.2,81.0
-53013,Columbia County,republican,False,"<span class=""name-combo"">S. Nazarino</span>",Open Primary,4,50.0,Washington,4.3,38.0
-53013,Columbia County,democrat,False,"<span class=""name-combo"">P. Cornell</span>",Open Primary,5,50.0,Washington,2.4,21.0
-53013,Columbia County,independent_or_other,False,"<span class=""name-combo"">D. Lands</span>",Open Primary,6,50.0,Washington,2.0,18.0
-53013,Columbia County,independent_or_other,False,"<span class=""name-combo"">M. Luke</span>",Open Primary,7,50.0,Washington,1.8,16.0
-53013,Columbia County,republican,False,"<span class=""name-combo"">U. Mover</span>",Open Primary,8,50.0,Washington,1.6,14.0
-53013,Columbia County,independent_or_other,False,"<span class=""name-combo"">S. Wright</span>",Open Primary,9,50.0,Washington,1.0,9.0
-53013,Columbia County,independent_or_other,False,"<span class=""name-combo"">T. Cummings</span>",Open Primary,10,50.0,Washington,0.8,7.0
-53013,Columbia County,independent_or_other,False,"<span class=""name-combo"">C. Jackson</span>",Open Primary,11,50.0,Washington,0.7,6.0
-53013,Columbia County,independent_or_other,False,"<span class=""name-combo"">J. Teuton</span>",Open Primary,12,50.0,Washington,0.7,6.0
-53013,Columbia County,independent_or_other,False,"<span class=""name-combo"">P. Churchill</span>",Open Primary,13,50.0,Washington,0.5,4.0
-53013,Columbia County,independent_or_other,False,"<span class=""name-combo"">A. Tsimerman</span>",Open Primary,14,50.0,Washington,0.5,4.0
-53013,Columbia County,independent_or_other,False,"<span class=""name-combo"">Z. Haller</span>",Open Primary,15,50.0,Washington,0.3,3.0
-53013,Columbia County,democrat,False,"<span class=""name-combo"">M. Said</span>",Open Primary,16,50.0,Washington,0.3,3.0
-53013,Columbia County,democrat,False,"<span class=""name-combo"">T. Amundson</span>",Open Primary,17,50.0,Washington,0.1,1.0
-53015,Cowlitz County,democrat,False,"<span class=""name-combo"">P. Murray (i)</span>",Open Primary,1,73.3,Washington,45.5,6110.0
-53015,Cowlitz County,republican,False,"<span class=""name-combo"">C. Vance</span>",Open Primary,2,73.3,Washington,28.1,3774.0
-53015,Cowlitz County,republican,False,"<span class=""name-combo"">S. Nazarino</span>",Open Primary,3,73.3,Washington,5.6,747.0
-53015,Cowlitz County,democrat,False,"<span class=""name-combo"">P. Cornell</span>",Open Primary,4,73.3,Washington,5.2,697.0
-53015,Cowlitz County,republican,False,"<span class=""name-combo"">E. Makus</span>",Open Primary,5,73.3,Washington,4.7,637.0
-53015,Cowlitz County,independent_or_other,False,"<span class=""name-combo"">M. Luke</span>",Open Primary,6,73.3,Washington,1.8,239.0
-53015,Cowlitz County,independent_or_other,False,"<span class=""name-combo"">D. Lands</span>",Open Primary,7,73.3,Washington,1.7,233.0
-53015,Cowlitz County,independent_or_other,False,"<span class=""name-combo"">T. Cummings</span>",Open Primary,8,73.3,Washington,1.4,186.0
-53015,Cowlitz County,independent_or_other,False,"<span class=""name-combo"">S. Wright</span>",Open Primary,9,73.3,Washington,1.2,158.0
-53015,Cowlitz County,independent_or_other,False,"<span class=""name-combo"">Z. Haller</span>",Open Primary,10,73.3,Washington,1.0,131.0
-53015,Cowlitz County,republican,False,"<span class=""name-combo"">U. Mover</span>",Open Primary,11,73.3,Washington,0.9,117.0
-53015,Cowlitz County,democrat,False,"<span class=""name-combo"">T. Amundson</span>",Open Primary,12,73.3,Washington,0.8,107.0
-53015,Cowlitz County,independent_or_other,False,"<span class=""name-combo"">C. Jackson</span>",Open Primary,13,73.3,Washington,0.7,99.0
-53015,Cowlitz County,democrat,False,"<span class=""name-combo"">M. Said</span>",Open Primary,14,73.3,Washington,0.5,67.0
-53015,Cowlitz County,independent_or_other,False,"<span class=""name-combo"">A. Tsimerman</span>",Open Primary,15,73.3,Washington,0.4,58.0
-53015,Cowlitz County,independent_or_other,False,"<span class=""name-combo"">J. Teuton</span>",Open Primary,16,73.3,Washington,0.3,44.0
-53015,Cowlitz County,independent_or_other,False,"<span class=""name-combo"">P. Churchill</span>",Open Primary,17,73.3,Washington,0.2,24.0
-53017,Douglas County,republican,False,"<span class=""name-combo"">C. Vance</span>",Open Primary,1,50.0,Washington,41.3,1635.0
-53017,Douglas County,democrat,False,"<span class=""name-combo"">P. Murray (i)</span>",Open Primary,2,50.0,Washington,36.3,1437.0
-53017,Douglas County,republican,False,"<span class=""name-combo"">E. Makus</span>",Open Primary,3,50.0,Washington,6.9,274.0
-53017,Douglas County,republican,False,"<span class=""name-combo"">S. Nazarino</span>",Open Primary,4,50.0,Washington,4.1,162.0
-53017,Douglas County,democrat,False,"<span class=""name-combo"">P. Cornell</span>",Open Primary,5,50.0,Washington,2.2,88.0
-53017,Douglas County,independent_or_other,False,"<span class=""name-combo"">M. Luke</span>",Open Primary,6,50.0,Washington,1.7,69.0
-53017,Douglas County,independent_or_other,False,"<span class=""name-combo"">D. Lands</span>",Open Primary,7,50.0,Washington,1.5,59.0
-53017,Douglas County,independent_or_other,False,"<span class=""name-combo"">T. Cummings</span>",Open Primary,8,50.0,Washington,1.2,48.0
-53017,Douglas County,republican,False,"<span class=""name-combo"">U. Mover</span>",Open Primary,9,50.0,Washington,1.1,43.0
-53017,Douglas County,independent_or_other,False,"<span class=""name-combo"">S. Wright</span>",Open Primary,10,50.0,Washington,1.0,40.0
-53017,Douglas County,independent_or_other,False,"<span class=""name-combo"">C. Jackson</span>",Open Primary,11,50.0,Washington,0.6,22.0
-53017,Douglas County,democrat,False,"<span class=""name-combo"">M. Said</span>",Open Primary,12,50.0,Washington,0.5,19.0
-53017,Douglas County,independent_or_other,False,"<span class=""name-combo"">Z. Haller</span>",Open Primary,13,50.0,Washington,0.4,17.0
-53017,Douglas County,independent_or_other,False,"<span class=""name-combo"">A. Tsimerman</span>",Open Primary,14,50.0,Washington,0.4,15.0
-53017,Douglas County,democrat,False,"<span class=""name-combo"">T. Amundson</span>",Open Primary,15,50.0,Washington,0.4,14.0
-53017,Douglas County,independent_or_other,False,"<span class=""name-combo"">J. Teuton</span>",Open Primary,16,50.0,Washington,0.3,10.0
-53017,Douglas County,independent_or_other,False,"<span class=""name-combo"">P. Churchill</span>",Open Primary,17,50.0,Washington,0.1,4.0
-53019,Ferry County,democrat,False,"<span class=""name-combo"">P. Murray (i)</span>",Open Primary,1,50.0,Washington,38.5,500.0
-53019,Ferry County,republican,False,"<span class=""name-combo"">C. Vance</span>",Open Primary,2,50.0,Washington,31.6,411.0
-53019,Ferry County,republican,False,"<span class=""name-combo"">E. Makus</span>",Open Primary,3,50.0,Washington,7.5,98.0
-53019,Ferry County,republican,False,"<span class=""name-combo"">S. Nazarino</span>",Open Primary,4,50.0,Washington,6.9,90.0
-53019,Ferry County,democrat,False,"<span class=""name-combo"">P. Cornell</span>",Open Primary,5,50.0,Washington,3.2,41.0
-53019,Ferry County,independent_or_other,False,"<span class=""name-combo"">M. Luke</span>",Open Primary,6,50.0,Washington,2.7,35.0
-53019,Ferry County,independent_or_other,False,"<span class=""name-combo"">T. Cummings</span>",Open Primary,7,50.0,Washington,2.5,32.0
-53019,Ferry County,democrat,False,"<span class=""name-combo"">T. Amundson</span>",Open Primary,8,50.0,Washington,1.4,18.0
-53019,Ferry County,republican,False,"<span class=""name-combo"">U. Mover</span>",Open Primary,9,50.0,Washington,1.2,16.0
-53019,Ferry County,independent_or_other,False,"<span class=""name-combo"">J. Teuton</span>",Open Primary,10,50.0,Washington,0.8,10.0
-53019,Ferry County,independent_or_other,False,"<span class=""name-combo"">C. Jackson</span>",Open Primary,11,50.0,Washington,0.7,9.0
-53019,Ferry County,independent_or_other,False,"<span class=""name-combo"">D. Lands</span>",Open Primary,12,50.0,Washington,0.7,9.0
-53019,Ferry County,democrat,False,"<span class=""name-combo"">M. Said</span>",Open Primary,13,50.0,Washington,0.6,8.0
-53019,Ferry County,independent_or_other,False,"<span class=""name-combo"">Z. Haller</span>",Open Primary,14,50.0,Washington,0.5,7.0
-53019,Ferry County,independent_or_other,False,"<span class=""name-combo"">P. Churchill</span>",Open Primary,15,50.0,Washington,0.4,5.0
-53019,Ferry County,independent_or_other,False,"<span class=""name-combo"">A. Tsimerman</span>",Open Primary,16,50.0,Washington,0.4,5.0
-53019,Ferry County,independent_or_other,False,"<span class=""name-combo"">S. Wright</span>",Open Primary,17,50.0,Washington,0.4,5.0
+53001,Adams County,republican,False,C. Vance,Open Primary,1,33.3,Washington,40.6,426.0
+53001,Adams County,democrat,True,P. Murray,Open Primary,2,33.3,Washington,34.4,361.0
+53001,Adams County,republican,False,E. Makus,Open Primary,3,33.3,Washington,6.9,72.0
+53001,Adams County,republican,False,S. Nazarino,Open Primary,4,33.3,Washington,5.8,61.0
+53001,Adams County,democrat,False,P. Cornell,Open Primary,5,33.3,Washington,2.3,24.0
+53001,Adams County,republican,False,U. Mover,Open Primary,6,33.3,Washington,1.9,20.0
+53001,Adams County,independent_or_other,False,T. Cummings,Open Primary,7,33.3,Washington,1.8,19.0
+53001,Adams County,independent_or_other,False,M. Luke,Open Primary,8,33.3,Washington,1.7,18.0
+53001,Adams County,independent_or_other,False,S. Wright,Open Primary,9,33.3,Washington,1.1,12.0
+53001,Adams County,independent_or_other,False,D. Lands,Open Primary,10,33.3,Washington,1.0,11.0
+53001,Adams County,independent_or_other,False,C. Jackson,Open Primary,11,33.3,Washington,1.0,10.0
+53001,Adams County,democrat,False,M. Said,Open Primary,12,33.3,Washington,0.5,5.0
+53001,Adams County,independent_or_other,False,J. Teuton,Open Primary,13,33.3,Washington,0.4,4.0
+53001,Adams County,independent_or_other,False,P. Churchill,Open Primary,14,33.3,Washington,0.2,2.0
+53001,Adams County,independent_or_other,False,Z. Haller,Open Primary,15,33.3,Washington,0.2,2.0
+53001,Adams County,democrat,False,T. Amundson,Open Primary,16,33.3,Washington,0.1,1.0
+53001,Adams County,independent_or_other,False,A. Tsimerman,Open Primary,17,33.3,Washington,0.1,1.0
+53003,Asotin County,democrat,True,P. Murray,Open Primary,1,57.1,Washington,41.3,1429.0
+53003,Asotin County,republican,False,C. Vance,Open Primary,2,57.1,Washington,32.3,1117.0
+53003,Asotin County,democrat,False,P. Cornell,Open Primary,3,57.1,Washington,5.6,194.0
+53003,Asotin County,republican,False,S. Nazarino,Open Primary,4,57.1,Washington,5.2,181.0
+53003,Asotin County,republican,False,E. Makus,Open Primary,5,57.1,Washington,5.1,176.0
+53003,Asotin County,independent_or_other,False,M. Luke,Open Primary,6,57.1,Washington,2.0,68.0
+53003,Asotin County,independent_or_other,False,D. Lands,Open Primary,7,57.1,Washington,1.4,50.0
+53003,Asotin County,independent_or_other,False,T. Cummings,Open Primary,8,57.1,Washington,1.4,47.0
+53003,Asotin County,republican,False,U. Mover,Open Primary,9,57.1,Washington,1.0,36.0
+53003,Asotin County,democrat,False,T. Amundson,Open Primary,10,57.1,Washington,0.9,32.0
+53003,Asotin County,independent_or_other,False,S. Wright,Open Primary,11,57.1,Washington,0.9,31.0
+53003,Asotin County,independent_or_other,False,Z. Haller,Open Primary,12,57.1,Washington,0.9,30.0
+53003,Asotin County,independent_or_other,False,C. Jackson,Open Primary,13,57.1,Washington,0.7,24.0
+53003,Asotin County,democrat,False,M. Said,Open Primary,14,57.1,Washington,0.3,12.0
+53003,Asotin County,independent_or_other,False,J. Teuton,Open Primary,15,57.1,Washington,0.3,12.0
+53003,Asotin County,independent_or_other,False,P. Churchill,Open Primary,16,57.1,Washington,0.3,9.0
+53003,Asotin County,independent_or_other,False,A. Tsimerman,Open Primary,17,57.1,Washington,0.2,8.0
+53005,Benton County,democrat,True,P. Murray,Open Primary,1,72.0,Washington,40.5,10180.0
+53005,Benton County,republican,False,C. Vance,Open Primary,2,72.0,Washington,37.7,9478.0
+53005,Benton County,republican,False,E. Makus,Open Primary,3,72.0,Washington,5.4,1366.0
+53005,Benton County,republican,False,S. Nazarino,Open Primary,4,72.0,Washington,3.8,954.0
+53005,Benton County,democrat,False,P. Cornell,Open Primary,5,72.0,Washington,2.7,670.0
+53005,Benton County,independent_or_other,False,M. Luke,Open Primary,6,72.0,Washington,2.1,538.0
+53005,Benton County,independent_or_other,False,D. Lands,Open Primary,7,72.0,Washington,1.7,425.0
+53005,Benton County,independent_or_other,False,T. Cummings,Open Primary,8,72.0,Washington,1.0,264.0
+53005,Benton County,independent_or_other,False,Z. Haller,Open Primary,9,72.0,Washington,1.0,242.0
+53005,Benton County,republican,False,U. Mover,Open Primary,10,72.0,Washington,0.9,216.0
+53005,Benton County,independent_or_other,False,S. Wright,Open Primary,11,72.0,Washington,0.8,202.0
+53005,Benton County,independent_or_other,False,J. Teuton,Open Primary,12,72.0,Washington,0.6,152.0
+53005,Benton County,democrat,False,M. Said,Open Primary,13,72.0,Washington,0.5,126.0
+53005,Benton County,democrat,False,T. Amundson,Open Primary,14,72.0,Washington,0.5,120.0
+53005,Benton County,independent_or_other,False,C. Jackson,Open Primary,15,72.0,Washington,0.4,96.0
+53005,Benton County,independent_or_other,False,A. Tsimerman,Open Primary,16,72.0,Washington,0.3,79.0
+53005,Benton County,independent_or_other,False,P. Churchill,Open Primary,17,72.0,Washington,0.2,51.0
+53007,Chelan County,democrat,True,P. Murray,Open Primary,1,71.4,Washington,41.7,3807.0
+53007,Chelan County,republican,False,C. Vance,Open Primary,2,71.4,Washington,38.4,3506.0
+53007,Chelan County,republican,False,E. Makus,Open Primary,3,71.4,Washington,5.5,503.0
+53007,Chelan County,republican,False,S. Nazarino,Open Primary,4,71.4,Washington,3.9,352.0
+53007,Chelan County,democrat,False,P. Cornell,Open Primary,5,71.4,Washington,2.6,236.0
+53007,Chelan County,independent_or_other,False,M. Luke,Open Primary,6,71.4,Washington,1.2,112.0
+53007,Chelan County,independent_or_other,False,D. Lands,Open Primary,7,71.4,Washington,1.1,96.0
+53007,Chelan County,independent_or_other,False,S. Wright,Open Primary,8,71.4,Washington,1.0,91.0
+53007,Chelan County,republican,False,U. Mover,Open Primary,9,71.4,Washington,0.9,79.0
+53007,Chelan County,independent_or_other,False,T. Cummings,Open Primary,10,71.4,Washington,0.9,78.0
+53007,Chelan County,independent_or_other,False,Z. Haller,Open Primary,11,71.4,Washington,0.7,64.0
+53007,Chelan County,democrat,False,M. Said,Open Primary,12,71.4,Washington,0.6,58.0
+53007,Chelan County,democrat,False,T. Amundson,Open Primary,13,71.4,Washington,0.4,41.0
+53007,Chelan County,independent_or_other,False,C. Jackson,Open Primary,14,71.4,Washington,0.4,36.0
+53007,Chelan County,independent_or_other,False,J. Teuton,Open Primary,15,71.4,Washington,0.4,36.0
+53007,Chelan County,independent_or_other,False,A. Tsimerman,Open Primary,16,71.4,Washington,0.4,33.0
+53007,Chelan County,independent_or_other,False,P. Churchill,Open Primary,17,71.4,Washington,0.1,8.0
+53009,Clallam County,democrat,True,P. Murray,Open Primary,1,66.7,Washington,49.9,5254.0
+53009,Clallam County,republican,False,C. Vance,Open Primary,2,66.7,Washington,30.5,3216.0
+53009,Clallam County,republican,False,E. Makus,Open Primary,3,66.7,Washington,4.0,420.0
+53009,Clallam County,republican,False,S. Nazarino,Open Primary,4,66.7,Washington,3.7,388.0
+53009,Clallam County,democrat,False,P. Cornell,Open Primary,5,66.7,Washington,3.1,328.0
+53009,Clallam County,independent_or_other,False,M. Luke,Open Primary,6,66.7,Washington,1.5,163.0
+53009,Clallam County,independent_or_other,False,D. Lands,Open Primary,7,66.7,Washington,1.1,111.0
+53009,Clallam County,independent_or_other,False,T. Cummings,Open Primary,8,66.7,Washington,1.0,103.0
+53009,Clallam County,republican,False,U. Mover,Open Primary,9,66.7,Washington,0.9,92.0
+53009,Clallam County,independent_or_other,False,S. Wright,Open Primary,10,66.7,Washington,0.8,88.0
+53009,Clallam County,democrat,False,T. Amundson,Open Primary,11,66.7,Washington,0.8,84.0
+53009,Clallam County,independent_or_other,False,Z. Haller,Open Primary,12,66.7,Washington,0.8,83.0
+53009,Clallam County,democrat,False,M. Said,Open Primary,13,66.7,Washington,0.6,59.0
+53009,Clallam County,independent_or_other,False,C. Jackson,Open Primary,14,66.7,Washington,0.5,55.0
+53009,Clallam County,independent_or_other,False,J. Teuton,Open Primary,15,66.7,Washington,0.5,49.0
+53009,Clallam County,independent_or_other,False,A. Tsimerman,Open Primary,16,66.7,Washington,0.3,31.0
+53009,Clallam County,independent_or_other,False,P. Churchill,Open Primary,17,66.7,Washington,0.1,14.0
+53011,Clark County,democrat,True,P. Murray,Open Primary,1,88.8,Washington,48.0,30447.0
+53011,Clark County,republican,False,C. Vance,Open Primary,2,88.8,Washington,28.5,18102.0
+53011,Clark County,republican,False,E. Makus,Open Primary,3,88.8,Washington,5.4,3430.0
+53011,Clark County,republican,False,S. Nazarino,Open Primary,4,88.8,Washington,4.8,3071.0
+53011,Clark County,democrat,False,P. Cornell,Open Primary,5,88.8,Washington,4.2,2662.0
+53011,Clark County,independent_or_other,False,M. Luke,Open Primary,6,88.8,Washington,2.1,1316.0
+53011,Clark County,independent_or_other,False,D. Lands,Open Primary,7,88.8,Washington,1.4,882.0
+53011,Clark County,independent_or_other,False,S. Wright,Open Primary,8,88.8,Washington,0.8,536.0
+53011,Clark County,democrat,False,T. Amundson,Open Primary,9,88.8,Washington,0.8,524.0
+53011,Clark County,independent_or_other,False,T. Cummings,Open Primary,10,88.8,Washington,0.8,516.0
+53011,Clark County,democrat,False,M. Said,Open Primary,11,88.8,Washington,0.7,453.0
+53011,Clark County,republican,False,U. Mover,Open Primary,12,88.8,Washington,0.6,384.0
+53011,Clark County,independent_or_other,False,Z. Haller,Open Primary,13,88.8,Washington,0.5,317.0
+53011,Clark County,independent_or_other,False,C. Jackson,Open Primary,14,88.8,Washington,0.5,311.0
+53011,Clark County,independent_or_other,False,J. Teuton,Open Primary,15,88.8,Washington,0.5,296.0
+53011,Clark County,independent_or_other,False,A. Tsimerman,Open Primary,16,88.8,Washington,0.2,129.0
+53011,Clark County,independent_or_other,False,P. Churchill,Open Primary,17,88.8,Washington,0.2,116.0
+53013,Columbia County,democrat,True,P. Murray,Open Primary,1,50.0,Washington,37.6,331.0
+53013,Columbia County,republican,False,C. Vance,Open Primary,2,50.0,Washington,36.1,318.0
+53013,Columbia County,republican,False,E. Makus,Open Primary,3,50.0,Washington,9.2,81.0
+53013,Columbia County,republican,False,S. Nazarino,Open Primary,4,50.0,Washington,4.3,38.0
+53013,Columbia County,democrat,False,P. Cornell,Open Primary,5,50.0,Washington,2.4,21.0
+53013,Columbia County,independent_or_other,False,D. Lands,Open Primary,6,50.0,Washington,2.0,18.0
+53013,Columbia County,independent_or_other,False,M. Luke,Open Primary,7,50.0,Washington,1.8,16.0
+53013,Columbia County,republican,False,U. Mover,Open Primary,8,50.0,Washington,1.6,14.0
+53013,Columbia County,independent_or_other,False,S. Wright,Open Primary,9,50.0,Washington,1.0,9.0
+53013,Columbia County,independent_or_other,False,T. Cummings,Open Primary,10,50.0,Washington,0.8,7.0
+53013,Columbia County,independent_or_other,False,C. Jackson,Open Primary,11,50.0,Washington,0.7,6.0
+53013,Columbia County,independent_or_other,False,J. Teuton,Open Primary,12,50.0,Washington,0.7,6.0
+53013,Columbia County,independent_or_other,False,P. Churchill,Open Primary,13,50.0,Washington,0.5,4.0
+53013,Columbia County,independent_or_other,False,A. Tsimerman,Open Primary,14,50.0,Washington,0.5,4.0
+53013,Columbia County,independent_or_other,False,Z. Haller,Open Primary,15,50.0,Washington,0.3,3.0
+53013,Columbia County,democrat,False,M. Said,Open Primary,16,50.0,Washington,0.3,3.0
+53013,Columbia County,democrat,False,T. Amundson,Open Primary,17,50.0,Washington,0.1,1.0
+53015,Cowlitz County,democrat,True,P. Murray,Open Primary,1,73.3,Washington,45.5,6110.0
+53015,Cowlitz County,republican,False,C. Vance,Open Primary,2,73.3,Washington,28.1,3774.0
+53015,Cowlitz County,republican,False,S. Nazarino,Open Primary,3,73.3,Washington,5.6,747.0
+53015,Cowlitz County,democrat,False,P. Cornell,Open Primary,4,73.3,Washington,5.2,697.0
+53015,Cowlitz County,republican,False,E. Makus,Open Primary,5,73.3,Washington,4.7,637.0
+53015,Cowlitz County,independent_or_other,False,M. Luke,Open Primary,6,73.3,Washington,1.8,239.0
+53015,Cowlitz County,independent_or_other,False,D. Lands,Open Primary,7,73.3,Washington,1.7,233.0
+53015,Cowlitz County,independent_or_other,False,T. Cummings,Open Primary,8,73.3,Washington,1.4,186.0
+53015,Cowlitz County,independent_or_other,False,S. Wright,Open Primary,9,73.3,Washington,1.2,158.0
+53015,Cowlitz County,independent_or_other,False,Z. Haller,Open Primary,10,73.3,Washington,1.0,131.0
+53015,Cowlitz County,republican,False,U. Mover,Open Primary,11,73.3,Washington,0.9,117.0
+53015,Cowlitz County,democrat,False,T. Amundson,Open Primary,12,73.3,Washington,0.8,107.0
+53015,Cowlitz County,independent_or_other,False,C. Jackson,Open Primary,13,73.3,Washington,0.7,99.0
+53015,Cowlitz County,democrat,False,M. Said,Open Primary,14,73.3,Washington,0.5,67.0
+53015,Cowlitz County,independent_or_other,False,A. Tsimerman,Open Primary,15,73.3,Washington,0.4,58.0
+53015,Cowlitz County,independent_or_other,False,J. Teuton,Open Primary,16,73.3,Washington,0.3,44.0
+53015,Cowlitz County,independent_or_other,False,P. Churchill,Open Primary,17,73.3,Washington,0.2,24.0
+53017,Douglas County,republican,False,C. Vance,Open Primary,1,50.0,Washington,41.3,1635.0
+53017,Douglas County,democrat,True,P. Murray,Open Primary,2,50.0,Washington,36.3,1437.0
+53017,Douglas County,republican,False,E. Makus,Open Primary,3,50.0,Washington,6.9,274.0
+53017,Douglas County,republican,False,S. Nazarino,Open Primary,4,50.0,Washington,4.1,162.0
+53017,Douglas County,democrat,False,P. Cornell,Open Primary,5,50.0,Washington,2.2,88.0
+53017,Douglas County,independent_or_other,False,M. Luke,Open Primary,6,50.0,Washington,1.7,69.0
+53017,Douglas County,independent_or_other,False,D. Lands,Open Primary,7,50.0,Washington,1.5,59.0
+53017,Douglas County,independent_or_other,False,T. Cummings,Open Primary,8,50.0,Washington,1.2,48.0
+53017,Douglas County,republican,False,U. Mover,Open Primary,9,50.0,Washington,1.1,43.0
+53017,Douglas County,independent_or_other,False,S. Wright,Open Primary,10,50.0,Washington,1.0,40.0
+53017,Douglas County,independent_or_other,False,C. Jackson,Open Primary,11,50.0,Washington,0.6,22.0
+53017,Douglas County,democrat,False,M. Said,Open Primary,12,50.0,Washington,0.5,19.0
+53017,Douglas County,independent_or_other,False,Z. Haller,Open Primary,13,50.0,Washington,0.4,17.0
+53017,Douglas County,independent_or_other,False,A. Tsimerman,Open Primary,14,50.0,Washington,0.4,15.0
+53017,Douglas County,democrat,False,T. Amundson,Open Primary,15,50.0,Washington,0.4,14.0
+53017,Douglas County,independent_or_other,False,J. Teuton,Open Primary,16,50.0,Washington,0.3,10.0
+53017,Douglas County,independent_or_other,False,P. Churchill,Open Primary,17,50.0,Washington,0.1,4.0
+53019,Ferry County,democrat,True,P. Murray,Open Primary,1,50.0,Washington,38.5,500.0
+53019,Ferry County,republican,False,C. Vance,Open Primary,2,50.0,Washington,31.6,411.0
+53019,Ferry County,republican,False,E. Makus,Open Primary,3,50.0,Washington,7.5,98.0
+53019,Ferry County,republican,False,S. Nazarino,Open Primary,4,50.0,Washington,6.9,90.0
+53019,Ferry County,democrat,False,P. Cornell,Open Primary,5,50.0,Washington,3.2,41.0
+53019,Ferry County,independent_or_other,False,M. Luke,Open Primary,6,50.0,Washington,2.7,35.0
+53019,Ferry County,independent_or_other,False,T. Cummings,Open Primary,7,50.0,Washington,2.5,32.0
+53019,Ferry County,democrat,False,T. Amundson,Open Primary,8,50.0,Washington,1.4,18.0
+53019,Ferry County,republican,False,U. Mover,Open Primary,9,50.0,Washington,1.2,16.0
+53019,Ferry County,independent_or_other,False,J. Teuton,Open Primary,10,50.0,Washington,0.8,10.0
+53019,Ferry County,independent_or_other,False,C. Jackson,Open Primary,11,50.0,Washington,0.7,9.0
+53019,Ferry County,independent_or_other,False,D. Lands,Open Primary,12,50.0,Washington,0.7,9.0
+53019,Ferry County,democrat,False,M. Said,Open Primary,13,50.0,Washington,0.6,8.0
+53019,Ferry County,independent_or_other,False,Z. Haller,Open Primary,14,50.0,Washington,0.5,7.0
+53019,Ferry County,independent_or_other,False,P. Churchill,Open Primary,15,50.0,Washington,0.4,5.0
+53019,Ferry County,independent_or_other,False,A. Tsimerman,Open Primary,16,50.0,Washington,0.4,5.0
+53019,Ferry County,independent_or_other,False,S. Wright,Open Primary,17,50.0,Washington,0.4,5.0
 53021,Franklin County,democrat,True,P. Murray,,1,93.3,Washington,38.0,2674.0
 53021,Franklin County,republican,False,C. Vance,,2,93.3,Washington,38.0,2671.0
 53021,Franklin County,republican,False,E. Makus,,3,93.3,Washington,6.5,455.0
