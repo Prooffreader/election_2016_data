@@ -26,12 +26,12 @@ Further downballot races like state legislatures were not listed.
 
 * ``ballot_measure_type``: There are 'key ballot measures' and 'state ballot measures'; I am unclear as to the difference between them. Those with the word 'Overall' in this field are key ballot measures.
 * ``choice``: The vote choice for a ballot measure, usually 'yes' or 'no'.
-* ``delegates``: The number of delegates awarded to the winner of a primary. It is blank for candidates who did not win the primary.
+* ``delegates``: The number of delegates awarded to the winner of a primary. It is null for candidates who did not win the primary. (It would have made sense to replace these nulls with zeroes, but I didn't think of it in time.)
 * ``fips``: The FIPS county code is a five-digit Federal Information Processing Standard (FIPS) code (FIPS 6-4) which uniquely identifies counties and county equivalents in the United States, certain U.S. possessions, and certain freely associated states.
 * ``geo_name``: State name, District name or County name, as appropriate
 * ``individual_party``: For general elections or open primaries, the party of the candidate. For closed primaries, this is blank because all the candidates belong to the same party, which is shown in the ``party`` field.
 * ``is_incumbent``: Whether the candidate is an incumbent. The presidential race had no incumbents.
-* ``is_winner``: Whether that candidate won that individual race
+* ``is_winner``: Whether that candidate won that individual race; in some primary caucuses, where delegates are given out to multiple candidates, even if one candidate receives the most, there is no winner declared per se, so the value of this field is null instead of True or False.
 * ``name``: Name of candidate
 * ``party``: For races in which only one party participated, e.g. closed primaries, the name of that party; otherwise blank
 * ``rank``: 1, 2, 3... signifying a first, second, third... place finish in that individual race
@@ -45,7 +45,7 @@ Further downballot races like state legislatures were not listed.
 The following are known issues with the data as present on Politico (either the data just does not exist/is not reported, or it exists and for whatever reason, Politico does not have it):
 
 * Alaska has no Presidential General Election listed by County; perhaps Politico was confused by the fact that they call their counties "Boroughs", although they had no problem with Louisiana's "Parishes"
-* Between the primaries and the election, Shannon County changed its name to Oglala Lakota County
+* Between the primaries and the election, Shannon County (South Dakota) changed its name to Oglala Lakota County
 * Missing Kansas Presidential Primary by county
 * Missing North Dakota Presidential Primary by county
 * Colorado, Wyoming and Maine Republican primary results are not reported
