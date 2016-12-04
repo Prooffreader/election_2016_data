@@ -1443,7 +1443,6 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 4,4th District Primaries,democrat,False,True,D. Owens,Democratic,1,100.0,Utah,,
 4,4th District Primaries,republican,True,True,M. Love,Republican,1,100.0,Utah,,
 4,4th District Primaries,independent_or_other,False,True,C. Simonsen,Independent,1,100.0,Utah,,
-1,1st District Primary,democrat,True,True,P. Welch,,1,100.0,Vermont,,
 2,2nd District Primary,republican,False,True,S. Taylor,,1,100.0,Virginia,52.5,21403.0
 2,2nd District Primary,republican,False,False,R. Forbes,,2,100.0,Virginia,40.6,16553.0
 2,2nd District Primary,republican,False,False,P. Cardwell,,3,100.0,Virginia,6.8,2773.0
@@ -1559,3 +1558,5 @@ fips,geo_name,individual_party,is_incumbent,is_winner,name,party,rank,reporting_
 1,1st District Primaries,republican,False,False,H. Beaudry,Republican,9,100.0,Wyoming,0.7,582.0
 1,1st District Primaries,independent_or_other,False,True,L. Struempf,Independent,1,100.0,Wyoming,,
 1,1st District Primaries,independent_or_other,False,True,D. Cummings,Independent,1,100.0,Wyoming,,
+1,1st District Primary,democrat,True,True,P. Welch,,1,100.0,Vermont,,
+5,5th District Primaries,democrat,True,True,M. Quigley,Democratic,1,100.0,Illinois,,

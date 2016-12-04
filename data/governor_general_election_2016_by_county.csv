@@ -330,8 +330,8 @@ fips,geo_name,individual_party,is_incumbent,name,rank,reporting_pct,state,vote_p
 29017,Bollinger County,republican,False,E. Greitens,1,100.0,Missouri,72.2,4051
 29017,Bollinger County,democrat,False,C. Koster,2,100.0,Missouri,25.2,1416
 29017,Bollinger County,independent_or_other,False,L. Turilli,3,100.0,Missouri,1.1,63
-29017,Bollinger County,independent_or_other,False,C. Spragins,4,100.0,Missouri,0.7,41
-29017,Bollinger County,independent_or_other,False,D. Fitz,5,100.0,Missouri,0.7,38
+29017,Bollinger County,independent_or_other,False,D. Fitz,4,100.0,Missouri,0.7,38
+29017,Bollinger County,independent_or_other,False,C. Spragins,5,100.0,Missouri,0.7,41
 29019,Boone County,democrat,False,C. Koster,1,97.7,Missouri,55.0,45363
 29019,Boone County,republican,False,E. Greitens,2,97.7,Missouri,41.3,34051
 29019,Boone County,independent_or_other,False,C. Spragins,3,97.7,Missouri,1.9,1549
@@ -1700,29 +1700,29 @@ fips,geo_name,individual_party,is_incumbent,name,rank,reporting_pct,state,vote_p
 41071,Yamhill County,independent_or_other,False,C. Thomason,4,100.0,Oregon,2.3,1049
 41071,Yamhill County,independent_or_other,False,A. Auer,5,100.0,Oregon,1.1,524
 49001,Beaver County,republican,True,G. Herbert,1,100.0,Utah,82.4,2032
-49001,Beaver County,independent_or_other,False,D. Schanze,2,100.0,Utah,13.1,324
-49001,Beaver County,democrat,False,M. Weinholtz,3,100.0,Utah,2.6,63
-49001,Beaver County,independent_or_other,False,B. Kamerath,4,100.0,Utah,1.9,46
-49003,Box Elder County,republican,True,G. Herbert,1,81.1,Utah,82.5,13597
-49003,Box Elder County,democrat,False,M. Weinholtz,2,81.1,Utah,12.3,2019
-49003,Box Elder County,independent_or_other,False,B. Kamerath,3,81.1,Utah,3.3,549
-49003,Box Elder County,independent_or_other,False,D. Schanze,4,81.1,Utah,1.9,309
-49005,Cache County,republican,True,G. Herbert,1,60.0,Utah,74.7,19604
-49005,Cache County,democrat,False,M. Weinholtz,2,60.0,Utah,21.0,5501
-49005,Cache County,independent_or_other,False,B. Kamerath,3,60.0,Utah,3.0,781
-49005,Cache County,independent_or_other,False,D. Schanze,4,60.0,Utah,1.3,350
-49007,Carbon County,republican,True,G. Herbert,1,95.0,Utah,70.3,5369
-49007,Carbon County,democrat,False,M. Weinholtz,2,95.0,Utah,25.8,1969
-49007,Carbon County,independent_or_other,False,B. Kamerath,3,95.0,Utah,2.2,167
-49007,Carbon County,independent_or_other,False,D. Schanze,4,95.0,Utah,1.8,135
-49009,Daggett County,republican,True,G. Herbert,1,83.3,Utah,74.2,343
-49009,Daggett County,democrat,False,M. Weinholtz,2,83.3,Utah,22.1,102
-49009,Daggett County,independent_or_other,False,B. Kamerath,3,83.3,Utah,2.6,12
-49009,Daggett County,independent_or_other,False,D. Schanze,4,83.3,Utah,1.1,5
-49011,Davis County,republican,True,G. Herbert,1,73.6,Utah,72.6,66935
-49011,Davis County,democrat,False,M. Weinholtz,2,73.6,Utah,22.9,21113
-49011,Davis County,independent_or_other,False,B. Kamerath,3,73.6,Utah,3.2,2913
-49011,Davis County,independent_or_other,False,D. Schanze,4,73.6,Utah,1.3,1225
+49001,Beaver County,democrat,False,M. Weinholtz,2,100.0,Utah,13.1,324
+49001,Beaver County,independent_or_other,False,B. Kamerath,3,100.0,Utah,2.6,63
+49001,Beaver County,independent_or_other,False,D. Schanze,4,100.0,Utah,1.9,46
+49003,Box Elder County,republican,True,G. Herbert,1,100.0,Utah,82.5,13597
+49003,Box Elder County,democrat,False,M. Weinholtz,2,100.0,Utah,12.3,2019
+49003,Box Elder County,independent_or_other,False,B. Kamerath,3,100.0,Utah,3.3,549
+49003,Box Elder County,independent_or_other,False,D. Schanze,4,100.0,Utah,1.9,309
+49005,Cache County,republican,True,G. Herbert,1,82.4,Utah,75.8,26835
+49005,Cache County,democrat,False,M. Weinholtz,2,82.4,Utah,19.7,6967
+49005,Cache County,independent_or_other,False,B. Kamerath,3,82.4,Utah,3.2,1118
+49005,Cache County,independent_or_other,False,D. Schanze,4,82.4,Utah,1.4,502
+49007,Carbon County,republican,True,G. Herbert,1,100.0,Utah,70.3,5488
+49007,Carbon County,democrat,False,M. Weinholtz,2,100.0,Utah,25.6,2000
+49007,Carbon County,independent_or_other,False,B. Kamerath,3,100.0,Utah,2.2,173
+49007,Carbon County,independent_or_other,False,D. Schanze,4,100.0,Utah,1.8,140
+49009,Daggett County,republican,True,G. Herbert,1,100.0,Utah,74.2,343
+49009,Daggett County,democrat,False,M. Weinholtz,2,100.0,Utah,22.1,102
+49009,Daggett County,independent_or_other,False,B. Kamerath,3,100.0,Utah,2.6,12
+49009,Daggett County,independent_or_other,False,D. Schanze,4,100.0,Utah,1.1,5
+49011,Davis County,republican,True,G. Herbert,1,84.1,Utah,72.9,76603
+49011,Davis County,democrat,False,M. Weinholtz,2,84.1,Utah,22.6,23782
+49011,Davis County,independent_or_other,False,B. Kamerath,3,84.1,Utah,3.1,3277
+49011,Davis County,independent_or_other,False,D. Schanze,4,84.1,Utah,1.3,1389
 49013,Duchesne County,republican,True,G. Herbert,1,100.0,Utah,84.3,5834
 49013,Duchesne County,independent_or_other,False,D. Schanze,2,100.0,Utah,10.3,715
 49013,Duchesne County,democrat,False,M. Weinholtz,3,100.0,Utah,3.2,219
@@ -1735,54 +1735,54 @@ fips,geo_name,individual_party,is_incumbent,name,rank,reporting_pct,state,vote_p
 49017,Garfield County,democrat,False,M. Weinholtz,2,100.0,Utah,16.1,369
 49017,Garfield County,independent_or_other,False,B. Kamerath,3,100.0,Utah,1.9,44
 49017,Garfield County,independent_or_other,False,D. Schanze,4,100.0,Utah,1.1,26
-49019,Grand County,republican,True,G. Herbert,1,100.0,Utah,49.7,2206
-49019,Grand County,democrat,False,M. Weinholtz,2,100.0,Utah,45.7,2026
+49019,Grand County,republican,True,G. Herbert,1,100.0,Utah,49.7,2218
+49019,Grand County,democrat,False,M. Weinholtz,2,100.0,Utah,45.8,2042
 49019,Grand County,independent_or_other,False,B. Kamerath,3,100.0,Utah,3.5,154
 49019,Grand County,independent_or_other,False,D. Schanze,4,100.0,Utah,1.1,49
-49021,Iron County,republican,True,G. Herbert,1,35.0,Utah,76.9,4720
-49021,Iron County,democrat,False,M. Weinholtz,2,35.0,Utah,16.8,1031
-49021,Iron County,independent_or_other,False,B. Kamerath,3,35.0,Utah,4.2,259
-49021,Iron County,independent_or_other,False,D. Schanze,4,35.0,Utah,2.1,130
-49023,Juab County,republican,True,G. Herbert,1,16.7,Utah,76.7,542
-49023,Juab County,democrat,False,M. Weinholtz,2,16.7,Utah,16.5,117
-49023,Juab County,independent_or_other,False,B. Kamerath,3,16.7,Utah,4.5,32
-49023,Juab County,independent_or_other,False,D. Schanze,4,16.7,Utah,2.3,16
+49021,Iron County,republican,True,G. Herbert,1,87.5,Utah,78.6,11944
+49021,Iron County,democrat,False,M. Weinholtz,2,87.5,Utah,14.7,2232
+49021,Iron County,independent_or_other,False,B. Kamerath,3,87.5,Utah,4.8,726
+49021,Iron County,independent_or_other,False,D. Schanze,4,87.5,Utah,2.0,298
+49023,Juab County,republican,True,G. Herbert,1,100.0,Utah,76.7,542
+49023,Juab County,democrat,False,M. Weinholtz,2,100.0,Utah,16.5,117
+49023,Juab County,independent_or_other,False,B. Kamerath,3,100.0,Utah,4.5,32
+49023,Juab County,independent_or_other,False,D. Schanze,4,100.0,Utah,2.3,16
 49025,Kane County,republican,True,G. Herbert,1,90.9,Utah,74.6,2570
 49025,Kane County,democrat,False,M. Weinholtz,2,90.9,Utah,21.1,727
 49025,Kane County,independent_or_other,False,B. Kamerath,3,90.9,Utah,2.7,92
 49025,Kane County,independent_or_other,False,D. Schanze,4,90.9,Utah,1.7,58
-49027,Millard County,republican,True,G. Herbert,1,100.0,Utah,85.6,4436
-49027,Millard County,independent_or_other,False,D. Schanze,2,100.0,Utah,10.3,532
-49027,Millard County,democrat,False,M. Weinholtz,3,100.0,Utah,2.8,143
+49027,Millard County,republican,True,G. Herbert,1,100.0,Utah,85.5,4455
+49027,Millard County,independent_or_other,False,D. Schanze,2,100.0,Utah,10.3,534
+49027,Millard County,democrat,False,M. Weinholtz,3,100.0,Utah,2.8,145
 49027,Millard County,independent_or_other,False,B. Kamerath,4,100.0,Utah,1.4,74
 49029,Morgan County,republican,True,G. Herbert,1,100.0,Utah,83.1,4250
 49029,Morgan County,democrat,False,M. Weinholtz,2,100.0,Utah,12.2,626
 49029,Morgan County,independent_or_other,False,B. Kamerath,3,100.0,Utah,3.1,156
 49029,Morgan County,independent_or_other,False,D. Schanze,4,100.0,Utah,1.6,81
-49031,Piute County,republican,True,G. Herbert,1,66.7,Utah,88.9,539
-49031,Piute County,democrat,False,M. Weinholtz,2,66.7,Utah,6.3,38
-49031,Piute County,independent_or_other,False,B. Kamerath,3,66.7,Utah,2.6,16
-49031,Piute County,independent_or_other,False,D. Schanze,4,66.7,Utah,2.1,13
+49031,Piute County,republican,True,G. Herbert,1,100.0,Utah,88.9,539
+49031,Piute County,democrat,False,M. Weinholtz,2,100.0,Utah,6.3,38
+49031,Piute County,independent_or_other,False,B. Kamerath,3,100.0,Utah,2.6,16
+49031,Piute County,independent_or_other,False,D. Schanze,4,100.0,Utah,2.1,13
 49033,Rich County,republican,True,G. Herbert,1,100.0,Utah,85.1,938
 49033,Rich County,democrat,False,M. Weinholtz,2,100.0,Utah,11.1,122
 49033,Rich County,independent_or_other,False,D. Schanze,3,100.0,Utah,2.0,22
 49033,Rich County,independent_or_other,False,B. Kamerath,4,100.0,Utah,1.8,20
-49035,Salt Lake County,republican,True,G. Herbert,1,71.3,Utah,50.9,142849
-49035,Salt Lake County,democrat,False,M. Weinholtz,2,71.3,Utah,45.5,127734
-49035,Salt Lake County,independent_or_other,False,B. Kamerath,3,71.3,Utah,2.5,7121
-49035,Salt Lake County,independent_or_other,False,D. Schanze,4,71.3,Utah,1.1,3108
-49037,San Juan County,republican,True,G. Herbert,1,65.0,Utah,65.9,2490
-49037,San Juan County,democrat,False,M. Weinholtz,2,65.0,Utah,29.6,1119
-49037,San Juan County,independent_or_other,False,B. Kamerath,3,65.0,Utah,2.4,92
-49037,San Juan County,independent_or_other,False,D. Schanze,4,65.0,Utah,2.0,75
+49035,Salt Lake County,republican,True,G. Herbert,1,91.3,Utah,52.1,187378
+49035,Salt Lake County,democrat,False,M. Weinholtz,2,91.3,Utah,44.1,158523
+49035,Salt Lake County,independent_or_other,False,B. Kamerath,3,91.3,Utah,2.6,9474
+49035,Salt Lake County,independent_or_other,False,D. Schanze,4,91.3,Utah,1.1,4034
+49037,San Juan County,republican,True,G. Herbert,1,95.0,Utah,58.9,3170
+49037,San Juan County,democrat,False,M. Weinholtz,2,95.0,Utah,35.9,1933
+49037,San Juan County,independent_or_other,False,B. Kamerath,3,95.0,Utah,2.8,149
+49037,San Juan County,independent_or_other,False,D. Schanze,4,95.0,Utah,2.4,128
 49039,Sanpete County,republican,True,G. Herbert,1,100.0,Utah,85.6,8390
 49039,Sanpete County,democrat,False,M. Weinholtz,2,100.0,Utah,10.2,995
 49039,Sanpete County,independent_or_other,False,B. Kamerath,3,100.0,Utah,2.3,230
 49039,Sanpete County,independent_or_other,False,D. Schanze,4,100.0,Utah,1.9,186
-49041,Sevier County,republican,True,G. Herbert,1,91.3,Utah,85.1,6683
-49041,Sevier County,democrat,False,M. Weinholtz,2,91.3,Utah,10.6,836
-49041,Sevier County,independent_or_other,False,B. Kamerath,3,91.3,Utah,2.3,177
-49041,Sevier County,independent_or_other,False,D. Schanze,4,91.3,Utah,2.0,157
+49041,Sevier County,republican,True,G. Herbert,1,95.7,Utah,85.1,7007
+49041,Sevier County,democrat,False,M. Weinholtz,2,95.7,Utah,10.6,875
+49041,Sevier County,independent_or_other,False,B. Kamerath,3,95.7,Utah,2.2,182
+49041,Sevier County,independent_or_other,False,D. Schanze,4,95.7,Utah,2.1,169
 49043,Summit County,democrat,False,M. Weinholtz,1,100.0,Utah,49.6,9920
 49043,Summit County,republican,True,G. Herbert,2,100.0,Utah,46.9,9383
 49043,Summit County,independent_or_other,False,B. Kamerath,3,100.0,Utah,2.6,526
@@ -1791,22 +1791,22 @@ fips,geo_name,individual_party,is_incumbent,name,rank,reporting_pct,state,vote_p
 49045,Tooele County,democrat,False,M. Weinholtz,2,93.9,Utah,25.2,4745
 49045,Tooele County,independent_or_other,False,B. Kamerath,3,93.9,Utah,3.5,657
 49045,Tooele County,independent_or_other,False,D. Schanze,4,93.9,Utah,2.2,407
-49047,Uintah County,republican,True,G. Herbert,1,100.0,Utah,84.2,10636
-49047,Uintah County,democrat,False,M. Weinholtz,2,100.0,Utah,11.0,1383
-49047,Uintah County,independent_or_other,False,B. Kamerath,3,100.0,Utah,3.2,400
-49047,Uintah County,independent_or_other,False,D. Schanze,4,100.0,Utah,1.7,211
-49049,Utah County,republican,True,G. Herbert,1,100.0,Utah,81.4,132877
-49049,Utah County,democrat,False,M. Weinholtz,2,100.0,Utah,14.1,22996
-49049,Utah County,independent_or_other,False,B. Kamerath,3,100.0,Utah,3.2,5152
-49049,Utah County,independent_or_other,False,D. Schanze,4,100.0,Utah,1.4,2233
-49051,Wasatch County,republican,True,G. Herbert,1,100.0,Utah,70.7,7879
-49051,Wasatch County,democrat,False,M. Weinholtz,2,100.0,Utah,25.7,2865
-49051,Wasatch County,independent_or_other,False,B. Kamerath,3,100.0,Utah,2.4,267
-49051,Wasatch County,independent_or_other,False,D. Schanze,4,100.0,Utah,1.2,131
-49053,Washington County,republican,True,G. Herbert,1,87.5,Utah,76.8,37006
-49053,Washington County,democrat,False,M. Weinholtz,2,87.5,Utah,17.9,8635
-49053,Washington County,independent_or_other,False,B. Kamerath,3,87.5,Utah,3.5,1676
-49053,Washington County,independent_or_other,False,D. Schanze,4,87.5,Utah,1.8,882
+49047,Uintah County,republican,True,G. Herbert,1,100.0,Utah,84.2,10767
+49047,Uintah County,democrat,False,M. Weinholtz,2,100.0,Utah,10.9,1398
+49047,Uintah County,independent_or_other,False,B. Kamerath,3,100.0,Utah,3.2,411
+49047,Uintah County,independent_or_other,False,D. Schanze,4,100.0,Utah,1.7,219
+49049,Utah County,republican,True,G. Herbert,1,100.0,Utah,81.4,141182
+49049,Utah County,democrat,False,M. Weinholtz,2,100.0,Utah,14.1,24502
+49049,Utah County,independent_or_other,False,B. Kamerath,3,100.0,Utah,3.1,5420
+49049,Utah County,independent_or_other,False,D. Schanze,4,100.0,Utah,1.3,2333
+49051,Wasatch County,republican,True,G. Herbert,1,100.0,Utah,70.6,8552
+49051,Wasatch County,democrat,False,M. Weinholtz,2,100.0,Utah,25.8,3125
+49051,Wasatch County,independent_or_other,False,B. Kamerath,3,100.0,Utah,2.4,291
+49051,Wasatch County,independent_or_other,False,D. Schanze,4,100.0,Utah,1.2,140
+49053,Washington County,republican,True,G. Herbert,1,100.0,Utah,77.1,43807
+49053,Washington County,democrat,False,M. Weinholtz,2,100.0,Utah,17.4,9878
+49053,Washington County,independent_or_other,False,B. Kamerath,3,100.0,Utah,3.6,2057
+49053,Washington County,independent_or_other,False,D. Schanze,4,100.0,Utah,1.8,1041
 49055,Wayne County,republican,True,G. Herbert,1,100.0,Utah,78.3,1100
 49055,Wayne County,democrat,False,M. Weinholtz,2,100.0,Utah,19.4,273
 49055,Wayne County,independent_or_other,False,B. Kamerath,3,100.0,Utah,1.3,18
@@ -1815,7 +1815,7 @@ fips,geo_name,individual_party,is_incumbent,name,rank,reporting_pct,state,vote_p
 49057,Weber County,democrat,False,M. Weinholtz,2,100.0,Utah,29.6,23956
 49057,Weber County,independent_or_other,False,B. Kamerath,3,100.0,Utah,3.6,2897
 49057,Weber County,independent_or_other,False,D. Schanze,4,100.0,Utah,1.5,1213
-50001,Addison County,republican,False,P. Scott,1,100.0,Vermont,52.8,10097
+50001,Addison County,republican,False,P. Scott,1,100.0,Vermont,52.8,10098
 50001,Addison County,democrat,False,S. Minter,2,100.0,Vermont,44.9,8575
 50001,Addison County,independent_or_other,False,B. Lee,3,100.0,Vermont,2.3,443
 50003,Bennington County,republican,False,P. Scott,1,100.0,Vermont,49.4,8551
@@ -1824,8 +1824,8 @@ fips,geo_name,individual_party,is_incumbent,name,rank,reporting_pct,state,vote_p
 50005,Caledonia County,republican,False,P. Scott,1,100.0,Vermont,65.0,9221
 50005,Caledonia County,democrat,False,S. Minter,2,100.0,Vermont,31.7,4494
 50005,Caledonia County,independent_or_other,False,B. Lee,3,100.0,Vermont,3.3,470
-50007,Chittenden County,democrat,False,S. Minter,1,100.0,Vermont,52.0,42783
-50007,Chittenden County,republican,False,P. Scott,2,100.0,Vermont,45.9,37749
+50007,Chittenden County,democrat,False,S. Minter,1,100.0,Vermont,52.0,42784
+50007,Chittenden County,republican,False,P. Scott,2,100.0,Vermont,45.9,37751
 50007,Chittenden County,independent_or_other,False,B. Lee,3,100.0,Vermont,2.1,1761
 50009,Essex County,republican,False,P. Scott,1,100.0,Vermont,70.8,2056
 50009,Essex County,democrat,False,S. Minter,2,100.0,Vermont,25.4,736
@@ -1836,9 +1836,9 @@ fips,geo_name,individual_party,is_incumbent,name,rank,reporting_pct,state,vote_p
 50013,Grand Isle County,republican,False,P. Scott,1,100.0,Vermont,63.2,2610
 50013,Grand Isle County,democrat,False,S. Minter,2,100.0,Vermont,34.4,1421
 50013,Grand Isle County,independent_or_other,False,B. Lee,3,100.0,Vermont,2.4,99
-50015,Lamoille County,republican,False,P. Scott,1,100.0,Vermont,56.4,7195
-50015,Lamoille County,democrat,False,S. Minter,2,100.0,Vermont,40.7,5192
-50015,Lamoille County,independent_or_other,False,B. Lee,3,100.0,Vermont,2.9,364
+50015,Lamoille County,republican,False,P. Scott,1,100.0,Vermont,56.6,7222
+50015,Lamoille County,democrat,False,S. Minter,2,100.0,Vermont,41.1,5242
+50015,Lamoille County,independent_or_other,False,B. Lee,3,100.0,Vermont,2.3,299
 50017,Orange County,republican,False,P. Scott,1,100.0,Vermont,57.4,8438
 50017,Orange County,democrat,False,S. Minter,2,100.0,Vermont,40.1,5891
 50017,Orange County,independent_or_other,False,B. Lee,3,100.0,Vermont,2.5,368
@@ -1849,7 +1849,7 @@ fips,geo_name,individual_party,is_incumbent,name,rank,reporting_pct,state,vote_p
 50021,Rutland County,democrat,False,S. Minter,2,100.0,Vermont,34.4,10153
 50021,Rutland County,independent_or_other,False,B. Lee,3,100.0,Vermont,3.2,950
 50023,Washington County,republican,False,P. Scott,1,100.0,Vermont,54.1,16981
-50023,Washington County,democrat,False,S. Minter,2,100.0,Vermont,43.8,13753
+50023,Washington County,democrat,False,S. Minter,2,100.0,Vermont,43.8,13756
 50023,Washington County,independent_or_other,False,B. Lee,3,100.0,Vermont,2.1,658
 50025,Windham County,democrat,False,S. Minter,1,100.0,Vermont,59.6,13292
 50025,Windham County,republican,False,P. Scott,2,100.0,Vermont,36.3,8084
@@ -1859,82 +1859,82 @@ fips,geo_name,individual_party,is_incumbent,name,rank,reporting_pct,state,vote_p
 50027,Windsor County,independent_or_other,False,B. Lee,3,100.0,Vermont,3.6,1077
 53001,Adams County,republican,False,B. Bryant,1,66.7,Washington,67.8,2775
 53001,Adams County,democrat,True,J. Inslee,2,66.7,Washington,32.2,1318
-53003,Asotin County,republican,False,B. Bryant,1,71.4,Washington,57.5,5580
-53003,Asotin County,democrat,True,J. Inslee,2,71.4,Washington,42.5,4127
-53005,Benton County,republican,False,B. Bryant,1,84.0,Washington,61.9,39561
-53005,Benton County,democrat,True,J. Inslee,2,84.0,Washington,38.1,24313
-53007,Chelan County,republican,False,B. Bryant,1,66.7,Washington,58.3,12431
-53007,Chelan County,democrat,True,J. Inslee,2,66.7,Washington,41.7,8900
-53009,Clallam County,democrat,True,J. Inslee,1,79.2,Washington,50.4,14733
-53009,Clallam County,republican,False,B. Bryant,2,79.2,Washington,49.6,14476
-53011,Clark County,republican,False,B. Bryant,1,93.6,Washington,51.4,91177
-53011,Clark County,democrat,True,J. Inslee,2,93.6,Washington,48.6,86320
-53013,Columbia County,republican,False,B. Bryant,1,50.0,Washington,68.5,1349
-53013,Columbia County,democrat,True,J. Inslee,2,50.0,Washington,31.5,620
-53015,Cowlitz County,republican,False,B. Bryant,1,86.7,Washington,56.9,21768
-53015,Cowlitz County,democrat,True,J. Inslee,2,86.7,Washington,43.1,16508
-53017,Douglas County,republican,False,B. Bryant,1,50.0,Washington,64.9,5535
-53017,Douglas County,democrat,True,J. Inslee,2,50.0,Washington,35.1,2990
-53019,Ferry County,republican,False,B. Bryant,1,50.0,Washington,62.1,1946
-53019,Ferry County,democrat,True,J. Inslee,2,50.0,Washington,37.9,1187
-53021,Franklin County,republican,False,B. Bryant,1,60.0,Washington,58.9,8757
-53021,Franklin County,democrat,True,J. Inslee,2,60.0,Washington,41.1,6111
+53003,Asotin County,republican,False,B. Bryant,1,85.7,Washington,57.5,5580
+53003,Asotin County,democrat,True,J. Inslee,2,85.7,Washington,42.5,4127
+53005,Benton County,republican,False,B. Bryant,1,96.0,Washington,62.2,49016
+53005,Benton County,democrat,True,J. Inslee,2,96.0,Washington,37.8,29810
+53007,Chelan County,republican,False,B. Bryant,1,81.0,Washington,58.9,16388
+53007,Chelan County,democrat,True,J. Inslee,2,81.0,Washington,41.1,11437
+53009,Clallam County,republican,False,B. Bryant,1,83.3,Washington,50.2,16587
+53009,Clallam County,democrat,True,J. Inslee,2,83.3,Washington,49.8,16423
+53011,Clark County,republican,False,B. Bryant,1,96.8,Washington,52.0,101693
+53011,Clark County,democrat,True,J. Inslee,2,96.8,Washington,48.0,93938
+53013,Columbia County,republican,False,B. Bryant,1,100.0,Washington,68.4,1482
+53013,Columbia County,democrat,True,J. Inslee,2,100.0,Washington,31.6,686
+53015,Cowlitz County,republican,False,B. Bryant,1,96.7,Washington,57.1,26002
+53015,Cowlitz County,democrat,True,J. Inslee,2,96.7,Washington,42.9,19517
+53017,Douglas County,republican,False,B. Bryant,1,70.0,Washington,65.4,7509
+53017,Douglas County,democrat,True,J. Inslee,2,70.0,Washington,34.6,3978
+53019,Ferry County,republican,False,B. Bryant,1,100.0,Washington,62.1,2217
+53019,Ferry County,democrat,True,J. Inslee,2,100.0,Washington,37.9,1353
+53021,Franklin County,republican,False,B. Bryant,1,86.7,Washington,58.9,12303
+53021,Franklin County,democrat,True,J. Inslee,2,86.7,Washington,41.1,8581
 53023,Garfield County,republican,False,B. Bryant,1,50.0,Washington,70.2,865
 53023,Garfield County,democrat,True,J. Inslee,2,50.0,Washington,29.8,367
-53025,Grant County,republican,False,B. Bryant,1,94.7,Washington,68.0,18639
-53025,Grant County,democrat,True,J. Inslee,2,94.7,Washington,32.0,8780
-53027,Grays Harbor County,republican,False,B. Bryant,1,85.0,Washington,51.1,12354
-53027,Grays Harbor County,democrat,True,J. Inslee,2,85.0,Washington,48.9,11837
-53029,Island County,democrat,True,J. Inslee,1,100.0,Washington,50.5,20963
-53029,Island County,republican,False,B. Bryant,2,100.0,Washington,49.5,20570
-53031,Jefferson County,democrat,True,J. Inslee,1,83.3,Washington,65.6,12667
-53031,Jefferson County,republican,False,B. Bryant,2,83.3,Washington,34.4,6656
-53033,King County,democrat,True,J. Inslee,1,83.2,Washington,68.9,513630
-53033,King County,republican,False,B. Bryant,2,83.2,Washington,31.1,231665
-53035,Kitsap County,democrat,True,J. Inslee,1,91.1,Washington,53.6,56405
-53035,Kitsap County,republican,False,B. Bryant,2,91.1,Washington,46.4,48883
-53037,Kittitas County,republican,False,B. Bryant,1,72.7,Washington,58.5,8130
-53037,Kittitas County,democrat,True,J. Inslee,2,72.7,Washington,41.5,5767
-53039,Klickitat County,republican,False,B. Bryant,1,71.4,Washington,58.2,4737
-53039,Klickitat County,democrat,True,J. Inslee,2,71.4,Washington,41.8,3402
-53041,Lewis County,republican,False,B. Bryant,1,60.9,Washington,66.7,13052
-53041,Lewis County,democrat,True,J. Inslee,2,60.9,Washington,33.3,6502
-53043,Lincoln County,republican,False,B. Bryant,1,75.0,Washington,72.0,4098
-53043,Lincoln County,democrat,True,J. Inslee,2,75.0,Washington,28.0,1592
-53045,Mason County,republican,False,B. Bryant,1,77.8,Washington,54.0,14877
-53045,Mason County,democrat,True,J. Inslee,2,77.8,Washington,46.0,12685
-53047,Okanogan County,republican,False,B. Bryant,1,36.4,Washington,57.1,4055
-53047,Okanogan County,democrat,True,J. Inslee,2,36.4,Washington,42.9,3041
-53049,Pacific County,republican,False,B. Bryant,1,85.7,Washington,50.2,4472
-53049,Pacific County,democrat,True,J. Inslee,2,85.7,Washington,49.8,4444
-53051,Pend Oreille County,republican,False,B. Bryant,1,100.0,Washington,63.5,4213
-53051,Pend Oreille County,democrat,True,J. Inslee,2,100.0,Washington,36.5,2426
-53053,Pierce County,democrat,True,J. Inslee,1,74.9,Washington,50.4,128303
-53053,Pierce County,republican,False,B. Bryant,2,74.9,Washington,49.6,126098
-53055,San Juan County,democrat,True,J. Inslee,1,83.3,Washington,69.3,7048
-53055,San Juan County,republican,False,B. Bryant,2,83.3,Washington,30.7,3118
-53057,Skagit County,democrat,True,J. Inslee,1,68.6,Washington,51.8,18805
-53057,Skagit County,republican,False,B. Bryant,2,68.6,Washington,48.2,17509
-53059,Skamania County,republican,False,B. Bryant,1,100.0,Washington,55.7,2928
-53059,Skamania County,democrat,True,J. Inslee,2,100.0,Washington,44.3,2329
-53061,Snohomish County,democrat,True,J. Inslee,1,80.3,Washington,53.4,136295
-53061,Snohomish County,republican,False,B. Bryant,2,80.3,Washington,46.6,119147
-53063,Spokane County,republican,False,B. Bryant,1,88.3,Washington,53.3,100723
-53063,Spokane County,democrat,True,J. Inslee,2,88.3,Washington,46.7,88135
-53065,Stevens County,republican,False,B. Bryant,1,60.0,Washington,67.9,8690
-53065,Stevens County,democrat,True,J. Inslee,2,60.0,Washington,32.1,4111
-53067,Thurston County,democrat,True,J. Inslee,1,93.9,Washington,54.7,62986
-53067,Thurston County,republican,False,B. Bryant,2,93.9,Washington,45.3,52237
+53025,Grant County,republican,False,B. Bryant,1,100.0,Washington,67.8,19356
+53025,Grant County,democrat,True,J. Inslee,2,100.0,Washington,32.2,9203
+53027,Grays Harbor County,republican,False,B. Bryant,1,100.0,Washington,51.3,13965
+53027,Grays Harbor County,democrat,True,J. Inslee,2,100.0,Washington,48.7,13259
+53029,Island County,democrat,True,J. Inslee,1,100.0,Washington,50.3,21591
+53029,Island County,republican,False,B. Bryant,2,100.0,Washington,49.7,21343
+53031,Jefferson County,democrat,True,J. Inslee,1,100.0,Washington,65.6,13295
+53031,Jefferson County,republican,False,B. Bryant,2,100.0,Washington,34.4,6987
+53033,King County,democrat,True,J. Inslee,1,90.6,Washington,68.1,619041
+53033,King County,republican,False,B. Bryant,2,90.6,Washington,31.9,290176
+53035,Kitsap County,democrat,True,J. Inslee,1,94.9,Washington,52.8,63496
+53035,Kitsap County,republican,False,B. Bryant,2,94.9,Washington,47.2,56827
+53037,Kittitas County,republican,False,B. Bryant,1,90.9,Washington,58.6,10847
+53037,Kittitas County,democrat,True,J. Inslee,2,90.9,Washington,41.4,7663
+53039,Klickitat County,republican,False,B. Bryant,1,85.7,Washington,58.6,5790
+53039,Klickitat County,democrat,True,J. Inslee,2,85.7,Washington,41.4,4087
+53041,Lewis County,republican,False,B. Bryant,1,73.9,Washington,67.4,17139
+53041,Lewis County,democrat,True,J. Inslee,2,73.9,Washington,32.6,8281
+53043,Lincoln County,republican,False,B. Bryant,1,100.0,Washington,72.0,4145
+53043,Lincoln County,democrat,True,J. Inslee,2,100.0,Washington,28.0,1611
+53045,Mason County,republican,False,B. Bryant,1,94.4,Washington,53.9,15200
+53045,Mason County,democrat,True,J. Inslee,2,94.4,Washington,46.1,12986
+53047,Okanogan County,republican,False,B. Bryant,1,63.6,Washington,57.9,6342
+53047,Okanogan County,democrat,True,J. Inslee,2,63.6,Washington,42.1,4618
+53049,Pacific County,republican,False,B. Bryant,1,100.0,Washington,50.5,5404
+53049,Pacific County,democrat,True,J. Inslee,2,100.0,Washington,49.5,5289
+53051,Pend Oreille County,republican,False,B. Bryant,1,100.0,Washington,63.4,4353
+53051,Pend Oreille County,democrat,True,J. Inslee,2,100.0,Washington,36.6,2516
+53053,Pierce County,democrat,True,J. Inslee,1,94.3,Washington,50.2,163866
+53053,Pierce County,republican,False,B. Bryant,2,94.3,Washington,49.8,162562
+53055,San Juan County,democrat,True,J. Inslee,1,83.3,Washington,69.1,7389
+53055,San Juan County,republican,False,B. Bryant,2,83.3,Washington,30.9,3301
+53057,Skagit County,republican,False,B. Bryant,1,97.1,Washington,50.5,28192
+53057,Skagit County,democrat,True,J. Inslee,2,97.1,Washington,49.5,27660
+53059,Skamania County,republican,False,B. Bryant,1,100.0,Washington,55.6,3074
+53059,Skamania County,democrat,True,J. Inslee,2,100.0,Washington,44.4,2453
+53061,Snohomish County,democrat,True,J. Inslee,1,91.5,Washington,52.4,165089
+53061,Snohomish County,republican,False,B. Bryant,2,91.5,Washington,47.6,150123
+53063,Spokane County,republican,False,B. Bryant,1,92.4,Washington,53.8,113359
+53063,Spokane County,democrat,True,J. Inslee,2,92.4,Washington,46.2,97520
+53065,Stevens County,republican,False,B. Bryant,1,66.7,Washington,68.6,11398
+53065,Stevens County,democrat,True,J. Inslee,2,66.7,Washington,31.4,5227
+53067,Thurston County,democrat,True,J. Inslee,1,95.1,Washington,54.7,67726
+53067,Thurston County,republican,False,B. Bryant,2,95.1,Washington,45.3,55975
 53069,Wahkiakum County,republican,False,B. Bryant,1,100.0,Washington,59.9,1397
 53069,Wahkiakum County,democrat,True,J. Inslee,2,100.0,Washington,40.1,935
-53071,Walla Walla County,republican,False,B. Bryant,1,68.8,Washington,57.6,9290
-53071,Walla Walla County,democrat,True,J. Inslee,2,68.8,Washington,42.4,6827
-53073,Whatcom County,democrat,True,J. Inslee,1,100.0,Washington,56.5,59344
-53073,Whatcom County,republican,False,B. Bryant,2,100.0,Washington,43.5,45766
-53075,Whitman County,democrat,True,J. Inslee,1,45.5,Washington,50.5,4243
-53075,Whitman County,republican,False,B. Bryant,2,45.5,Washington,49.5,4156
-53077,Yakima County,republican,False,B. Bryant,1,65.5,Washington,56.8,30115
-53077,Yakima County,democrat,True,J. Inslee,2,65.5,Washington,43.2,22882
+53071,Walla Walla County,republican,False,B. Bryant,1,81.3,Washington,58.1,11431
+53071,Walla Walla County,democrat,True,J. Inslee,2,81.3,Washington,41.9,8251
+53073,Whatcom County,democrat,True,J. Inslee,1,100.0,Washington,56.5,61695
+53073,Whatcom County,republican,False,B. Bryant,2,100.0,Washington,43.5,47489
+53075,Whitman County,republican,False,B. Bryant,1,63.6,Washington,51.6,6361
+53075,Whitman County,democrat,True,J. Inslee,2,63.6,Washington,48.4,5978
+53077,Yakima County,republican,False,B. Bryant,1,92.7,Washington,55.7,40913
+53077,Yakima County,democrat,True,J. Inslee,2,92.7,Washington,44.3,32504
 54001,Barbour County,republican,False,B. Cole,1,100.0,West Virginia,48.1,2915
 54001,Barbour County,democrat,False,J. Justice,2,100.0,West Virginia,44.3,2687
 54001,Barbour County,independent_or_other,False,C. Pritt,3,100.0,West Virginia,4.3,262

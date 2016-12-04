@@ -1,20 +1,14 @@
 geo_name,individual_party,is_incumbent,is_winner,name,rank,reporting_pct,state,vote_pct,votes
 Overall 2016 Alabama Senate Election Results,republican,True,True,R. Shelby,1,100.0,Alabama,64.2,1323184
 Overall 2016 Alabama Senate Election Results,democrat,False,False,R. Crumpton,2,100.0,Alabama,35.8,737542
-Overall 2016 Alaska Senate Election Results,republican,True,True,L. Murkowski,1,99.8,Alaska,44.3,111382
-Overall 2016 Alaska Senate Election Results,independent_or_other,False,False,J. Miller,2,99.8,Alaska,29.5,74245
-Overall 2016 Alaska Senate Election Results,independent_or_other,False,False,M. Stock,3,99.8,Alaska,13.7,34579
-Overall 2016 Alaska Senate Election Results,democrat,False,False,R. Metcalfe,4,99.8,Alaska,11.1,28026
-Overall 2016 Alaska Senate Election Results,independent_or_other,False,False,B. Craig,5,99.8,Alaska,0.8,2027
-Overall 2016 Alaska Senate Election Results,independent_or_other,False,False,T. Gianoutsos,6,99.8,Alaska,0.6,1385
-Overall 2016 Arizona Senate Election Results,republican,True,True,J. McCain,1,100.0,Arizona,53.4,1085285
-Overall 2016 Arizona Senate Election Results,democrat,False,False,A. Kirkpatrick,2,100.0,Arizona,41.2,837122
-Overall 2016 Arizona Senate Election Results,independent_or_other,False,False,G. Swing,3,100.0,Arizona,5.5,111743
+Overall 2016 Arizona Senate Election Results,republican,True,True,J. McCain,1,100.0,Arizona,53.4,1089324
+Overall 2016 Arizona Senate Election Results,democrat,False,False,A. Kirkpatrick,2,100.0,Arizona,41.1,839542
+Overall 2016 Arizona Senate Election Results,independent_or_other,False,False,G. Swing,3,100.0,Arizona,5.5,112151
 Overall 2016 Arkansas Senate Election Results,republican,True,True,J. Boozman,1,100.0,Arkansas,59.8,657856
 Overall 2016 Arkansas Senate Election Results,democrat,False,False,C. Eldridge,2,100.0,Arkansas,36.2,397970
 Overall 2016 Arkansas Senate Election Results,independent_or_other,False,False,F. Gilbert,3,100.0,Arkansas,4.0,43720
-Overall 2016 California Senate Election Results,democrat,False,True,K. Harris,1,100.0,California,62.6,4961327
-Overall 2016 California Senate Election Results,democrat,False,False,L. Sanchez,2,100.0,California,37.4,2967515
+Overall 2016 California Senate Election Results,democrat,False,True,K. Harris,1,100.0,California,62.4,6495907
+Overall 2016 California Senate Election Results,democrat,False,False,L. Sanchez,2,100.0,California,37.6,3918486
 Overall 2016 Colorado Senate Election Results,democrat,True,True,M. Bennet,1,100.0,Colorado,49.1,1242335
 Overall 2016 Colorado Senate Election Results,republican,False,False,D. Glenn,2,100.0,Colorado,45.4,1148008
 Overall 2016 Colorado Senate Election Results,independent_or_other,False,False,L. Williams,3,100.0,Colorado,3.5,88303
@@ -22,10 +16,10 @@ Overall 2016 Colorado Senate Election Results,independent_or_other,False,False,A
 Overall 2016 Colorado Senate Election Results,independent_or_other,False,False,B. Hammons,5,100.0,Colorado,0.3,8392
 Overall 2016 Colorado Senate Election Results,independent_or_other,False,False,D. Chapin,6,100.0,Colorado,0.3,7450
 Overall 2016 Colorado Senate Election Results,independent_or_other,False,False,P. Fiorino,7,100.0,Colorado,0.1,2732
-Overall 2016 Connecticut Senate Election Results,democrat,True,True,R. Blumenthal,1,96.1,Connecticut,62.5,921937
-Overall 2016 Connecticut Senate Election Results,republican,False,False,D. Carter,2,96.1,Connecticut,35.3,520052
-Overall 2016 Connecticut Senate Election Results,independent_or_other,False,False,R. Lion,3,96.1,Connecticut,1.2,17002
-Overall 2016 Connecticut Senate Election Results,independent_or_other,False,False,J. Russell,4,96.1,Connecticut,1.0,15452
+Overall 2016 Connecticut Senate Election Results,democrat,True,True,R. Blumenthal,1,99.9,Connecticut,62.9,986291
+Overall 2016 Connecticut Senate Election Results,republican,False,False,D. Carter,2,99.9,Connecticut,34.9,546489
+Overall 2016 Connecticut Senate Election Results,independent_or_other,False,False,R. Lion,3,99.9,Connecticut,1.1,17907
+Overall 2016 Connecticut Senate Election Results,independent_or_other,False,False,J. Russell,4,99.9,Connecticut,1.0,16437
 Overall 2016 Florida Senate Election Results,republican,True,True,M. Rubio,1,100.0,Florida,52.0,4822182
 Overall 2016 Florida Senate Election Results,democrat,False,False,P. Murphy,2,100.0,Florida,44.3,4105251
 Overall 2016 Florida Senate Election Results,independent_or_other,False,False,P. Stanton,3,100.0,Florida,2.1,196188
@@ -78,13 +72,13 @@ Overall 2016 Louisiana Senate Election Results,independent_or_other,False,False,
 Overall 2016 Louisiana Senate Election Results,democrat,False,False,J. Pellerin,15,100.0,Louisiana,0.4,7386
 Overall 2016 Louisiana Senate Election Results,democrat,False,False,P. Williams,16,100.0,Louisiana,0.4,6844
 Overall 2016 Louisiana Senate Election Results,democrat,False,False,V. Mendoza,17,100.0,Louisiana,0.3,4923
-Overall 2016 Louisiana Senate Election Results,independent_or_other,False,False,K. Marone,18,100.0,Louisiana,0.2,4102
+Overall 2016 Louisiana Senate Election Results,republican,False,False,C. Marsala,18,100.0,Louisiana,0.2,3683
 Overall 2016 Louisiana Senate Election Results,independent_or_other,False,False,L. Gillam,19,100.0,Louisiana,0.2,4063
-Overall 2016 Louisiana Senate Election Results,republican,False,False,C. Marsala,20,100.0,Louisiana,0.2,3683
+Overall 2016 Louisiana Senate Election Results,independent_or_other,False,False,K. Marone,20,100.0,Louisiana,0.2,4102
 Overall 2016 Louisiana Senate Election Results,republican,False,False,A. Patel,21,100.0,Louisiana,0.1,1574
-Overall 2016 Louisiana Senate Election Results,independent_or_other,False,False,A. Wells,22,100.0,Louisiana,0.1,1481
-Overall 2016 Louisiana Senate Election Results,independent_or_other,False,False,B. Lang,23,100.0,Louisiana,0.1,1424
-Overall 2016 Louisiana Senate Election Results,independent_or_other,False,False,G. Taylor,24,100.0,Louisiana,0.1,1150
+Overall 2016 Louisiana Senate Election Results,independent_or_other,False,False,B. Lang,22,100.0,Louisiana,0.1,1424
+Overall 2016 Louisiana Senate Election Results,independent_or_other,False,False,G. Taylor,23,100.0,Louisiana,0.1,1150
+Overall 2016 Louisiana Senate Election Results,independent_or_other,False,False,A. Wells,24,100.0,Louisiana,0.1,1481
 Overall 2016 Maryland Senate Election Results,democrat,False,True,C. Van Hollen,1,99.9,Maryland,60.4,1488845
 Overall 2016 Maryland Senate Election Results,republican,False,False,K. Szeliga,2,99.9,Maryland,36.4,898902
 Overall 2016 Maryland Senate Election Results,independent_or_other,False,False,M. Flowers,3,99.9,Maryland,3.2,78752
@@ -140,17 +134,17 @@ Overall 2016 South Carolina Senate Election Results,independent_or_other,False,F
 Overall 2016 South Carolina Senate Election Results,independent_or_other,False,False,R. Scarborough,4,100.0,South Carolina,0.6,11861
 Overall 2016 South Dakota Senate Election Results,republican,True,True,J. Thune,1,100.0,South Dakota,71.8,265494
 Overall 2016 South Dakota Senate Election Results,democrat,False,False,J. Williams,2,100.0,South Dakota,28.2,104125
-Overall 2016 Utah Senate Election Results,republican,True,True,M. Lee,1,81.8,Utah,68.1,571781
-Overall 2016 Utah Senate Election Results,democrat,False,False,M. Snow,2,81.8,Utah,27.4,229846
-Overall 2016 Utah Senate Election Results,independent_or_other,False,False,S. Fonua,3,81.8,Utah,2.3,19389
-Overall 2016 Utah Senate Election Results,independent_or_other,False,False,B. Barron,4,81.8,Utah,2.3,19110
-Overall 2016 Vermont Senate Election Results,democrat,True,True,P. Leahy,1,100.0,Vermont,61.3,191794
-Overall 2016 Vermont Senate Election Results,republican,False,False,S. Milne,2,100.0,Vermont,33.0,103248
-Overall 2016 Vermont Senate Election Results,independent_or_other,False,False,C. Ericson,3,100.0,Vermont,2.9,9136
-Overall 2016 Vermont Senate Election Results,independent_or_other,False,False,J. Trudell,4,100.0,Vermont,1.7,5401
-Overall 2016 Vermont Senate Election Results,independent_or_other,False,False,P. Diamondstone,5,100.0,Vermont,1.0,3232
-Overall 2016 Washington Senate Election Results,democrat,True,True,P. Murray,1,82.2,Washington,59.6,1491299
-Overall 2016 Washington Senate Election Results,republican,False,False,C. Vance,2,82.2,Washington,40.4,1010293
+Overall 2016 Utah Senate Election Results,republican,True,True,M. Lee,1,93.5,Utah,68.0,659769
+Overall 2016 Utah Senate Election Results,democrat,False,False,M. Snow,2,93.5,Utah,27.4,265674
+Overall 2016 Utah Senate Election Results,independent_or_other,False,False,B. Barron,3,93.5,Utah,2.3,22406
+Overall 2016 Utah Senate Election Results,independent_or_other,False,False,S. Fonua,4,93.5,Utah,2.3,22662
+Overall 2016 Vermont Senate Election Results,democrat,True,True,P. Leahy,1,100.0,Vermont,61.3,191855
+Overall 2016 Vermont Senate Election Results,republican,False,False,S. Milne,2,100.0,Vermont,33.0,103266
+Overall 2016 Vermont Senate Election Results,independent_or_other,False,False,C. Ericson,3,100.0,Vermont,2.9,9140
+Overall 2016 Vermont Senate Election Results,independent_or_other,False,False,J. Trudell,4,100.0,Vermont,1.7,5403
+Overall 2016 Vermont Senate Election Results,independent_or_other,False,False,P. Diamondstone,5,100.0,Vermont,1.0,3233
+Overall 2016 Washington Senate Election Results,democrat,True,True,P. Murray,1,92.2,Washington,59.1,1765333
+Overall 2016 Washington Senate Election Results,republican,False,False,C. Vance,2,92.2,Washington,40.9,1220755
 Overall 2016 Wisconsin Senate Election Results,republican,True,True,R. Johnson,1,100.0,Wisconsin,50.2,1479262
 Overall 2016 Wisconsin Senate Election Results,democrat,False,False,R. Feingold,2,100.0,Wisconsin,46.8,1380496
 Overall 2016 Wisconsin Senate Election Results,independent_or_other,False,False,P. Anderson,3,100.0,Wisconsin,3.0,87291

@@ -2909,116 +2909,116 @@ fips,geo_name,individual_party,is_incumbent,name,party,rank,reporting_pct,state,
 50027,Windsor County,democrat,False,B. Paige,Democratic,5,100.0,Vermont,0.4,32.0
 50027,Windsor County,republican,False,P. Scott,Republican,1,100.0,Vermont,53.1,1650.0
 50027,Windsor County,republican,False,B. Lisman,Republican,2,100.0,Vermont,46.9,1455.0
-53001,Adams County,republican,False,"<span class=""name-combo"">B. Bryant</span>",Open Primary,1,33.3,Washington,61.8,666.0
-53001,Adams County,democrat,False,"<span class=""name-combo"">J. Inslee (i)</span>",Open Primary,2,33.3,Washington,22.4,241.0
-53001,Adams County,republican,False,"<span class=""name-combo"">B. Hirt</span>",Open Primary,3,33.3,Washington,4.8,52.0
-53001,Adams County,democrat,False,"<span class=""name-combo"">P. O'Rourke</span>",Open Primary,4,33.3,Washington,2.2,24.0
-53001,Adams County,democrat,False,"<span class=""name-combo"">J. Deal</span>",Open Primary,5,33.3,Washington,1.9,21.0
-53001,Adams County,republican,False,"<span class=""name-combo"">Goodspaceguy</span>",Open Primary,6,33.3,Washington,1.9,20.0
-53001,Adams County,independent_or_other,False,"<span class=""name-combo"">S. Rubenstein</span>",Open Primary,7,33.3,Washington,1.9,20.0
-53001,Adams County,democrat,False,"<span class=""name-combo"">J. Dodds</span>",Open Primary,8,33.3,Washington,1.5,16.0
-53001,Adams County,independent_or_other,False,"<span class=""name-combo"">D. Blomstrom</span>",Open Primary,9,33.3,Washington,0.9,10.0
-53001,Adams County,independent_or_other,False,"<span class=""name-combo"">M. Martin</span>",Open Primary,10,33.3,Washington,0.6,6.0
-53001,Adams County,independent_or_other,False,"<span class=""name-combo"">C. Joubert</span>",Open Primary,11,33.3,Washington,0.2,2.0
-53003,Asotin County,republican,False,"<span class=""name-combo"">B. Bryant</span>",Open Primary,1,57.1,Washington,39.4,1376.0
-53003,Asotin County,democrat,False,"<span class=""name-combo"">J. Inslee (i)</span>",Open Primary,2,57.1,Washington,39.0,1362.0
-53003,Asotin County,republican,False,"<span class=""name-combo"">B. Hirt</span>",Open Primary,3,57.1,Washington,9.4,328.0
-53003,Asotin County,democrat,False,"<span class=""name-combo"">P. O'Rourke</span>",Open Primary,4,57.1,Washington,3.5,121.0
-53003,Asotin County,independent_or_other,False,"<span class=""name-combo"">S. Rubenstein</span>",Open Primary,5,57.1,Washington,2.8,97.0
-53003,Asotin County,democrat,False,"<span class=""name-combo"">J. Dodds</span>",Open Primary,6,57.1,Washington,2.1,75.0
-53003,Asotin County,republican,False,"<span class=""name-combo"">Goodspaceguy</span>",Open Primary,7,57.1,Washington,1.7,59.0
-53003,Asotin County,democrat,False,"<span class=""name-combo"">J. Deal</span>",Open Primary,8,57.1,Washington,0.8,27.0
-53003,Asotin County,independent_or_other,False,"<span class=""name-combo"">M. Martin</span>",Open Primary,9,57.1,Washington,0.6,20.0
-53003,Asotin County,independent_or_other,False,"<span class=""name-combo"">D. Blomstrom</span>",Open Primary,10,57.1,Washington,0.5,18.0
-53003,Asotin County,independent_or_other,False,"<span class=""name-combo"">C. Joubert</span>",Open Primary,11,57.1,Washington,0.3,9.0
-53005,Benton County,republican,False,"<span class=""name-combo"">B. Bryant</span>",Open Primary,1,74.0,Washington,53.9,13851.0
-53005,Benton County,democrat,False,"<span class=""name-combo"">J. Inslee (i)</span>",Open Primary,2,74.0,Washington,32.7,8415.0
-53005,Benton County,republican,False,"<span class=""name-combo"">B. Hirt</span>",Open Primary,3,74.0,Washington,6.4,1635.0
-53005,Benton County,democrat,False,"<span class=""name-combo"">P. O'Rourke</span>",Open Primary,4,74.0,Washington,1.8,470.0
-53005,Benton County,independent_or_other,False,"<span class=""name-combo"">S. Rubenstein</span>",Open Primary,5,74.0,Washington,1.5,386.0
-53005,Benton County,republican,False,"<span class=""name-combo"">Goodspaceguy</span>",Open Primary,6,74.0,Washington,1.1,290.0
-53005,Benton County,democrat,False,"<span class=""name-combo"">J. Dodds</span>",Open Primary,7,74.0,Washington,0.9,244.0
-53005,Benton County,democrat,False,"<span class=""name-combo"">J. Deal</span>",Open Primary,8,74.0,Washington,0.6,158.0
-53005,Benton County,independent_or_other,False,"<span class=""name-combo"">M. Martin</span>",Open Primary,9,74.0,Washington,0.6,147.0
-53005,Benton County,independent_or_other,False,"<span class=""name-combo"">D. Blomstrom</span>",Open Primary,10,74.0,Washington,0.2,64.0
-53005,Benton County,independent_or_other,False,"<span class=""name-combo"">C. Joubert</span>",Open Primary,11,74.0,Washington,0.2,51.0
-53007,Chelan County,republican,False,"<span class=""name-combo"">B. Bryant</span>",Open Primary,1,71.4,Washington,52.2,4855.0
-53007,Chelan County,democrat,False,"<span class=""name-combo"">J. Inslee (i)</span>",Open Primary,2,71.4,Washington,35.0,3259.0
-53007,Chelan County,republican,False,"<span class=""name-combo"">B. Hirt</span>",Open Primary,3,71.4,Washington,5.9,548.0
-53007,Chelan County,democrat,False,"<span class=""name-combo"">P. O'Rourke</span>",Open Primary,4,71.4,Washington,1.8,172.0
-53007,Chelan County,independent_or_other,False,"<span class=""name-combo"">S. Rubenstein</span>",Open Primary,5,71.4,Washington,1.4,126.0
-53007,Chelan County,republican,False,"<span class=""name-combo"">Goodspaceguy</span>",Open Primary,6,71.4,Washington,1.0,95.0
-53007,Chelan County,democrat,False,"<span class=""name-combo"">J. Deal</span>",Open Primary,7,71.4,Washington,0.9,83.0
-53007,Chelan County,democrat,False,"<span class=""name-combo"">J. Dodds</span>",Open Primary,8,71.4,Washington,0.9,81.0
-53007,Chelan County,independent_or_other,False,"<span class=""name-combo"">M. Martin</span>",Open Primary,9,71.4,Washington,0.5,45.0
-53007,Chelan County,independent_or_other,False,"<span class=""name-combo"">D. Blomstrom</span>",Open Primary,10,71.4,Washington,0.3,31.0
-53007,Chelan County,independent_or_other,False,"<span class=""name-combo"">C. Joubert</span>",Open Primary,11,71.4,Washington,0.2,14.0
-53009,Clallam County,democrat,False,"<span class=""name-combo"">J. Inslee (i)</span>",Open Primary,1,66.7,Washington,46.5,4927.0
-53009,Clallam County,republican,False,"<span class=""name-combo"">B. Bryant</span>",Open Primary,2,66.7,Washington,38.6,4089.0
-53009,Clallam County,republican,False,"<span class=""name-combo"">B. Hirt</span>",Open Primary,3,66.7,Washington,6.0,637.0
-53009,Clallam County,democrat,False,"<span class=""name-combo"">P. O'Rourke</span>",Open Primary,4,66.7,Washington,2.9,311.0
-53009,Clallam County,independent_or_other,False,"<span class=""name-combo"">S. Rubenstein</span>",Open Primary,5,66.7,Washington,1.9,196.0
-53009,Clallam County,democrat,False,"<span class=""name-combo"">J. Dodds</span>",Open Primary,6,66.7,Washington,1.0,111.0
-53009,Clallam County,republican,False,"<span class=""name-combo"">Goodspaceguy</span>",Open Primary,7,66.7,Washington,1.0,101.0
-53009,Clallam County,democrat,False,"<span class=""name-combo"">J. Deal</span>",Open Primary,8,66.7,Washington,0.8,82.0
-53009,Clallam County,independent_or_other,False,"<span class=""name-combo"">M. Martin</span>",Open Primary,9,66.7,Washington,0.8,80.0
-53009,Clallam County,independent_or_other,False,"<span class=""name-combo"">D. Blomstrom</span>",Open Primary,10,66.7,Washington,0.3,31.0
-53009,Clallam County,independent_or_other,False,"<span class=""name-combo"">C. Joubert</span>",Open Primary,11,66.7,Washington,0.2,25.0
-53011,Clark County,democrat,False,"<span class=""name-combo"">J. Inslee (i)</span>",Open Primary,1,88.8,Washington,44.0,28072.0
-53011,Clark County,republican,False,"<span class=""name-combo"">B. Bryant</span>",Open Primary,2,88.8,Washington,37.3,23807.0
-53011,Clark County,republican,False,"<span class=""name-combo"">B. Hirt</span>",Open Primary,3,88.8,Washington,7.2,4612.0
-53011,Clark County,democrat,False,"<span class=""name-combo"">P. O'Rourke</span>",Open Primary,4,88.8,Washington,4.1,2592.0
-53011,Clark County,democrat,False,"<span class=""name-combo"">J. Dodds</span>",Open Primary,5,88.8,Washington,1.9,1182.0
-53011,Clark County,independent_or_other,False,"<span class=""name-combo"">S. Rubenstein</span>",Open Primary,6,88.8,Washington,1.7,1062.0
-53011,Clark County,democrat,False,"<span class=""name-combo"">J. Deal</span>",Open Primary,7,88.8,Washington,1.2,755.0
-53011,Clark County,republican,False,"<span class=""name-combo"">Goodspaceguy</span>",Open Primary,8,88.8,Washington,1.1,703.0
-53011,Clark County,independent_or_other,False,"<span class=""name-combo"">M. Martin</span>",Open Primary,9,88.8,Washington,0.9,555.0
-53011,Clark County,independent_or_other,False,"<span class=""name-combo"">D. Blomstrom</span>",Open Primary,10,88.8,Washington,0.4,232.0
-53011,Clark County,independent_or_other,False,"<span class=""name-combo"">C. Joubert</span>",Open Primary,11,88.8,Washington,0.3,191.0
-53013,Columbia County,republican,False,"<span class=""name-combo"">B. Bryant</span>",Open Primary,1,50.0,Washington,61.7,558.0
-53013,Columbia County,democrat,False,"<span class=""name-combo"">J. Inslee (i)</span>",Open Primary,2,50.0,Washington,27.0,244.0
-53013,Columbia County,republican,False,"<span class=""name-combo"">B. Hirt</span>",Open Primary,3,50.0,Washington,3.5,32.0
-53013,Columbia County,democrat,False,"<span class=""name-combo"">P. O'Rourke</span>",Open Primary,4,50.0,Washington,2.2,20.0
-53013,Columbia County,republican,False,"<span class=""name-combo"">Goodspaceguy</span>",Open Primary,5,50.0,Washington,1.7,15.0
-53013,Columbia County,independent_or_other,False,"<span class=""name-combo"">S. Rubenstein</span>",Open Primary,6,50.0,Washington,1.7,15.0
-53013,Columbia County,independent_or_other,False,"<span class=""name-combo"">M. Martin</span>",Open Primary,7,50.0,Washington,0.9,8.0
-53013,Columbia County,democrat,False,"<span class=""name-combo"">J. Dodds</span>",Open Primary,8,50.0,Washington,0.7,6.0
-53013,Columbia County,democrat,False,"<span class=""name-combo"">J. Deal</span>",Open Primary,9,50.0,Washington,0.4,4.0
-53013,Columbia County,independent_or_other,False,"<span class=""name-combo"">C. Joubert</span>",Open Primary,10,50.0,Washington,0.2,2.0
-53013,Columbia County,independent_or_other,False,"<span class=""name-combo"">D. Blomstrom</span>",Open Primary,11,50.0,Washington,0.0,0.0
-53015,Cowlitz County,republican,False,"<span class=""name-combo"">B. Bryant</span>",Open Primary,1,73.3,Washington,41.4,5571.0
-53015,Cowlitz County,democrat,False,"<span class=""name-combo"">J. Inslee (i)</span>",Open Primary,2,73.3,Washington,37.4,5041.0
-53015,Cowlitz County,republican,False,"<span class=""name-combo"">B. Hirt</span>",Open Primary,3,73.3,Washington,6.2,829.0
-53015,Cowlitz County,democrat,False,"<span class=""name-combo"">P. O'Rourke</span>",Open Primary,4,73.3,Washington,4.8,653.0
-53015,Cowlitz County,independent_or_other,False,"<span class=""name-combo"">S. Rubenstein</span>",Open Primary,5,73.3,Washington,2.8,375.0
-53015,Cowlitz County,democrat,False,"<span class=""name-combo"">J. Dodds</span>",Open Primary,6,73.3,Washington,2.6,353.0
-53015,Cowlitz County,democrat,False,"<span class=""name-combo"">J. Deal</span>",Open Primary,7,73.3,Washington,1.7,235.0
-53015,Cowlitz County,republican,False,"<span class=""name-combo"">Goodspaceguy</span>",Open Primary,8,73.3,Washington,1.3,178.0
-53015,Cowlitz County,independent_or_other,False,"<span class=""name-combo"">M. Martin</span>",Open Primary,9,73.3,Washington,1.0,136.0
-53015,Cowlitz County,independent_or_other,False,"<span class=""name-combo"">D. Blomstrom</span>",Open Primary,10,73.3,Washington,0.4,58.0
-53015,Cowlitz County,independent_or_other,False,"<span class=""name-combo"">C. Joubert</span>",Open Primary,11,73.3,Washington,0.3,38.0
-53017,Douglas County,republican,False,"<span class=""name-combo"">B. Bryant</span>",Open Primary,1,50.0,Washington,57.2,2311.0
-53017,Douglas County,democrat,False,"<span class=""name-combo"">J. Inslee (i)</span>",Open Primary,2,50.0,Washington,29.4,1186.0
-53017,Douglas County,republican,False,"<span class=""name-combo"">B. Hirt</span>",Open Primary,3,50.0,Washington,6.8,276.0
-53017,Douglas County,democrat,False,"<span class=""name-combo"">P. O'Rourke</span>",Open Primary,4,50.0,Washington,1.5,61.0
-53017,Douglas County,democrat,False,"<span class=""name-combo"">J. Deal</span>",Open Primary,5,50.0,Washington,1.2,50.0
-53017,Douglas County,independent_or_other,False,"<span class=""name-combo"">S. Rubenstein</span>",Open Primary,6,50.0,Washington,1.2,48.0
-53017,Douglas County,democrat,False,"<span class=""name-combo"">J. Dodds</span>",Open Primary,7,50.0,Washington,1.1,44.0
-53017,Douglas County,republican,False,"<span class=""name-combo"">Goodspaceguy</span>",Open Primary,8,50.0,Washington,0.6,25.0
-53017,Douglas County,independent_or_other,False,"<span class=""name-combo"">M. Martin</span>",Open Primary,9,50.0,Washington,0.5,22.0
-53017,Douglas County,independent_or_other,False,"<span class=""name-combo"">C. Joubert</span>",Open Primary,10,50.0,Washington,0.2,10.0
-53017,Douglas County,independent_or_other,False,"<span class=""name-combo"">D. Blomstrom</span>",Open Primary,11,50.0,Washington,0.2,7.0
-53019,Ferry County,republican,False,"<span class=""name-combo"">B. Bryant</span>",Open Primary,1,50.0,Washington,49.5,647.0
-53019,Ferry County,democrat,False,"<span class=""name-combo"">J. Inslee (i)</span>",Open Primary,2,50.0,Washington,32.9,430.0
-53019,Ferry County,republican,False,"<span class=""name-combo"">B. Hirt</span>",Open Primary,3,50.0,Washington,7.7,100.0
-53019,Ferry County,independent_or_other,False,"<span class=""name-combo"">S. Rubenstein</span>",Open Primary,4,50.0,Washington,2.4,32.0
-53019,Ferry County,democrat,False,"<span class=""name-combo"">P. O'Rourke</span>",Open Primary,5,50.0,Washington,2.4,31.0
-53019,Ferry County,republican,False,"<span class=""name-combo"">Goodspaceguy</span>",Open Primary,6,50.0,Washington,1.6,21.0
-53019,Ferry County,democrat,False,"<span class=""name-combo"">J. Dodds</span>",Open Primary,7,50.0,Washington,1.0,13.0
-53019,Ferry County,democrat,False,"<span class=""name-combo"">J. Deal</span>",Open Primary,8,50.0,Washington,0.8,11.0
-53019,Ferry County,independent_or_other,False,"<span class=""name-combo"">M. Martin</span>",Open Primary,9,50.0,Washington,0.8,10.0
-53019,Ferry County,independent_or_other,False,"<span class=""name-combo"">D. Blomstrom</span>",Open Primary,10,50.0,Washington,0.5,7.0
-53019,Ferry County,independent_or_other,False,"<span class=""name-combo"">C. Joubert</span>",Open Primary,11,50.0,Washington,0.4,5.0
+53001,Adams County,republican,False,B. Bryant,Open Primary,1,33.3,Washington,61.8,666.0
+53001,Adams County,democrat,True,J. Inslee,Open Primary,2,33.3,Washington,22.4,241.0
+53001,Adams County,republican,False,B. Hirt,Open Primary,3,33.3,Washington,4.8,52.0
+53001,Adams County,democrat,False,P. O'Rourke,Open Primary,4,33.3,Washington,2.2,24.0
+53001,Adams County,democrat,False,J. Deal,Open Primary,5,33.3,Washington,1.9,21.0
+53001,Adams County,republican,False,Goodspaceguy,Open Primary,6,33.3,Washington,1.9,20.0
+53001,Adams County,independent_or_other,False,S. Rubenstein,Open Primary,7,33.3,Washington,1.9,20.0
+53001,Adams County,democrat,False,J. Dodds,Open Primary,8,33.3,Washington,1.5,16.0
+53001,Adams County,independent_or_other,False,D. Blomstrom,Open Primary,9,33.3,Washington,0.9,10.0
+53001,Adams County,independent_or_other,False,M. Martin,Open Primary,10,33.3,Washington,0.6,6.0
+53001,Adams County,independent_or_other,False,C. Joubert,Open Primary,11,33.3,Washington,0.2,2.0
+53003,Asotin County,republican,False,B. Bryant,Open Primary,1,57.1,Washington,39.4,1376.0
+53003,Asotin County,democrat,True,J. Inslee,Open Primary,2,57.1,Washington,39.0,1362.0
+53003,Asotin County,republican,False,B. Hirt,Open Primary,3,57.1,Washington,9.4,328.0
+53003,Asotin County,democrat,False,P. O'Rourke,Open Primary,4,57.1,Washington,3.5,121.0
+53003,Asotin County,independent_or_other,False,S. Rubenstein,Open Primary,5,57.1,Washington,2.8,97.0
+53003,Asotin County,democrat,False,J. Dodds,Open Primary,6,57.1,Washington,2.1,75.0
+53003,Asotin County,republican,False,Goodspaceguy,Open Primary,7,57.1,Washington,1.7,59.0
+53003,Asotin County,democrat,False,J. Deal,Open Primary,8,57.1,Washington,0.8,27.0
+53003,Asotin County,independent_or_other,False,M. Martin,Open Primary,9,57.1,Washington,0.6,20.0
+53003,Asotin County,independent_or_other,False,D. Blomstrom,Open Primary,10,57.1,Washington,0.5,18.0
+53003,Asotin County,independent_or_other,False,C. Joubert,Open Primary,11,57.1,Washington,0.3,9.0
+53005,Benton County,republican,False,B. Bryant,Open Primary,1,74.0,Washington,53.9,13851.0
+53005,Benton County,democrat,True,J. Inslee,Open Primary,2,74.0,Washington,32.7,8415.0
+53005,Benton County,republican,False,B. Hirt,Open Primary,3,74.0,Washington,6.4,1635.0
+53005,Benton County,democrat,False,P. O'Rourke,Open Primary,4,74.0,Washington,1.8,470.0
+53005,Benton County,independent_or_other,False,S. Rubenstein,Open Primary,5,74.0,Washington,1.5,386.0
+53005,Benton County,republican,False,Goodspaceguy,Open Primary,6,74.0,Washington,1.1,290.0
+53005,Benton County,democrat,False,J. Dodds,Open Primary,7,74.0,Washington,0.9,244.0
+53005,Benton County,democrat,False,J. Deal,Open Primary,8,74.0,Washington,0.6,158.0
+53005,Benton County,independent_or_other,False,M. Martin,Open Primary,9,74.0,Washington,0.6,147.0
+53005,Benton County,independent_or_other,False,D. Blomstrom,Open Primary,10,74.0,Washington,0.2,64.0
+53005,Benton County,independent_or_other,False,C. Joubert,Open Primary,11,74.0,Washington,0.2,51.0
+53007,Chelan County,republican,False,B. Bryant,Open Primary,1,71.4,Washington,52.2,4855.0
+53007,Chelan County,democrat,True,J. Inslee,Open Primary,2,71.4,Washington,35.0,3259.0
+53007,Chelan County,republican,False,B. Hirt,Open Primary,3,71.4,Washington,5.9,548.0
+53007,Chelan County,democrat,False,P. O'Rourke,Open Primary,4,71.4,Washington,1.8,172.0
+53007,Chelan County,independent_or_other,False,S. Rubenstein,Open Primary,5,71.4,Washington,1.4,126.0
+53007,Chelan County,republican,False,Goodspaceguy,Open Primary,6,71.4,Washington,1.0,95.0
+53007,Chelan County,democrat,False,J. Deal,Open Primary,7,71.4,Washington,0.9,83.0
+53007,Chelan County,democrat,False,J. Dodds,Open Primary,8,71.4,Washington,0.9,81.0
+53007,Chelan County,independent_or_other,False,M. Martin,Open Primary,9,71.4,Washington,0.5,45.0
+53007,Chelan County,independent_or_other,False,D. Blomstrom,Open Primary,10,71.4,Washington,0.3,31.0
+53007,Chelan County,independent_or_other,False,C. Joubert,Open Primary,11,71.4,Washington,0.2,14.0
+53009,Clallam County,democrat,True,J. Inslee,Open Primary,1,66.7,Washington,46.5,4927.0
+53009,Clallam County,republican,False,B. Bryant,Open Primary,2,66.7,Washington,38.6,4089.0
+53009,Clallam County,republican,False,B. Hirt,Open Primary,3,66.7,Washington,6.0,637.0
+53009,Clallam County,democrat,False,P. O'Rourke,Open Primary,4,66.7,Washington,2.9,311.0
+53009,Clallam County,independent_or_other,False,S. Rubenstein,Open Primary,5,66.7,Washington,1.9,196.0
+53009,Clallam County,democrat,False,J. Dodds,Open Primary,6,66.7,Washington,1.0,111.0
+53009,Clallam County,republican,False,Goodspaceguy,Open Primary,7,66.7,Washington,1.0,101.0
+53009,Clallam County,democrat,False,J. Deal,Open Primary,8,66.7,Washington,0.8,82.0
+53009,Clallam County,independent_or_other,False,M. Martin,Open Primary,9,66.7,Washington,0.8,80.0
+53009,Clallam County,independent_or_other,False,D. Blomstrom,Open Primary,10,66.7,Washington,0.3,31.0
+53009,Clallam County,independent_or_other,False,C. Joubert,Open Primary,11,66.7,Washington,0.2,25.0
+53011,Clark County,democrat,True,J. Inslee,Open Primary,1,88.8,Washington,44.0,28072.0
+53011,Clark County,republican,False,B. Bryant,Open Primary,2,88.8,Washington,37.3,23807.0
+53011,Clark County,republican,False,B. Hirt,Open Primary,3,88.8,Washington,7.2,4612.0
+53011,Clark County,democrat,False,P. O'Rourke,Open Primary,4,88.8,Washington,4.1,2592.0
+53011,Clark County,democrat,False,J. Dodds,Open Primary,5,88.8,Washington,1.9,1182.0
+53011,Clark County,independent_or_other,False,S. Rubenstein,Open Primary,6,88.8,Washington,1.7,1062.0
+53011,Clark County,democrat,False,J. Deal,Open Primary,7,88.8,Washington,1.2,755.0
+53011,Clark County,republican,False,Goodspaceguy,Open Primary,8,88.8,Washington,1.1,703.0
+53011,Clark County,independent_or_other,False,M. Martin,Open Primary,9,88.8,Washington,0.9,555.0
+53011,Clark County,independent_or_other,False,D. Blomstrom,Open Primary,10,88.8,Washington,0.4,232.0
+53011,Clark County,independent_or_other,False,C. Joubert,Open Primary,11,88.8,Washington,0.3,191.0
+53013,Columbia County,republican,False,B. Bryant,Open Primary,1,50.0,Washington,61.7,558.0
+53013,Columbia County,democrat,True,J. Inslee,Open Primary,2,50.0,Washington,27.0,244.0
+53013,Columbia County,republican,False,B. Hirt,Open Primary,3,50.0,Washington,3.5,32.0
+53013,Columbia County,democrat,False,P. O'Rourke,Open Primary,4,50.0,Washington,2.2,20.0
+53013,Columbia County,republican,False,Goodspaceguy,Open Primary,5,50.0,Washington,1.7,15.0
+53013,Columbia County,independent_or_other,False,S. Rubenstein,Open Primary,6,50.0,Washington,1.7,15.0
+53013,Columbia County,independent_or_other,False,M. Martin,Open Primary,7,50.0,Washington,0.9,8.0
+53013,Columbia County,democrat,False,J. Dodds,Open Primary,8,50.0,Washington,0.7,6.0
+53013,Columbia County,democrat,False,J. Deal,Open Primary,9,50.0,Washington,0.4,4.0
+53013,Columbia County,independent_or_other,False,C. Joubert,Open Primary,10,50.0,Washington,0.2,2.0
+53013,Columbia County,independent_or_other,False,D. Blomstrom,Open Primary,11,50.0,Washington,0.0,0.0
+53015,Cowlitz County,republican,False,B. Bryant,Open Primary,1,73.3,Washington,41.4,5571.0
+53015,Cowlitz County,democrat,True,J. Inslee,Open Primary,2,73.3,Washington,37.4,5041.0
+53015,Cowlitz County,republican,False,B. Hirt,Open Primary,3,73.3,Washington,6.2,829.0
+53015,Cowlitz County,democrat,False,P. O'Rourke,Open Primary,4,73.3,Washington,4.8,653.0
+53015,Cowlitz County,independent_or_other,False,S. Rubenstein,Open Primary,5,73.3,Washington,2.8,375.0
+53015,Cowlitz County,democrat,False,J. Dodds,Open Primary,6,73.3,Washington,2.6,353.0
+53015,Cowlitz County,democrat,False,J. Deal,Open Primary,7,73.3,Washington,1.7,235.0
+53015,Cowlitz County,republican,False,Goodspaceguy,Open Primary,8,73.3,Washington,1.3,178.0
+53015,Cowlitz County,independent_or_other,False,M. Martin,Open Primary,9,73.3,Washington,1.0,136.0
+53015,Cowlitz County,independent_or_other,False,D. Blomstrom,Open Primary,10,73.3,Washington,0.4,58.0
+53015,Cowlitz County,independent_or_other,False,C. Joubert,Open Primary,11,73.3,Washington,0.3,38.0
+53017,Douglas County,republican,False,B. Bryant,Open Primary,1,50.0,Washington,57.2,2311.0
+53017,Douglas County,democrat,True,J. Inslee,Open Primary,2,50.0,Washington,29.4,1186.0
+53017,Douglas County,republican,False,B. Hirt,Open Primary,3,50.0,Washington,6.8,276.0
+53017,Douglas County,democrat,False,P. O'Rourke,Open Primary,4,50.0,Washington,1.5,61.0
+53017,Douglas County,democrat,False,J. Deal,Open Primary,5,50.0,Washington,1.2,50.0
+53017,Douglas County,independent_or_other,False,S. Rubenstein,Open Primary,6,50.0,Washington,1.2,48.0
+53017,Douglas County,democrat,False,J. Dodds,Open Primary,7,50.0,Washington,1.1,44.0
+53017,Douglas County,republican,False,Goodspaceguy,Open Primary,8,50.0,Washington,0.6,25.0
+53017,Douglas County,independent_or_other,False,M. Martin,Open Primary,9,50.0,Washington,0.5,22.0
+53017,Douglas County,independent_or_other,False,C. Joubert,Open Primary,10,50.0,Washington,0.2,10.0
+53017,Douglas County,independent_or_other,False,D. Blomstrom,Open Primary,11,50.0,Washington,0.2,7.0
+53019,Ferry County,republican,False,B. Bryant,Open Primary,1,50.0,Washington,49.5,647.0
+53019,Ferry County,democrat,True,J. Inslee,Open Primary,2,50.0,Washington,32.9,430.0
+53019,Ferry County,republican,False,B. Hirt,Open Primary,3,50.0,Washington,7.7,100.0
+53019,Ferry County,independent_or_other,False,S. Rubenstein,Open Primary,4,50.0,Washington,2.4,32.0
+53019,Ferry County,democrat,False,P. O'Rourke,Open Primary,5,50.0,Washington,2.4,31.0
+53019,Ferry County,republican,False,Goodspaceguy,Open Primary,6,50.0,Washington,1.6,21.0
+53019,Ferry County,democrat,False,J. Dodds,Open Primary,7,50.0,Washington,1.0,13.0
+53019,Ferry County,democrat,False,J. Deal,Open Primary,8,50.0,Washington,0.8,11.0
+53019,Ferry County,independent_or_other,False,M. Martin,Open Primary,9,50.0,Washington,0.8,10.0
+53019,Ferry County,independent_or_other,False,D. Blomstrom,Open Primary,10,50.0,Washington,0.5,7.0
+53019,Ferry County,independent_or_other,False,C. Joubert,Open Primary,11,50.0,Washington,0.4,5.0
 53021,Franklin County,republican,False,B. Bryant,,1,100.0,Washington,58.1,4182.0
 53021,Franklin County,democrat,True,J. Inslee,,2,100.0,Washington,29.3,2110.0
 53021,Franklin County,republican,False,B. Hirt,,3,100.0,Washington,5.1,364.0
