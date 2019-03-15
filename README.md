@@ -4,7 +4,9 @@ These are csvs of results scraped from Politico and (for exit polls) CNN website
 
 For more about the ethics of scraping, see [this Quora post](https://www.quora.com/What-is-the-legality-of-web-scraping). I used Selenium, which automated the Google Chrome browser, so I put no more load on their servers than a normal visitor. The only thing the program did faster than a human is parse the results.
 
-Note that the use of Selenium was crucial because, in the case of Politico, the Outer HTML only loaded completely when the browser reached the bottom of the page, so a scraper that could "tell" the website it was really a browser and had scrolled all the way down was necessary.
+    I should address something here: you never *need* Selenium to webscrape, I used it because I wanted the results quickly, and there was not much actual data, so the rate limiting step was my programmer time. In addition, the code is kind of, well, haphazardly written for the same reasons. At the same time I did my best to include things like log files to make sure I didn't go off the rails and to ensure that the results were as accurate as I was able to produce, which I think is the main issue here.
+
+Note Selenium was handy because, in the case of Politico, the Outer HTML only loaded completely when the browser reached the bottom of the page, so a scraper that could "tell" the website it was really a browser and had scrolled all the way down was necessary. (Again, I could have intercepted the JSON, but low-hanging-fruit)
 
 I make no warranty as to the accuracy of the data, either of the source data itself or of my scraping (although I did my best and tried to validate the completeness of my results). Please contact me if you find any issues not listed here.
 
